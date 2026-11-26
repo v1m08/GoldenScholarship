@@ -1,0 +1,319 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-paper: #f3f6fc;
+  --color-sheet: #ffffff;
+  --color-ink: #0d1326;
+  --color-soft: #586178;
+  --color-rule: #0d1326;
+  --color-hair: #d9e0ee;
+  /* The buddy's blue, also used for focus and the main action. */
+  --color-blue: #2563eb;
+  --color-blue-soft: #dbe7ff;
+  /* Used only for deadlines and urgency, so it always means "time". */
+  --color-due: #f04a1a;
+  --font-display: var(--font-display-face);
+  --font-sans: var(--font-body-face);
+  --font-mono: var(--font-mono-face);
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body-face), system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--color-ink);
+  color: var(--color-paper);
+}
+
+/* Tabular figures wherever numbers line up in columns. */
+.nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Buttons shrink slightly while pressed. */
+.press {
+  transition: transform 150ms ease-out, background-color 150ms ease-out;
+}
+.press:active {
+  transform: scale(0.96);
+}
+
+/* Staged entrance on first load: each chunk follows the last by 100ms. */
+@media (prefers-reduced-motion: no-preference) {
+  .rise {
+    animation: rise 300ms ease-out both;
+    animation-delay: calc(var(--i, 0) * 100ms);
+  }
+  @keyframes rise {
+    from {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+  }
+}
+
+@media (hover: hover) {
+  .row-hover:hover {
+    background: var(--color-paper);
+  }
+}
+
+/* The buddy. It stays in one place; each mood is a small in-place motion. */
+.bud {
+  overflow: visible;
+}
+.bud-all,
+.bud-body,
+.bud-arm,
+.bud-eyes,
+.bud-cap,
+.bud-tassel,
+.bud-shadow {
+  transform-box: view-box;
+}
+.bud-all {
+  transform-origin: 100px 180px;
+}
+.bud-body {
+  transform-origin: 100px 176px;
+}
+.bud-arm-l {
+  transform-origin: 36px 138px;
+}
+.bud-arm-r {
+  transform-origin: 164px 138px;
+}
+.bud-eyes {
+  transform-origin: 100px 116px;
+}
+.bud-cap {
+  transform-origin: 100px 60px;
+  transform: rotate(-9deg);
+}
+.bud-tassel {
+  transform-origin: 100px 42px;
+}
+.bud-shadow {
+  transform-origin: 100px 188px;
+}
+.bud-pupils {
+  transform: translate(var(--look-x, 0px), var(--look-y, 0px));
+  transition: transform 140ms ease-out;
+}
+.bud-bubble::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  margin-left: -7px;
+  border: 7px solid transparent;
+  border-top-color: var(--color-sheet);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .bud-bubble {
+    animation: bud-pop 240ms cubic-bezier(0.2, 0.9, 0.3, 1.15) both;
+    transform-origin: 50% 100%;
+  }
+  .bud-eyes {
+    animation: bud-blink 5.5s infinite;
+  }
+
+  /* idle: a slow float, with the shadow breathing underneath */
+  .bud[data-mood="idle"] .bud-all {
+    animation: bud-float 3.4s ease-in-out infinite;
+  }
+  .bud[data-mood="idle"] .bud-shadow {
+    animation: bud-shadow-float 3.4s ease-in-out infinite;
+  }
+  .bud[data-mood="idle"] .bud-tassel {
+    animation: bud-tassel 3.4s ease-in-out infinite;
+  }
+
+  /* happy: two soft hops, arms up */
+  .bud[data-mood="happy"] .bud-all {
+    animation: bud-hop 0.6s cubic-bezier(0.3, 0, 0.35, 1) 2;
+  }
+  .bud[data-mood="happy"] .bud-shadow {
+    animation: bud-shadow-hop 0.6s ease-in-out 2;
+  }
+  .bud[data-mood="happy"] .bud-arm-l {
+    animation: bud-arm-up-l 0.6s ease-in-out 2;
+  }
+  .bud[data-mood="happy"] .bud-arm-r {
+    animation: bud-arm-up-r 0.6s ease-in-out 2;
+  }
+  .bud[data-mood="happy"] .bud-tassel {
+    animation: bud-tassel-swing 0.6s ease-in-out 2;
+  }
+
+  /* A click earns a single hop, not the double one that greets an answer. */
+  .bud[data-mood="happy"][data-once] :is(.bud-all, .bud-shadow, .bud-arm-l, .bud-arm-r, .bud-tassel) {
+    animation-iteration-count: 1;
+  }
+
+  /* wave: one arm, a small sway */
+  .bud[data-mood="wave"] .bud-arm-r {
+    animation: bud-wave 0.42s ease-in-out infinite alternate;
+  }
+  .bud[data-mood="wave"] .bud-body {
+    animation: bud-sway 1.3s ease-in-out infinite;
+  }
+
+  /* think: lean and look up */
+  .bud[data-mood="think"] .bud-body {
+    animation: bud-ponder 2s ease-in-out infinite;
+  }
+  .bud[data-mood="think"] .bud-pupils {
+    transform: translate(3px, -5px);
+  }
+
+  /* confused: a slow head shake */
+  .bud[data-mood="confused"] .bud-body {
+    animation: bud-shake 0.55s ease-in-out 2;
+  }
+
+  /* point: lean toward what it is talking about */
+  .bud[data-mood="point"] .bud-body {
+    animation: bud-nod 0.9s ease-in-out infinite;
+  }
+  .bud[data-mood="point"] .bud-arm-r {
+    transform: translateY(-16px) rotate(-30deg);
+  }
+
+  /* busy: keeps hopping until the work is done */
+  .bud[data-mood="run"] .bud-all {
+    animation: bud-hop 0.56s cubic-bezier(0.3, 0, 0.35, 1) infinite;
+  }
+  .bud[data-mood="run"] .bud-shadow {
+    animation: bud-shadow-hop 0.56s ease-in-out infinite;
+  }
+  .bud[data-mood="run"] .bud-tassel {
+    animation: bud-tassel-swing 0.56s ease-in-out infinite;
+  }
+  .bud[data-mood="run"] .bud-pupils {
+    transform: translate(0, 3px);
+  }
+
+  @keyframes bud-pop {
+    from { opacity: 0; transform: scale(0.8) translateY(6px); }
+  }
+  @keyframes bud-blink {
+    0%, 95%, 100% { transform: scaleY(1); }
+    97% { transform: scaleY(0.1); }
+  }
+  @keyframes bud-float {
+    50% { transform: translateY(-6px); }
+  }
+  @keyframes bud-shadow-float {
+    50% { transform: scaleX(0.9); opacity: 0.8; }
+  }
+  @keyframes bud-tassel {
+    50% { transform: rotate(4deg); }
+  }
+  @keyframes bud-tassel-swing {
+    30% { transform: rotate(-14deg); }
+    70% { transform: rotate(10deg); }
+  }
+  @keyframes bud-hop {
+    0% { transform: translateY(0) scale(1.06, 0.92); }
+    45% { transform: translateY(-30px) scale(0.97, 1.04); }
+    85% { transform: translateY(0) scale(1.07, 0.91); }
+    100% { transform: translateY(0) scale(1, 1); }
+  }
+  @keyframes bud-shadow-hop {
+    45% { transform: scaleX(0.62); opacity: 0.5; }
+  }
+  @keyframes bud-arm-up-l {
+    45% { transform: translateY(-20px) rotate(40deg); }
+  }
+  @keyframes bud-arm-up-r {
+    45% { transform: translateY(-20px) rotate(-40deg); }
+  }
+  @keyframes bud-wave {
+    from { transform: translateY(-20px) rotate(-18deg); }
+    to { transform: translateY(-24px) rotate(-52deg); }
+  }
+  @keyframes bud-sway {
+    50% { transform: rotate(-4deg); }
+  }
+  @keyframes bud-ponder {
+    0%, 100% { transform: rotate(5deg); }
+    50% { transform: rotate(7deg); }
+  }
+  @keyframes bud-shake {
+    25% { transform: rotate(-6deg); }
+    75% { transform: rotate(6deg); }
+  }
+  @keyframes bud-nod {
+    0%, 100% { transform: rotate(4deg); }
+    50% { transform: rotate(7deg) translateY(-3px); }
+  }
+}
+
+/* A step of the question flow sliding in. */
+@media (prefers-reduced-motion: no-preference) {
+  .step-in {
+    animation: step-in 320ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  }
+  @keyframes step-in {
+    from {
+      opacity: 0;
+      transform: translateY(18px);
+    }
+  }
+  .bar-fill {
+    animation: bar-fill 2.4s cubic-bezier(0.3, 0.1, 0.2, 1) both;
+    transform-origin: 0 50%;
+  }
+  @keyframes bar-fill {
+    from {
+      transform: scaleX(0.04);
+    }
+  }
+}
+
+/* Long-form text. */
+.prose {
+  font-size: 1.125rem;
+  line-height: 1.7;
+}
+.prose > * + * {
+  margin-top: 1.1em;
+}
+.prose h2 {
+  margin-top: 2em;
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+.prose a {
+  color: var(--color-blue);
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.prose ul {
+  list-style: disc;
+  padding-left: 1.3em;
+}
+.prose li + li {
+  margin-top: 0.5em;
+}
+
+/* A highlighter scribbled behind a word: a thick zigzag of about eight
+   up-and-down strokes moving left to right, with a thinner, lighter second
+   pass over it so it looks scratched in by hand. */
+.scratch {
+  position: relative;
+  display: inline-block;
+  color: var(--color-ink, #0d1326);
+  padding: 0 0.12em;
+  margin: 0 0.02em 0 -0.12em;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 40' preserveAspectRatio='none'%3E%3Cg fill='none' stroke='%23ffc93c' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 29Q8 18 14 7Q17 20 21 33Q28 19 35 5Q38 20 43 35Q50 21 57 8Q60 20 64 32Q71 18 79 5Q82 19 86 34Q91 22 97 10' stroke-width='9' opacity='.9'/%3E%3Cpath d='M8 34Q14 22 20 9Q24 21 29 31Q36 20 44 8Q47 19 52 33Q59 21 66 10Q69 20 74 31Q81 21 89 9' stroke-width='4.5' opacity='.6'/%3E%3C/g%3E%3C/svg%3E") center 58% / 108% 72% no-repeat;
+}
