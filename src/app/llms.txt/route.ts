@@ -71,7 +71,6 @@ A value that is not understood is ignored and named at the top of the result.
 - One school's page for people: ${site.url}/schools/<school-name>-<id>
 - One scholarship: ${site.url}/schools/<school-name>-<id>/<scholarship-name>-<id>, or ${site.url}/scholarships/<scholarship-name>-<id> for any-school ones
 - Every scholarship page: ${site.url}/sitemap-index.xml
-${site.repo ? `- Everything as one spreadsheet (CSV with year, field, GPA, need, citizenship and home-state columns; about 37 MB): ${site.repo}/raw/main/data/scholarships.csv\n` : ""}
 ## Schools with the most open scholarships
 
 ${top.map((s) => `- [${s.name}](${site.url}/schools/${s.slug}): ${s.open.toLocaleString("en-US")} open of ${s.total.toLocaleString("en-US")}`).join("\n")}
@@ -84,6 +83,6 @@ ${POSTS.map((p) => `- [${p.title}](${site.url}/blog/${p.slug}): ${p.description}
 
 - [Why this exists](${site.url}/why)
 - [What is on file](${site.url}/stats)
-${site.repo ? `- [Open data and source](${site.repo})\n` : ""}`;
+`;
   return markdown(body);
 }

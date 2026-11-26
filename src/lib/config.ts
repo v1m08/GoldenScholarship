@@ -10,8 +10,6 @@ export const site = {
     (process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
       : "http://localhost:3000"),
-  // The public GitHub repository. The footer links to it once this is set.
-  repo: process.env.NEXT_PUBLIC_REPO_URL ?? "",
 };
 
 // A school page is only offered to search engines once it holds this many scholarships.

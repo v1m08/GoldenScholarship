@@ -10,7 +10,6 @@ export const metadata: Metadata = {
     "Our goal is to make scholarships easier to find: no account, no sponsored listings, and a directory built from official IRS filings.",
 };
 
-const REPO = process.env.NEXT_PUBLIC_REPO_URL;
 const link = "font-medium text-blue underline underline-offset-4";
 
 const POINTS: { head: ReactNode; body: ReactNode }[] = [
@@ -18,16 +17,8 @@ const POINTS: { head: ReactNode; body: ReactNode }[] = [
     head: "No account needed",
     body: (
       <>
-        Actually, we don&rsquo;t want your information at all! We&rsquo;re fully open-source, meaning you can see the full list of
-        scholarships whenever you&rsquo;d like. If you would like to contribute, feel free to check out our{" "}
-        {REPO ? (
-          <a href={REPO} className={link}>
-            GitHub
-          </a>
-        ) : (
-          "GitHub"
-        )}
-        .
+        Actually, we don&rsquo;t want your information at all! The full list of scholarships is open for anyone to
+        see, whenever you&rsquo;d like.
       </>
     ),
   },
@@ -37,7 +28,7 @@ const POINTS: { head: ReactNode; body: ReactNode }[] = [
   },
   {
     head: "No sponsored listings",
-    body: "We\u2019re a fully open-source project, and we won\u2019t make sponsored listings or spam you with emails. Our goal is to help you find scholarships that you could actually win.",
+    body: "We won\u2019t make sponsored listings or spam you with emails. Our goal is to help you find scholarships that you could actually win.",
   },
   {
     head: (

@@ -389,7 +389,6 @@ Run [\`supabase/setup.sql\`](supabase/setup.sql) once in the Supabase SQL editor
 | \`NEXT_PUBLIC_POSTHOG_KEY\` | No | Leave empty to run without analytics |
 | \`POSTHOG_REGION\` | No | \`us\` or \`eu\`, matching the PostHog project |
 | \`NEXT_PUBLIC_SITE_URL\` | In production | The site's address, used for sitemaps, canonical links and share cards |
-| \`NEXT_PUBLIC_REPO_URL\` | No | Shows a GitHub link on the site |
 
 ### Commands
 
