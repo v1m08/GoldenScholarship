@@ -23,13 +23,15 @@ const AI_AND_SEARCH = [
   "CCBot",
 ];
 
-const rule = { allow: "/", disallow: ["/api/subscribe", "/api/report", "/api/miss", "/ingest/"] };
+// "/s" is the inner address scholarship pages are served from; the public ones are listed in the sitemap.
+const rule = { allow: "/", disallow: ["/api/subscribe", "/api/report", "/api/miss", "/ingest/", "/s?"] };
 
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
       { userAgent: "*", ...rule },
-      { userAgent: AI_AND_SEARCH, ...rule },
+      // Welcome, but not all at once: a crawler that honours this spaces its requests out.
+      { userAgent: AI_AND_SEARCH, ...rule, crawlDelay: 1 },
     ],
     // Lists every sitemap file: the main pages and schools, then one page per scholarship.
     sitemap: `${site.url}/sitemap-index.xml`,

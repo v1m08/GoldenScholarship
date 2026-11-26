@@ -45,8 +45,17 @@ function load(collection: number | "open"): Promise<Loaded> {
   const data = Promise.all([Promise.all(files.map(readRows)), readDetails(collection === "open" ? "any" : String(collection))]).then(
     ([lists, details]) => ({ rows: lists.flat(), details }),
   );
-  // Only the any-school list is worth holding on to; school files are small and many.
-  if (collection === "open") memo.set(key, { at: Date.now(), data });
+  // Keep the any-school list and the most recently asked-for schools, so a
+  // crawler paging through one list does not re-read its files every time.
+  memo.set(key, { at: Date.now(), data });
+  if (memo.size > 40) {
+    for (const k of memo.keys()) {
+      if (k !== "open") {
+        memo.delete(k);
+        break;
+      }
+    }
+  }
   return data;
 }
 

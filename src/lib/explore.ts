@@ -33,7 +33,10 @@ async function readRows(file: string): Promise<Row[]> {
  */
 export async function getInitialList(collection: Collection): Promise<Result & { status: Status }> {
   "use cache";
-  cacheLife("hours");
+  // The files behind this only change with a deployment, so keep the result
+  // until the next one. Refreshing by the hour made every school page get
+  // rebuilt and stored again each day as the date moved.
+  cacheLife("max");
   const rows = (await Promise.all(sourcesFor(collection).map(readRows))).flat();
   const today = new Date().toISOString().slice(0, 10);
   // A school's own undated scholarships are shown with its open ones.
@@ -70,6 +73,37 @@ async function readDetails(collection: Collection): Promise<Record<string, Packe
   }
 }
 
+// A list's rows and details, parsed once and kept in memory between requests.
+// The files only change with a new deployment, so nothing here goes stale. The
+// any-school list is always kept; school lists are kept for the most recent few.
+type Loaded = { rows: Row[]; details: Record<string, Packed> };
+const loaded = new Map<string, Promise<Loaded>>();
+const KEEP_SCHOOLS = 60;
+
+function loadList(collection: Collection): Promise<Loaded> {
+  const key = String(collection);
+  const hit = loaded.get(key);
+  if (hit) {
+    // Move to the back so the least recently used school is dropped first.
+    loaded.delete(key);
+    loaded.set(key, hit);
+    return hit;
+  }
+  const data = Promise.all([Promise.all(sourcesFor(collection).map(readRows)), readDetails(collection)]).then(
+    ([lists, details]) => ({ rows: lists.flat(), details }),
+  );
+  loaded.set(key, data);
+  if (loaded.size > KEEP_SCHOOLS) {
+    for (const k of loaded.keys()) {
+      if (k !== "open") {
+        loaded.delete(k);
+        break;
+      }
+    }
+  }
+  return data;
+}
+
 const unpack = (p: Packed | undefined): More | null =>
   p
     ? { summary: p[0], rules: p[1].map(([required, text]) => ({ required: required === 1, text })), states: p[2], materials: p[3], awards: p[4], source: p[5] }
@@ -78,7 +112,7 @@ const unpack = (p: Packed | undefined): More | null =>
 export type Detail = {
   row: Row;
   more: More | null;
-  // "open", "undated" or "closed", and whole days left when open; as of when this was cached.
+  // "open", "undated" or "closed", and whole days left when open.
   status: Status;
   daysLeft: number | null;
   // Other scholarships from the same list, soonest deadline first.
@@ -87,16 +121,14 @@ export type Detail = {
 
 /**
  * One scholarship and a few of its neighbours, looked up from the exported
- * files by the id at the end of its address. No database call. Only the small
- * result is cached, not the whole file.
+ * files by the id at the end of its address. No database call. Worked out on
+ * each request and never stored: there are tens of thousands of these pages,
+ * and storing each one a crawler asks for is what used up the hosting quota.
  */
 export async function getScholarship(collection: Collection, slug: string): Promise<Detail | null> {
-  "use cache";
-  cacheLife("hours");
   const id = idFromSlug(slug);
   if (!id) return null;
-  const [lists, details] = await Promise.all([Promise.all(sourcesFor(collection).map(readRows)), readDetails(collection)]);
-  const rows = lists.flat();
+  const { rows, details } = await loadList(collection);
   const row = rows.find((r) => r.id === id);
   if (!row) return null;
   const more = unpack(details[id]);
@@ -116,7 +148,7 @@ export async function getOpenRows(
   limit: number,
 ): Promise<{ rows: Row[]; total: number; summaries: Record<string, string> }> {
   "use cache";
-  cacheLife("hours");
+  cacheLife("max");
   const [lists, details] = await Promise.all([Promise.all(sourcesFor(collection).map(readRows)), readDetails(collection)]);
   const rows = lists.flat();
   const today = new Date().toISOString().slice(0, 10);

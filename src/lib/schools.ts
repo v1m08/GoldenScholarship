@@ -88,7 +88,7 @@ function today(): string {
 // ahead of time do not depend on the clock at render.
 export async function daysUntil(iso: string): Promise<number> {
   "use cache";
-  cacheLife("hours");
+  cacheLife("max");
   return Math.max(0, Math.round((Date.parse(`${iso}T00:00:00Z`) - Date.parse(`${today()}T00:00:00Z`)) / 86_400_000));
 }
 
