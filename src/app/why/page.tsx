@@ -68,7 +68,7 @@ export default function Why() {
   return (
     <div className="mx-auto w-full max-w-3xl px-5 py-10 lg:py-16">
       <h1 className="font-display text-[clamp(2.4rem,7vw,4.5rem)] font-extrabold leading-[0.95] tracking-[-0.03em]">
-        We make scholarships easy to find
+        Scholarships made <span className="scratch">Golden</span>
       </h1>
       <ol className="mt-12 space-y-9">
         {POINTS.map((p, i) => (
