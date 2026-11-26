@@ -15,9 +15,10 @@ const nextConfig: NextConfig = {
   // read the exported data files when they are. Ship those files with them.
   outputFileTracingIncludes: {
     "/schools/[slug]/[scholarship]": ["./public/data/s/**", "./src/generated/detail/**"],
-    "/schools/[slug]/llms.txt": ["./public/data/s/**", "./src/generated/detail/**"],
+    "/schools/[slug]/llms.txt": ["./public/data/s/**", "./public/data/any-*.json", "./src/generated/detail/**"],
     "/scholarships/[scholarship]": ["./public/data/any-*.json", "./src/generated/detail/any.json"],
     "/scholarships/llms.txt": ["./public/data/any-*.json", "./src/generated/detail/any.json"],
+    "/api/scholarships": ["./public/data/s/**", "./public/data/any-*.json", "./src/generated/detail/**"],
     "/sitemap/[__metadata_id__]": ["./src/generated/sitemap/**"],
   },
   // Exported listing files change once a day. Let browsers and the CDN reuse

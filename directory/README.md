@@ -1,8 +1,8 @@
 # Every school we have
 
-2,210 schools · 48,583 scholarships open now · updated Nov 26, 2026
+2,210 schools · 48,584 scholarships open now · updated Nov 26, 2026
 
-Not tied to a school: **[29,445 open to students anywhere](any-school.md)**
+Not tied to a school: **[29,482 open to students anywhere](any-school.md)**
 
 [AK](#ak) · [AL](#al) · [AR](#ar) · [AZ](#az) · [CA](#ca) · [CO](#co) · [CT](#ct) · [DC](#dc) · [DE](#de) · [FL](#fl) · [GA](#ga) · [GU](#gu) · [HI](#hi) · [IA](#ia) · [ID](#id) · [IL](#il) · [IN](#in) · [KS](#ks) · [KY](#ky) · [LA](#la) · [MA](#ma) · [MD](#md) · [ME](#me) · [MH](#mh) · [MI](#mi) · [MN](#mn) · [MO](#mo) · [MP](#mp) · [MS](#ms) · [MT](#mt) · [NC](#nc) · [ND](#nd) · [NE](#ne) · [NH](#nh) · [NJ](#nj) · [NM](#nm) · [NV](#nv) · [NY](#ny) · [OH](#oh) · [OK](#ok) · [OR](#or) · [PA](#pa) · [PR](#pr) · [PW](#pw) · [RI](#ri) · [SC](#sc) · [SD](#sd) · [TN](#tn) · [TX](#tx) · [UT](#ut) · [VA](#va) · [VI](#vi) · [VT](#vt) · [WA](#wa) · [WI](#wi) · [WV](#wv) · [WY](#wy)
 
@@ -113,7 +113,7 @@ Not tied to a school: **[29,445 open to students anywhere](any-school.md)**
 
 | School | Open | No date |
 | --- | ---: | ---: |
-| [University of Arizona](AZ/university-of-arizona-104179.md) | 7 | 16 |
+| [University of Arizona](AZ/university-of-arizona-104179.md) | 7 | 17 |
 | [Northern Arizona University](AZ/northern-arizona-university-105330.md) | 6 | 11 |
 | [Embry-Riddle Aeronautical University-Prescott](AZ/embry-riddle-aeronautical-university-prescott-104586.md) | 5 | 11 |
 | [Arizona State University Campus Immersion](AZ/arizona-state-university-campus-immersion-104151.md) | 4 | 10 |
@@ -278,7 +278,7 @@ Not tied to a school: **[29,445 open to students anywhere](any-school.md)**
 | [Oxnard College](CA/oxnard-college-120421.md) | 0 | 5 |
 | [Palo Alto University](CA/palo-alto-university-120698.md) | 0 | 1 |
 | [Palomar College](CA/palomar-college-120971.md) | 0 | 13 |
-| [Point Loma Nazarene University](CA/point-loma-nazarene-university-121309.md) | 0 | 244 |
+| [Point Loma Nazarene University](CA/point-loma-nazarene-university-121309.md) | 0 | 245 |
 | [Pomona College](CA/pomona-college-121345.md) | 0 | 3 |
 | [Samuel Merritt University](CA/samuel-merritt-university-122296.md) | 0 | 5 |
 | [San Diego Community College District-District Office](CA/san-diego-community-college-district-district-office-122320.md) | 0 | 1 |
@@ -620,7 +620,7 @@ Not tied to a school: **[29,445 open to students anywhere](any-school.md)**
 | School | Open | No date |
 | --- | ---: | ---: |
 | [Southern Illinois University-Carbondale](IL/southern-illinois-university-carbondale-149222.md) | 997 | 2 |
-| [Eastern Illinois University](IL/eastern-illinois-university-144892.md) | 592 | 3 |
+| [Eastern Illinois University](IL/eastern-illinois-university-144892.md) | 592 | 4 |
 | [Northern Illinois University](IL/northern-illinois-university-147703.md) | 309 | 7 |
 | [Waubonsee Community College](IL/waubonsee-community-college-149727.md) | 179 | 7 |
 | [Southern Illinois University Edwardsville](IL/southern-illinois-university-edwardsville-149231.md) | 114 | 41 |
@@ -630,7 +630,7 @@ Not tied to a school: **[29,445 open to students anywhere](any-school.md)**
 | [DePaul University](IL/depaul-university-144740.md) | 34 | 65 |
 | [College of DuPage](IL/college-of-dupage-144865.md) | 18 | 3 |
 | [McKendree University](IL/mckendree-university-147013.md) | 15 | 25 |
-| [Northeastern Illinois University](IL/northeastern-illinois-university-147776.md) | 12 | 56 |
+| [Northeastern Illinois University](IL/northeastern-illinois-university-147776.md) | 12 | 57 |
 | [Western Illinois University](IL/western-illinois-university-149772.md) | 12 | 3 |
 | [Loyola University Chicago](IL/loyola-university-chicago-146719.md) | 10 | 40 |
 | [Northwestern University](IL/northwestern-university-147767.md) | 10 | 8 |
@@ -1309,11 +1309,11 @@ Not tied to a school: **[29,445 open to students anywhere](any-school.md)**
 | [Gardner-Webb University](NC/gardner-webb-university-198561.md) | 4 | 17 |
 | [High Point University](NC/high-point-university-198695.md) | 3 | 42 |
 | [Lenoir Community College](NC/lenoir-community-college-198817.md) | 3 | 2 |
+| [North Carolina A & T State University](NC/north-carolina-a-and-t-state-university-199102.md) | 3 | 21 |
 | [Western Carolina University](NC/western-carolina-university-200004.md) | 3 | 623 |
 | [Davidson College](NC/davidson-college-198385.md) | 2 | 9 |
 | [Duke University](NC/duke-university-198419.md) | 2 | 11 |
 | [Edgecombe Community College](NC/edgecombe-community-college-198491.md) | 2 | 7 |
-| [North Carolina A & T State University](NC/north-carolina-a-and-t-state-university-199102.md) | 2 | 21 |
 | [University of North Carolina at Chapel Hill](NC/university-of-north-carolina-at-chapel-hill-199120.md) | 2 | 7 |
 | [University of North Carolina at Charlotte](NC/university-of-north-carolina-at-charlotte-199139.md) | 2 | 4 |
 | [Winston-Salem State University](NC/winston-salem-state-university-199999.md) | 2 | 1 |

@@ -1,6 +1,6 @@
 # Northeastern Illinois University scholarships
 
-Chicago, IL · 12 open · 56 with no date listed · 21 closed (not shown)
+Chicago, IL · 12 open · 57 with no date listed · 21 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/northeastern-illinois-university-147776)**
 
@@ -42,6 +42,7 @@ Chicago, IL · 12 open · 56 with no date listed · 21 closed (not shown)
 | [Emily Vinson Stoffa Scholarship](https://neiu.academicworks.com/opportunities/2188) | $2,100 | not listed |
 | [Fritzman-Hallberg Award](https://www.neiu.edu/academics/colleges-departments/arts-and-sciences/departments/art-design/art-design-department-scholarships/fritzman-hallberg-award) |  | not listed |
 | [G&ES Student and Alumni Travel Award:](https://www.neiu.edu/academics/colleges-departments/arts-and-sciences/departments/geography-environmental-studies/scholarships-awards-employment-ges) | $1,000 | not listed |
+| [Golden Opportunity Scholarship](https://www.neiu.edu/financial-aid/golden-opportunity-scholarship) |  | not listed |
 | [Golden Opportunity Scholarship](https://www.neiu.edu/financial-aid/golden-opportunity-scholarship) |  | not listed |
 | [Gus Ziagos Scholarship Award](https://neiu.academicworks.com/opportunities/1162) | $750 | not listed |
 | [Harold Berlinger Music Scholarship](https://neiu.academicworks.com/opportunities/2283) | $900 | not listed |

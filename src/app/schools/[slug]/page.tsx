@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
+import { AgentNote } from "@/components/AgentNote";
 import { Explorer } from "@/components/Explorer";
 import { SchoolViewed } from "@/components/Tracked";
 import { MIN_SCHOLARSHIPS_TO_INDEX } from "@/lib/config";
@@ -140,6 +141,7 @@ async function School({ params }: { params: Promise<{ slug: string }> }) {
           fourYear={school.level === "four-year"}
         />
       </Suspense>
+      <AgentNote base={`/schools/${school.slug}`} />
     </>
   );
 }

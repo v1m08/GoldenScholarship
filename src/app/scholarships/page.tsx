@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
+import { AgentNote } from "@/components/AgentNote";
 import { Explorer } from "@/components/Explorer";
 import { getInitialList, sourcesFor } from "@/lib/explore";
 import { getAnySchoolTotals } from "@/lib/schools";
@@ -8,7 +9,7 @@ export const metadata: Metadata = {
   title: "Scholarships open to students at any school",
   description:
     "Scholarships from community foundations and organisations that are not tied to one college. Filter by year, GPA, need and deadline. No signup.",
-  alternates: { canonical: "/scholarships" },
+  alternates: { canonical: "/scholarships", types: { "text/markdown": "/scholarships/llms.txt" } },
 };
 
 async function List() {
@@ -25,6 +26,7 @@ async function List() {
       <Suspense fallback={<div className="h-96 rounded-3xl border border-hair bg-sheet" />}>
         <Explorer base="/scholarships" unitid={0} school="every foundation" sources={sourcesFor("open")} initial={initial} initialStatus={initial.status} />
       </Suspense>
+      <AgentNote base="/scholarships" />
     </>
   );
 }

@@ -1,6 +1,6 @@
 # Open to students at any school
 
-29,445 scholarships from 11,483 foundations and organisations · 6,304 open with a date · 21,290 with no date listed
+29,482 scholarships from 11,492 foundations and organisations · 6,315 open with a date · 21,316 with no date listed
 
 Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F) to search for yours.
 
@@ -1290,6 +1290,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Dennis Greeno & Joan Signorille Scholarship](https://www.cfmt.org/funds/dennis-greeno-joan-signorille-scholarship-fund/) | The Community Foundation of Middle Tennessee |  | Feb 1, 2027 |
 | [Vietnam Veterans of America Chapter 984 Scholarship](https://cfnil.org/students/scholarships/vietnam-vets-scholarship) | Community Foundation of Northern Illinois |  | Feb 1, 2027 |
 | [Provost Scholarship (First-Years)](https://scholarships.oregonstate.edu/scholarships-new-osu-students) | Oregon State University | $16,000 | Feb 1, 2027 |
+| [James C. Ray Scholarships](https://aceedu.org/scholarships/) | Aerospace Center for Excellence |  | Feb 1, 2027 |
 | [Atkinson Scholarship Program](https://www.sudburyfoundation.org/atkinson-scholarship) | Sudbury Foundation | $7,500 | Feb 1, 2027 |
 | [Heloise Werthan Kuhn Scholarship](https://www.cfmt.org/funds/heloise-werthan-kuhn-scholarship-fund/) | The Community Foundation of Middle Tennessee |  | Feb 1, 2027 |
 | [William Randolph Hearst Service Learning Scholarship](https://www.cuac.org/scholarships) | Colleges and Universities of the Anglican Communion | $20,000 | Feb 1, 2027 |
@@ -1596,6 +1597,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Douglas Barton Memorial Scholarship](https://tappiawards.smapply.io/prog/environmental_working_group_scholarhship/) | Environmental Working Group | $7,000 | Feb 15, 2027 |
 | [Barber Family Foundation](https://www.mybff.org/) | Barber Family Foundation |  | Feb 15, 2027 |
 | [GPACAC Scholarships](https://www.bartlesvillescholars.org/scholarship-lookup) | Young Scholars of Bartlesville Inc | $1,000 | Feb 15, 2027 |
+| [SCTCC Student Scholarships](https://sctcc.edu/scholarships) | St Cloud Technical & Community College Foundation |  | Feb 15, 2027 |
 | [Vulcan Scholarships Inc](https://www.vulcaninc.com/scholarships.php) | Vulcan Scholarships Inc |  | Feb 15, 2027 |
 | [Marjorie & Vm Baich Foundation](https://www.baichfoundation.org/) | Marjorie & Vm Baich Foundation |  | Feb 15, 2027 |
 | [Eric Dostie Memorial College Scholarship](https://www.nufactor.com/resources/bleeding-disorders/eric-dostie-scholarship.html) | Nufactor, Inc. | $1,000 | Feb 16, 2027 |
@@ -1610,6 +1612,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Ensor Family STEM Scholarship](https://innovia.org/students/) | Innovia Foundation | $1,000–$5,000 | Feb 17, 2027 |
 | [Bess Mikalson Scholarship](https://innovia.org/students/) | Innovia Foundation | $1,000 | Feb 17, 2027 |
 | [Rca Intern Scholarship](https://www.retailcontractors.org/scholarship-program) | Retail Contractors Association | $3,000 | Feb 17, 2027 |
+| [ENA Foundation Awards](https://www.ena.org/about-us/awards-recognition/ena-foundation-awards) | Emergency Nurses Foundation | $10,000 | Feb 18, 2027 |
 | [Glades Electric Educational Foundation Scholarship](https://www.gladeselectric.com/community/student-programs-information/) | Glades Electric Educational Foundation | $5,000 | Feb 18, 2027 |
 | Ida Koran Trust | Ida Koran Trust |  | Feb 18, 2027 |
 | [Technical Excellence Scholarship](https://heab.state.wi.us/features/tes.html) | State of Wisconsin Higher Education Aids Board | $2,250 | Feb 18, 2027 |
@@ -1648,6 +1651,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Aspiriant Impact Scholarship](https://www.cfp.net/get-certified/tools-and-resources/apply-for-a-scholarship/aspiriant-impact-scholarship) | Certified Financial Planning Board of Standards, Inc. | $5,000 | Feb 23, 2027 |
 | [Jeanne Yalon-Owens Memorial Scholarship](https://cfnorthstate.org/grant/scholarships/) | Community Foundation of the North State |  | Feb 24, 2027 |
 | [Avery Natal Memorial Scholarship Foundation](https://www.averynatalfoundation.org/) | Avery Natal Memorial Scholarship Foundation |  | Feb 24, 2027 |
+| [Jack Schreder Scholarship](https://cfnorthstate.org/grant/scholarships/) | Community Foundation of the North State |  | Feb 24, 2027 |
 | [Tri Counties Bank Scholarship](https://cfnorthstate.org/grant/scholarships/) | Community Foundation of the North State | $1,000–$1,500 | Feb 24, 2027 |
 | [Ken Putnam Choral Music Endowed Scholarship Fund](https://cfnorthstate.org/scholarships/ken-putnam-choral-music-endowed-scholarship-fund/) | Shasta Regional Community Foundation |  | Feb 24, 2027 |
 | [Kelly Moravec Academic Encouragement Scholarship](https://cfnorthstate.org/scholarships/kelly-moravec-academic-encouragement-scholarship/) | Shasta Regional Community Foundation |  | Feb 24, 2027 |
@@ -1847,6 +1851,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Olive H. Schlink Nursing Scholarship](https://www.huronccf.org/scholarships) | Huron County Community Foundation |  | Mar 1, 2027 |
 | [Adkins Linemen Scholarship](https://www.wyomingrea.org/education-and-careers/) | Wyoming Rural Electric Association | $500 | Mar 1, 2027 |
 | [LeMaster / Auvil Scholarship](https://cfncw.org/scholarshipguide/) | Community Foundation of North Central Washington |  | Mar 1, 2027 |
+| [Fralin Futures STEM-H Scholarship](https://www.virginiawestern.edu/scholarships/) | Virginia Western Community College Educational Foundation Inc |  | Mar 1, 2027 |
 | [Tyler City Employee Credit Union Scholarship](https://etcf.org/scholarships/) | East Texas Communities Foundation | $500 | Mar 1, 2027 |
 | William Reiss Foundation | William Reiss Foundation |  | Mar 1, 2027 |
 | [James and Catherine Buck Charitable Trust Scholarship (priority deadline March 1, 2027 for 2027-2028)](https://www.wichita.edu/academics/business/scholarships/undergraduate.php) | Wichita State University Union Corp | $3,500 | Mar 1, 2027 |
@@ -2888,6 +2893,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Cynthia H. Kuo Scholarship](https://www.svcf.org/scholarships/cynthia-h-kuo-scholarship) | Silicon Valley Community Foundation | $5,000 | Mar 20, 2027 |
 | [Leeper Scholarship Foundation](https://httpsleeperfdn.wixsite/) | Leeper Scholarship Foundation |  | Mar 20, 2027 |
 | Wendle Miriam Scholarship | Wendle Miriam Scholarship |  | Mar 20, 2027 |
+| [Christ College Scholarship](https://www.cui.edu/cost-and-aid/apply-for-aid/scholarships/) | Concordia University Irvine Foundation | $5,000 | Mar 20, 2027 |
 | [Ashley Haskin Scholarship](https://www.cei.edu/scholarships) | College of Eastern Idaho Foundation Inc | $1,000 | Mar 20, 2027 |
 | Maria Elizondo Scholarship Trust | Maria Elizondo Scholarship Trust | $15,000 | Mar 21, 2027 |
 | [Michael Thibault Culinary Arts Scholarship - $1,000 Award](https://pike-ef.org/scholarships/) | Pike Township Educational Foundation | $1,000 | Mar 21, 2027 |
@@ -2921,6 +2927,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [CGA Scholarships Getting Bigger and Better](https://www.groundh2o.org/scholarships) | California Groundwater Association |  | Mar 25, 2027 |
 | John Mcelaney Trust | John Mcelaney Trust |  | Mar 25, 2027 |
 | [Wade Scholarship Program](https://wadescholarship.org/) | Wade Institute of Technology | $50,000 | Mar 25, 2027 |
+| [Morgan Scholarship - Beyond LCCC](https://www.lccc.edu/paying-for-college/scholarships/morgan-scholarship-beyond-lccc/) | John E. Morgan Foundation | $24,000 | Mar 25, 2027 |
 | Sample a M Scholarship | Sample a M Scholarship |  | Mar 25, 2027 |
 | Shields Valley Foundation Inc | Shields Valley Foundation Inc |  | Mar 25, 2027 |
 | Mary C Griffin Scholarship Trust | Mary C Griffin Scholarship Trust |  | Mar 26, 2027 |
@@ -4932,6 +4939,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | Hazen High School Scholarship Fund Inc | Hazen High School Scholarship Fund Inc |  | May 2, 2027 |
 | Glenn D Peters Trust P- Xxx-Xx-Xxxx | Glenn D Peters Trust P- Xxx-Xx-Xxxx |  | May 2, 2027 |
 | [Frank Meadows Scholarship Fund](https://www.akroncf.org/students/) | Akron Community Foundation |  | May 2, 2027 |
+| [Joseph W. Mayo ALS Scholarship Fund](https://www.mainecf.org/find-a-scholarship/scholarship-renewals/) | Maine Community Foundation |  | May 3, 2027 |
 | Catherine Betzner Borden Scholarship Trust Under Agreement | Catherine Betzner Borden Scholarship Trust Under Agreement |  | May 3, 2027 |
 | [Ira Cobe Scholarship Fund](https://www.mainecf.org/find-a-scholarship/available-scholarships/waldo-county-scholarships/) | Maine Community Foundation | $500 | May 3, 2027 |
 | [Jane and Peter Weil Scholarship Fund](https://www.mainecf.org/find-a-scholarship/available-scholarships/washington-county-scholarships/) | Maine Community Foundation |  | May 3, 2027 |
@@ -5432,6 +5440,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [180 Medical Scholarship Program](https://www.180medical.com/scholarships/) | 180 Medical | $1,000 | Jun 1, 2027 |
 | The Chakrabarti Foundation | The Chakrabarti Foundation |  | Jun 2, 2027 |
 | Elsie C Eberhardt Trust | Elsie C Eberhardt Trust |  | Jun 2, 2027 |
+| [Blue Grass Energy Scholarship](https://bgenergy.com/blue-grass-energy-rates-summary) | Blue Grass Energy | $1,500 | Jun 2, 2027 |
 | [ATCA Scholarship](https://www.bartlesvillescholars.org/scholarship-lookup) | Young Scholars of Bartlesville Inc |  | Jun 3, 2027 |
 | [Annual Meeting Scholarship](https://www.midwestrec.com/scholarships) | Midwest Electric Inc | $1,000 | Jun 3, 2027 |
 | [SchoolHouse Connection and Youth Leadership and Scholarship Program](https://schoolhouseconnection.org/youth-leadership/scholarship-program/) | SchoolHouse Connection | $2,500 | Jun 4, 2027 |
@@ -5779,6 +5788,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Leo D. and Mary C. Kalisiak Memorial Scholarship](https://www.ndcf.net/receive/scholarships/kalisiak.html) | Bowman Public School Foundation |  | Jul 15, 2027 |
 | [Gribler Loving Trust Nursing Education Scholarship](https://samhealth.org/careers-education/scholarships/) | Pacific Communities Health District Foundation | $3,000 | Jul 17, 2027 |
 | [Central Valley Scholars Undocumented Scholarship](https://www.centralvalleyscholars.org/scholarships) | Central Valley Scholars | $5,000 | Jul 19, 2027 |
+| [Field of Study & General Scholarships](https://kellogg.edu/campus-community/foundation/kccscholarships/generalscholarships/) | Kellogg Community College Foundation | $3,000 | Jul 19, 2027 |
 | [Dorothy G. Hatfield Memorial Scholarship](https://www.pabarfoundation.org/PBF/What-We-Do/Scholarship/Dorothy-G-Hatfield-Memorial-Scholarship.aspx) | Pennsylvania Bar Foundation | $3,000 | Jul 20, 2027 |
 | Prime Time Foundation Inc | Prime Time Foundation Inc |  | Jul 21, 2027 |
 | [Stantec Equity & Diversity Scholarship](https://www.arlcf.org/scholarships/) | Arlington Community Foundation | $5,000 | Jul 22, 2027 |
@@ -6088,6 +6098,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Michigan 4-H Outbound International Travel Scholarship Awards](https://mi4hfdtn.org/grants-scholarships/4-h-international-travel-scholarship/) | Michigan 4-H Foundation | $2,000 | Oct 1, 2027 |
 | [NEHC Scholarship](https://newenglandequitation.com/nehc-scholarship/) | New England Equitation Championships Inc Co Robert Crawford | $500 | Oct 1, 2027 |
 | [Maine Christmas Tree Association Scholarship](https://www.mainechristmastree.com/scholarship/) | Maine Christmas Tree Association |  | Oct 1, 2027 |
+| [Christopherson Medical Scholarship](https://www.niacc.edu/admissions/tuition-and-aid/scholarships/) | North Iowa Area Community College Foundation |  | Oct 1, 2027 |
 | [NEDA Scholarships](https://www.neda.org/scholarships.php) | New England Dressage Association Inc | $4,000 | Oct 1, 2027 |
 | Disciples Center for Education Inc Scholarship | Disciples Center for Education Inc |  | Oct 1, 2027 |
 | [Buckfire & Buckfire, P.C. Disability Scholarship](https://buckfirelaw.com/scholarships/disability/) | Buckfire & Buckfire | $1,000 | Oct 1, 2027 |
@@ -7186,6 +7197,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [AGJA Scholarships](https://gelbvieh.org/juniors/scholarships) | American Gelbvieh Foundation | $9,000 |
 | [Bull Futurity Scholarships](https://gelbvieh.org/juniors/scholarships) | American Gelbvieh Foundation | $1,000 |
 | [Harriet Evelyn Wallace Scholarship](https://www.americangeosciences.org/news/press-releases/2016-harriet-evelyn-wallace-scholarship-winners-announced/) | American Geosciences Institute | $5,000 |
+| [American GI Forum - 5281 Chapter Scholarship Fund](https://www.ccd.edu/ccd-foundation/ccd-scholarships) | American GI Forum (AGIF) 5218 Chapter | $500 |
 | [AGIF Education Foundation of Santa Maria Scholarship](https://www.agifedfoundation.org/agif-scholarship/) | American GI Forum Education Foundation of Santa Maria |  |
 | [Design Thinking Scholarship](https://www.agitraining.com/scholarships) | American Graphics Institute | $1,000 |
 | [Founders Prize](https://www.agoatlanta.org/scholarships/) | American Guild of Organists 423 Atlanta Chapter | $500 |
@@ -8245,6 +8257,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Debra Muren Scholarship](https://www.bellevueschoolsfoundation.org/scholarships) | Bellevue Schools Foundation |  |
 | [Howard Johnson Scholarship](https://www.bellevueschoolsfoundation.org/scholarships) | Bellevue Schools Foundation |  |
 | [Nan Campbell Scholarship](https://www.bellevueschoolsfoundation.org/scholarships) | Bellevue Schools Foundation | $1,000 |
+| [Opportunity Grant](https://www.btc.edu/CurrentStudents/FinancialResources/WorkForceFunding.html) | Bellingham Technical College Foundation |  |
 | [Washington College Grant](https://www.btc.edu/CurrentStudents/FinancialResources/FinancialAid.html) | Bellingham Technical College Foundation |  |
 | [Belmont Ranger Youth Hockey Association Inc Scholarship](https://www.belmontyouthhockey.org/) | Belmont Ranger Youth Hockey Association Inc |  |
 | [Charles & Alice Van Bogaert Memorial Scholarship](https://cfsw.org/schools/belmont-high-school/) | Belmont Scholarship Fund |  |
@@ -8570,6 +8583,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Theodore Jasieniecki Memorial Scholarship](https://www.bloomfieldeducationalfoundation.org/how-we-help/scholarships/) | Bloomfield Educational Foundation |  |
 | [William L. Foley Scholarship](https://www.bloomfieldeducationalfoundation.org/how-we-help/scholarships/) | Bloomfield Educational Foundation |  |
 | [Bloomington Board of REALTORS® Scholarship](https://www.ivytech.edu/tuition-aid/financial-aid/scholarships/scholarship-finder/) | Bloomington Board of REALTORS® | $700–$1,400 |
+| [Bloomington Rotary Club Scholarship](https://www.ivytech.edu/tuition-aid/financial-aid/scholarships/scholarship-finder/) | Bloomington Rotary Club | $500 |
 | [Bloomington Watercolor Society Scholarship- $500](https://mccsfoundation.org/scholarships/) | Bloomington Watercolor Society |  |
 | [BloomNation Support Local Scholarship](https://www.cypresscollege.edu/financial-aid/financial-aid-scholarships/) | BloomNation | $1,500 |
 | [Cal Grant](https://www.bluedfoundation.org/scholarships) | BLU Educational Foundation |  |
@@ -9316,10 +9330,7 @@ Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F
 | [Mary Fran Carroll Scholarship Renewals](https://ccfdioceseofvenice.org/scholarships/) | Catholic Community Foundation of Southwest Florida |  |
 | [Mary Fran Carroll Traditional Scholarship](https://ccfdioceseofvenice.org/scholarships/) | Catholic Community Foundation of Southwest Florida |  |
 | [Marymount Memorial Educational Trust Scholarship](https://salinadiocese.org/office/finance/scholarships/) | Catholic Foundation for Diocese of Salina | $1,000–$3,000 |
-| [Susie Deges Memorial Scholarship](https://salinadiocese.org/office/finance/scholarships/) | Catholic Foundation for Diocese of Salina | $1,000 |
-| [All American Scholar Scholarship](https://www.cliu.com/membership/) | Catholic Life Insurance | $500–$20,000 |
-| Cattaraugus County Sheriffs Office Benevolent Association Scholarship | Cattaraugus County Sheriffs Office Benevolent Association |  |
 
-Showing the first 3,000 of 21,290. The rest are in [data/scholarships.csv](../data/scholarships.csv).
+Showing the first 3,000 of 21,316. The rest are in [data/scholarships.csv](../data/scholarships.csv).
 
 [Back to all schools](README.md)

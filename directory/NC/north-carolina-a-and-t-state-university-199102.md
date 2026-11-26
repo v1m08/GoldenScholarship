@@ -1,11 +1,12 @@
 # North Carolina A & T State University scholarships
 
-Greensboro, NC · 2 open · 21 with no date listed · 0 closed (not shown)
+Greensboro, NC · 3 open · 21 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/north-carolina-a-and-t-state-university-199102)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [National Alumni Scholarship](https://www.ncat.edu/admissions/financial-aid/types-of-aid/scholarships/chapter-scholarships.php) |  | Dec 15, 2026 |
 | [National Alumni Scholarship - NCAT](https://www.ncat.edu/admissions/financial-aid/types-of-aid/scholarships/chapter-scholarships.php) |  | Dec 15, 2026 |
 | [Prince E. and Ruth E. Smith Endowed Scholarship Fund](https://www.ncat.edu/caes/current-students/scholarships.php) | $1,000 | Jun 1, 2027 |
 | [A.P. Bell Scholarship Fund](https://www.ncat.edu/caes/current-students/scholarships.php) | $1,500 | not listed |

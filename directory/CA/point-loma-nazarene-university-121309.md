@@ -1,6 +1,6 @@
 # Point Loma Nazarene University scholarships
 
-San Diego, CA · 0 open · 244 with no date listed · 0 closed (not shown)
+San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/point-loma-nazarene-university-121309)**
 
@@ -195,6 +195,7 @@ San Diego, CA · 0 open · 244 with no date listed · 0 closed (not shown)
 | [Phillip Hughes Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Pittam Missionary Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [PLNU Incoming Freshmen Merit Scholarships](https://www.pointloma.edu/undergraduate/cost-financial-aid/scholarships) | $26,000 | not listed |
+| [PLNU Transfer** Merit Scholarships](https://www.pointloma.edu/undergraduate/cost-financial-aid/scholarships) | $8,000–$12,500 | not listed |
 | [PLNU Transfer** Merit Scholarships](https://www.pointloma.edu/offices/student-financial-services/undergraduate-student-financial-services/types-aid/scholarships) | $7,500–$12,500 | not listed |
 | [Professors Herman Price and Phillip Carlson Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Rachel Girton Thayer and Ruth Irene Girton Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |

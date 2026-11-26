@@ -1,6 +1,6 @@
 # Eastern Illinois University scholarships
 
-Charleston, IL · 592 open · 3 with no date listed · 3 closed (not shown)
+Charleston, IL · 592 open · 4 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/eastern-illinois-university-144892)**
 
@@ -600,6 +600,7 @@ Charleston, IL · 592 open · 3 with no date listed · 3 closed (not shown)
 | [James and Linda Gatrell Textbook Rental Scholarship](https://eiu.academicworks.com/opportunities/22365) |  | Oct 1, 2027 |
 | [Automatic Transfer Academic Excellence ScholarshipS](https://www.eiu.edu/scholarships/tae.php) | $5,000 | not listed |
 | [City Colleges of Chicago Star Scholar Award](https://www.eiu.edu/scholarships/transfer.php) |  | not listed |
+| [Dr. Kenneth E. Hadwiger Foreign Cultures Awards](https://www.eiu.edu/international/international_scholarships.php) |  | not listed |
 | Elizabeth Cornelia Waggoner Trust First Mid Wealth Management |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

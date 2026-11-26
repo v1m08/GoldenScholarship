@@ -52,6 +52,7 @@ export function ScholarshipDetail({
   if (recurring) table.push({ label: "Repeats", value: "The same deadline comes round every year" });
   const amount = money(row);
   const path = scholarshipPath(base, row);
+  const dataUrl = `/api/scholarships?id=${row.id}${unitid ? `&school=${unitid}` : ""}`;
   const listLabel = unitid === 0 ? "Scholarships open to any school" : `${listName} scholarships`;
 
   // Structured data: what this is, who funds it, and where it sits on the site.
@@ -180,6 +181,26 @@ export function ScholarshipDetail({
       <p className="mt-8 text-sm text-soft">
         Details come from {source ?? `${offered.by}\u2019s own listing`}{row.checked ? `, last checked ${longDate(row.checked)}` : ""}. Always
         confirm the amount, deadline and rules on the official page before you apply.
+      </p>
+      {/* The official address spelled out, so it survives being copied or read as plain text. */}
+      <p className="mt-3 break-words text-sm text-soft">
+        {row.url ? (
+          <>
+            Official page:{" "}
+            <a href={row.url} rel="noopener noreferrer nofollow" className="underline underline-offset-4">
+              {row.url}
+            </a>
+          </>
+        ) : (
+          <>We have no official link on file for this one. Search for its name together with {offered.by}.</>
+        )}
+      </p>
+      <p className="mt-3 break-words text-sm text-soft">
+        The same details as data:{" "}
+        <a href={dataUrl} className="underline underline-offset-4">
+          {site.url}
+          {dataUrl}
+        </a>
       </p>
 
       {related.length > 0 && (

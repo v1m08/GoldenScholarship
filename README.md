@@ -25,10 +25,10 @@
 
   <table>
     <tr>
-      <td align="center"><b>143,754</b><br /><sub>scholarships</sub></td>
+      <td align="center"><b>143,796</b><br /><sub>scholarships</sub></td>
       <td align="center"><b>2,210</b><br /><sub>schools</sub></td>
-      <td align="center"><b>11,483</b><br /><sub>foundations</sub></td>
-      <td align="center"><b>54,887</b><br /><sub>open right now</sub></td>
+      <td align="center"><b>11,492</b><br /><sub>foundations</sub></td>
+      <td align="center"><b>54,899</b><br /><sub>open right now</sub></td>
     </tr>
   </table>
 
@@ -55,7 +55,7 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 ## What you get
 
 - **Your school's own scholarships.** Type a school and see what it gives out, with its own awards listed first.
-- **Scholarships open to any school.** 29,445 from community foundations and organisations.
+- **Scholarships open to any school.** 29,482 from community foundations and organisations.
 - **Filters that hide what you can't apply for.** Five quick questions (year, field, GPA, need, and anything else about you) remove the ones that don't fit. Requirements we can't check are shown as labels on the listing.
 - **No account.** Answers stay in your browser. Leaving an email for updates is optional.
 - **No sponsored listings.** Nothing is ranked by who paid.
@@ -218,7 +218,7 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 | [Space to Succeed Scholarship](https://thestoragecenter.com/self-storage/scholarship/) | The Storage Center | $8,500 | Nov 30, 2026 |
 | Miner Charitable Foundation Inc | Miner Charitable Foundation Inc |  | Nov 30, 2026 |
 
-[All 29,445 open to any school →](directory/any-school.md)
+[All 29,482 open to any school →](directory/any-school.md)
 
 </details>
 

@@ -82,7 +82,7 @@ console.log("Reading schools and scholarships…");
 const schools = await readAll("schools", "unitid,name,city,state", "unitid");
 const rows = await readAll(
   "scholarships",
-  "id,name,provider_name,scope,url,deadline,award_min,award_max,school_unitid",
+  "id,name,provider_name,scope,url,apply_url,deadline,award_min,award_max,award_per_year,renewable,school_unitid,grade_levels,fields_of_study,minimum_gpa,need,citizenship,required_states,essay,source,checked_at",
   "id",
   "&status=neq.archived",
 );
@@ -189,10 +189,26 @@ for (const st of states) {
 await writeFile("directory/README.md", index.join("\n"));
 
 // ---- CSV of everything ------------------------------------------------------
-const csvLines = ["id,scholarship,school,state,offered_by,amount_min,amount_max,deadline,url"];
+// One row per scholarship, with what each listing states about who can apply.
+// Lists inside a cell are separated by ";". An empty cell means "not stated".
+// Each one's page on the site is at /api/scholarships?id=<id> (add &school=<school_id> for a school's own).
+const csvLines = [
+  "id,scholarship,school,school_id,state,offered_by,amount_min,amount_max,per_year,renewable,deadline,years,fields_of_study,minimum_gpa,financial_need,citizenship,home_states,essay,apply_url,source,last_checked",
+];
+const many = (v) => (Array.isArray(v) ? v.join(";") : (v ?? ""));
+const yes = (v) => (v === true ? "yes" : v === false ? "no" : "");
 for (const r of rows) {
   const s = byId.get(r.school_unitid);
-  csvLines.push([r.id, r.name, s?.name ?? "any school", s?.state, r.provider_name, r.award_min, r.award_max, r.deadline, r.url].map(csv).join(","));
+  csvLines.push(
+    [
+      r.id, r.name, s?.name ?? "any school", r.school_unitid, s?.state, r.provider_name, r.award_min, r.award_max,
+      yes(r.award_per_year), yes(r.renewable), r.deadline, many(r.grade_levels), many(r.fields_of_study), r.minimum_gpa,
+      r.need, many(r.citizenship), many(r.required_states), yes(r.essay), r.apply_url || r.url, r.source,
+      (r.checked_at ?? "").slice(0, 10),
+    ]
+      .map(csv)
+      .join(","),
+  );
 }
 await writeFile("data/scholarships.csv", csvLines.join("\n") + "\n");
 
