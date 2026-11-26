@@ -1,6 +1,6 @@
 # University of Massachusetts-Amherst scholarships
 
-Amherst, MA · 192 open · 85 with no date listed · 29 closed (not shown)
+Amherst, MA · 192 open · 96 with no date listed · 29 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-massachusetts-amherst-166629)**
 
@@ -198,6 +198,7 @@ Amherst, MA · 192 open · 85 with no date listed · 29 closed (not shown)
 | [William F. Field Alumni Scholar Award](https://umass.academicworks.com/opportunities/27702) |  | Jun 30, 2027 |
 | [Therese Pasquale Maguire Scholarship Fund](https://umass.academicworks.com/opportunities/27638) |  | Oct 6, 2027 |
 | [Theodore Presser Award](https://umass.academicworks.com/opportunities/26949) | $3,000 | Nov 1, 2027 |
+| [Adams Crosson Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [Ann Elder Bestor Memorial Music Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Ann Ferguson Women and Gender Studies Scholarship](https://communityfoundation.org/students/scholarships/) |  | not listed |
 | [Anne Farmer Momot Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
@@ -209,6 +210,8 @@ Amherst, MA · 192 open · 85 with no date listed · 29 closed (not shown)
 | [Boosting Access to Data Science Scholarship Program](https://www.cics.umass.edu/academics/scholarships-and-fellowships/boosting-access-data-science-scholarship) |  | not listed |
 | [C. Lynn Vendien Endowed Scholarship Endowment Fund](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [C. Lynn Vendien Minuteman Marching Band Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
+| [C. Lynn Vendien Professional Prize Award Endowment Fund](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
+| [City of Boston Scholarship Fund](https://www.boston.gov/departments/mayors-office/city-boston-scholarship-fund) | $2,500 | not listed |
 | [Colleen M. Davis Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [Commonwealth Honors College Scholarships](https://www.umass.edu/honors/scholarships) |  | not listed |
 | [Community College Academic Honors Scholarship](https://www.umass.edu/financialaid/umass-admissions-scholarships-and-awards) |  | not listed |
@@ -231,17 +234,21 @@ Amherst, MA · 192 open · 85 with no date listed · 29 closed (not shown)
 | [Hammond Family Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [Harbert/Strachan Family Endowed Scholarship Fund](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [Harold W. Cary Prize](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
+| [Helen Eaton Timson Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
+| [History Graduate Travel Award](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [History of Art and Architecture Scholarships](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Honors-to-Honors Scholarship](https://www.umass.edu/financialaid/umass-admissions-scholarships-and-awards) | $6,000 | not listed |
 | [Howard M. Lebow Memorial Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Humanities and Fine Arts Dean's Undergraduate Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Isenberg Honors Scholarship](https://umass.academicworks.com/opportunities/502) | $10,000 | not listed |
+| [Janice Camby Endowed Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [Jeffrey Morgan Memorial Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Jerome and Florence McCormick Doctoral Award](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [JoAnn Waite Bennett and George Neil Bennett Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [John and Donna Farrelly Scholarships](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [John R. Schroeder Scholarship Fund](https://www.umass.edu/public-health-sciences/book/2023-scholarship-award-recognition/kinesiology-scholarship-recipients/john-r-schroeder-scholarship-fund) |  | not listed |
 | [Joseph W. Keilty Memorial Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
+| [Judith A. Barter Internship Fellowship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Jules Chametzky Translation Prize](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Kayla R. Gordon Beacon of Light Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [Kristian Rose Memorial Scholarship](https://www.baystategames.org/kristian-rose-memorial-scholarship) |  | not listed |
@@ -270,7 +277,9 @@ Amherst, MA · 192 open · 85 with no date listed · 29 closed (not shown)
 | [Rick Pitino Presidential Medal Scholarship](https://www.umass.edu/veterinary-animal-sciences/news/haley-bernardo-23-awarded-rick-pitino-presidential-medal-scholarship) |  | not listed |
 | [Robert H. McNeal Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Russell E. & Janet R. Falvey Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
+| [Ruth Totman Scholarship](https://www.umass.edu/education/academics/student-scholarships) |  | not listed |
 | [Sanderson Prize](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
+| [Sara's Wish Scholarship Fund](https://saraswish.org/scholarships/) | $10,000 | not listed |
 | [Seedworks Health Equity in Nursing Program Scholarship](https://www.umass.edu/nursing/campus-and-outreach/scholarship-opportunities) | $40,000 | not listed |
 | [Simon & Satenig Ermonian Memorial Scholarships](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 | [Sumner Greenfield Memorial Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
@@ -283,5 +292,7 @@ Amherst, MA · 192 open · 85 with no date listed · 29 closed (not shown)
 | [UMass Amherst Flagship Award](https://www.umass.edu/financialaid/umass-admissions-scholarships-and-awards) | $10,000 | not listed |
 | [UMass Community College Advantage Scholarship (UCCAS)](https://www.umass.edu/financialaid/umass-admissions-scholarships-and-awards) | $2,500 | not listed |
 | [W. Scott Jeffery Scholarship](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
+| [Wilbur H.H. Ward Education](https://communityfoundation.org/students/scholarships/) |  | not listed |
+| [William S. Addelson Memorial Award](https://www.umass.edu/humanities-arts/financial-aid-scholarships/scholarships) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

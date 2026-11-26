@@ -1,6 +1,6 @@
 # Aurora University scholarships
 
-Aurora, IL · 6 open · 9 with no date listed · 0 closed (not shown)
+Aurora, IL · 6 open · 10 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/aurora-university-143118)**
 
@@ -21,5 +21,6 @@ Aurora, IL · 6 open · 9 with no date listed · 0 closed (not shown)
 | [Connection Award](https://aurora.edu/admission/financialaid/types-of-aid/scholarships.html) |  | not listed |
 | [Howard & Sherry Eagle Scholarship Endowment Fund](https://www.cffrv.org/profile/eagle-scholarship/) |  | not listed |
 | [Music and Theatre Scholarships](https://aurora.edu/admission/financialaid/types-of-aid/scholarships.html) |  | not listed |
+| [Ronald M. and Janet S. Hem Scholarship Endowment Fund](https://www.cffrv.org/profile/ronald-m-and-janet-s-hem-scholarship-endowment-fund/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

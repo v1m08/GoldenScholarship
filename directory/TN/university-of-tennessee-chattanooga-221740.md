@@ -1,6 +1,6 @@
 # The University of Tennessee-Chattanooga scholarships
 
-Chattanooga, TN · 13 open · 25 with no date listed · 0 closed (not shown)
+Chattanooga, TN · 16 open · 28 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-tennessee-chattanooga-221740)**
 
@@ -13,19 +13,25 @@ Chattanooga, TN · 13 open · 25 with no date listed · 0 closed (not shown)
 | [The University of Tennessee at Chattanooga Chancellor's Scholarship](https://www.utc.edu/enrollment-management-and-student-affairs/financial-aid-and-scholarships/scholarships/renewable-scholarships/chancellors-scholarship) | $5,450 | Feb 1, 2027 |
 | [The University of Tennessee at Chattanooga Mocs Scholarship](https://www.utc.edu/enrollment-management-and-student-affairs/financial-aid-and-scholarships/scholarships/renewable-scholarships/mocs-scholarship) | $5,450 | Feb 1, 2027 |
 | [Dr. Charles Robert Thomas Pre-Medical Scholarship](https://www.utc.edu/arts-and-sciences/biology-geology-and-environmental-science/scholarships-and-awards-information) |  | Feb 15, 2027 |
+| [Dr. Wilbur K. Butts Memorial Scholarship](https://www.utc.edu/arts-and-sciences/biology-geology-and-environmental-science/scholarships-and-awards-information) |  | Feb 15, 2027 |
 | [Joyce Litchford Memorial Scholarship](https://www.utc.edu/arts-and-sciences/biology-geology-and-environmental-science/scholarships-and-awards-information) |  | Feb 15, 2027 |
 | [Louise G. Currey Environmental Studies Scholarship](https://www.utc.edu/arts-and-sciences/biology-geology-and-environmental-science/scholarships-and-awards-information) |  | Feb 15, 2027 |
 | [Mr. and Mrs. Eugene M. Thomasson Pre-Medical Scholarship](https://www.utc.edu/arts-and-sciences/biology-geology-and-environmental-science/scholarships-and-awards-information) |  | Feb 15, 2027 |
 | [Westbrook Scholarship](https://www.utc.edu/arts-and-sciences/chemistry-and-physics/scholarships/westbrook-scholarship) |  | Mar 1, 2027 |
+| [Westbrook Scholarship (submission through online portal )](https://www.utc.edu/arts-and-sciences/biology-geology-and-environmental-science/scholarships-and-awards-information) |  | Mar 1, 2027 |
+| [Summer TN HOPE Scholarship Availability](https://www.utc.edu/enrollment-management-and-student-affairs/financial-aid-and-scholarships/scholarships/hope-scholarship/summer-tn-hope) |  | Jul 6, 2027 |
 | [Tennessee HOPE Lottery Scholarship](https://www.utc.edu/enrollment-management-and-student-affairs/financial-aid-and-scholarships/scholarships/hope-scholarship/eligibility-and-maintaining-tn-hope) |  | Sep 1, 2027 |
 | [Tennessee HOPE Scholarship](https://www.utc.edu/enrollment-management-and-student-affairs/financial-aid-and-scholarships/scholarships) |  | Sep 1, 2027 |
 | [ACS Undergraduate Award in Organic Chemistry](https://www.utc.edu/arts-and-sciences/departments-and-programs/department-of-chemistry/department-of-chemistry-scholarships/chemistry-scholarships-and-awards) |  | not listed |
 | [Alan Zinaman Scholarship](https://www.utc.edu/arts-and-sciences/departments-and-programs/department-of-chemistry/department-of-chemistry-scholarships/chemistry-scholarships-and-awards) |  | not listed |
+| [Chemistry Scholarships](https://www.utc.edu/arts-and-sciences/departments-and-programs/department-of-chemistry/scholarships) |  | not listed |
 | [Chemistry Scholarships and Awards](https://www.utc.edu/arts-and-sciences/departments-and-programs/department-of-chemistry/scholarships) | $45,000 | not listed |
 | [Clarence Jones Prize Scholarship](https://www.utc.edu/arts-and-sciences/chemistry-and-physics/department-of-chemistry-and-physics-scholarships/physics-scholarships-and-awards) |  | not listed |
 | [Dr. Don J. Russell Scholarship](https://www.utc.edu/arts-and-sciences/departments-and-programs/department-of-chemistry/department-of-chemistry-scholarships/chemistry-scholarships-and-awards) |  | not listed |
 | [Edwards Award](https://www.utc.edu/arts-and-sciences/departments-and-programs/department-of-chemistry/department-of-chemistry-scholarships/chemistry-scholarships-and-awards) |  | not listed |
 | [Geology Award](https://www.utc.edu/arts-and-sciences/biology-geology-and-environmental-science/scholarships-and-awards-information) |  | not listed |
+| [Gross Award](https://www.utc.edu/arts-and-sciences/departments-and-programs/department-of-chemistry/department-of-chemistry-scholarships/chemistry-scholarships-and-awards) |  | not listed |
+| [Harold Marlowe Scholarship](https://www.utc.edu/arts-and-sciences/chemistry-and-physics/department-of-chemistry-and-physics-scholarships/physics-scholarships-and-awards) |  | not listed |
 | [Harriet and Karel Hujer Scholarship](https://www.utc.edu/arts-and-sciences/chemistry-and-physics/department-of-chemistry-and-physics-scholarships/physics-scholarships-and-awards) |  | not listed |
 | [Harry Deuberry Physics Scholarship](https://www.utc.edu/arts-and-sciences/chemistry-and-physics/department-of-chemistry-and-physics-scholarships/physics-scholarships-and-awards) |  | not listed |
 | [Hoover-Nofsinger Award](https://www.utc.edu/arts-and-sciences/biology-geology-and-environmental-science/scholarships-and-awards-information) | $1,000 | not listed |

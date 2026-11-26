@@ -1,6 +1,6 @@
 # Wesley Biblical Seminary scholarships
 
-Ridgeland, MS · 0 open · 4 with no date listed · 0 closed (not shown)
+Ridgeland, MS · 0 open · 5 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/wesley-biblical-seminary-176451)**
 
@@ -8,6 +8,7 @@ Ridgeland, MS · 0 open · 4 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [ABHE Scholarship](https://wbs.edu/pricing-and-aid/scholarships/) |  | not listed |
 | [Denominational Scholarships](https://wbs.edu/pricing-and-aid/scholarships/) |  | not listed |
+| [Missionary Scholarship](https://wbs.edu/pricing-and-aid/scholarships/) |  | not listed |
 | [Mississippi GMC Scholarship](https://wbs.edu/pricing-and-aid/scholarships/) |  | not listed |
 | [Salvation Army Scholarship](https://wbs.edu/pricing-and-aid/scholarships/) |  | not listed |
 

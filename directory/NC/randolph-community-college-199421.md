@@ -1,12 +1,14 @@
 # Randolph Community College scholarships
 
-Asheboro, NC · 1 open · 8 with no date listed · 0 closed (not shown)
+Asheboro, NC · 3 open · 8 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/randolph-community-college-199421)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [GoldenLEAF 4-Year Scholarship Program](https://www.randolph.edu/financial-assistance/types-of-financial-assistance/scholarships.aspx) | $14,000 | Mar 1, 2027 |
+| [Susan Helsabeck Scholarship](https://www.randolph.edu/financial-assistance/types-of-financial-assistance/scholarships.aspx) |  | Apr 17, 2027 |
+| [SECU Foundation - People Helping People Scholarship](https://www.randolph.edu/financial-assistance/types-of-financial-assistance/scholarships.aspx) | $1,250 | Jul 1, 2027 |
 | [Golden LEAF Community College Scholarship](https://www.randolph.edu/financial-assistance/types-of-financial-assistance/workforce-development-scholarships.aspx) |  | not listed |
 | [Next NC Scholarship](https://www.randolph.edu/financial-assistance/next-nc-scholarship.aspx) | $3,000 | not listed |
 | [RCC Changing Lives Scholarship Program](https://www.randolph.edu/financial-assistance/types-of-financial-assistance/scholarships.aspx) | $500 | not listed |

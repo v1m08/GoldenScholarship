@@ -1,6 +1,6 @@
 # Central Connecticut State University scholarships
 
-New Britain, CT · 145 open · 94 with no date listed · 4 closed (not shown)
+New Britain, CT · 145 open · 104 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/central-connecticut-state-university-128771)**
 
@@ -153,6 +153,7 @@ New Britain, CT · 145 open · 94 with no date listed · 4 closed (not shown)
 | [Achievement Award](https://www.ccsu.edu/tuition-aid/graduate-scholarships) | $1,000 | Apr 6, 2027 |
 | [Alumni Association Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Ana Grace and Isaiah Marquez-Greene Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [Ann Murtha Memorial Scholarship Fund](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Anna Bubser Judd Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Anthony and Bonnie J. Cascio Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Anthony and Helen G. Bichum Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
@@ -190,10 +191,12 @@ New Britain, CT · 145 open · 94 with no date listed · 4 closed (not shown)
 | [Emily Pirog Athletic Training Endowed Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Frank Cannata Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Frank J. Rio Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [George E. Johnson Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [George R. Muirhead Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [George Redman Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Gerry Keller Scholarship Award](https://www.nfafoundation.org/scholarships/apply) |  | not listed |
 | [Gigliotti Family Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [Graciette Maria Simao Rosa Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [H.G. Peter Wallach Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Hartford Chapter CSI Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Henry W. Majlinger Endowed Scholarship Fund](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
@@ -203,6 +206,9 @@ New Britain, CT · 145 open · 94 with no date listed · 4 closed (not shown)
 | [Jack Suydam Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Jane Rogers Statchen Education Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Joe Bellomo Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [John E. Smith Jr., Trust Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [John Webster Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [Justin McCarthy Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Justus Beach Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Keith T. Hall Scholarship Fund](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Kevin C. Oliva Memorial Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
@@ -212,6 +218,7 @@ New Britain, CT · 145 open · 94 with no date listed · 4 closed (not shown)
 | [Lindgren Family Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Louise Bulloch English, Jacob Thomas English, and Nancy Steele English Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Middlesex Mutual Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [Milton Bellin Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Nancy Antonez Fund](https://ccsu.academicworks.com/opportunities/8427) |  | not listed |
 | [Norman Gerber Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Paul Altieri Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
@@ -230,10 +237,13 @@ New Britain, CT · 145 open · 94 with no date listed · 4 closed (not shown)
 | [Rodney B. Card Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Sanja Pevac Trifone Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Sidney L. Cramer and Beatrice Kovner Cramer Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [Tansey Trust Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Ted Owen Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Terry Owens/N.B. Elks Lodge 957 Memorial Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [Thaddeus Torp Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Thomas F. Martucci Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Thomas F. Martucci, Sr. Scholarship Fund](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
+| [Timothy D. Shine Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Veterans Excellence Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [Vigdor Memorial Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |
 | [William and Josephine (Bertino) Tansey Scholarship](https://www.ccsu.edu/ccsufoundation/endowed-scholarships) |  | not listed |

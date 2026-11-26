@@ -1,6 +1,6 @@
 # South Dakota State University scholarships
 
-Brookings, SD · 9 open · 46 with no date listed · 0 closed (not shown)
+Brookings, SD · 9 open · 47 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/south-dakota-state-university-219356)**
 
@@ -16,6 +16,7 @@ Brookings, SD · 9 open · 46 with no date listed · 0 closed (not shown)
 | [South Dakota State University National Merit Semifinalist/Finalist Scholarship](https://www.sdstate.edu/admissions/first-time-student-scholarships) | $8,500 | Aug 1, 2027 |
 | [Wokini Scholarships](https://www.sdstate.edu/admissions/transfer-student-scholarships) | $5,000 | Aug 1, 2027 |
 | [29-90 Sportsman's Club Scholarship](https://www.sdstate.edu/natural-resource-management/undergraduate-scholarships-awards-natural-resource-management) |  | not listed |
+| [Air Force ROTC Scholarships](https://www.sdstate.edu/admissions/other-sdsu-scholarships) |  | not listed |
 | [Alven Haak Family Scholarship](https://www.sdstate.edu/natural-resource-management/undergraduate-scholarships-awards-natural-resource-management) |  | not listed |
 | [Brookings Wildlife Federation Scholarship](https://www.sdstate.edu/natural-resource-management/undergraduate-scholarships-awards-natural-resource-management) |  | not listed |
 | [Campus Based Scholarships (2-4 year)](https://www.sdstate.edu/military-science-army-rotc/army-rotc-scholarships) | $6,000 | not listed |

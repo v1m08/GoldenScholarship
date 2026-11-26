@@ -1,6 +1,6 @@
 # Gaston College scholarships
 
-Dallas, NC · 122 open · 1 with no date listed · 0 closed (not shown)
+Dallas, NC · 123 open · 2 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/gaston-college-198570)**
 
@@ -126,8 +126,10 @@ Dallas, NC · 122 open · 1 with no date listed · 0 closed (not shown)
 | [Warren and Rebecca Shiver Scholarship Fund](https://gaston.academicworks.com/opportunities/3740) | $1,100 | Feb 15, 2027 |
 | [Wells Fargo Scholarship](https://gaston.academicworks.com/opportunities/3818) | $500 | Feb 15, 2027 |
 | [William B. and Elizabeth C. Seabrook Endowed Scholarship](https://gaston.academicworks.com/opportunities/3735) | $350 | Feb 15, 2027 |
+| [Nordson BUILDS Scholarships](https://www.gaston.edu/pay-for-college/types-of-aid/scholarships/) | $2,500 | May 20, 2027 |
 | [Next NC Scholarship](https://www.gaston.edu/2024/01/16/next-nc-scholarship-could-cover-tuition-and-fees-for-gaston-students/) | $3,000 | Aug 15, 2027 |
 | [Next NC Scholarship could cover tuition and fees for Gaston students](https://www.gaston.edu/2024/01/16/next-nc-scholarship-could-cover-tuition-and-fees-for-gaston-students/) | $3,000 | Aug 15, 2027 |
+| [Samuel M. Taylor Memorial Life Sciences Scholarship/NCBioNetwork.org](https://www.ncbionetwork.org/sam-taylor-scholarship) |  | not listed |
 | [Wells Fargo Technical Scholarship](https://www.gaston.edu/pay-for-college/types-of-aid/scholarships/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

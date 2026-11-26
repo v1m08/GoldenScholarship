@@ -1,6 +1,6 @@
 # Rosemont College scholarships
 
-Rosemont, PA · 2 open · 8 with no date listed · 0 closed (not shown)
+Rosemont, PA · 2 open · 9 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/rosemont-college-215691)**
 
@@ -13,6 +13,7 @@ Rosemont, PA · 2 open · 8 with no date listed · 0 closed (not shown)
 | [Catholic High School Scholarship - Rosemont College](https://rosemont.edu/college/office/financial-aid/scholarships/) |  | not listed |
 | [Chafee Education and Training Grant (Chafee ETG) Program](https://rosemont.edu/college/office/financial-aid/state-aid/) |  | not listed |
 | [Cornelian Scholarship](https://rosemont.edu/college/office/financial-aid/scholarships/) |  | not listed |
+| [PA Ready to Succeed Scholarship (RTSS) Program](https://rosemont.edu/college/office/financial-aid/state-aid/) |  | not listed |
 | [Phi Theta Kappa Scholarship - Rosemont College](https://rosemont.edu/college/office/financial-aid/scholarships/) |  | not listed |
 | [Rosemont Grant](https://rosemont.edu/college/office/financial-aid/scholarships/) |  | not listed |
 | [Sister Maria Stella Kelly Art Scholarship](https://rosemont.edu/college/office/financial-aid/scholarships/) |  | not listed |

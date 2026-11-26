@@ -1,6 +1,6 @@
 # Wayne State University scholarships
 
-Detroit, MI · 11 open · 124 with no date listed · 0 closed (not shown)
+Detroit, MI · 11 open · 126 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/wayne-state-university-172644)**
 
@@ -39,6 +39,8 @@ Detroit, MI · 11 open · 124 with no date listed · 0 closed (not shown)
 | [Charles V. Hammond Memorial Scholarship](https://law.wayne.edu/admissions/finances/law-funding/scholarships?_gl=1*1p0krwp*_ga*MTkzMzEzOTI2MS4xNjgzMTE3NDQ1*_ga_ZYEBRZJFL1*MTY4MzExNzQ0NC4xLjEuMTY4MzExNzQ1My4wLjAuMA..) |  | not listed |
 | [Cockrel/Ravitz Memorial Endowed Scholarship](https://law.wayne.edu/admissions/finances/law-funding/scholarships?_gl=1*1p0krwp*_ga*MTkzMzEzOTI2MS4xNjgzMTE3NDQ1*_ga_ZYEBRZJFL1*MTY4MzExNzQ0NC4xLjEuMTY4MzExNzQ1My4wLjAuMA..) |  | not listed |
 | [Community College Transfer Housing Scholarship](https://wayne.edu/scholarships/community-college/housing) |  | not listed |
+| [Cynthia B. Faulhaber Endowed Scholarship](https://law.wayne.edu/admissions/finances/law-funding/scholarships?_gl=1*1p0krwp*_ga*MTkzMzEzOTI2MS4xNjgzMTE3NDQ1*_ga_ZYEBRZJFL1*MTY4MzExNzQ0NC4xLjEuMTY4MzExNzQ1My4wLjAuMA..) |  | not listed |
+| [David Adamany Endowed Constitutional Law Scholar Award](https://law.wayne.edu/admissions/finances/law-funding/scholarships?_gl=1*1p0krwp*_ga*MTkzMzEzOTI2MS4xNjgzMTE3NDQ1*_ga_ZYEBRZJFL1*MTY4MzExNzQ0NC4xLjEuMTY4MzExNzQ1My4wLjAuMA..) |  | not listed |
 | [David M. Hempstead (Bodman PLC) Endowed Scholarship](https://law.wayne.edu/admissions/finances/law-funding/scholarships?_gl=1*1p0krwp*_ga*MTkzMzEzOTI2MS4xNjgzMTE3NDQ1*_ga_ZYEBRZJFL1*MTY4MzExNzQ0NC4xLjEuMTY4MzExNzQ1My4wLjAuMA..) |  | not listed |
 | [De Young-Kasky Annual Scholarship](https://law.wayne.edu/admissions/finances/law-funding/scholarships?_gl=1*1p0krwp*_ga*MTkzMzEzOTI2MS4xNjgzMTE3NDQ1*_ga_ZYEBRZJFL1*MTY4MzExNzQ0NC4xLjEuMTY4MzExNzQ1My4wLjAuMA..) |  | not listed |
 | [Dean's Merit Scholarship](https://sis.wayne.edu/students/scholarships) |  | not listed |

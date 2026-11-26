@@ -1,6 +1,6 @@
 # Danville Community College scholarships
 
-Danville, VA · 0 open · 117 with no date listed · 1 closed (not shown)
+Danville, VA · 0 open · 123 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/danville-community-college-231882)**
 
@@ -56,18 +56,22 @@ Danville, VA · 0 open · 117 with no date listed · 1 closed (not shown)
 | [Gene Haas Foundation Scholarships](https://danville.edu/scholarshiplist) |  | not listed |
 | [George Rogers-Educational Foundation Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Graphics Imaging Excellence Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
+| [Hancock-Dees-Murray Sacred Heart Church-School Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Harry, Edith Wyatt and Vernon Wyatt Memorial Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Henrietta G. Geyer Dental Hygiene Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Herbert R. Silverman, M.D. and Evelyn N. Silverman Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Hitachi Energy - South Boston Employee Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
+| [IKEA Industry Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Intertape Polymer Group Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Jack I. White Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [James A. Robertson Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [James R. Meissner, II Memorial Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Jo Wimbish Memorial Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
+| [John H. Zechman Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Kathleen Ramsey Puryear Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Kenneth L. Neathery Memorial Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Kolton Brim Karnes Memorial Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
+| [L. Wilson York Memorial Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Lawrence Olds Memorial Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Lyle Carter Motley, Sr. Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Madelyn "Maddie" Jackson Memorial Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
@@ -92,6 +96,7 @@ Danville, VA · 0 open · 117 with no date listed · 1 closed (not shown)
 | [Phoenix Lodge # 62-The Knights of Pythias Nursing Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Pippin Family Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Plumer Wiseman Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
+| [Rebecca L. Heldreth Memorial Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Rexford E. O'Neil Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Riverdan Benevolent Fund Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Robert E. Morgan Memorial Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
@@ -114,6 +119,7 @@ Danville, VA · 0 open · 117 with no date listed · 1 closed (not shown)
 | [Thelma E. Forney Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Thelma Swann Johnson Memorial Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Thomas B. Cannon Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
+| [Virginia Bank and Trust Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Walter Eugene "Gene" Hayes & C. Robert Willeford Business Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Walter L. & E. Stuart James Grant Memorial Endowed Scholarship](https://danville.edu/scholarshiplist) |  | not listed |
 | [Wendell O. Scott Memorial Academic Award](https://danville.edu/scholarshiplist) |  | not listed |

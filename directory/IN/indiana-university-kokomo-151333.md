@@ -1,13 +1,15 @@
 # Indiana University-Kokomo scholarships
 
-Kokomo, IN · 2 open · 104 with no date listed · 0 closed (not shown)
+Kokomo, IN · 4 open · 104 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/indiana-university-kokomo-151333)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Next Generation Hoosier Educators Scholarship](https://www.in.gov/che/state-financial-aid/state-financial-aid-by-program/next-generation-hoosier-educators-scholarship/) | $10,000 | Feb 28, 2027 |
 | [Dean's Scholarship](https://kokomo.iu.edu/cost-aid/scholarships/apply/iu-scholarships.html) | $1,500 | Mar 1, 2027 |
 | [Indiana University Kokomo Scholarships](https://kokomo.iu.edu/cost-aid/scholarships/apply/iu-scholarships.html) |  | Mar 1, 2027 |
+| [Mitch Daniels Early Graduation Scholarship](https://www.in.gov/che/state-financial-aid/state-financial-aid-by-program/mitch-daniels-early-graduation-scholarship/) | $4,000 | Aug 31, 2027 |
 | [Alpha Delta Kappa Tau Chapter Scholarship](https://kokomo.iu.edu/cost-aid/scholarships/apply/foundation-scholarships.html) |  | not listed |
 | [Amal and Betty Das Scholarship](https://kokomo.iu.edu/cost-aid/scholarships/apply/foundation-scholarships.html) |  | not listed |
 | [Angela Gail / Allan C. Reeves Scholarship](https://kokomo.iu.edu/cost-aid/scholarships/apply/foundation-scholarships.html) |  | not listed |

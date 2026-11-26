@@ -1,6 +1,6 @@
 # Pepperdine University scholarships
 
-Malibu, CA · 18 open · 57 with no date listed · 1 closed (not shown)
+Malibu, CA · 18 open · 61 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/pepperdine-university-121150)**
 
@@ -28,6 +28,7 @@ Malibu, CA · 18 open · 57 with no date listed · 1 closed (not shown)
 | [ACB Scholarship Program](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) | $2,000–$7,500 | not listed |
 | [Air Force Health Professions Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [Alanni Perman Receives Scott H. Racine Award for Excellence in the Study of Taxation](https://law.pepperdine.edu/surf-report/posts/alanni-berman-receives-scott-racine-award-excellence-taxation-2026.htm) |  | not listed |
+| [APF Scholarships and Grants](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [Associated Women for Pepperdine (AWP) Scholarship](https://law.pepperdine.edu/admissions/juris-doctor/financial-assistance/scholarships/church-of-christ.htm) |  | not listed |
 | [Benjamin M. Bendat Endowed Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [Bertha Melgoza, Ph.D. Clinical Psychology Endowed Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
@@ -53,15 +54,18 @@ Malibu, CA · 18 open · 57 with no date listed · 1 closed (not shown)
 | [Golden State Teacher Grant - For MA in Teaching only](https://gsep.pepperdine.edu/admission/financial-aid/grants/) | $20,000 | not listed |
 | [GSEP Financial Aid Endowed Scholarships (application required)](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [GSEP Greater Purpose Scholarship (only available to NEW students)](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) | $25,000 | not listed |
+| [GSEP Squaires Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [GSEP Urban Initiative Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [H. Douglas Dean Memorial Scholarship](https://seaver.pepperdine.edu/natural-science/student-opportunities/scholarships/) |  | not listed |
 | [Harry & Izelle Shafer Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [Howard A. White Endowed Scholarship](https://law.pepperdine.edu/admissions/juris-doctor/financial-assistance/scholarships/church-of-christ.htm) |  | not listed |
 | [J. McDonald and Judy Williams GSEP Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
+| [J. McDonald and Judy Williams School of Law Scholarship](https://law.pepperdine.edu/admissions/juris-doctor/financial-assistance/scholarships/church-of-christ.htm) |  | not listed |
 | [Joseph Chung Endowed Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [Kimberly Dawn Ellis Scholarship](https://law.pepperdine.edu/surf-report/posts/kimberly-dawn-ellis-scholarship-fund-2018.htm) |  | not listed |
 | [Litton Endowed Scholarship](https://seaver.pepperdine.edu/natural-science/student-opportunities/scholarships/) |  | not listed |
 | [Marco Garcia Memorial Fellowship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) | $1,500 | not listed |
+| [Merilyn O'Neal Endowed Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [Michael Y. F. Chau Scholarship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [NAEd/Spencer Dissertation Fellowship](https://gsep.pepperdine.edu/admission/financial-aid/scholarships/) | $25,000 | not listed |
 | [Natural Science Division Scholarship](https://seaver.pepperdine.edu/natural-science/student-opportunities/scholarships/) |  | not listed |

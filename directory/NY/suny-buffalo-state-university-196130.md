@@ -1,6 +1,6 @@
 # SUNY Buffalo State University scholarships
 
-Buffalo, NY · 49 open · 4 with no date listed · 89 closed (not shown)
+Buffalo, NY · 49 open · 6 with no date listed · 89 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/suny-buffalo-state-university-196130)**
 
@@ -55,6 +55,8 @@ Buffalo, NY · 49 open · 4 with no date listed · 89 closed (not shown)
 | [Rona Knobel Art Education Scholarship](https://buffalostate.academicworks.com/opportunities/10854) |  | Jan 15, 2027 |
 | [Ronald J. and Lilia E. Peters Scholarship Fund](https://buffalostate.academicworks.com/opportunities/10807) |  | Jan 15, 2027 |
 | [Bengal Experience Grant](https://financialaid.buffalostate.edu/scholarships-fall-2024-and-prior) | $1,000 | May 1, 2027 |
+| [Bengal Experience Grant 1](https://financialaid.buffalostate.edu/scholarships-fall-2024-and-prior) | $4,000 | not listed |
+| [Bengal Experience Grant 2](https://financialaid.buffalostate.edu/scholarships-fall-2024-and-prior) |  | not listed |
 | [Bengal Promise Grant](https://financialaid.buffalostate.edu/scholarships-fall-2024-and-prior) | $3,000 | not listed |
 | [Destination Buffalo State Grant](https://financialaid.buffalostate.edu/scholarships-fall-2024-and-prior) | $9,500 | not listed |
 | [Honors Plus Scholarship](https://financialaid.buffalostate.edu/scholarships-fall-2024-and-prior) |  | not listed |

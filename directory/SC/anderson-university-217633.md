@@ -1,6 +1,6 @@
 # Anderson University scholarships
 
-Anderson, SC · 1 open · 6 with no date listed · 0 closed (not shown)
+Anderson, SC · 1 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/anderson-university-217633)**
 
@@ -11,6 +11,7 @@ Anderson, SC · 1 open · 6 with no date listed · 0 closed (not shown)
 | [AU Fellows Scholarship Program](https://andersonuniversity.edu/admission/undergraduate-aid/) | $40,000 | not listed |
 | [Boys & Girls State Scholarship](https://andersonuniversity.edu/admission/undergraduate-aid/) |  | not listed |
 | [Fellows Scholarships](https://andersonuniversity.edu/admission/undergraduate-aid/) | $40,000 | not listed |
+| [Music Audition Scholarship](https://andersonuniversity.edu/admission/undergraduate-aid/) |  | not listed |
 | [SCSA Scholarships](https://andersonuniversity.edu/scsa-scholarships-2/) | $5,000 | not listed |
 | [Theatre & Dance Audition Scholarship](https://andersonuniversity.edu/admission/undergraduate-aid/) | $10,000 | not listed |
 

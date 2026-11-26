@@ -1,6 +1,6 @@
 # North Carolina A & T State University scholarships
 
-Greensboro, NC · 3 open · 21 with no date listed · 0 closed (not shown)
+Greensboro, NC · 3 open · 23 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/north-carolina-a-and-t-state-university-199102)**
 
@@ -12,6 +12,7 @@ Greensboro, NC · 3 open · 21 with no date listed · 0 closed (not shown)
 | [A.P. Bell Scholarship Fund](https://www.ncat.edu/caes/current-students/scholarships.php) | $1,500 | not listed |
 | [AgCarolina Farm Credit Scholarship Program](https://www.ncat.edu/caes/current-students/scholarships.php) | $1,000 | not listed |
 | [American Cyanamid Scholarship](https://www.ncat.edu/caes/current-students/scholarships.php) |  | not listed |
+| [Amount of Scholarship](https://www.ncat.edu/caes/current-students/scholarships.php) | $1,500 | not listed |
 | [Cargill Endowment](https://www.ncat.edu/caes/current-students/scholarships.php) | $1,250 | not listed |
 | [Cheatham-White Scholarship](https://www.ncat.edu/honors/cheatham-white-scholars.php) |  | not listed |
 | [Corporate Scholarships](https://www.ncat.edu/cobe/scholarships/scholarships-available.php) | $7,500 | not listed |
@@ -26,6 +27,7 @@ Greensboro, NC · 3 open · 21 with no date listed · 0 closed (not shown)
 | [N.C. A&T Chapter Alumni Scholarships](https://www.ncat.edu/admissions/financial-aid/types-of-aid/scholarships/chapter-scholarships.php) |  | not listed |
 | [National Agri-Marketing Association Scholarship](https://www.ncat.edu/caes/current-students/scholarships.php) | $600 | not listed |
 | [Natural Resources Conservation Service Scholarship](https://www.ncat.edu/caes/current-students/scholarships.php) |  | not listed |
+| [Richard E. Moore Endowment](https://www.ncat.edu/cahss/departments/english/undergraduate-programs/scholarships-in-english.php) |  | not listed |
 | [Smith-Allen Scholarship](https://www.ncat.edu/caes/current-students/scholarships.php) | $500 | not listed |
 | [Syngenta Scholars Program](https://www.ncat.edu/caes/current-students/scholarships.php) | $1,000 | not listed |
 | [The Carolina Farm Credit Scholarship](https://www.ncat.edu/caes/current-students/scholarships.php) | $8,000 | not listed |

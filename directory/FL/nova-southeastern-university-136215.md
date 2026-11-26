@@ -1,6 +1,6 @@
 # Nova Southeastern University scholarships
 
-Fort Lauderdale, FL · 6 open · 13 with no date listed · 1 closed (not shown)
+Fort Lauderdale, FL · 6 open · 14 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/nova-southeastern-university-136215)**
 
@@ -18,6 +18,7 @@ Fort Lauderdale, FL · 6 open · 13 with no date listed · 1 closed (not shown)
 | [Dr. Oscar Bekoff and Mrs. Beatrice Bekoff Endowed Scholarship](https://psychology.nova.edu/admissions/scholarships.html) |  | not listed |
 | [Florida Tuition Differential Grant](https://www.nova.edu/financial-aid/grants-scholarships/graduate-professional.html) |  | not listed |
 | [Gilbert H. Berken Endowed Scholarship](https://psychology.nova.edu/admissions/scholarships.html) |  | not listed |
+| [Health Professions Division Chancellor's Scholarships](https://md.nova.edu/admissions/financial-aid-scholarships.html) |  | not listed |
 | [Nathan Azrin Award for Demonstrated Application of Behavioral Principles](https://psychology.nova.edu/admissions/scholarships.html) |  | not listed |
 | [Phi Theta Kappa Award](https://undergrad.nova.edu/admissions/transfer/transfer-advantage.html) | $1,000 | not listed |
 | [Phi Theta Kappa Scholarship - NSU](https://undergrad.nova.edu/admissions/transfer/transfer-advantage.html) | $1,000 | not listed |

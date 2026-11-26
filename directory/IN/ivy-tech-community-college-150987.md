@@ -1,6 +1,6 @@
 # Ivy Tech Community College scholarships
 
-Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
+Indianapolis, IN · 1 open · 167 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/ivy-tech-community-college-150987)**
 
@@ -15,6 +15,7 @@ Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
 | [Boots-2-Books Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) | $1,000 | not listed |
 | [Borgman Family Farms Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $1,000 | not listed |
 | [Brenda Duncan Mitchell Scholarship](https://www.ivytech.edu/tuition-aid/financial-aid/scholarships/scholarship-finder/) | $500–$2,000 | not listed |
+| [Brown/Keene Nursing Scholarship](https://www.ivytech.edu/locations/anderson/local-student-resources/local-scholarships/) | $1,000 | not listed |
 | [Campus Pride Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) |  | not listed |
 | [Carl Marshall Reeves and Mildred Almen Reeves Foundation, Inc Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $1,000 | not listed |
 | [Carol Reimers Nursing Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $1,200 | not listed |
@@ -44,6 +45,7 @@ Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
 | [Dr. Andres Hernandez Memorial Scholarship](https://www.ivytech.edu/locations/anderson/local-student-resources/local-scholarships/) | $1,250 | not listed |
 | [Dr. Lou Pierro Endowed Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) |  | not listed |
 | [Dr. Rebecca A. Nickoli Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
+| [Ellis Family Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
 | [Eloise Lewis Nursing Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $250–$500 | not listed |
 | [Erle and Eleanor Litten Endowed Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $815–$1,630 | not listed |
 | [Farm Credit Mid America Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) |  | not listed |
@@ -87,6 +89,7 @@ Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
 | [Jeannie Heuer Liberal Arts/General Studies Completion Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $1,400–$1,600 | not listed |
 | [Jim and Carolyn Trueblood Endowed Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $400 | not listed |
 | [Joan Olcott Scholarship in Healthcare](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $1,100–$1,900 | not listed |
+| [Jodi and Mike Engelstad Nursing Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) |  | not listed |
 | [Joe Reed Family Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
 | [John and Cathleen Cameron Radiation Therapy Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $675–$725 | not listed |
 | [John and Jan Adler Family Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
@@ -113,6 +116,7 @@ Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
 | [Mary Beeman Gripe Scholarship](https://www.ivytech.edu/locations/anderson/local-student-resources/local-scholarships/) | $1,000 | not listed |
 | [Mary Craig Success Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
 | [Master Power Transmission Manufacturing Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $5,000 | not listed |
+| [Matilda Barber Nursing Scholarship](https://www.ivytech.edu/locations/anderson/local-student-resources/local-scholarships/) | $500 | not listed |
 | [Melanie Dawn Shoults Memorial Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $600 | not listed |
 | [Miami County Community Spirit Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
 | [Miami County Economic Development Authority Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
@@ -131,6 +135,7 @@ Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
 | [Patricia P. Brown Early Childhood Education Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $800 | not listed |
 | [Patricia P. Brown Elementary Education Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) |  | not listed |
 | [Patsy Daily Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
+| [Paul and Marilyn Hogan Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) |  | not listed |
 | [Pay It Forward Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $250 | not listed |
 | [Peggy Hanes Memorial Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
 | [PEO Nursing Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $750 | not listed |
@@ -138,6 +143,7 @@ Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
 | [Phyllis and Kenneth DeLap Memorial Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) |  | not listed |
 | [Pitt Family Endowed Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $1,000 | not listed |
 | [Power of ONE Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $500–$1,500 | not listed |
+| [Racheal Ambrose Stinson Memorial Scholarship](https://www.ivytech.edu/locations/anderson/local-student-resources/local-scholarships/) | $500 | not listed |
 | [Radiation Therapy Professional Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) |  | not listed |
 | [Randy & Kathy Vernon Endowed Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $1,800 | not listed |
 | [REALTORS Association of Central Indiana Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
@@ -146,6 +152,7 @@ Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
 | [Regions Bank Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $300 | not listed |
 | [Rex Veach Memorial Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
 | [Robbie Chapman III Fire Science Endowed Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $1,200 | not listed |
+| [Ross & Mary Jackson & Nell Smith Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
 | [Sandra Oliverio Green to Gold Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $1,000–$2,000 | not listed |
 | [Sandy DeMichieli Nursing Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $1,000 | not listed |
 | [School of Business Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) |  | not listed |
@@ -159,10 +166,13 @@ Indianapolis, IN · 1 open · 157 with no date listed · 0 closed (not shown)
 | [Sycamore Recreation Association Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) | $2,000 | not listed |
 | [Taylor Bros. Construction Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $2,500–$5,000 | not listed |
 | [Teresa F. Glazier Memorial Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
+| [Thelma C. Johnson Scholarship](https://www.ivytech.edu/locations/anderson/local-student-resources/local-scholarships/) | $1,000 | not listed |
 | [Thomas E. Kinzer Memorial Endowed Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $330 | not listed |
 | [Tina Holder Single Parent Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) |  | not listed |
+| [Tyson Foods Scholarship](https://www.ivytech.edu/locations/kokomo/local-campus-resources/local-scholarships/) |  | not listed |
 | [Walter and Elizabeth Nugent Nursing Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) | $1,000–$3,000 | not listed |
 | [Wilson Visual Communications Scholarship](https://www.ivytech.edu/locations/columbus/local-student-resources/local-scholarships/) |  | not listed |
+| [Wood/Brosher Memorial Scholarship](https://www.ivytech.edu/locations/anderson/local-student-resources/local-scholarships/) |  | not listed |
 | [Work Ethic Scholarship](https://www.ivytech.edu/locations/bloomington/local-student-resources/local-scholarships/) | $9,100 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

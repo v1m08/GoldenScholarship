@@ -1,6 +1,6 @@
 # Ursinus College scholarships
 
-Collegeville, PA · 6 open · 16 with no date listed · 0 closed (not shown)
+Collegeville, PA · 6 open · 17 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/ursinus-college-216524)**
 
@@ -23,6 +23,7 @@ Collegeville, PA · 6 open · 16 with no date listed · 0 closed (not shown)
 | [Phi Theta Kappa Scholarship](https://www.ursinus.edu/offices/financial-aid-and-scholarships/scholarship-opportunities/ursinus-offers-transfer-scholarships/phi-theta-kappa-scholarship/) | $43,000 | not listed |
 | [Phi Theta Kappa Scholarship - Ursinus College](https://www.ursinus.edu/offices/financial-aid-and-scholarships/scholarship-opportunities/ursinus-offers-transfer-scholarships/phi-theta-kappa-scholarship/) | $43,000 | not listed |
 | [Rhodes Scholarship](https://www.ursinus.edu/offices/scholarships-and-fellowships/) |  | not listed |
+| [Specialty Scholarships](https://www.ursinus.edu/offices/financial-aid-and-scholarships/scholarship-opportunities/specialty-scholarships/) | $10,000 | not listed |
 | [Thomas J. Watson Foundation Fellowship](https://www.ursinus.edu/offices/scholarships-and-fellowships/thomas-j-watson-fellowship/) |  | not listed |
 | [Transfer Ursinus Scholarship](https://www.ursinus.edu/offices/financial-aid-and-scholarships/ursinus-offers-transfer-scholarships/transfer-ursinus-scholarship/) | $40,000 | not listed |
 | [Udall Scholarship](https://www.ursinus.edu/offices/scholarships-and-fellowships/) |  | not listed |

@@ -1,6 +1,6 @@
 # Valdosta State University scholarships
 
-Valdosta, GA · 0 open · 39 with no date listed · 0 closed (not shown)
+Valdosta, GA · 0 open · 40 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/valdosta-state-university-141264)**
 
@@ -39,6 +39,7 @@ Valdosta, GA · 0 open · 39 with no date listed · 0 closed (not shown)
 | [RE: Lee Anthony Crews Scholarship](https://www.valdosta.edu/admissions/financial-aid/scholarships/) | $1,000 | not listed |
 | [Robert F. Barr Scholarship](https://www.valdosta.edu/admissions/financial-aid/scholarships/vsu-scholarship-available.php) |  | not listed |
 | [Steele Scholarship](https://www.valdosta.edu/admissions/financial-aid/scholarships/vsu-scholarship-available.php) |  | not listed |
+| [Tammy Lee Fortner Scholarship](https://www.valdosta.edu/admissions/financial-aid/scholarships/vsu-scholarship-available.php) |  | not listed |
 | [Thomas H. Moseley, M.D. Nursing Scholarship](https://www.valdosta.edu/admissions/financial-aid/scholarships/vsu-scholarship-available.php) |  | not listed |
 | [Threadgill-Thompson Pre-Engineering Scholarship](https://www.valdosta.edu/admissions/financial-aid/scholarships/vsu-scholarship-available.php) |  | not listed |
 | [Ty Cobb Scholarship](https://www.valdosta.edu/admissions/financial-aid/scholarships/vsu-scholarship-available.php) |  | not listed |

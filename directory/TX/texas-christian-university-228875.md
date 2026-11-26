@@ -1,6 +1,6 @@
 # Texas Christian University scholarships
 
-Fort Worth, TX · 6 open · 10 with no date listed · 0 closed (not shown)
+Fort Worth, TX · 6 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/texas-christian-university-228875)**
 
@@ -21,6 +21,7 @@ Fort Worth, TX · 6 open · 10 with no date listed · 0 closed (not shown)
 | [Renewal of Merit Scholarships](https://finearts.tcu.edu/art/apply-portfolio/scholarship-aid/index.php) |  | not listed |
 | [Talent-Based Merit Scholarships](https://finearts.tcu.edu/dance/apply-audition/scholarship-aid.php) |  | not listed |
 | [TCU Academic & Performance-Based Scholarships](https://finearts.tcu.edu/music/apply-audition/scholarship-aid.php) |  | not listed |
+| [TCU Grants](https://financialaid.tcu.edu/consumer-information/policies/aid-adjustments.php) |  | not listed |
 | [TCU Transfer Academic Scholarships](https://financialaid.tcu.edu/types-of-aid/scholarships/transfer-academic-scholarships.php) | $15,000–$30,000 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

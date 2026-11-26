@@ -1,6 +1,6 @@
 # Shippensburg University of Pennsylvania scholarships
 
-Shippensburg, PA · 1 open · 371 with no date listed · 0 closed (not shown)
+Shippensburg, PA · 1 open · 372 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/shippensburg-university-of-pennsylvania-216010)**
 
@@ -304,6 +304,7 @@ Shippensburg, PA · 1 open · 371 with no date listed · 0 closed (not shown)
 | [Richard J. Kostukovich Memorial Scholarship](https://ship.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Richard W. Tomlinson Basketball Scholarship](https://ship.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Rick and Linda Knepper Men's Basketball Scholarship](https://ship.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Rick Marlin Memorial Swimming Scholarship](https://ship.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Robert "Tiny" Adams Football Scholarship](https://ship.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Robert and Miriam Goodling Scholarship](https://ship.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Robert B. Gripshover, Jr. Memorial Baseball Scholarship](https://ship.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |

@@ -1,12 +1,13 @@
 # Villa Maria College scholarships
 
-Buffalo, NY · 0 open · 10 with no date listed · 0 closed (not shown)
+Buffalo, NY · 0 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/villa-maria-college-197142)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Administrative Affairs Council / Faculty Senate Scholarship](https://www.villa.edu/admissions/financial-aid/scholarships/) |  | not listed |
+| [Bison Scholarship](https://www.villa.edu/admissions/financial-aid/scholarships/) |  | not listed |
 | [Blessed Mary Angela Mission & Service Scholarship](https://www.villa.edu/admissions/financial-aid/scholarships/) |  | not listed |
 | [Buffalo Prep Scholarship](https://www.villa.edu/admissions/financial-aid/scholarships/) |  | not listed |
 | [Comebacker Grant](https://www.villa.edu/admissions/financial-aid/) | $1,000 | not listed |

@@ -1,6 +1,6 @@
 # Mississippi University for Women scholarships
 
-Columbus, MS · 8 open · 29 with no date listed · 2 closed (not shown)
+Columbus, MS · 8 open · 34 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/mississippi-university-for-women-176035)**
 
@@ -20,7 +20,11 @@ Columbus, MS · 8 open · 29 with no date listed · 2 closed (not shown)
 | [Bebe Roberts Freeman Scholarship](https://www.muw.edu/education/scholarships/freeman/) | $2,000 | not listed |
 | [Biology Scholarships](https://www.muw.edu/admissions/affordable/scholarships/departmental/) | $2,000 | not listed |
 | [Centennial Scholarship](https://www.muw.edu/admissions/affordable/scholarships/freshmen/) | $5,000 | not listed |
+| [Class of 1948 Award](https://www.muw.edu/education/scholarships/) |  | not listed |
 | [Culinary Arts Advisory Board Scholarship and Southern Grace Scholarship](https://www.muw.edu/admissions/affordable/scholarships/transfer/) |  | not listed |
+| [Dave Evans Internship Grants](https://www.muw.edu/hpg/scholarships/) |  | not listed |
+| [Dave Evans Memorial Scholarship](https://www.muw.edu/admissions/affordable/scholarships/departmental/) |  | not listed |
+| [Edsel F. & Joyce Y. Cooper Memorial Scholarship](https://www.muw.edu/hpg/scholarships/) |  | not listed |
 | [EMCC Tuition Guarantee Scholarship](https://www.muw.edu/admissions/affordable/scholarships/transfer/) |  | not listed |
 | [First Generation College Student Ambassador Scholarship](https://www.muw.edu/admissions/affordable/scholarships/freshmen/) | $8,000 | not listed |
 | [Geraldine Day Pruden Award](https://www.muw.edu/admissions/affordable/scholarships/departmental/) |  | not listed |
@@ -34,6 +38,7 @@ Columbus, MS · 8 open · 29 with no date listed · 2 closed (not shown)
 | [Mary Lou Peyton Study Abroad Scholarship](https://www.muw.edu/hpg/scholarships/) | $5,000 | not listed |
 | [Music Scholarship](https://www.muw.edu/admissions/affordable/scholarships/departmental/) |  | not listed |
 | [MUWAA Legacy Scholarship](https://www.muw.edu/admissions/affordable/scholarships/transfer/) | $2,500 | not listed |
+| [Peyton History Scholarship](https://www.muw.edu/hpg/scholarships/peyton/) | $10,000 | not listed |
 | [Peyton History Scholarships website](https://www.muw.edu/hpg/scholarships/peyton/) | $10,000 | not listed |
 | [Phi Theta Kappa Scholarship](https://www.muw.edu/admissions/affordable/scholarships/transfer/) | $2,000 | not listed |
 | [Phi Theta Kappa Scholarship - MUW](https://www.muw.edu/admissions/affordable/scholarships/transfer/) | $2,000 | not listed |

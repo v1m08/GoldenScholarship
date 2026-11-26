@@ -1,6 +1,6 @@
 # Minot State University scholarships
 
-Minot, ND · 401 open · 86 with no date listed · 1 closed (not shown)
+Minot, ND · 402 open · 112 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/minot-state-university-200253)**
 
@@ -167,6 +167,7 @@ Minot, ND · 401 open · 86 with no date listed · 1 closed (not shown)
 | [Helen Hoar Memorial French Scholarship](https://minotstateu.academicworks.com/opportunities/10257) |  | Feb 15, 2027 |
 | [Hillside Scholarship](https://minotstateu.academicworks.com/opportunities/10548) |  | Feb 15, 2027 |
 | [Honors Program Aspiring Scholar Scholarship](https://minotstateu.academicworks.com/opportunities/9937) | $200 | Feb 15, 2027 |
+| [Hooterville Flion Lions Edwin R. Hovrud Memorial Scholarship](https://minotstateu.academicworks.com/opportunities/10594) |  | Feb 15, 2027 |
 | [Howard Randall Scholarship](https://minotstateu.academicworks.com/opportunities/9898) |  | Feb 15, 2027 |
 | [Hugh Family Scholarship](https://minotstateu.academicworks.com/opportunities/10403) |  | Feb 15, 2027 |
 | [Hugo/Flossie Henke Scholarship](https://minotstateu.academicworks.com/opportunities/10041) |  | Feb 15, 2027 |
@@ -421,20 +422,27 @@ Minot, ND · 401 open · 86 with no date listed · 1 closed (not shown)
 | [Bert Skakoon String Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Bev Alex Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Beverly (Buchwitz) Huber Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Bob and Kathy Mau Hometown Pride Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Bob and Pat Nelson Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Brekka K. Kramer Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Clyde A. "Stretch" Nelson Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Cole Altringer Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Corbin Okeson Memorial Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Don and Betty Skari Family Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Dorothy Van Sickle Music Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Douglas and Patti Bengson Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Douglas G. Lockrem Memorial Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Douglas J. Jaeger Memorial Basketball Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Dr. David Williams Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Dr. Joseph M. and Jackie Hegstad Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Duane "Dewy" Block Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Duane D. and Lois M. Dockter Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Empire Volleyball Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Evelyn R. Nielsen Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Evelyn Sampson Music Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Fabricius-Steinle Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Francis Leach-Blanche Lynch Memorial Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Frank and Olga Bauman Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Gary Stenehjem Organ Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Gay Gidley King Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [George Kaczor Athletic Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
@@ -444,24 +452,32 @@ Minot, ND · 401 open · 86 with no date listed · 1 closed (not shown)
 | [Harvey and Arlone Twyman Scholarship (Art)](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Harvey and Arlone Twyman Scholarship for Literature](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Humanities Scholarship](https://www.minotstateu.edu/art/scholarships.shtml) |  | not listed |
+| [James M. Feller Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Janelle "Jehlicka" Verhey Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Jeanne M. Sandberg Music Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Jerry Meyer Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Jerry Michael Stai Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Jim and Norma Swanson Choir Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Jim Thorpe Memorial Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Joan Mattson Scholarship in Memory of Kevin Mattson](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [John and Ann Jermiason Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [John and Patricia Strohm Music Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [John and Wendy Schaffer Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Judy A. Spitzer Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Kathy (Sayler) and Tim Peil Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Keith and Patricia White Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Ken Becker Athletic Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Kenneth and DeVera Bowles Voice Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Kevin and Leisa Harmon Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Larry Fiedler Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Leona R. Rubbelke Memorial Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Lunday Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Lyle C. Hanson Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Lynne and Jon Rumney Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Mary Lou Soukup Excellence in Music Education Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Maynard and Jeanne Sandberg Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [McNally Family Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Mike Berg Memorial Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Minot MatWrats Wrestling Club Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Minot Symphony Association Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Minot Symphony League Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
@@ -470,13 +486,17 @@ Minot, ND · 401 open · 86 with no date listed · 1 closed (not shown)
 | [NDCPD Access Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Nell E. Boonzenny Sander Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Norgaard-Jensen Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Northwest International Music Festival Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Pat and Jackie Limke Family Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Pat and ReNae Wheeler Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Paul and Sherri Tefft Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Peoples State Bank of Velva Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Power of 1 Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [R.J. Doebler Family Memorial Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Ralph Wallin Keyboard Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Randy Hedberg Athletic Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Rebecca Hill Medical Lab Science Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Richard and Marlene Westlake Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Richard R. and Joyce Eckart Family Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Robert and Jo Ann Skabo Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Robert Deardurff Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
@@ -486,12 +506,19 @@ Minot, ND · 401 open · 86 with no date listed · 1 closed (not shown)
 | [Ruth Schell Overholser Fellowship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Ruth Schell Overholser Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Sadie, Alexander and Dr. John A. Harchanko Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Sally Thomas Violin Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Sarah Martinsen Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Sertoma Club of Minot Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Stacy and Brent Askvig Women's Wrestling Academic Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Stockman Sisters Music Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Terry and Lynne Summers Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Theatre Scholarships](https://www.minotstateu.edu/music/scholarships.shtml) |  | not listed |
 | [Tim L. and Lynn M. Smith Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Tonya and Todd Hunskor Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Vence Elgie Athletic Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Verendrye Electric Cooperative Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Wiley Wilson Athletic Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
+| [Wilhelmina Thompson Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 | [Zach Anderson Wrestling Scholarship](https://catalog.minotstateu.edu/undergraduate/financialinformationservicesorganizations/financialinformation/undergraduateawardprogram/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

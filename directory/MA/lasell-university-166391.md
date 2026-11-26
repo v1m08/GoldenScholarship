@@ -1,6 +1,6 @@
 # Lasell University scholarships
 
-Newton, MA · 2 open · 25 with no date listed · 0 closed (not shown)
+Newton, MA · 2 open · 31 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/lasell-university-166391)**
 
@@ -20,16 +20,22 @@ Newton, MA · 2 open · 25 with no date listed · 0 closed (not shown)
 | [Gilbert Grant](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Jason C. Georgilas Endowed Scholarship Fund](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Jean '49 and Cynthia '78 Sargent Lee Endowed Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
+| [Joan Howe Weber '51 Endowed Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [John O. and Celia Kinsley Percival '34 Endowed Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Lasell University Alumni Association Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Lasell University Awards](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Lasell University Grant](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
+| [Lucille Huse Chapell '37 Endowed Scholarship Fund](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Lucy Johnston Sypher Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
+| [Marion E. Steinmetz '50 Endowed Scholarship Fund](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Max M. and Marian M. Farash Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Molly E. Upham '35 Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Norma MacLeod Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Rosalie Brightman Rosen Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
+| [Sebastian F. Mignosa Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Sylvia Goodman Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
+| [Toni Kennedy Gelotte '56 Endowed Scholarship Fund](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
+| [Virginia Thomas Baxter '39 Endowed Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Ward-de Witt Presidential Endowed Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [William E. Schrafft and Bertha E. Schrafft Memorial Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |
 | [Williams Morgan Scholarship](https://www.lasell.edu/tuition-and-aid/types-of-financial-aid/scholarships-and-grants.html) |  | not listed |

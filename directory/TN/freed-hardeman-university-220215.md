@@ -1,11 +1,12 @@
 # Freed-Hardeman University scholarships
 
-Henderson, TN · 2 open · 84 with no date listed · 254 closed (not shown)
+Henderson, TN · 3 open · 84 with no date listed · 254 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/freed-hardeman-university-220215)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Hope Scholarship](https://fhu.edu/admissions-aid/financial-aid/grants-scholarships-discounts/hope-scholarship/) | $2,000–$5,700 | Feb 1, 2027 |
 | [Fhu James A. Garfield Award](https://fhu.edu/admissions-aid/financial-aid/grants-scholarships-discounts/) |  | Apr 14, 2027 |
 | [The Roy and Clara Shannon Endowed Scholarship](https://fhu.academicworks.com/opportunities/9325) |  | Jun 30, 2027 |
 | [Aspire Award](https://fhu.edu/admissions-aid/financial-aid/grants-scholarships-discounts/hope-scholarship/) | $1,500 | not listed |

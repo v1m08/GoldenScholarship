@@ -1,6 +1,6 @@
 # Northern Illinois University scholarships
 
-Dekalb, IL · 309 open · 7 with no date listed · 1 closed (not shown)
+Dekalb, IL · 310 open · 7 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/northern-illinois-university-147703)**
 
@@ -222,6 +222,7 @@ Dekalb, IL · 309 open · 7 with no date listed · 1 closed (not shown)
 | [Wheeler Memorial Endowed Scholarships](https://niu.academicworks.com/opportunities/28570) | $2,000 | Jan 31, 2027 |
 | [William & Dian Taylor Endowed Scholarship in Accountancy](https://niu.academicworks.com/opportunities/28832) | $10,000 | Jan 31, 2027 |
 | [William C. Johnson Sigma Tau Delta Scholarship](https://niu.academicworks.com/opportunities/29049) |  | Jan 31, 2027 |
+| [NIU Campus Housing Grant](https://www.niu.edu/financial-aid/grants/housing/index.shtml) | $2,500 | Feb 1, 2027 |
 | [Belong in STEM Scholars Program](https://niu.academicworks.com/opportunities/29179) | $15,000 | Mar 1, 2027 |
 | [Dr. Russell W. Smith Memorial Endowment in Political Science](https://niu.academicworks.com/opportunities/28430) | $1,000 | Mar 1, 2027 |
 | [Honors Transfer Scholarships](https://www.niu.edu/financial-aid/scholarships/merit/transfers.shtml) | $1,000 | Mar 1, 2027 |

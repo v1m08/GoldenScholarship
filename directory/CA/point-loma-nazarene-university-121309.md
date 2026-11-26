@@ -1,6 +1,6 @@
 # Point Loma Nazarene University scholarships
 
-San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
+San Diego, CA · 0 open · 268 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/point-loma-nazarene-university-121309)**
 
@@ -11,8 +11,10 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Alfred Henry Stagner and Erma Marie Stagner/Classen Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Alice Regan Floyd and Joshua William Floyd Endowed Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Allison Carley Dahm Memorial Art and Design Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Almgren Heritage Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Alonzo and Fay Davis Memorial Athletic Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Alumni in Business Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Alvarado Health Foundation Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Barbara Mahaffie Secondary Education Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Benjamin David Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Berniece Hughes Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -26,12 +28,14 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Binkley Family Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Bob and Mary Irvine Child and Adolescent Development Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Boyd Shannon Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Brad Oliver Physicians Assistant Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Braille Transcribers Guild Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Brother Charles Panoyan Minister Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Byron L. Crume Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Carlton L. Burlison M.D. Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Carroll B. Land and Barbara Land Endowed Athletic Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Cartwright/Foster Endowed Basketball Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Cecil Raymond and Grace Newman De Lancy Religion Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Cecil Rhodes Curtis and Elizabeth Rupp Curtis Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Cecil W. Miller Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Chester and Inez Robinson Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -48,6 +52,7 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Claude Routh Endowed Physics Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Clem and Jean Brown Endowed Missions Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Clifton Endowed Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Crosby and Ruth V. Panoyan Sports Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Crume Women's Basketball and Volleyball Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [D. Briggs Family Endowed Nursing Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Dan and Damen Lopez Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -59,6 +64,7 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [David McKee Student Research Scholarship Fund in Chemistry](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Deal and Lois VanDeGrift Family Ministry Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [DeCristofaro-Rogers Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Della Mendenhall Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Dewey and Elizabeth Sykes Memorial Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Doctors Kenneth and Verna Frey Memorial Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Don and Dottie Windoffer Memorial Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -71,6 +77,7 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Dr. (Prof) Clifford S. Fisher and William D. (Pop) Moore Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Dr. and Mrs. Kimber Moulton Memorial Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Dr. Bob and Linda Brower Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Dr. Deana Raley Noble Public Health Nursing Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Dr. Esther and Paul Allen Endowed Science Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Dr. Lee and Sandy Jenkins Education Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Dr. Robert and Carolyn Scott Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -78,8 +85,10 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Ed and Bee Stueve Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Edward M. Nagel Endowment Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Edwin (Jack) and Phyllis Horst Webb Engineering and Physics Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Elizabeth Anne Wetzel Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Elmer L. and Ruby W. Ward Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Elva Pedersen Jorgenson Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Eva J. Hylton Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Ewell and Donna Gunter Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Floyd and Florence E. Turner Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Fordyce Bennett Literature Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -104,6 +113,7 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Harold E. Young Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Harold J. Wadley Family Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Harold L. Shaulis Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Harold Lloyd Greer Nursing Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Harold W. Potter, Jr. Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Harriet Phyllis McAlpin Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Harry and Katherine Wiese Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -112,7 +122,9 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Hector E. Salinas Family Endowed Latino/Hispanic Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Helping Hands Medical Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Helping Hands Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Herbert and Betty Prince Philosophy Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Herman and Laura Wolf Endowed Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Hiepler Pre-Law Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Hilda Buttress Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Howard and Adda Farmer Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Hugh and Maxine McNeilly Athletic Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -130,6 +142,7 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Jennifer Hallen Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Jerri Teegarden Nursing Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Jessie McCain Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Jim L. Bond Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [John and Carolyn Hodel Music Ministry Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [John and Leona Alden Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [John and Linnea Entner Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -153,11 +166,14 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [L. Paul and Martha Gresham Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Larry Finger Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Larry Hester Endowed Baseball Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Laura Mae Douglass Endowed Nursing Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Lawrence and Mildred Schauer Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Lee and Leona Arce Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Leland and Esther Smoot Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Lelande and Aletah A. Quick Endowed Nursing Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Leona E. Doudy Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Leona Webber Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Leonard and Una Mae Goodwin Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Leslie Jordan Wilson Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Lewis R. and Barbara R. Thompson Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Lighthouse Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -165,6 +181,7 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Litwiller Endowed Nursing Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Los Angeles District Paul Benefiel Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Louis and Esther Hill Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Luis and Lupe Aguirre Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [M.A. Merriman and Atha D. Merriman Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Marcie Ann Weintraub Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Marie Amis Endowment Fund Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -208,11 +225,13 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Rebecca Rose Scharn Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Redding International Student Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Reese and Ellen Verner Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Research Associates Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Reuben Welch Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Rev. Carl D. Klusmann Endowed Ministerial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Rev. Vernon E. and Ruth L. Thomas Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Reverend Albert and Lonnie Wideman Memorial Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Richard A. and Juanita M. Schlagel Family Endowed Education Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Richard B. Hill Accounting Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Richard E. Matlock, CPA Endowed Accounting Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Richard Hesse Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Richard W. Cherry Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -224,6 +243,7 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Ron Lush, Sr. Memorial Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Ronald Schmidt Memorial Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Ross and Sharon Irwin Endowed Scholarship Fund](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Roy L. and Georgia M. Condren Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Rudolph E. and M. Grace Wulfsberg Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Ruth and Carolyn Downey Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Ruth and Walter Schaeffer Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
@@ -249,7 +269,10 @@ San Diego, CA · 0 open · 245 with no date listed · 0 closed (not shown)
 | [Violet Precious Wordsworth and Kay Wordsworth Wilder Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Virgil and Retha Shoemaker Multicultural Student Endowed Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [Wilbert E. Little Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Wilbur W. Bateman Jr. Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [Wilburn W. Bateman Jr. Memorial Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [William C. and Thelma Rhone Graduate Education Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
+| [William H. Trowbridge Educational Trust](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 | [William Jack Stone Scholarship](https://www.pointloma.edu/give/where-give/endowed-scholarship-list) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

@@ -1,6 +1,6 @@
 # SUNY Brockport scholarships
 
-Brockport, NY · 360 open · 19 with no date listed · 15 closed (not shown)
+Brockport, NY · 360 open · 23 with no date listed · 15 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/suny-brockport-196121)**
 
@@ -369,21 +369,25 @@ Brockport, NY · 360 open · 19 with no date listed · 15 closed (not shown)
 | [4 Year On Campus Scholarships](https://www.brockport.edu/academics/military-science/undergraduate-financial-options/) |  | not listed |
 | [Army ROTC Nursing Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/rotc/) |  | not listed |
 | [Army ROTC Residence Hall Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/rotc/) |  | not listed |
+| [Army ROTC Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/rotc/) |  | not listed |
 | [Collegiate Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/) | $1,500 | not listed |
 | [Commuter Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/) | $1,500–$2,000 | not listed |
 | [Eagle Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/) |  | not listed |
 | [Empire Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/) | $4,000 | not listed |
 | [EOC Maxine Gooden Scholarship](https://brockport.academicworks.com/opportunities/4289) |  | not listed |
+| [Excelsior Scholarship](https://www.brockport.edu/scholarships-aid/excelsior/) | $7,070 | not listed |
 | [Fannie Barrier Williams Scholars Program](https://www.brockport.edu/scholarships-aid/scholarships/fannie-barrier-williams-scholars/) |  | not listed |
 | [Gold Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/) | $4,500 | not listed |
 | [Green Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/) | $2,500 | not listed |
 | [Guaranteed Reserve Forces Duty Army ROTC Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/rotc/) | $18,000 | not listed |
+| [Honors Scholarship](https://www.brockport.edu/academics/honors-college/terms-of-award/) | $1,000 | not listed |
 | [Honors/Prometheus Award](https://www.brockport.edu/scholarships-aid/international-scholarships/) | $3,000 | not listed |
 | [McCue Scholarships](https://brockport.academicworks.com/opportunities/12702) |  | not listed |
 | [Nature of Award](https://www.brockport.edu/academics/honors-college/terms-of-award/) | $1,000 | not listed |
 | [Nursing Scholarship](https://www.brockport.edu/academics/military-science/undergraduate-financial-options/) |  | not listed |
 | [Prometheus Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/) | $6,000 | not listed |
 | [Residential Scholarship](https://www.brockport.edu/scholarships-aid/scholarships/) | $3,000–$3,500 | not listed |
+| [ROTC Scholarships](https://www.brockport.edu/academics/military-science/undergraduate-financial-options/) |  | not listed |
 | [Steve Lewine '80 Global Engagement Study Abroad Scholarship](https://brockport.academicworks.com/opportunities/12279) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

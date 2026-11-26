@@ -1,12 +1,13 @@
 # Brookdale Community College scholarships
 
-Lincroft, NJ · 2 open · 8 with no date listed · 0 closed (not shown)
+Lincroft, NJ · 3 open · 8 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/brookdale-community-college-183859)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Huber-Kreger Scholarship](https://www.brookdalecc.edu/advancement/brookdale-foundation/available-scholarships/) | $1,000 | May 2, 2027 |
+| [America's Lemon Lawyer Scholarship](https://americaslemonlawyer.com/scholarship) | $1,000 | May 31, 2027 |
 | [Elaine Baran Scholarship for Study Abroad](https://www.brookdalecc.edu/advancement/brookdale-foundation/available-scholarships/) | $1,500 | Oct 15, 2027 |
 | [Eglet Law Community Involvement Scholarship](https://www.brookdalecc.edu/advancement/brookdale-foundation/available-scholarships/) | $1,000 | not listed |
 | [Finch College Alumni Foundation Trust Transferring Scholarship](https://www.brookdalecc.edu/advancement/brookdale-foundation/available-scholarships/) | $2,500 | not listed |

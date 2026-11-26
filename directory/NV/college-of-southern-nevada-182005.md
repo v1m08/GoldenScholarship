@@ -1,6 +1,6 @@
 # College of Southern Nevada scholarships
 
-Las Vegas, NV · 6 open · 7 with no date listed · 1 closed (not shown)
+Las Vegas, NV · 7 open · 7 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/college-of-southern-nevada-182005)**
 
@@ -9,6 +9,7 @@ Las Vegas, NV · 6 open · 7 with no date listed · 1 closed (not shown)
 | [CSN Mission Graduation Scholarship](https://www.csn.edu/commencement/mission-graduation-scholarship) | $500 | Nov 30, 2026 |
 | [A Bright Start Scholarship](https://www.csn.edu/csn-bright-star-scholarship) |  | Dec 13, 2026 |
 | [CSN Bright Start Scholarship](https://www.csn.edu/csn-bright-star-scholarship) |  | Dec 13, 2026 |
+| [Boren Scholarships](https://www.borenawards.org/apply-now) |  | Jan 27, 2027 |
 | [CSN Campus Engagement Scholarship](https://www.csn.edu/coyote-life-and-campus-engagement-scholarship) | $500 | Apr 13, 2027 |
 | [CSN First Time Bachelor's Scholarship](https://www.csn.edu/first-time-bachelors-scholarship) | $2,000 | Jul 1, 2027 |
 | [CSN First-Time Bachelor's Degree Scholarship](https://www.csn.edu/first-time-bachelors-scholarship) | $2,000 | Jul 1, 2027 |

@@ -1,6 +1,6 @@
 # New Mexico State University-Main Campus scholarships
 
-Las Cruces, NM · 5 open · 16 with no date listed · 0 closed (not shown)
+Las Cruces, NM · 5 open · 19 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/new-mexico-state-university-main-campus-188030)**
 
@@ -14,11 +14,14 @@ Las Cruces, NM · 5 open · 16 with no date listed · 0 closed (not shown)
 | [1888 Leadership Out-of-State Scholarship](https://fa.nmsu.edu/scholarships/index.html) |  | not listed |
 | [1888 Leadership Transfer Scholarship](https://fa.nmsu.edu/scholarships/index.html) | $2,500 | not listed |
 | [4-H Adult Leader Scholarship](https://eanm.nmsu.edu/scholarships.html) | $500 | not listed |
+| [A' Mountain Merit Transfer Scholarship](https://admissions.nmsu.edu/cost-and-aid/scholarships.html) |  | not listed |
 | [Aip Scholarships](https://aip.nmsu.edu/scholarships/index.html) |  | not listed |
 | [Air Force and Army ROTC Scholarships at NMSU](https://airforcerotc.nmsu.edu/scholarships1/scholarships.html) |  | not listed |
 | [Conroy Honors Scholars](https://honors.nmsu.edu/for-students/conroy-scholars.html) | $6,000 | not listed |
 | [Crimson Success Out-of-State Scholarship](https://fa.nmsu.edu/scholarships/index.html) |  | not listed |
 | [Crimson Success Scholarship](https://admissions.nmsu.edu/cost-and-aid/scholarships.html) | $3,000 | not listed |
+| [emroy Shannon Scholarship](https://www.communityfoundationofsouthernnewmexico.org/apply-for-a-scholarship/) |  | not listed |
+| [Hadley Honors Out-of-State Scholarship](https://fa.nmsu.edu/scholarships/index.html) |  | not listed |
 | [Hadley Honors Transfer Scholarship](https://fa.nmsu.edu/scholarships/index.html) | $3,000 | not listed |
 | [Leonard R. and Lois I. Sugerman Health Sciences Scholarship Fund](https://www.communityfoundationofsouthernnewmexico.org/apply-for-a-scholarship/) |  | not listed |
 | [Mary Moore Memorial Scholarship](https://eanm.nmsu.edu/scholarships.html) | $1,000 | not listed |

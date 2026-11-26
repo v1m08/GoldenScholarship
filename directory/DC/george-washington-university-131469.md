@@ -1,6 +1,6 @@
 # George Washington University scholarships
 
-Washington, DC · 729 open · 14 with no date listed · 0 closed (not shown)
+Washington, DC · 729 open · 16 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/george-washington-university-131469)**
 
@@ -735,8 +735,10 @@ Washington, DC · 729 open · 14 with no date listed · 0 closed (not shown)
 | [Zack D. Martin 2020 Annual Scholarship Fund](https://gwu.academicworks.com/opportunities/9352) |  | May 14, 2027 |
 | [Zhang and Wang Endowed Scholarship Fund](https://gwu.academicworks.com/opportunities/10512) |  | May 14, 2027 |
 | [Zhang Family Scholarships](https://gwu.academicworks.com/opportunities/9818) |  | May 14, 2027 |
+| [Alpha Beta Gamma Scholarship](https://undergraduate.admissions.gwu.edu/alpha-beta-gamma-scholarship) | $15,000 | not listed |
 | [Animal Law Scholarships](https://www.law.gwu.edu/animal-law-scholarships) |  | not listed |
 | [Cisneros Scholars](https://undergraduate.admissions.gwu.edu/cisneros-scholars) |  | not listed |
+| [Clark Engineering Scholarship](https://undergraduate.admissions.gwu.edu/clark-engineering-scholarship) |  | not listed |
 | [D.C. Community Scholarships](https://undergraduate.admissions.gwu.edu/financial-aid/scholarships-aid) | $7,500 | not listed |
 | [DC Tuition Assistance Grant (DC TAG)](https://undergraduate.admissions.gwu.edu/financial-aid/scholarships-aid) | $2,500 | not listed |
 | [District Scholars Program](https://undergraduate.admissions.gwu.edu/district-scholars-program) | $2,500 | not listed |

@@ -1,6 +1,6 @@
 # Temple University scholarships
 
-Philadelphia, PA · 48 open · 170 with no date listed · 3 closed (not shown)
+Philadelphia, PA · 48 open · 198 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/temple-university-216339)**
 
@@ -70,6 +70,7 @@ Philadelphia, PA · 48 open · 170 with no date listed · 3 closed (not shown)
 | [Beatrice Deglin Leder Film and Video Award Fund (Graduate)](https://tfma.temple.edu/life-tfma/resources-opportunities/tfma-scholarships) |  | not listed |
 | [Beatrice Deglin Leder Theater Award Fund](https://tfma.temple.edu/life-tfma/resources-opportunities/tfma-scholarships) |  | not listed |
 | [Bernard and Susan Master Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Bertha Pasternak Feldman Scholarship](https://studentaffairs.temple.edu/who-we-are/departments/disability-resources-services/registered-students/whats-happening/scholarships) |  | not listed |
 | [Betty Souder Frese Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Bitman Family Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [BK Specialty Foods/Judith L. Kratchman Endowed Scholarship Fund](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
@@ -83,29 +84,38 @@ Philadelphia, PA · 48 open · 170 with no date listed · 3 closed (not shown)
 | [Bryan K. Monroe Scholarship Fund](https://klein.temple.edu/admissions/klein-college-scholarships) |  | not listed |
 | [Charles '23, '34 and Alice SBM '27 Krausz Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [CIEE Scholarships](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/ciee-scholarships) |  | not listed |
+| [Computer and Information Sciences Junior Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
+| [Computer and Information Sciences Student Leadership Award](https://cst.temple.edu/scholarship-and-awards/cst-awards) |  | not listed |
 | [Constellation Energy Scholarship](https://engineering.temple.edu/students/our-students/scholarships) |  | not listed |
 | [Creative Arts, Research, And Scholarship (CARAS) Program](https://www.fox.temple.edu/academics/advising/awards-scholarships) | $3,000 | not listed |
 | [Critical Language Scholarships for Intensive Summer Institutes](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/critical-language-scholarships-intensive-summer-institutes) |  | not listed |
 | [CST Awards](https://cst.temple.edu/scholarship-and-awards/cst-awards) |  | not listed |
 | [CST Scholarships Rewarding academic excellence CST Scholarships](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
+| [D.H. Temple Alumni Scholarship Fund](https://engineering.temple.edu/students/our-students/scholarships) |  | not listed |
 | [David and Florence Newman Scholarship](https://klein.temple.edu/admissions/klein-college-scholarships) |  | not listed |
 | [David Brookstein Family Scholarship To Make Good Things Happen Fund](https://engineering.temple.edu/students/our-students/scholarships) |  | not listed |
 | [Delores M. Andy Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Delores W. DeShields Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Diane M. Rencevicz Memorial Scholarship](https://klein.temple.edu/study-away/financing-study-away/study-away-scholarships) |  | not listed |
 | [Dr. and Mrs. George K. Schacterle Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Dr. and Mrs. Jack Schreffler Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Dr. and Mrs. Richard R. Roccapriore Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Dr. and Mrs. William Long Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Dr. and Mrs. William Ziegler Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Dr. Benjamin Altschuler Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Dr. Gallman-Stelmach Endowed Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Dr. Harold D. Schoenhaus Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Dr. James Conwell White and Nancy L. White Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Dr. John Buckholz and Dr. Harold Vogler Surgical Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Dr. Lorraine H. Kligman Endowed Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
 | [Dr. Muriel Apfelberg Brownstein Science and Math Education Endowed Scholarship Fund](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
 | [Dr. Nina W. Hillman Memorial Award](https://cst.temple.edu/scholarship-and-awards/cst-awards) |  | not listed |
+| [Dr. Paul G. & Beatrice Zackon Physics Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
 | [E. Dalton McGlamry, DPM '54 Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [E. Lewis Gray Memorial Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Edward and Frances Fineman Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
 | [Edwin B. Martin, Jr., Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Edwin J. (DPM '41) and Helen L. Kay Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Elias & Kiki Vekkos Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) | $2,000 | not listed |
 | [Elizabeth Hicklin Barber Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Emilio A. Puzo, DPM '97, Parsippany Foot and Ankle Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
@@ -149,23 +159,32 @@ Philadelphia, PA · 48 open · 170 with no date listed · 3 closed (not shown)
 | [James F. Donovan, DPM Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [James Johnson '78 Memorial Scholarship](https://klein.temple.edu/study-away/financing-study-away/study-away-scholarships) |  | not listed |
 | [James V. Ganley, DPM '54 Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Jasco Analytical Award](https://cst.temple.edu/scholarship-and-awards/cst-awards) |  | not listed |
 | [Jason Schoenagle '94 Award Fund](https://tfma.temple.edu/life-tfma/resources-opportunities/tfma-scholarships) |  | not listed |
 | [Jeffrey W. Montague Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Joel M. and Lenore Lewis Abels Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
+| [John & Cheri Morris Scholarship](https://engineering.temple.edu/students/our-students/scholarships) |  | not listed |
 | [John A. Poole Memorial Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
+| [John J. Orlando, Jr., DPM Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [John Mannino Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
+| [Joshua A. Winheld/Charlotte W. Newcombe Scholarship](https://studentaffairs.temple.edu/who-we-are/departments/disability-resources/get-involved/scholarships/joshua-winheldcharlotte-w-newcombe-scholarship) |  | not listed |
 | [Jules J. Sheldon, D.D.S Endowed Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
+| [Kate L. Paine Memorial Scholarship in Peripheral Vascular Disease Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Kevin Mahan Memorial Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Korman Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Leon E. Kehr, DPM Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Leonard Hymes, DPM '41 Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Lew Klein Excellence in the Media Scholarship](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/lew-klein-excellence-media-scholarship) |  | not listed |
 | [Lillian K. Seibert, DPM '43 Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Linda Higgison Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Louis Zulli, DPM Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Louis, DPM '35 and Ruth Newman Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Manning Smith, DPM, '39 Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Marie Baker Brown Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Mark Berger Memorial Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
 | [Marshall Scholarships](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/marshall-scholarships) |  | not listed |
 | [Marthe Lavallee-Williams Study Abroad Scholarships](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/marthe-lavallee-williams-study-abroad-scholarships) | $2,000 | not listed |
+| [Matthew Hollander/Charlotte W. Newcombe Scholarship](https://studentaffairs.temple.edu/who-we-are/departments/disability-resources/matthew-hollandercharlotte-w-newcombe-scholarship) |  | not listed |
 | [Maureen L. Mattiacci Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) | $2,000 | not listed |
 | [Michael Q. Davis Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Milan Loncar Memorial Scholarship](https://engineering.temple.edu/students/our-students/scholarships) |  | not listed |
@@ -183,14 +202,19 @@ Philadelphia, PA · 48 open · 170 with no date listed · 3 closed (not shown)
 | [Paul R. Quintavalle, Sr., DPM '40 Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Pelligrino Family Scholarship](https://klein.temple.edu/admissions/klein-college-scholarships) |  | not listed |
 | [Pennsylvania Convention Center Authority Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
+| [Philadelphia Section of The American Chemical Society Award](https://cst.temple.edu/scholarship-and-awards/cst-awards) |  | not listed |
 | [President and Provost's Tuition Scholarships](https://sfs.temple.edu/policies/academic-merit-tuition-scholarships) |  | not listed |
 | [Ready to Succeed Scholarship](https://sfs.temple.edu/financial-aid-types/grants/pheaa-grants-scholarships) | $2,500 | not listed |
 | [Rebound Medical, LLC Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Rhodes Scholarships](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/rhodes-scholarships) |  | not listed |
 | [Richard Asher Paclin Memorial Award](https://cst.temple.edu/scholarship-and-awards/cst-awards) |  | not listed |
 | [Richard C. Haas II Award Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Richard DiNapoli, DPM '85 Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Richard E. Adler, DPM '77 Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Richard G. Stuempfle, DPM '55, Endowed Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Richard Kramer Memorial Award](https://cst.temple.edu/scholarship-and-awards/cst-awards) |  | not listed |
+| [Robert H. Creamer Scholarship](https://engineering.temple.edu/students/our-students/scholarships) |  | not listed |
+| [Samuel Turrisi, DPM '48 Memorial Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Saxbys Fellows Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [School for Field Studies Scholarships](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/school-field-studies) |  | not listed |
 | [School of Podiatric Medicine Alumni Association Endowed Scholarship and Annual Award](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
@@ -199,6 +223,7 @@ Philadelphia, PA · 48 open · 170 with no date listed · 3 closed (not shown)
 | [Seda Tarzian Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
 | [Shirley and Bernard Brown Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
 | [Shirley Seave Memorial Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Shital Sharma, DPM and Siddhartha Sharma, DPM Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [SIT (School for International Training) Scholarships](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/sit-school-international-training-scholarships) | $500–$5,000 | not listed |
 | [Sloviter Student Research Award](https://cst.temple.edu/scholarship-and-awards/cst-awards) |  | not listed |
 | [Society of the Sons of St. George Scholarship](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/society-sons-st-george-scholarship) |  | not listed |
@@ -208,8 +233,11 @@ Philadelphia, PA · 48 open · 170 with no date listed · 3 closed (not shown)
 | [Stephen and Rhoda Davis Scholarship](https://cst.temple.edu/academics/scholarships-and-awards/cst-scholarships) |  | not listed |
 | [STHM Alumni Association Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [STHM Endowed Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
+| [STHM International Travel Scholarship](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [STHM Senior Seminar Endowed Scholarship Fund](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Straight Arrow Products, Inc. Scholarship Fund](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
+| [Sue Shapiro STHM Travel Scholarship Fund](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
+| [T. George Downs Scholarship](https://podiatry.temple.edu/admissions/financial-aid/scholarships) |  | not listed |
 | [Tamara Gilmore Scholarship Fund](https://sthm.temple.edu/current-students/scholarships/) |  | not listed |
 | [Ted Vassallo Sr. Memorial Scholarship](https://engineering.temple.edu/students/our-students/scholarships) |  | not listed |
 | [Temple Summer in Germany: Intensive German Language (Leipzig) Study Abroad Scholarship](https://studyabroad.temple.edu/planning-resources/financing-study-abroad/scholarships/temple-summer-germany-intensive-german-language-leipzig-study-abroad-scholarship) | $1,000 | not listed |

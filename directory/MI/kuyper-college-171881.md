@@ -1,6 +1,6 @@
 # Kuyper College scholarships
 
-Grand Rapids, MI · 1 open · 6 with no date listed · 0 closed (not shown)
+Grand Rapids, MI · 1 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/kuyper-college-171881)**
 
@@ -10,6 +10,7 @@ Grand Rapids, MI · 1 open · 6 with no date listed · 0 closed (not shown)
 | [Alumni Scholarship](https://www.kuyper.edu/tuition-aid/scholarships-and-grants/) | $500 | not listed |
 | [Canadian Grant-in-Aid](https://www.kuyper.edu/tuition-aid/financial-aid/applying-for-financial-aid/) |  | not listed |
 | [Children of Veterans Tuition Grant](https://www.kuyper.edu/tuition-aid/scholarships-and-grants/) | $2,800 | not listed |
+| [Every Square Inch Award](https://www.kuyper.edu/tuition-aid/scholarships-and-grants/) |  | not listed |
 | [Fostering Futures Scholarship](https://www.kuyper.edu/tuition-aid/scholarships-and-grants/) |  | not listed |
 | [Sibling Scholarship](https://www.kuyper.edu/tuition-aid/scholarships-and-grants/) | $500 | not listed |
 | [Youth Minister Referral Scholarship](https://www.kuyper.edu/tuition-aid/scholarships-and-grants/) | $500–$2,000 | not listed |

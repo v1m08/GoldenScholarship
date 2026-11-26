@@ -1,6 +1,6 @@
 # University of Arkansas scholarships
 
-Fayetteville, AR · 745 open · 43 with no date listed · 236 closed (not shown)
+Fayetteville, AR · 745 open · 51 with no date listed · 236 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-arkansas-106397)**
 
@@ -768,6 +768,7 @@ Fayetteville, AR · 745 open · 43 with no date listed · 236 closed (not shown)
 | [First-Year Advantage Scholarship - University of Arkansas](https://scholarships.uark.edu/guide-to-academic-freshman-scholarships/arkansas-freshman-scholarships.php) | $5,000 | not listed |
 | [Gordon Morgan Family Scholarship](https://studentaffairs.uark.edu/scholarships.php) |  | not listed |
 | [Gordon Morgan Scholarship](https://studentaffairs.uark.edu/scholarships.php) |  | not listed |
+| [Henry Woods Leadership Scholarship](https://studentaffairsbulletin.uark.edu/henry-woods-student-leadership-award/) |  | not listed |
 | [Henry Woods Student Leadership Award](https://studentaffairs.uark.edu/scholarships.php) |  | not listed |
 | [Honors College Academy Connection Scholarship](https://scholarships.uark.edu/guide-to-academic-freshman-scholarships/arkansas-freshman-scholarships.php) | $4,000 | not listed |
 | [Honors College Academy Connection Scholarship - University of Arkansas](https://scholarships.uark.edu/guide-to-academic-freshman-scholarships/arkansas-freshman-scholarships.php) | $4,000 | not listed |
@@ -775,6 +776,7 @@ Fayetteville, AR · 745 open · 43 with no date listed · 236 closed (not shown)
 | [In-State New Freshman Academic Scholarships](https://scholarships.uark.edu/guide-to-academic-freshman-scholarships/arkansas-freshman-scholarships.php) | $12,000 | not listed |
 | [J. William and Elizabeth Fulbright Scholarship for Study Abroad](https://fulbright.uark.edu/scholarships/) | $10,000 | not listed |
 | [J.D. Institutional Scholarships](https://law.uark.edu/academics/scholarships/jd-institutional.php) |  | not listed |
+| [J.D. Privately Funded Scholarships](https://law.uark.edu/academics/scholarships/jd-private.php) |  | not listed |
 | [James H. Yowell Graduate Teaching Award](https://uark.academicworks.com/opportunities/4648) |  | not listed |
 | [Jim Lindsey Access Arkansas Scholarship](https://uark.academicworks.com/opportunities/5090) |  | not listed |
 | [Johnetta Cross Brazzell Study Abroad Scholarship](https://studentaffairs.uark.edu/scholarships.php) |  | not listed |
@@ -782,13 +784,19 @@ Fayetteville, AR · 745 open · 43 with no date listed · 236 closed (not shown)
 | [Leland F. Leatherman Endowed Scholarship](https://law.uark.edu/academics/scholarships/llm-scholarships.php) |  | not listed |
 | [Libby Finch Award](https://honors.uark.edu/find-funding/) |  | not listed |
 | [LL.M. Scholarships](https://law.uark.edu/academics/scholarships/llm-scholarships.php) |  | not listed |
+| [Mary Lee and Ralph Evers Scholarship Fund](https://www.uccfar.org/funds-list) |  | not listed |
+| [Mary Lee and Ralph Evers Scholarship Fund](https://svr.astonishedman.net/~uccfarorg/funds-list) |  | not listed |
+| [Military Book Scholarship](https://scholarships.uark.edu/military-students/military-scholarships.php) | $1,000 | not listed |
 | [Military Scholarships](https://scholarships.uark.edu/military-students/military-scholarships.php) | $4,000 | not listed |
+| [Military Service member Scholarship](https://scholarships.uark.edu/military-students/military-scholarships.php) |  | not listed |
+| [Non-Resident Tuition Award Scholarship](https://scholarships.uark.edu/guide-to-academic-freshman-scholarships/nonresident-freshman-scholarships.php) |  | not listed |
 | [Path Program Scholarships](https://honors.uark.edu/find-funding/path-program-scholarships.php) | $5,500 | not listed |
 | [Pella Student Essay Award](https://uark.academicworks.com/opportunities/7511) |  | not listed |
 | [Phi Theta Kappa Transfer Scholarship](https://scholarships.uark.edu/transfer-scholarships/) | $2,500 | not listed |
 | [Phi Theta Kappa Transfer Scholarship - University of Arkansas](https://scholarships.uark.edu/transfer-scholarships/) | $2,500 | not listed |
 | [Razorback Bridge Scholarship](https://scholarships.uark.edu/guide-to-academic-freshman-scholarships/arkansas-freshman-scholarships.php) | $3,500 | not listed |
 | [Rickey Medlock and Scott Heffington PRIDE in Education Scholarship](https://studentaffairs.uark.edu/scholarships.php) |  | not listed |
+| [Short-term Research Travel Grant](https://honors.uark.edu/find-funding/) |  | not listed |
 | [Siegel Scholarship (CDIS)](https://uark.academicworks.com/opportunities/5181) |  | not listed |
 | [Silas Hunt Scholarship](https://scholarships.uark.edu/guide-to-academic-freshman-scholarships/nonresident-freshman-scholarships.php) | $8,000 | not listed |
 | [Sturgis Study Abroad Grants](https://fulbright.uark.edu/scholarships/) | $500 | not listed |

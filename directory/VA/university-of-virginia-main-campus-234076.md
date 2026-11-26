@@ -1,6 +1,6 @@
 # University of Virginia-Main Campus scholarships
 
-Charlottesville, VA · 2 open · 65 with no date listed · 1 closed (not shown)
+Charlottesville, VA · 2 open · 65 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-virginia-main-campus-234076)**
 

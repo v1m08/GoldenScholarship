@@ -1,6 +1,6 @@
 # Bryan College-Dayton scholarships
 
-Dayton, TN · 4 open · 11 with no date listed · 0 closed (not shown)
+Dayton, TN · 4 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/bryan-college-dayton-219790)**
 
@@ -17,6 +17,7 @@ Dayton, TN · 4 open · 11 with no date listed · 0 closed (not shown)
 | [Elizabeth Jane Cornwell Scholarship](https://www.bryan.edu/scholarship/elizabeth-jane-cornwell-scholarship/) |  | not listed |
 | [Faith & Business (M.B.A.) Scholarship](https://www.bryan.edu/scholarship/master-of-business-administration-m-b-a-scholarship/) | $2,500 | not listed |
 | [Lion's Pride Transfer Scholarship](https://www.bryan.edu/scholarship/transfer-scholarship/) | $2,500 | not listed |
+| [Performing Arts Scholarship](https://www.bryan.edu/scholarship/performing-arts-scholarship/) |  | not listed |
 | [Phi Theta Kappa Award](https://www.bryan.edu/scholarship/phi-theta-kappa-grant/) | $1,000 | not listed |
 | [Presidential Scholarship](https://www.bryan.edu/scholarship/presidential-scholarship-2/) | $3,000 | not listed |
 | [Rhea County Scholarship](https://www.bryan.edu/scholarship/rhea-county-scholarship/) | $2,000 | not listed |

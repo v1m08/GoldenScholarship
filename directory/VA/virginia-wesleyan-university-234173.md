@@ -1,11 +1,12 @@
 # Virginia Wesleyan University scholarships
 
-Virginia Beach, VA · 0 open · 9 with no date listed · 0 closed (not shown)
+Virginia Beach, VA · 0 open · 10 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/virginia-wesleyan-university-234173)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Batten Grants & Scholarships](https://www.batten.edu/enrollment-aid/financial-aid/grants-and-scholarships) | $21,000 | not listed |
 | [Batten Honors College Scholarship-Batten Fellows](https://www.batten.edu/enrollment-aid/financial-aid/vwu-grants-and-scholarships) |  | not listed |
 | [Batten Honors College Scholarship-Shumadine Scholars](https://www.batten.edu/enrollment-aid/financial-aid/vwu-grants-and-scholarships) |  | not listed |
 | [Batten Honors College Scholarships](https://www.batten.edu/enrollment-aid/financial-aid/grants-and-scholarships) |  | not listed |

@@ -1,6 +1,6 @@
 # University of Maine at Presque Isle scholarships
 
-Presque Isle, ME · 0 open · 46 with no date listed · 0 closed (not shown)
+Presque Isle, ME · 0 open · 51 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-maine-at-presque-isle-161341)**
 
@@ -30,8 +30,11 @@ Presque Isle, ME · 0 open · 46 with no date listed · 0 closed (not shown)
 | [George M. Park Memorial Scholarship Fund](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Houlton Center Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Humanities Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
+| [Jenkins/Roberts/Vlasak Scholarship Fund](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
+| [Jerry and Mabel Desmond Education Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [John Anderson Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [John N. Lagerstrom Memorial Farm Credit Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
+| [Johnston Estabrook Family Scholarship Fund](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Kenneth C. Petress Memorial Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Larry & Audrey Thibodeau Scholarship Fund](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Maine Potato Growers Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
@@ -42,7 +45,9 @@ Presque Isle, ME · 0 open · 46 with no date listed · 0 closed (not shown)
 | [Merrill (Mike) Bull Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Monica G. Gilbert Memorial Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Mpg-Harley D. Welch Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
+| [Nellie T. Dunning Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Paris Snow Memorial Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
+| [Presque Isle Rotary Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Raynold & Sandra Gauvin Family Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Richard Ayre Criminal Justice Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |
 | [Richard Ayre Social Activism Scholarship](https://www.umpi.edu/student-financial-services/financial-aid/scholarships/) |  | not listed |

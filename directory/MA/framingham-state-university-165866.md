@@ -1,6 +1,6 @@
 # Framingham State University scholarships
 
-Framingham, MA · 0 open · 47 with no date listed · 0 closed (not shown)
+Framingham, MA · 0 open · 48 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/framingham-state-university-165866)**
 
@@ -50,6 +50,7 @@ Framingham, MA · 0 open · 47 with no date listed · 0 closed (not shown)
 | [Ram Alumni Award](https://www.framingham.edu/admissions-aid/admissions/undergraduate-admissions/first-year-applicants/merit-scholarships) | $1,000 | not listed |
 | [Robert J. Lemieux Metro West Scholarship](https://www.framingham.edu/admissions-aid/cost-aid/types-aid/scholarships) |  | not listed |
 | [Ruth Pfeiffer Scholarship](https://www.framingham.edu/admissions-aid/cost-aid/types-aid/scholarships) |  | not listed |
+| [Sidney & Katherine Goodstein Scholarship](https://www.framingham.edu/admissions-aid/cost-aid/types-aid/scholarships) |  | not listed |
 | [Transfer Scholarship](https://www.framingham.edu/admissions-aid/admissions/undergraduate-admissions/first-year-applicants/merit-scholarships) | $2,000 | not listed |
 | [War and Peace Class of 1945 Scholarship](https://www.framingham.edu/admissions-aid/cost-aid/types-aid/scholarships) |  | not listed |
 | [War and Peace Class of 1945 Scholarship - FSC](https://www.framingham.edu/admissions-aid/cost-aid/types-aid/scholarships) |  | not listed |

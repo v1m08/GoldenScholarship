@@ -1,6 +1,6 @@
 # University of North Dakota scholarships
 
-Grand Forks, ND · 1,388 open · 67 with no date listed · 3 closed (not shown)
+Grand Forks, ND · 1,388 open · 68 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-north-dakota-200280)**
 
@@ -1456,6 +1456,7 @@ Grand Forks, ND · 1,388 open · 67 with no date listed · 3 closed (not shown)
 | [STEM Scholarship](https://und.edu/student-life/military/scholarship-opportunities.html) |  | not listed |
 | [STEM Scholarship Benefits](https://und.edu/student-life/military/veterans-affairs-chapters.html) | $30,000 | not listed |
 | [Thomas R. Pickering Foreign Affairs Fellowship](https://und.edu/academics/national-scholarships/science-technology-engineering-and-math.html) | $37,500 | not listed |
+| [Thormodsgard Award in Wills and Trusts](https://law.und.edu/students/scholarships.html) |  | not listed |
 | [Tribal College Scholarship](https://ndspacegrant.und.edu/college-students/scholarships/tribal-college.html) | $2,500 | not listed |
 | [U.S. Dept Of Veterans Affairs Scholarships](https://und.edu/student-life/military/scholarship-opportunities.html) |  | not listed |
 | [Vernon M. and Mildred Johnson Law Scholarship](https://law.und.edu/students/scholarships.html) |  | not listed |

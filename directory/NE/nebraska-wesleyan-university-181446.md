@@ -1,6 +1,6 @@
 # Nebraska Wesleyan University scholarships
 
-Lincoln, NE · 9 open · 19 with no date listed · 5 closed (not shown)
+Lincoln, NE · 9 open · 19 with no date listed · 6 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/nebraska-wesleyan-university-181446)**
 

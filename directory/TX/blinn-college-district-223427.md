@@ -1,6 +1,6 @@
 # Blinn College District scholarships
 
-Brenham, TX · 0 open · 10 with no date listed · 0 closed (not shown)
+Brenham, TX · 0 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/blinn-college-district-223427)**
 
@@ -14,6 +14,7 @@ Brenham, TX · 0 open · 10 with no date listed · 0 closed (not shown)
 | [Exemplary Student Scholarship](https://www.blinn.edu/scholarships/academic.html) | $1,000 | not listed |
 | [Fine Arts Scholarships](https://www.blinn.edu/scholarships/academic.html) | $1,500 | not listed |
 | [Salutatorian Scholarship](https://www.blinn.edu/scholarships/academic.html) | $1,000–$4,000 | not listed |
+| [UIL Scholarship](https://www.blinn.edu/scholarships/academic.html) | $500–$1,000 | not listed |
 | [Valedictorian Scholarship](https://www.blinn.edu/scholarships/academic.html) | $1,500–$6,000 | not listed |
 | [Washington County Scholarship](https://www.blinn.edu/scholarships/washington-county.html) | $2,250 | not listed |
 

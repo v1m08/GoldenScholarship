@@ -1,6 +1,6 @@
 # Alaska Pacific University scholarships
 
-Anchorage, AK · 1 open · 12 with no date listed · 46 closed (not shown)
+Anchorage, AK · 1 open · 14 with no date listed · 46 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/alaska-pacific-university-102669)**
 
@@ -11,6 +11,8 @@ Anchorage, AK · 1 open · 12 with no date listed · 46 closed (not shown)
 | [Alaska Scholarship](https://www.alaskapacific.edu/admissions-aid/financial-aid-scholarships/) |  | not listed |
 | [Alaska Space Grant Program Scholarship](https://www.alaskapacific.edu/admissions-aid/financial-aid-scholarships/) |  | not listed |
 | [APU Program Scholarships](https://www.alaskapacific.edu/admissions-aid/financial-aid-scholarships/) |  | not listed |
+| [APU undergraduate scholarships and grants are offered based on the program type](https://www.alaskapacific.edu/admissions-aid/financial-aid-scholarships/work-on-campus/) |  | not listed |
+| [Mat-Su Health Foundation Scholarships](https://www.healthymatsu.org/scholarships/) |  | not listed |
 | [On Campus Community Scholarship](https://www.alaskapacific.edu/admissions-aid/financial-aid-scholarships/) |  | not listed |
 | [On Campus Community Scholarship - APU](https://www.alaskapacific.edu/admissions-aid/financial-aid-scholarships/) |  | not listed |
 | [Promise Tuition Grant](https://www.alaskapacific.edu/admissions-aid/financial-aid-scholarships/) | $3,000 | not listed |

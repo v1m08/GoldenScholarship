@@ -1,6 +1,6 @@
 # Martin Community College scholarships
 
-Williamston, NC · 0 open · 34 with no date listed · 0 closed (not shown)
+Williamston, NC · 0 open · 35 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/martin-community-college-198905)**
 
@@ -11,6 +11,7 @@ Williamston, NC · 0 open · 34 with no date listed · 0 closed (not shown)
 | [Automotive Systems Technology Scholarship](https://www.martincc.edu/paying-for-college/scholarships/) | $500 | not listed |
 | [Bembridge Endowed Scholarship](https://www.martincc.edu/paying-for-college/scholarships/) | $1,000 | not listed |
 | [Boham Endowed Scholarship by John and Cindy Davis](https://www.martincc.edu/paying-for-college/scholarships/) | $500 | not listed |
+| [Clarence Biggs Continuing Education Scholarship](https://www.martincc.edu/paying-for-college/scholarships/) | $500 | not listed |
 | [Coy Lavonia Bland, Sr. Memorial Scholarship](https://www.martincc.edu/paying-for-college/scholarships/) | $600 | not listed |
 | [D. Evans, Sr. Electrical Scholarship](https://www.martincc.edu/paying-for-college/scholarships/) | $500 | not listed |
 | [Dawes/Rogers Endowed Scholarship](https://www.martincc.edu/paying-for-college/scholarships/) | $500 | not listed |

@@ -1,6 +1,6 @@
 # Auburn University scholarships
 
-Auburn, AL · 12 open · 57 with no date listed · 0 closed (not shown)
+Auburn, AL · 12 open · 68 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/auburn-university-100858)**
 
@@ -25,6 +25,7 @@ Auburn, AL · 12 open · 57 with no date listed · 0 closed (not shown)
 | [Allen M. Pearson Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Alma Dark Howard Memorial Music Scholarship](https://cla.auburn.edu/music/future-students/scholarships/) |  | not listed |
 | [APhA Foundation Scholarships](https://pharmacy.auburn.edu/apply/scholarships.php) |  | not listed |
+| [Armistead-Woody Family Military Service Award](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Art and Ellen Dyas Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Astronaut Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [Auburn Honors Research Support Grant](https://honors.auburn.edu/scholarships/fs/) | $500–$1,500 | not listed |
@@ -42,6 +43,8 @@ Auburn, AL · 12 open · 57 with no date listed · 0 closed (not shown)
 | [Gates Cambridge Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [GEM Fellowship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [George E. (Eddie) Gibson, Sr. Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
+| [Gilman Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
+| [Goldwater Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [Hancock Forest Management Annual Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [High Adventure Company/Swarovski Allie Saker Memorial Annual Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Hispanic Alumni Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
@@ -49,18 +52,23 @@ Auburn, AL · 12 open · 57 with no date listed · 0 closed (not shown)
 | [Howard B. Harmon Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Imogene Thornell Walker Memorial Alumni Endowed Student Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [James D. Wadsworth Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
+| [James Madison Fellowship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [James R. Taylor Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [John William Tamblyn Endowed Scholarship](https://cla.auburn.edu/music/future-students/scholarships/tamblyn-scholarship/) |  | not listed |
 | [Katherine Owen Sechrist Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [L. Michael Kelly Ever Auburn Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
+| [Lafayette Fellowship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [Lanier J. Edwards Family Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Lt. Harry Prince, United States ARMY, Memorial Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [M. Barnett Lawley Annual Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
+| [Marshall Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
+| [McCall MacBain Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [Molpus Woodlands Group Annual Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Music, Band, & Choir Scholarships](https://auburn.edu/administration/finaid/scholarship/index.php) |  | not listed |
 | [NASA ASGC Graduate Fellowship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [Natural Resources Annual Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [NIH Undergraduate Scholarship Program](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
+| [NOAA Hollings Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [Peter J. Smith Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Pierce and Becky Miller Ever Auburn Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Samvid Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
@@ -71,6 +79,9 @@ Auburn, AL · 12 open · 57 with no date listed · 0 closed (not shown)
 | [Theatre Scholarships](https://cla.auburn.edu/student-services/cla-scholarships/) |  | not listed |
 | [Thompson Family Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Toomer's Oak Leadership Award](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
+| [Truman Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
+| [Udall Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
+| [Voyager Scholarship](https://honors.auburn.edu//scholarships/nps/scholarship-opportunties.php) |  | not listed |
 | [Walker Herring Taylor Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |
 | [Wallace State Community College Scholarship - Dothan](https://alabamapoultry.org/scholarships/) |  | not listed |
 | [Weyerhaeuser Giving Fund/Jim Leist Memorial Endowed Scholarship](https://cfwe.auburn.edu/undergraduate-awards-and-scholarships/) |  | not listed |

@@ -1,6 +1,6 @@
 # Bay Mills Community College scholarships
 
-Brimley, MI · 24 open · 36 with no date listed · 12 closed (not shown)
+Brimley, MI · 24 open · 36 with no date listed · 13 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/bay-mills-community-college-380359)**
 

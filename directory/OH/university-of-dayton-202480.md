@@ -1,6 +1,6 @@
 # University of Dayton scholarships
 
-Dayton, OH · 3 open · 7 with no date listed · 0 closed (not shown)
+Dayton, OH · 3 open · 8 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-dayton-202480)**
 
@@ -13,6 +13,7 @@ Dayton, OH · 3 open · 7 with no date listed · 0 closed (not shown)
 | [Hidden Heroes Scholarship](https://udayton.edu/tuition-aid/undergraduate/financial-aid/scholarships/index.php) |  | not listed |
 | [Minuteman Scholarship](https://udayton.edu/arts-sciences/academics/army-rotc/index.php) |  | not listed |
 | [Osher Reentry Scholarship / Crankstart Reentry Scholarship](https://udayton.edu/tuition-aid/undergraduate/financial-aid/scholarships/index.php) |  | not listed |
+| [Textbook Award Program](https://udayton.edu/tuition-aid/undergraduate/financial-aid/scholarships/index.php) |  | not listed |
 | [Textbook Scholarship](https://udayton.edu/tuition-aid/undergraduate/financial-aid/scholarships/textbook.php) |  | not listed |
 | [U.S. Air Force ROTC Scholarship - University of Dayton](https://udayton.edu/tuition-aid/undergraduate/financial-aid/scholarships/index.php) | $5,000 | not listed |
 | [U.S. Army ROTC Scholarship - University of Dayton](https://udayton.edu/tuition-aid/undergraduate/financial-aid/scholarships/index.php) |  | not listed |

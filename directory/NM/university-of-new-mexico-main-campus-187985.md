@@ -1,6 +1,6 @@
 # University of New Mexico-Main Campus scholarships
 
-Albuquerque, NM · 9 open · 37 with no date listed · 2 closed (not shown)
+Albuquerque, NM · 10 open · 42 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-new-mexico-main-campus-187985)**
 
@@ -8,6 +8,7 @@ Albuquerque, NM · 9 open · 37 with no date listed · 2 closed (not shown)
 | --- | --- | --- |
 | [Joseph C. Gallagher Scholarship for Study in Ireland and Europe](https://studyabroad.unm.edu/getting-started/joseph-c.-gallagher-scholarship.html) | $25,000 | Dec 1, 2026 |
 | [Regents' Scholarship](https://scholarship.unm.edu/) | $15,500 | Dec 1, 2026 |
+| [HED Scholarship for New Mexico High School Graduates in STEM](https://grad.unm.edu/funding/scholarships/hed-scholarship.html) |  | Jan 15, 2027 |
 | [NMHED New Mexico Graduate Scholarships](https://grad.unm.edu/funding/scholarships/hed-scholarship.html) | $7,200 | Jan 15, 2027 |
 | [Doris Gregory Memorial Journalism Scholarship](https://scholarship.unm.edu/Resources/websites/undergrad.html) |  | Jan 30, 2027 |
 | [Lobo Housing Scholarship](https://scholarship.unm.edu/) | $1,000–$4,000 | Feb 1, 2027 |
@@ -16,6 +17,7 @@ Albuquerque, NM · 9 open · 37 with no date listed · 2 closed (not shown)
 | [University of New Mexico Transfer Scholarship](https://scholarship.unm.edu/) | $2,000 | May 1, 2027 |
 | [UNM Transfer Scholarship](https://scholarships.unm.edu/) | $2,000 | May 1, 2027 |
 | [A & S Summer Scholarship](https://spanport.unm.edu/resources/index.html) |  | not listed |
+| [Alumni Support Scholarships](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) | $500–$10,000 | not listed |
 | [API Financial Aid Boost Scholarship](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) |  | not listed |
 | [APIConnect Scholarships](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) | $1,000 | not listed |
 | [Barry M. Goldwater Scholarship](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) |  | not listed |
@@ -26,12 +28,16 @@ Albuquerque, NM · 9 open · 37 with no date listed · 2 closed (not shown)
 | [Churchill Scholarship](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) |  | not listed |
 | [Conroy International Study Grant](https://spanport.unm.edu/resources/index.html) | $1,000 | not listed |
 | [Critical Need Language Award](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) | $8,000 | not listed |
+| [DiversityAbroad.com Scholarship](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) | $5,000 | not listed |
 | [Frank H. Allen, III Memorial Scholarship](https://scholarships.unm.edu/) |  | not listed |
 | [Gates Cambridge Scholarship](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) |  | not listed |
+| [GEO Passport Grant](https://studyabroad.unm.edu/getting-started/geo-passport-grant.html) |  | not listed |
+| [HACU Scholarship](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) | $10,000 | not listed |
 | [Harry S. Truman Scholarship](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) | $30,000 | not listed |
 | [HSC Rural Rotation Grant](https://gpsa.unm.edu/funding/grants-funding/grant-scholarship.html) |  | not listed |
 | [Initial Award and Amount of Award:](https://scholarship.unm.edu/Resources/opportunity-scholarship.html) |  | not listed |
 | [James M. and Luella Key Endowed Scholarship](https://scholarship.unm.edu/) |  | not listed |
+| [Jane E. Thomas-Frey Study Abroad Scholarship](https://studyabroad.unm.edu/getting-started/jane-e-thomas-frey-study-abroad-scholarship.html) |  | not listed |
 | [Killiam Fellowship Program](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) |  | not listed |
 | [Lottery Scholarships](https://scholarship.unm.edu/Resources/lottery-scholarships.html) |  | not listed |
 | [Marshall Scholarship](https://studyabroad.unm.edu/getting-started/funding-and-scholarships.html) |  | not listed |

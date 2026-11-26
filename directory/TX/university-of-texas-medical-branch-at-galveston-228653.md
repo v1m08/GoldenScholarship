@@ -1,6 +1,6 @@
 # The University of Texas Medical Branch at Galveston scholarships
 
-Galveston, TX · 53 open · 30 with no date listed · 0 closed (not shown)
+Galveston, TX · 53 open · 32 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-texas-medical-branch-at-galveston-228653)**
 
@@ -71,10 +71,12 @@ Galveston, TX · 53 open · 30 with no date listed · 0 closed (not shown)
 | [Endowment Title : Irma Mendoza Scholarship Fund](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Jen Chieh and Katherine Huang Memorial Scholarship](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Margaret Saunders Travel Award](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
+| [Endowment Title : Mariann Blum, Ph.D. Endowed Scholarship](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Mary Louise and Jerry Daniels, M.D., Ph.D. Endowed Scholarship](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Michael Tacheeni Scott Endowed Scholarship](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Parents Council Scholarship Fund](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Peyton and Lydia Schapper Endowed Scholarship Fund](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
+| [Endowment Title : Robert Bennett Scholarship](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Robert Shope Presidential Scholarship](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Rose and Harry Walk Memorial Award](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |
 | [Endowment Title : Samuel Baron, MD Research Scholarship](https://www.utmb.edu/enrollmentservices/future-students/scholarships/scholarships-by-school) |  | not listed |

@@ -1,6 +1,6 @@
 # Albright College scholarships
 
-Reading, PA · 1 open · 8 with no date listed · 0 closed (not shown)
+Reading, PA · 1 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/albright-college-210571)**
 
@@ -8,7 +8,10 @@ Reading, PA · 1 open · 8 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | Norman H and Mary T Lutz Trust |  | Mar 4, 2027 |
 | [13th Street Scholarship](https://www.albright.edu/admission-and-aid/financing-your-education/financial-aid/financial-aid-for-transfer-students) |  | not listed |
+| [Albright College Trustee Grants](https://www.albright.edu/admission-and-aid/financing-your-education/financial-aid/financial-aid-for-first-year-students) |  | not listed |
 | [Connection Scholarship](https://www.albright.edu/admission-and-aid/financing-your-education/financial-aid/financial-aid-for-first-year-students) | $16,000 | not listed |
+| [Dean's Scholarship](https://www.albright.edu/admission-and-aid/financing-your-education/financial-aid/financial-aid-for-first-year-students) | $18,000 | not listed |
+| [Faculty Scholarship](https://www.albright.edu/admission-and-aid/financing-your-education/financial-aid/financial-aid-for-first-year-students) | $16,000 | not listed |
 | [Legacy Award](https://www.albright.edu/admission-and-aid/financing-your-education/financial-aid/financial-aid-for-first-year-students) |  | not listed |
 | [Presidential Scholarship](https://www.albright.edu/admission-and-aid/financing-your-education/financial-aid/financial-aid-for-first-year-students) | $20,000 | not listed |
 | [Recognition Scholarship](https://www.albright.edu/admission-and-aid/financing-your-education/financial-aid/financial-aid-for-first-year-students) | $16,000 | not listed |

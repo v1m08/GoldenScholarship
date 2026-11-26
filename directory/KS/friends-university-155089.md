@@ -9,7 +9,7 @@ Wichita, KS · 6 open · 14 with no date listed · 0 closed (not shown)
 | [Friends' Trinity Academy Scholarship](https://www.friends.edu/admissions/costs-financial-aid/institutional-scholarships/trinity-academy-scholarship/) |  | Jan 31, 2027 |
 | [Trinity Academy Scholarship page](https://www.friends.edu/admissions/costs-financial-aid/institutional-scholarships/trinity-academy-scholarship/) |  | Jan 31, 2027 |
 | [Trinity Scholarship](https://www.friends.edu/admissions/costs-financial-aid/institutional-scholarships/trinity-academy-scholarship/) |  | Jan 31, 2027 |
-| [National Merit Scholarship page](https://www.friends.edu/admissions/costs-financial-aid/institutional-scholarships/national-merit-scholarship/) |  | Apr 1, 2027 |
+| [National Merit Scholarship](https://www.friends.edu/admissions/costs-financial-aid/institutional-scholarships/national-merit-scholarship/) |  | Apr 1, 2027 |
 | [Fellowship of Christian Athletes Scholarship](https://www.friends.edu/admissions/costs-financial-aid/institutional-scholarships/) |  | May 15, 2027 |
 | [Purcell Family Memorial Endowed Scholarship](https://www.friends.edu/admissions/costs-financial-aid/institutional-scholarships/) | $2,500 | Aug 1, 2027 |
 | [Church Match Scholarship](https://www.friends.edu/admissions/costs-financial-aid/institutional-scholarships/) | $500 | not listed |

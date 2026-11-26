@@ -1,6 +1,6 @@
 # Georgetown University scholarships
 
-Washington, DC · 1 open · 26 with no date listed · 0 closed (not shown)
+Washington, DC · 1 open · 27 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/georgetown-university-131496)**
 
@@ -10,6 +10,7 @@ Washington, DC · 1 open · 26 with no date listed · 0 closed (not shown)
 | [1789 Scholarships](https://finaid.georgetown.edu/financial-resources/undergrad-scholarships/) | $3,000 | not listed |
 | [Achievement Rewards for College Scientists (ARCS) Foundation Scholarship](https://finaid.georgetown.edu/financial-resources/undergrad-scholarships/) |  | not listed |
 | [Alvarez Memorial Scholarship](https://finaid.georgetown.edu/financial-resources/undergrad-scholarships/) |  | not listed |
+| [Broomfield Community Foundation - Jean and Bill Markel Medical Scholarship](https://meded.georgetown.edu/admissions/financial-aid/resources/residency-specific-scholarships/) |  | not listed |
 | [Charles H. Ross, Jr. Incentive Scholarship for Baker Scholars](https://finaid.georgetown.edu/financial-resources/undergrad-scholarships/) |  | not listed |
 | [E.J. McCarthy Overseas Studies Scholarship](https://finaid.georgetown.edu/financial-resources/undergrad-scholarships/) |  | not listed |
 | [E.J. McCarthy Tours Summer Study Abroad Scholarship](https://finaid.georgetown.edu/financial-resources/undergrad-scholarships/) |  | not listed |

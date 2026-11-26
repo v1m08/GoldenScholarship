@@ -1,11 +1,12 @@
 # Illinois State University scholarships
 
-Normal, IL · 6 open · 73 with no date listed · 6 closed (not shown)
+Normal, IL · 7 open · 85 with no date listed · 6 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/illinois-state-university-145813)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Luellen Laurenti Scholarship](https://wgs.illinoisstate.edu/academics/scholarships/luellen-laurenti-scholarship/) |  | Feb 5, 2027 |
 | [Redbird Academic Scholarship](https://illinoisstate.edu/admissions/scholarships/redbird/) |  | Mar 1, 2027 |
 | [Diane Ryon Scholarship](https://kinrec.illinoisstate.edu/academics/scholarships/) | $1,000 | Mar 8, 2027 |
 | [L. Marlene Mawson Graduate Research Potential Scholarship](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | Apr 1, 2027 |
@@ -17,17 +18,22 @@ Normal, IL · 6 open · 73 with no date listed · 6 closed (not shown)
 | [Alpha Gamma Delta Founder's Scholarship - Beta Omicron Chapter](https://deanofstudents.illinoisstate.edu/services/scholarships/) | $1,000 | not listed |
 | [Alumni Association Scholarship](https://alumni.illinoisstate.edu/students/scholarships/) | $1,000 | not listed |
 | [Anne M. Semlak Memorial Scholarship](https://wgs.illinoisstate.edu/academics/scholarships/) |  | not listed |
+| [Betty Keough Junior Academic Achievement Award in PETE](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Billy Quigley Leader in Action Award](https://deanofstudents.illinoisstate.edu/services/scholarships/) |  | not listed |
 | [Bird to Bird Scholarship](https://illinoisstate.edu/admissions/scholarships/) | $1,000 | not listed |
 | [Central Illinois Builders' Industry Advancement Foundation Scholarship](https://tec.illinoisstate.edu/academics/scholarships/) | $4,000 | not listed |
+| [Charles and Betty Porter Scholarship for Leadership](https://tec.illinoisstate.edu/academics/scholarships/) | $1,500 | not listed |
 | [Charles Ed Francis Scholarship](https://tec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Civic Engagement Scholarship](https://illinoisstate.edu/admissions/scholarships/) | $5,000 | not listed |
 | [Claude Bell Endowed Scholarship in Technology](https://tec.illinoisstate.edu/academics/scholarships/) | $1,000 | not listed |
+| [Clifford E. Horton Scholarship Award](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Construction Management Endowment Scholarship](https://tec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [David E. Baker "Ag Leader of Tomorrow" Scholarship](https://agriculture.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Deceased, Disabled & MIA-POW Veterans' Dependents Scholarship](https://financialaid.illinoisstate.edu/scholarships/isac/) |  | not listed |
+| [Displaced Energy Worker Scholarship](https://financialaid.illinoisstate.edu/scholarships/isac/) |  | not listed |
 | [Donald L. and Marie E. Dillow Family Memorial Scholarship](https://alumni.illinoisstate.edu/students/scholarships/) |  | not listed |
 | [Doris E. Henderson Physical Education Academic and Professional Leadership Award](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
+| [Dorothy E. Lee Grant](https://wgs.illinoisstate.edu/academics/scholarships/dorothy-e-lee-grant/) |  | not listed |
 | [Dorothy E. Lee Scholarship](https://wgs.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Dr. Andre' McKenzie/Mayo Loving Jr. Spirit of Student Engagement Scholarship](https://deanofstudents.illinoisstate.edu/services/scholarships/) |  | not listed |
 | [Dr. John Gary Erisman Memorial Scholarship](https://agriculture.illinoisstate.edu/academics/scholarships/) |  | not listed |
@@ -43,6 +49,9 @@ Normal, IL · 6 open · 73 with no date listed · 6 closed (not shown)
 | [Gary Weede Engineering Technology Scholarship](https://tec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Georgia Rose Exercise Science Scholarship](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Gina L. Bianchi Scholarship](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
+| [GreenPal Scholarship](https://www.yourgreenpal.com/scholarship) | $2,000 | not listed |
+| [GROWMARK Scholarship](https://agriculture.illinoisstate.edu/academics/scholarships/) |  | not listed |
+| [Illinois National Guard (ING) Grant](https://financialaid.illinoisstate.edu/scholarships/isac/) |  | not listed |
 | [Illinois Society of Professional Farm Managers and Rural Appraisers (ISPFMRA) Scholarship](https://agriculture.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Illinois State University Legacy Scholarship](https://illinoisstate.edu/admissions/scholarships/) | $12,000 | not listed |
 | [Illinois State University Transfer Student Scholarship](https://illinoisstate.edu/admissions/scholarships/transfer/) |  | not listed |
@@ -50,11 +59,13 @@ Normal, IL · 6 open · 73 with no date listed · 6 closed (not shown)
 | [James D. Loughlin Memorial Scholarship](https://tec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Jeannette Rankin Women's Scholarship Fund](https://wgs.illinoisstate.edu/academics/scholarships/national-scholarships/) |  | not listed |
 | [Jill (Gutshall) Walker Memorial Scholarship](https://agriculture.illinoisstate.edu/academics/scholarships/) |  | not listed |
+| [Joe E. Talkington Endowed Scholarship](https://tec.illinoisstate.edu/academics/scholarships/) | $2,000 | not listed |
 | [John Leatherbury Scholarship](https://agriculture.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [John W. Green Scholarship](https://agriculture.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Jones Family Scholarship](https://alumni.illinoisstate.edu/networks/bca/scholarships/) | $1,000 | not listed |
 | [Joyce Morton Kief Future Professional Award](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Judge Russell DeBow Scholarship](https://alumni.illinoisstate.edu/networks/bca/scholarships/) | $2,000 | not listed |
+| [Judith Rothermel Physical Education Scholarship](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Ken Stier Scholarship for Engineering Technology](https://tec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Legacy Scholarship](https://illinoisstate.edu/admissions/scholarships/) | $500 | not listed |
 | [Mary Alice Behling Scholarship](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
@@ -80,6 +91,8 @@ Normal, IL · 6 open · 73 with no date listed · 6 closed (not shown)
 | [Teachers of Illinois (TI) Scholarship](https://financialaid.illinoisstate.edu/scholarships/isac/) |  | not listed |
 | [Theta Delta Commemorative Public Service Scholarship](https://alumni.illinoisstate.edu/networks/bca/scholarships/) | $1,000 | not listed |
 | [Tina and Mick Rowe Scholarship for Non-Traditional Students](https://deanofstudents.illinoisstate.edu/services/scholarships/) |  | not listed |
+| [Trent R. Richards Scholarship Fund](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
+| [Vice President for Student Affairs Scholarship](https://alumni.illinoisstate.edu/networks/bca/scholarships/) | $1,000 | not listed |
 | [Wayne Zook Scholarship](https://tec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Wes Bair Scholarship](https://kinrec.illinoisstate.edu/academics/scholarships/) |  | not listed |
 | [Willard McCarthy Scholarship](https://tec.illinoisstate.edu/academics/scholarships/) |  | not listed |

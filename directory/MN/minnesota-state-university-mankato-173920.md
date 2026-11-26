@@ -1,6 +1,6 @@
 # Minnesota State University-Mankato scholarships
 
-Mankato, MN · 379 open · 8 with no date listed · 6 closed (not shown)
+Mankato, MN · 379 open · 9 with no date listed · 6 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/minnesota-state-university-mankato-173920)**
 
@@ -386,6 +386,7 @@ Mankato, MN · 379 open · 8 with no date listed · 6 closed (not shown)
 | [In-State Tuition Scholarship for New Transfer Students](https://mnsu.academicworks.com/opportunities/25696) |  | Aug 27, 2027 |
 | [Legacy In State Tuition Scholarship](https://mnsu.academicworks.com/opportunities/25880) |  | Sep 10, 2027 |
 | [Charles & Ellora Alliss Scholarship](https://mankato.mnsu.edu/university-life/campus-services/campushub/financial-aid/scholarships/charles-and-ellora-alliss-scholarship/) |  | not listed |
+| [Gladys B. Olson International Scholarships](https://www.mnsu.edu/paying-for-college/scholarships/international-student-scholarships/) |  | not listed |
 | [Gladys B. Olson International Student Endowed Scholarships](https://www.mnsu.edu/paying-for-college/scholarships/international-student-scholarships/) |  | not listed |
 | [Minnesota Indian Scholarship Program](https://mankato.mnsu.edu/university-life/campus-services/campushub/financial-aid/scholarships/minnesota-indian-scholarship-program/) | $4,000 | not listed |
 | [North Star Promise Scholarship](https://www.mnsu.edu/paying-for-college/scholarships/transfer-student-scholarships/) |  | not listed |

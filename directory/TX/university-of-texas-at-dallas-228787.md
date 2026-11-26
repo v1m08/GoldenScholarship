@@ -1,6 +1,6 @@
 # The University of Texas at Dallas scholarships
 
-Richardson, TX · 0 open · 17 with no date listed · 2 closed (not shown)
+Richardson, TX · 0 open · 18 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-texas-at-dallas-228787)**
 
@@ -20,6 +20,7 @@ Richardson, TX · 0 open · 17 with no date listed · 2 closed (not shown)
 | [Larry Cauller Undergraduate Research Travel Award](https://bbs.utdallas.edu/academics/scholarships-awards/) |  | not listed |
 | [Morris Udall Undergraduate Scholarships](https://honors.utdallas.edu/office-of-distinguished-scholarships/) |  | not listed |
 | [National Security Education Program Boren Scholarships](https://honors.utdallas.edu/office-of-distinguished-scholarships/) |  | not listed |
+| [Phi Theta Kappa Scholarship](https://enroll.utdallas.edu/affordability/transfer-scholarships/) | $500–$1,000 | not listed |
 | [Phi Theta Kappa Scholarship (PTK)](https://enroll.utdallas.edu/affordability/transfer-scholarships/) | $500–$1,000 | not listed |
 | [Santrock Undergraduate Travel Award](https://bbs.utdallas.edu/academics/scholarships-awards/) | $1,000 | not listed |
 | [Susan and Jim Jerger Research in Audiology Fellowship](https://bbs.utdallas.edu/academics/scholarships-awards/) |  | not listed |

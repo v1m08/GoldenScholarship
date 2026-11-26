@@ -1,6 +1,6 @@
 # University of Georgia scholarships
 
-Athens, GA · 26 open · 50 with no date listed · 1 closed (not shown)
+Athens, GA · 25 open · 52 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-georgia-139959)**
 
@@ -12,7 +12,6 @@ Athens, GA · 26 open · 50 with no date listed · 1 closed (not shown)
 | [Georgia Access Scholarship Undergraduate](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/georgia-access-scholarship/) |  | Dec 15, 2026 |
 | [CURO Honors Scholarship](https://honors.uga.edu/scholarships/prospective-students/curo-honors-scholarship/) | $3,000 | Jan 15, 2027 |
 | [Visit Study Away Scholarships](https://www.fcs.uga.edu/ssac/scholarships-study-away) |  | Jan 29, 2027 |
-| [Charles H. Williamson Memorial Scholarship Fund](https://cfcga.org/scholarship/charles-h-williamson-memorial-scholarship-fund/) |  | Feb 28, 2027 |
 | [Best Student Paper Award](https://ecology.uga.edu/academics/graduate-school/graduate-awards-and-scholarships/) | $500 | Mar 1, 2027 |
 | [Delia Owens Fellowship in Ecology](https://ecology.uga.edu/academics/graduate-school/graduate-awards-and-scholarships/) | $4,000 | Mar 1, 2027 |
 | [Distinguished Graduate Student Teaching Award](https://ecology.uga.edu/academics/graduate-school/graduate-awards-and-scholarships/) | $500 | Mar 1, 2027 |
@@ -36,7 +35,9 @@ Athens, GA · 26 open · 50 with no date listed · 1 closed (not shown)
 | [Beverly Hirsh Frank Graduate Fellowship](https://grad.uga.edu/funding/scholarships-fellowships/) |  | not listed |
 | [Boren Awards](https://honors.uga.edu/scholarships/external-scholarships/boren-award/) | $25,000 | not listed |
 | Brig Gen Edward Tracy CFSA & 1st Lt William Burt Jr USAF Fund |  | not listed |
+| [C. M. and Bernice C. Stripling UGA Forestry Scholarship](https://cfsga.net/our-scholarships/) |  | not listed |
 | [Carl and Pat Swearingen Fellowship for Graduate Students](https://grad.uga.edu/funding/scholarships-fellowships/) |  | not listed |
+| [Charles H. Williamson Memorial Scholarship](https://cfcga.org/scholarship/charles-h-williamson-memorial-scholarship-fund/) | $10,000 | not listed |
 | [Charles Mcdonald Brown Scholarship](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/academic-scholarships-2/) |  | not listed |
 | [Christopher G. Cooper Graduate Fellowship](https://grad.uga.edu/funding/scholarships-fellowships/) |  | not listed |
 | [Collins Family Scholarship](https://www.fcs.uga.edu/ssac/scholarship-list) |  | not listed |
@@ -52,7 +53,7 @@ Athens, GA · 26 open · 50 with no date listed · 1 closed (not shown)
 | [Georgia HERO Scholarship Undergraduate](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/georgia-hero-scholarship/) |  | not listed |
 | [Georgia Public Safety Memorial Grant](https://osfa.uga.edu/types-of-aid/undergraduate/grants/georgia-public-safety-memorial-grant/) |  | not listed |
 | [Georgia Public Safety Memorial Grant Graduate](https://osfa.uga.edu/types-of-aid/graduate/grants-scholarships/georgia-public-safety-memorial-grant/) |  | not listed |
-| [Georgia REACH Scholarship Undergraduate](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/georgia-reach-scholarship/) |  | not listed |
+| [Georgia REACH Scholarship](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/georgia-reach-scholarship/) |  | not listed |
 | [Gwinn Henry Nixon Scholarship](https://grad.uga.edu/funding/scholarships-fellowships/) | $5,000 | not listed |
 | [Hamilton Lokey Graduate Scholarship](https://grad.uga.edu/funding/scholarships-fellowships/) |  | not listed |
 | [Harris Scholarship](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/academic-scholarships-2/) |  | not listed |
@@ -67,7 +68,7 @@ Athens, GA · 26 open · 50 with no date listed · 1 closed (not shown)
 | [Mary Erlanger Graduate Fellowship](https://grad.uga.edu/funding/scholarships-fellowships/) |  | not listed |
 | [Mary Lynn Oliver Hunt & Matthew Alan Hunt Graduate Studies Fellowship in English](https://grad.uga.edu/funding/scholarships-fellowships/) |  | not listed |
 | [Mid-Term Foundation Fellowship](https://honors.uga.edu/scholarships/internal-scholarships/mid-term-foundation-fellowship/) |  | not listed |
-| [National Merit / Achievement Scholarship Undergraduate](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/national-merit/) | $500 | not listed |
+| [National Merit / Achievement Scholarship](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/national-merit/) | $500 | not listed |
 | [Odum School of Ecology Graduate Student Research Grants](https://ecology.uga.edu/academics/graduate-school/graduate-awards-and-scholarships/) | $5,000 | not listed |
 | [One UGA Scholarship](https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/academic-scholarships-2/) |  | not listed |
 | [Orlin Kenyon Fletcher, Jr. Scholarship](https://grad.uga.edu/funding/scholarships-fellowships/) |  | not listed |

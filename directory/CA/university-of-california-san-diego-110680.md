@@ -1,6 +1,6 @@
 # University of California-San Diego scholarships
 
-La Jolla, CA · 4 open · 102 with no date listed · 25 closed (not shown)
+La Jolla, CA · 4 open · 104 with no date listed · 25 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-california-san-diego-110680)**
 
@@ -86,6 +86,7 @@ La Jolla, CA · 4 open · 102 with no date listed · 25 closed (not shown)
 | [Regents Scholarship (merit-based)](https://fas.ucsd.edu/types/scholarships/entering-freshmen.html) | $5,000 | not listed |
 | [Restricted scholarships](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) |  | not listed |
 | [Revelle College Inaugural Class Scholarship](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) | $2,400 | not listed |
+| [Richard L. and Fern W. Erion and Laidlaw-Erion Scholarship](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) |  | not listed |
 | [Robert and Pat Whalen Military Transfer Scholarship](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) |  | not listed |
 | [Rose Foundation Scholarship](https://fas.ucsd.edu/types/scholarships/entering-freshmen.html) |  | not listed |
 | [Sarah Roman Vyse Physics Scholarship](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) |  | not listed |
@@ -105,6 +106,7 @@ La Jolla, CA · 4 open · 102 with no date listed · 25 closed (not shown)
 | [UC San Diego Health Decarbonization Fellowship: Climate Resilience](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) | $8,000 | not listed |
 | [UC San Diego Health Decarbonization Fellowship: Waste Reduction](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) |  | not listed |
 | [UC San Diego Town and Gown Scholarship](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) | $6,000 | not listed |
+| [UCEAP Scholarships](https://uceap.universityofcalifornia.edu/apply/scholarships) | $4,000 | not listed |
 | [UJIMA Network Black History Month Scholarship](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) |  | not listed |
 | [Ursula and Hans Moede Hope Scholarship](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) |  | not listed |
 | [Vickerman/Munoz Family Scholarship for Transfer Students](https://fas.ucsd.edu/types/scholarships/continuing-undergraduate-students.html) | $2,000 | not listed |

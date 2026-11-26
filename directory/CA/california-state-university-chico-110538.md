@@ -1,6 +1,6 @@
 # California State University-Chico scholarships
 
-Chico, CA · 4 open · 114 with no date listed · 0 closed (not shown)
+Chico, CA · 4 open · 120 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/california-state-university-chico-110538)**
 
@@ -31,10 +31,13 @@ Chico, CA · 4 open · 114 with no date listed · 0 closed (not shown)
 | [Carl A. Kountz Engineering Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [Carol Burr 1st Generation Scholarship](https://www.csuchico.edu/academics/college/humanities-fine-arts/resources/scholarships-awards.shtml) |  | not listed |
 | [Chemistry Legacy Scholarship](https://www.csuchico.edu/academics/college/natural-sciences/resources/scholarships-awards.shtml) | $250 | not listed |
+| [Chevron Corporation Computer Science Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [Chico Engineering Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [Child Development Emeriti Faculty Scholarship](https://www.csuchico.edu/academics/college/behavioral-social-sciences/resources/scholarships-awards.shtml) | $2,000 | not listed |
 | [Civil Engineering Scholarship of Excellence](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
+| [Dale D. Stevenson Memorial Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [David and Karen Egly Memorial Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
+| [David Lagerlef Civil Engineering Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [Dean's Fund for Excellence in Engineering](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [Dennis P. Murphy Endowed Scholarship for Civil Engineering](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [Doris Woods Lynch Scholarship](https://www.csuchico.edu/academics/college/behavioral-social-sciences/resources/scholarships-awards.shtml) |  | not listed |
@@ -101,8 +104,10 @@ Chico, CA · 4 open · 114 with no date listed · 0 closed (not shown)
 | [Non-Resident Scholarship (Western Undergraduate Exchange) (opens in new window)](https://www.csuchico.edu/admissions/programs/western-undergrad-exchange.shtml) |  | not listed |
 | [Norman K. Tu Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [NOYCE Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) | $12,000 | not listed |
+| [Paiva Family Scholarship](https://www.csuchico.edu/academics/college/behavioral-social-sciences/resources/scholarships-awards.shtml) |  | not listed |
 | [Pam Montana STEM Career Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [Paul Spear Memorial Scholarship](https://www.csuchico.edu/academics/college/behavioral-social-sciences/resources/scholarships-awards.shtml) |  | not listed |
+| [Peter C. Apostolakos Psychology Scholarship](https://www.csuchico.edu/academics/college/behavioral-social-sciences/resources/scholarships-awards.shtml) |  | not listed |
 | [Pierce/Trucksess Studio Art Scholarship](https://www.csuchico.edu/academics/college/humanities-fine-arts/resources/scholarships-awards.shtml) |  | not listed |
 | [Psi Chi Student of the Year Scholarship](https://www.csuchico.edu/academics/college/behavioral-social-sciences/resources/scholarships-awards.shtml) |  | not listed |
 | [Ranko Moeller Scholarship](https://www.csuchico.edu/academics/college/humanities-fine-arts/resources/scholarships-awards.shtml) |  | not listed |
@@ -119,6 +124,7 @@ Chico, CA · 4 open · 114 with no date listed · 0 closed (not shown)
 | [Sarah Libby Mahood Merit Scholarship - History](https://www.csuchico.edu/academics/college/humanities-fine-arts/resources/scholarships-awards.shtml) |  | not listed |
 | [Sarah Libby Mahood Merit Scholarship - International Relations](https://www.csuchico.edu/academics/college/humanities-fine-arts/resources/scholarships-awards.shtml) |  | not listed |
 | [School of Nursing Scholarship](https://www.csuchico.edu/academics/college/natural-sciences/resources/scholarships-awards.shtml) |  | not listed |
+| [Schuricht Family Engineering Scholarship](https://www.csuchico.edu/academics/college/engineering/resources/scholarships-awards.shtml) |  | not listed |
 | [Social Science Alumni Scholarship](https://www.csuchico.edu/academics/college/behavioral-social-sciences/resources/scholarships-awards.shtml) |  | not listed |
 | [Social Science Teaching Award](https://www.csuchico.edu/academics/college/behavioral-social-sciences/resources/scholarships-awards.shtml) |  | not listed |
 | [Taylor Bonora Leadership Award](https://www.csuchico.edu/academics/college/humanities-fine-arts/resources/scholarships-awards.shtml) |  | not listed |

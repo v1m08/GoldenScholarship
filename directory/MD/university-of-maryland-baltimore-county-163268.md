@@ -1,6 +1,6 @@
 # University of Maryland-Baltimore County scholarships
 
-Baltimore, MD · 28 open · 4 with no date listed · 64 closed (not shown)
+Baltimore, MD · 29 open · 6 with no date listed · 64 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-maryland-baltimore-county-163268)**
 
@@ -20,6 +20,7 @@ Baltimore, MD · 28 open · 4 with no date listed · 64 closed (not shown)
 | [Rada Scholarship in AI and Healthcare](https://umbc.academicworks.com/opportunities/9218) | $1,000 | Dec 11, 2026 |
 | [Graduate Student Emergency Fund](https://umbc.academicworks.com/opportunities/8815) | $100 | Dec 18, 2026 |
 | [SFS Cybercorps + AI](https://umbc.academicworks.com/opportunities/8229) | $27,000–$37,000 | Dec 31, 2026 |
+| [Cyber Scholars Program](https://cybersecurity.umbc.edu/cyberscholars/) | $15,000 | Jan 1, 2027 |
 | [CWIT and Cyber Scholar Programs - New First Year Students](https://umbc.academicworks.com/opportunities/9054) | $5,000–$22,000 | Jan 15, 2027 |
 | [Humanities Scholars Program](https://umbc.academicworks.com/opportunities/8729) | $5,000–$22,000 | Jan 15, 2027 |
 | [Meyerhoff Scholars Program](https://umbc.academicworks.com/opportunities/9058) | $5,000–$22,000 | Jan 15, 2027 |
@@ -36,6 +37,8 @@ Baltimore, MD · 28 open · 4 with no date listed · 64 closed (not shown)
 | [Vesta Community Mental Health Scholarship](https://umbc.academicworks.com/opportunities/9211) | $4,000 | Jun 30, 2027 |
 | [Delegate Scholarships](https://financialaid.umbc.edu/mhec-awards/) |  | not listed |
 | [Discover Scholarships](https://umbc.edu/admissions/financial-aid-scholarships/) | $1,000–$22,000 | not listed |
+| [Educational Assistance Grant (EAG)](https://financialaid.umbc.edu/mhec-awards/) |  | not listed |
+| [Guaranteed Access Grant (GAG)](https://financialaid.umbc.edu/mhec-awards/) |  | not listed |
 | [Phi Theta Kappa Award* (PTK)](https://scholarships.umbc.edu/transfers/) |  | not listed |
 | [Senatorial Scholarships](https://financialaid.umbc.edu/mhec-awards/) |  | not listed |
 

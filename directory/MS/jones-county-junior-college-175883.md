@@ -1,11 +1,12 @@
 # Jones County Junior College scholarships
 
-Ellisville, MS · 0 open · 6 with no date listed · 0 closed (not shown)
+Ellisville, MS · 1 open · 6 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/jones-county-junior-college-175883)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [MTAG - MS Tuition Assistance Grant](https://www.msfinancialaid.org/programs/mtag-mississippi-tuition-assistance-grant/) | $1,000 | Oct 15, 2027 |
 | [Career and Technical (CTE) Scholarships](https://www.jcjc.edu/scholarships/) | $975–$1,950 | not listed |
 | [CTE Healthcare Scholarships](https://www.jcjc.edu/scholarships/) |  | not listed |
 | [Jones College Scholarships](https://www.jcjc.edu/scholarships/) |  | not listed |

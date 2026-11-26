@@ -1,6 +1,6 @@
 # Cleveland State University scholarships
 
-Cleveland, OH · 10 open · 38 with no date listed · 2 closed (not shown)
+Cleveland, OH · 10 open · 45 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/cleveland-state-university-202134)**
 
@@ -21,6 +21,7 @@ Cleveland, OH · 10 open · 38 with no date listed · 2 closed (not shown)
 | [Ahuja Endowed Scholarship](https://engineering.csuohio.edu/scholarships/graduate-student-scholarships-0) | $2,500–$5,500 | not listed |
 | [Choose Ohio First Awards](https://engineering.csuohio.edu/scholarships/first-year-student-scholarships) | $5,000 | not listed |
 | [Choose Ohio First Scholarship (Transfer Student)](https://www.csuohio.edu/financial-aid/choose-ohio-first-scholarship-transfer-students) | $2,000 | not listed |
+| [Christine M and Richard Gill Endowed Scholarship](https://health.csuohio.edu/scholarships) |  | not listed |
 | [Claire A. Van Ummersen Scholarship](https://www.csuohio.edu/financial-aid/claire-van-ummersen-scholarship) | $500–$2,000 | not listed |
 | [Csu Freshman University Merit Scholarships](https://www.csuohio.edu/financial-aid/scholarship-renewal-eligibility-and-reinstatement-process) |  | not listed |
 | [Doug Peacock Scholarship: All Business Majors](https://business.csuohio.edu/student-support/scholarships-for-current-and-prospective-undergraduate-students) | $3,500–$4,000 | not listed |
@@ -35,9 +36,12 @@ Cleveland, OH · 10 open · 38 with no date listed · 2 closed (not shown)
 | [Engineering First Year Awards](https://engineering.csuohio.edu/scholarships/first-year-student-scholarships) | $3,000 | not listed |
 | [Final Year of Study Scholarships](https://artsandsciences.csuohio.edu/ascoaching/scholarships) |  | not listed |
 | [Glasscock Scholars Experience Program & Scholarship](https://business.csuohio.edu/student-support/scholarships-for-prospective-undergraduate-students) |  | not listed |
+| [Hannah Joan Trefzger Scholarship](https://health.csuohio.edu/scholarships) |  | not listed |
 | [Joanna Charity Faber Scholarship: All Business Majors](https://business.csuohio.edu/student-support/scholarships-for-current-and-prospective-undergraduate-students) | $10,000 | not listed |
 | [Law School Scholarships](https://www.law.csuohio.edu/admissions/financing/lawschoolscholarships) |  | not listed |
 | [Linda Kane Scholarship: St. Joseph Academy Graduates or Female Accounting and/or Finance Majors](https://business.csuohio.edu/student-support/scholarships-for-current-and-prospective-undergraduate-students) |  | not listed |
+| [Marilyn Mount Memorial Scholarship](https://health.csuohio.edu/scholarships) |  | not listed |
+| [Mary Ann Domholdt School of Health Sciences Graduate Scholarship](https://health.csuohio.edu/scholarships) |  | not listed |
 | [Mary Zalar Sterle Endowed Scholarship](https://health.csuohio.edu/scholarships) |  | not listed |
 | [Matching Scholarships:](https://www.csuohio.edu/international/education-away-scholarships-and-grants) |  | not listed |
 | [Moses Cleaveland Scholarships](https://www.csuohio.edu/financial-aid/moses-cleaveland-scholarships) | $500–$4,000 | not listed |
@@ -47,6 +51,8 @@ Cleveland, OH · 10 open · 38 with no date listed · 2 closed (not shown)
 | [Paul J. Everson Scholarship: Finance Majors and Finance Minors](https://business.csuohio.edu/student-support/scholarships-for-current-and-prospective-undergraduate-students) | $1,000 | not listed |
 | [Property Management Emerging Leadership & Scholarship](https://business.csuohio.edu/student-support/scholarships-for-prospective-undergraduate-students) | $5,500 | not listed |
 | [Richard Eaton Scholarship](https://www.csuohio.edu/financial-aid/richard-eaton-scholarship) | $1,000–$9,448 | not listed |
+| [Ronald B. Davis Scholarship: All Business Majors](https://business.csuohio.edu/student-support/scholarships-for-current-and-prospective-undergraduate-students) |  | not listed |
+| [Ruth A Kabat Scholarship](https://health.csuohio.edu/scholarships) |  | not listed |
 | [Sarah & David Olenik Endowment Scholarship](https://health.csuohio.edu/scholarships) |  | not listed |
 | [Sigma Phi Epsilon (Balanced Man Scholarship)](https://www.csuohio.edu/financial-aid/sigma-phi-epsilon-balanced-man-scholarship) |  | not listed |
 | [Special Opportunities Scholarships](https://artsandsciences.csuohio.edu/ascoaching/scholarships) |  | not listed |
@@ -54,5 +60,6 @@ Cleveland, OH · 10 open · 38 with no date listed · 2 closed (not shown)
 | [Summer Awards](https://engineering.csuohio.edu/scholarships/currently-enrolled-scholarships) | $1,000 | not listed |
 | [The Plain Dealer Charities Scholarship](https://www.csuohio.edu/financial-aid/plain-dealer-charities-scholarship) | $1,000–$2,500 | not listed |
 | [Tres Angeles Scholarship: All Business Majors](https://business.csuohio.edu/student-support/scholarships-for-current-and-prospective-undergraduate-students) | $4,000 | not listed |
+| [Winifred Bell Scholarship](https://health.csuohio.edu/scholarships) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

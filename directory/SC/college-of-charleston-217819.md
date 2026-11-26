@@ -1,12 +1,13 @@
 # College of Charleston scholarships
 
-Charleston, SC · 3 open · 11 with no date listed · 0 closed (not shown)
+Charleston, SC · 4 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/college-of-charleston-217819)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Access to Excellence - Need-Based Scholarships](https://charleston.edu/cost-aid/scholarships/sc-talent-initiative.php) | $4,000 | Feb 1, 2027 |
+| [CofC Merit Scholarships](https://charleston.edu/cost-aid/scholarships/sc-talent-initiative.php) | $4,000 | Feb 1, 2027 |
 | [Leah Read and Seymour I.Barkowitz Scholarship](https://coastalcommunityfoundation.org/scholarships/type/scholarships-for-current-high-school-seniors/) | $750 | Mar 15, 2027 |
 | [S.C. Palmetto Fellows Scholarship](https://charleston.edu/cost-aid/scholarships/palmetto-fellows.php) | $7,500 | Apr 15, 2027 |
 | [Enhancements for Palmetto Fellows and LIFE Scholarship](https://charleston.edu/cost-aid/scholarships/index.php) | $7,500 | not listed |

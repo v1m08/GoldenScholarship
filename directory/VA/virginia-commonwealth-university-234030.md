@@ -1,6 +1,6 @@
 # Virginia Commonwealth University scholarships
 
-Richmond, VA · 10 open · 151 with no date listed · 1 closed (not shown)
+Richmond, VA · 10 open · 161 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/virginia-commonwealth-university-234030)**
 
@@ -18,6 +18,8 @@ Richmond, VA · 10 open · 151 with no date listed · 1 closed (not shown)
 | [VCU Undergraduate Scholarships](https://scholarships.vcu.edu/) |  | Nov 1, 2027 |
 | [A.D. Williams Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [AD Williams Fieldwork Scholarship](https://scholarships.vcu.edu/) |  | not listed |
+| [AD Williams Leadership Scholarship](https://scholarships.vcu.edu/) |  | not listed |
+| [AD Williams Service Award](https://scholarships.vcu.edu/) |  | not listed |
 | [Adam Abubaker Memorial Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Albert T. Sneden III Scholarship in Chemistry](https://scholarships.vcu.edu/) |  | not listed |
 | [Alden Aaroe Scholarship](https://scholarships.vcu.edu/) |  | not listed |
@@ -50,6 +52,7 @@ Richmond, VA · 10 open · 151 with no date listed · 1 closed (not shown)
 | [D.D.S. Class of 1995 Scholarship Endowment](https://scholarships.vcu.edu/) |  | not listed |
 | [D70 Memorial Scholarship Fund](https://scholarships.vcu.edu/) |  | not listed |
 | [Daria Downing Scholarship](https://scholarships.vcu.edu/) | $1,000 | not listed |
+| [David C. Sarrett, D.M.D., M.S., and Elizabeth G. Sarrett, M.Ed. Endowed Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [David F. Ingraham Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Dean Harry Lyons Student Scholarship Endowment](https://scholarships.vcu.edu/) |  | not listed |
 | [Denise T. Nguyen, D.D.S. Endowed Scholarship](https://scholarships.vcu.edu/) |  | not listed |
@@ -87,6 +90,7 @@ Richmond, VA · 10 open · 151 with no date listed · 1 closed (not shown)
 | [Fall 2026 New Student Scholarships](https://scholarships.vcu.edu/) | $500 | not listed |
 | [Friends Of VCU Libraries Scholarship Fund](https://scholarships.vcu.edu/) | $5,000 | not listed |
 | [George A. Levicki, D.D.S. Endowed Scholarship](https://scholarships.vcu.edu/) |  | not listed |
+| [George S. Loder Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [George T. Crutchfield Journalism Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Gerald and Susan Bass Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Gilman-McCain Scholarship](https://scholarships.vcu.edu/) |  | not listed |
@@ -101,8 +105,10 @@ Richmond, VA · 10 open · 151 with no date listed · 1 closed (not shown)
 | [Jane Dowrick and Michael Whitlow Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [JASSO Short-term Student Exchange Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Jessie Hibbs/Marian Waller Scholarships](https://scholarships.vcu.edu/) | $1,000 | not listed |
+| [Job O. and Harriet Belcher Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [John D. Stephens Endowed Scholarship Fund](https://scholarships.vcu.edu/) |  | not listed |
 | [John J. Lacy Jr., D.D.S. and Carolyn E. Lacy Scholarship](https://scholarships.vcu.edu/) |  | not listed |
+| [Jon & Wendy Baker Award](https://scholarships.vcu.edu/) |  | not listed |
 | [Joseph F. Mason Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Jules Rothstein Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Karen and Warren Sachs Scholarship Fund](https://scholarships.vcu.edu/) |  | not listed |
@@ -128,10 +134,12 @@ Richmond, VA · 10 open · 151 with no date listed · 1 closed (not shown)
 | [Melvin V. Lubman Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Miles F. Johnson Award of Excellence](https://scholarships.vcu.edu/) |  | not listed |
 | [Nguyen-Ninh Partial Scholarship](https://scholarships.vcu.edu/) |  | not listed |
+| [Patti Ann Maurer Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Paul and Marley Casagrande Dental Scholarship Fund](https://scholarships.vcu.edu/) |  | not listed |
 | [Pham-Dang Family Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Phi Kappa Phi Scholarship](https://scholarships.vcu.edu/) | $2,000 | not listed |
 | [Phi Kappa Phi Study Abroad Grant](https://scholarships.vcu.edu/) | $1,000 | not listed |
+| [Pierluigi Antonio Menna Scholarship in Psychology](https://scholarships.vcu.edu/) |  | not listed |
 | [Political Science Study Away Award (award estimate](https://scholarships.vcu.edu/) | $1,000 | not listed |
 | [Presidential International Education Award (award estimate](https://scholarships.vcu.edu/) | $500–$1,000 | not listed |
 | [Preston D. Miller Award](https://scholarships.vcu.edu/) |  | not listed |
@@ -144,6 +152,7 @@ Richmond, VA · 10 open · 151 with no date listed · 1 closed (not shown)
 | [Richard C. Mariani, Sr., D.D.S. Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Robert B. Lantz Endowed Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Robert Beverly Orndorff Scholarship](https://scholarships.vcu.edu/) |  | not listed |
+| [Roger E. Wood, D.D.S. Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Ronald L. Tankersley, D.D.S. Leadership Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Rural Dental Scholarship Fund](https://scholarships.vcu.edu/) |  | not listed |
 | [Ruth Hibbs Hyland Scholarship (MAE and BFA)](https://scholarships.vcu.edu/) |  | not listed |
@@ -161,6 +170,7 @@ Richmond, VA · 10 open · 151 with no date listed · 1 closed (not shown)
 | [VCU School of Dentistry Class of 2006 Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [VCUarts Talent Scholarships](https://scholarships.vcu.edu/) | $18,000 | not listed |
 | [Virginia Communications Hall of Fame Scholarship](https://scholarships.vcu.edu/) |  | not listed |
+| [Virginia Credit Union Scholarship Program](https://www.vacu.org/scholarships?utm_source=email&utm_medium=email&utm_term=2019_Q1_general_communication&utm_ctext_01&utm_campaign=20190204_scholarship_01) | $5,000 | not listed |
 | [Virginia Society for Medical Laboratory Science Scholarship](https://scholarships.vcu.edu/) |  | not listed |
 | [Volunteer Forever Scholarship](https://scholarships.vcu.edu/) | $500–$1,000 | not listed |
 | [Wilder School Undergraduate & Graduate Student Scholarships](https://scholarships.vcu.edu/) |  | not listed |

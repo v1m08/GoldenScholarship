@@ -1,6 +1,6 @@
 # McKendree University scholarships
 
-Lebanon, IL · 15 open · 25 with no date listed · 8 closed (not shown)
+Lebanon, IL · 15 open · 26 with no date listed · 8 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/mckendree-university-147013)**
 
@@ -29,6 +29,7 @@ Lebanon, IL · 15 open · 25 with no date listed · 8 closed (not shown)
 | [Honor's Scholarship](https://www.mckendree.edu/offices/financial-aid/undergraduate/first-year/scholarships.php) | $17,000 | not listed |
 | [John Wesley/Methodist Scholarship - McKendree University](https://www.mckendree.edu/offices/financial-aid/scholarships/additional-institutional-scholarships.php) | $1,000 | not listed |
 | [John Wesley/Methodist Scholarships](https://www.mckendree.edu/offices/financial-aid/scholarships/additional-institutional-scholarships.php) | $1,000 | not listed |
+| [Model UN Scholarships](https://www.mckendree.edu/offices/financial-aid/scholarships/additional-institutional-scholarships.php) |  | not listed |
 | [Novus Biologicals Scholarship (Annual Scholarship)](https://www.mckendree.edu/offices/financial-aid/undergraduate/first-year/additional-scholarships.php) | $1,500 | not listed |
 | [Phi Theta Kappa Scholarship](https://www.mckendree.edu/offices/financial-aid/transfer/scholarships.php) | $2,000 | not listed |
 | [Phi Theta Kappa Scholarship - McKendree University](https://www.mckendree.edu/offices/financial-aid/transfer/scholarships.php) | $2,000 | not listed |

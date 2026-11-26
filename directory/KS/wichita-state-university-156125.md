@@ -1,6 +1,6 @@
 # Wichita State University scholarships
 
-Wichita, KS · 16 open · 20 with no date listed · 2 closed (not shown)
+Wichita, KS · 16 open · 19 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/wichita-state-university-156125)**
 
@@ -29,7 +29,6 @@ Wichita, KS · 16 open · 20 with no date listed · 2 closed (not shown)
 | [Health Professions Scholarships](https://www.wichita.edu/academics/health_professions/chp/Scholarship/index_scholarships.php) |  | not listed |
 | [Kansas Shocker Promise Scholarship](https://www.wichita.edu/administration/financial_aid/scholarships/merit/Freshmen_merit.php) |  | not listed |
 | [Part-time Student Award (Educational Opportunity Fund)](https://www.wichita.edu/academics/graduate_school/financial-aid-scholarships.php) | $700 | not listed |
-| [Professor Fran Jabara Endowed Scholarship](https://www.wichita.edu/academics/business/scholarships/professor-fran-jabara-endowed-scholarship.php) | $36,400 | not listed |
 | [Professor Fran Jabara Scholarship Competition](https://www.wichita.edu/academics/business/scholarships/professor-fran-jabara-endowed-scholarship.php) | $36,400 | not listed |
 | [Sedgwick County Shocker Promise Scholarship](https://www.wichita.edu/administration/financial_aid/scholarships/merit/Freshmen_merit.php) |  | not listed |
 | [SGA & Sigma Lambda Beta Dreamer Scholarship](https://www.wichita.edu/student_life/sga/scholarships_funding.php) |  | not listed |

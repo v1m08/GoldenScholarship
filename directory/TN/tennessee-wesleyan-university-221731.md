@@ -1,6 +1,6 @@
 # Tennessee Wesleyan University scholarships
 
-Athens, TN · 3 open · 4 with no date listed · 0 closed (not shown)
+Athens, TN · 3 open · 5 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/tennessee-wesleyan-university-221731)**
 
@@ -11,6 +11,7 @@ Athens, TN · 3 open · 4 with no date listed · 0 closed (not shown)
 | [Tennessee Student Assistance Award (TSAA)](https://www.tnwesleyan.edu/tuition-aid/financial-aid/) |  | Oct 1, 2027 |
 | [Educational Partnership Award](https://www.tnwesleyan.edu/tuition-aid/scholarships/academic/) | $10,000 | not listed |
 | [HOPE Scholarship](https://www.tnwesleyan.edu/tuition-aid/scholarships/academic/) |  | not listed |
+| [Music Scholarships (Tucker Foundation) - Amount varies](https://www.tnwesleyan.edu/tuition-aid/scholarships/academic/) |  | not listed |
 | [Tennessee HOPE Foster Child Tuition Grant](https://www.tnwesleyan.edu/tuition-aid/financial-aid/) |  | not listed |
 | [Work Scholarship - Amount varies](https://www.tnwesleyan.edu/tuition-aid/scholarships/academic/) |  | not listed |
 

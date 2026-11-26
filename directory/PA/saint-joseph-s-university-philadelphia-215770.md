@@ -1,6 +1,6 @@
 # Saint Joseph's University - Philadelphia scholarships
 
-Philadelphia, PA · 3 open · 9 with no date listed · 0 closed (not shown)
+Philadelphia, PA · 3 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/saint-joseph-s-university-philadelphia-215770)**
 
@@ -17,6 +17,8 @@ Philadelphia, PA · 3 open · 9 with no date listed · 0 closed (not shown)
 | [Legacy Awards](https://www.sju.edu/scholarships) |  | not listed |
 | [Lenfest Incentive Scholarship](https://www.sju.edu/scholarships) |  | not listed |
 | [Maguire Scholarship](https://www.sju.edu/scholarships) |  | not listed |
+| [Offering five scholarships](https://www.sju.edu/scholarships) |  | not listed |
+| [Phi Theta Kappa Scholarship](https://www.sju.edu/scholarships) |  | not listed |
 | [SJU Theatre Company Scholarship](https://www.sju.edu/scholarships) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

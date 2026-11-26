@@ -1,6 +1,6 @@
 # University of South Florida scholarships
 
-Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
+Tampa, FL · 6 open · 124 with no date listed · 5 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-south-florida-137351)**
 
@@ -11,15 +11,17 @@ Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
 | [Non-FL Resident Scholarships](https://www.usf.edu/admissions/freshmen/admissions-scholarships/nonflorida.aspx) |  | Jan 15, 2027 |
 | [USF Honors College Scholarship](https://www.usf.edu/honors/prospective-students/scholarships.aspx) | $10,000 | Feb 1, 2027 |
 | [James A Edwards Scholarship Trust](https://www.jamesaedwardsscholarshiptrust.com/) | $5,000 | Mar 31, 2027 |
-| [USF National Merit Scholarship - University of South Florida](https://www.usf.edu/admissions/freshmen/admissions-scholarships/national-merit-scholarship/benefits.aspx) | $20,000 | May 31, 2027 |
+| [NMS Scholarships](https://www.usf.edu/admissions/freshmen/admissions-scholarships/national-merit-scholarship/benefits.aspx) | $20,000 | May 31, 2027 |
 | [AECOM Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [AlfKa Engineering Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Allan R. Gondeck Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Allen H. Seckinger Memorial Scholarship Fund](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [American Society of Highway Engineers Tampa Bay Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Anthony and Sheila James Endowed Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Anthony Ekonomou WWII Last Mile Scholarship](https://www.usf.edu/student-affairs/veterans/academics/scholarshippage.aspx) |  | not listed |
 | [Armstrong Family Tapputi Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [ASCE - West Coast Branch Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Association for Facilities Engineering Endowed Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Athena Society Women's Education Scholarship](https://www.usf.edu/student-affairs/veterans/academics/scholarshippage.aspx) |  | not listed |
 | [Balter Family Endowed Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Barbara Griffin Memorial Family Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
@@ -30,6 +32,8 @@ Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
 | [Bright Futures Scholarships](https://www.usf.edu/financial-aid/brightfutures/index.aspx) | $157–$209 | not listed |
 | [Chemical & Biomedical Engineering Memorial Scholarship Fund](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Chemical Engineering Alumni Scholarship Fund](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Chief Master Sergeant Kenneth M. Roundy Last Mile Scholarship](https://www.usf.edu/student-affairs/veterans/academics/scholarshippage.aspx) |  | not listed |
+| [Christian & Shanna Brown Veterans Success Last Mile Scholarship](https://www.usf.edu/student-affairs/veterans/academics/scholarshippage.aspx) |  | not listed |
 | [Civil Engineering Faculty Staff Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [College of Engineering Faculty Staff Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Dance Scholarships](https://www.usf.edu/arts/theatre-and-dance/apply/financial-aid.aspx) |  | not listed |
@@ -44,6 +48,7 @@ Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
 | [EE Student Technology and Scholarship Fund](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Element Engineering Group Transportation Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Engineering MATRIX Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Eugene & Mary Lou Powell Veterans Services Last Mile Scholarship](https://www.usf.edu/student-affairs/veterans/academics/scholarshippage.aspx) |  | not listed |
 | [F. E. Lykes Foundation Scholarship in Engineering](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [FACERS Endowed Scholarship in Civil Engineering](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Florida Bright Futures Scholarship](https://www.usf.edu/financial-aid/scholarships/) |  | not listed |
@@ -61,10 +66,16 @@ Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
 | [Gordon and Paula Gillette Engineering Endowed Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Helen and Clarence Prince Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Higgins Engineering Water Resources Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Honeywell Hispanic Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Horace and Dorothy Gordon Endowed Scholarship Fund](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Howard F. and Mary P. Curren Endowed Memorial Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [HSA Environmental Inc. Endowed Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Indeevar and Srinath Memorial Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [India Students Endowed Scholarship in Engineering](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [James M. Doss, Sr. Last Mile Scholarship](https://www.usf.edu/student-affairs/veterans/academics/scholarshippage.aspx) |  | not listed |
+| [Janosik Family Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [John Justin Desmond Jr. Endowed Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Joost J. Schwaanhuyser Endowed Memorial Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Juan and Maria Gonzalez Mechanical Engineering Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) | $1,600 | not listed |
 | [Juan and Maria Gonzalez Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) | $1,600 | not listed |
 | [Julia and Samuel Flom Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
@@ -78,6 +89,8 @@ Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
 | [Matthew James Moreno Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Medical Engineering Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Michelle Homans Austin Engineering Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Michelle Vargas Memorial Scholarship in Dance](https://www.usf.edu/arts/theatre-and-dance/apply/financial-aid.aspx) |  | not listed |
+| [Miriam and Charles Fessler Scholarship](https://www.usf.edu/arts/theatre-and-dance/apply/financial-aid.aspx) |  | not listed |
 | [Mozelle Beverly Endowed Scholarship in Engineering](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Mozelle Beverly Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Myra and Mack D. Cooley Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
@@ -88,9 +101,11 @@ Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
 | [Peter R. Brown Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Phi Gamma Delta Engineering Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Procter and Gamble Endowed Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Provides scholarships for selected USF College of Engineering Students. Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Q Motor Sports Family Student Racer Scholarship Program](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [R. Kelly Clark Endowed Memorial Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Ralph Fehr III Memorial Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Ramon F. Campo WWII Last Mile Scholarship](https://www.usf.edu/student-affairs/veterans/academics/scholarshippage.aspx) |  | not listed |
 | [Richard Bowman Jr. Memorial Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Richard Ian Stessel Memorial Fellowship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Richard Ian Stessel Memorial Fellowship for Graduate Environmental Engineering Students](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
@@ -101,6 +116,7 @@ Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
 | [Service Award](https://www.usf.edu/arts/theatre-and-dance/apply/financial-aid.aspx) | $400 | not listed |
 | [Society of Hispanic Professional Engineers Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Stantec Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) | $2,000 | not listed |
+| [State Representative Rob Wallace P.E. Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Theatre Scholarships](https://www.usf.edu/arts/theatre-and-dance/apply/financial-aid.aspx) |  | not listed |
 | [Tillman Foundation Scholarship](https://www.usf.edu/student-affairs/veterans/academics/tillman.aspx) | $10,000 | not listed |
 | [TLC Engineering for Architecture Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
@@ -114,7 +130,9 @@ Tampa, FL · 6 open · 106 with no date listed · 5 closed (not shown)
 | [USF Scholars Gold Award](https://www.usf.edu/admissions/freshmen/admissions-scholarships/index.aspx) |  | not listed |
 | [Vasant Surti PhD PE Endowed Scholarship Civil Engineering](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [VIBE Scholarship for Engineering](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Victoria Catherine Selden Dance Scholarship](https://www.usf.edu/arts/theatre-and-dance/apply/financial-aid.aspx) |  | not listed |
 | [WateReuse Florida Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
+| [Wayne and Iris Echelberger Civil/Environmental Engineering Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [Whiting-Turner Contracting Scholarship in Memory of Jack Condulis](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [William "W-Dot" Smith Scholarship](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |
 | [William M. Greenlees Scholarship in Engineering](https://www.usf.edu/engineering/student-services/academic-resources/scholarships.aspx) |  | not listed |

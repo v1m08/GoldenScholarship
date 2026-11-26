@@ -1,6 +1,6 @@
 # North Carolina Central University scholarships
 
-Durham, NC · 274 open · 5 with no date listed · 1 closed (not shown)
+Durham, NC · 274 open · 6 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/north-carolina-central-university-199157)**
 
@@ -285,5 +285,6 @@ Durham, NC · 274 open · 5 with no date listed · 1 closed (not shown)
 | [Chancellor's Scholarship Program](https://www.nccu.edu/chancellors-cycle-success-scholarship/chancellors-scholarship-program) |  | not listed |
 | [Cheatham-White Scholarship Program](https://www.nccu.edu/usp/cheatham-white-scholarship-program) |  | not listed |
 | [John Andrew Barbee Sr. Endowed Scholarship](https://nccu.academicworks.com/opportunities/3641) |  | not listed |
+| [NC Community College Transfer Scholarship](https://www.nccu.edu/ssa/scholarships) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

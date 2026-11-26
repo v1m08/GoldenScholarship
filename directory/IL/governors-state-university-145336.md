@@ -1,6 +1,6 @@
 # Governors State University scholarships
 
-University Park, IL · 0 open · 11 with no date listed · 0 closed (not shown)
+University Park, IL · 0 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/governors-state-university-145336)**
 
@@ -15,6 +15,7 @@ University Park, IL · 0 open · 11 with no date listed · 0 closed (not shown)
 | [Deans Scholarships](https://www.govst.edu/presidential-scholarships) | $7,000 | not listed |
 | [Dual Degree Program Foundation Scholarship](https://www.govst.edu/dual-degree-program-scholarships) | $500 | not listed |
 | [Dual Degree Program Scholarships for Community College Students](https://www.govst.edu/dual-degree-program-scholarships) |  | not listed |
+| [Freeman-Asia Awards](https://www.iie.org/programs/freeman-asia/) |  | not listed |
 | [Presidential Scholarships](https://www.govst.edu/presidential-scholarships) | $8,000 | not listed |
 | [Provost Scholarships](https://www.govst.edu/presidential-scholarships) | $8,000 | not listed |
 

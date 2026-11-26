@@ -1,6 +1,6 @@
 # Geneva College scholarships
 
-Beaver Falls, PA · 2 open · 11 with no date listed · 0 closed (not shown)
+Beaver Falls, PA · 2 open · 13 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/geneva-college-212656)**
 
@@ -18,6 +18,8 @@ Beaver Falls, PA · 2 open · 11 with no date listed · 0 closed (not shown)
 | [Legacy Grant](https://www.geneva.edu/financial-aid/scholarships-grants) | $1,000 | not listed |
 | [Music Scholarship](https://www.geneva.edu/financial-aid/scholarships-grants) | $3,500 | not listed |
 | [Nursing Excellence Scholarship](https://www.geneva.edu/financial-aid/scholarships-grants) | $2,000 | not listed |
+| [Pro Christo Scholarship](https://www.geneva.edu/financial-aid/scholarships-grants) |  | not listed |
 | [Ready To Succeed Scholarship](https://www.geneva.edu/financial-aid/scholarships-grants) |  | not listed |
+| [Servant Leadership Grant](https://www.geneva.edu/financial-aid/scholarships-grants) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

@@ -1,6 +1,6 @@
 # Waynesburg University scholarships
 
-Waynesburg, PA · 0 open · 6 with no date listed · 0 closed (not shown)
+Waynesburg, PA · 0 open · 8 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/waynesburg-university-216694)**
 
@@ -8,7 +8,9 @@ Waynesburg, PA · 0 open · 6 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [Achievement Awards](https://www.waynesburg.edu/admissions/scholarships-and-awards/first-year-freshman-scholarships) | $4,000 | not listed |
 | [Bonner Scholarship](https://www.waynesburg.edu/admissions/scholarships-and-awards/first-year-freshman-scholarships/bonner-scholarship) | $5,000 | not listed |
+| [Community College Impact Award](https://www.waynesburg.edu/admissions/scholarships-and-awards/transfer-scholarships) | $2,500 | not listed |
 | [Founders Scholarship](https://www.waynesburg.edu/admissions/scholarships-and-awards/first-year-freshman-scholarships/founders-scholarship) |  | not listed |
+| [Scout Scholarship](https://www.waynesburg.edu/admissions/scholarships-and-awards/first-year-freshman-scholarships/scout-scholarship) | $2,000 | not listed |
 | [Scout Scholarship - $2,000](https://www.waynesburg.edu/admissions/scholarships-and-awards/first-year-freshman-scholarships/scout-scholarship) | $2,000 | not listed |
 | [Waynesburg Christian Life Scholarship](https://www.waynesburg.edu/admissions/scholarships-and-awards/first-year-freshman-scholarships/waynesburg-christian-life-scholarship) |  | not listed |
 | [WU Visit Grant](https://www.waynesburg.edu/admissions/scholarships-and-awards/transfer-scholarships) | $4,000 | not listed |

@@ -1,6 +1,6 @@
 # Colorado Christian University scholarships
 
-Lakewood, CO · 1 open · 86 with no date listed · 0 closed (not shown)
+Lakewood, CO · 1 open · 87 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/colorado-christian-university-126669)**
 
@@ -30,6 +30,7 @@ Lakewood, CO · 1 open · 86 with no date listed · 0 closed (not shown)
 | [Dr. Kelton Lustig Memorial Recurring Scholarship](https://www.ccu.edu/undergrad/financial-aid/scholarships/endowed-recurring/) |  | not listed |
 | [E.J. Sturgeon Johnson Memorial Endowed Scholarship](https://www.ccu.edu/undergrad/financial-aid/scholarships/endowed-recurring/) |  | not listed |
 | [Edna Ogle Endowed Scholarship](https://www.ccu.edu/undergrad/financial-aid/scholarships/endowed-recurring/) |  | not listed |
+| [Ensemble participation scholarships are available to non-music majors for the following ensembles](https://www.ccu.edu/undergrad/school-of-music/scholarships/) |  | not listed |
 | [Eric and Tammy Hogue Educational Impact Endowed Scholarship](https://www.ccu.edu/undergrad/financial-aid/scholarships/endowed-recurring/) |  | not listed |
 | [Fowler Memorial Endowed Scholarship](https://www.ccu.edu/undergrad/financial-aid/scholarships/endowed-recurring/) |  | not listed |
 | [Freda T. Roof Memorial and Yngve Hanson Recurring Scholarship](https://www.ccu.edu/undergrad/financial-aid/scholarships/endowed-recurring/) |  | not listed |

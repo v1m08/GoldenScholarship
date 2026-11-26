@@ -1,6 +1,6 @@
 # Austin Peay State University scholarships
 
-Clarksville, TN · 2 open · 25 with no date listed · 0 closed (not shown)
+Clarksville, TN · 3 open · 25 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/austin-peay-state-university-219602)**
 
@@ -8,6 +8,7 @@ Clarksville, TN · 2 open · 25 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [APSU Scholarships](https://www.apsu.edu/study-abroad-exchange/study-abroad/scholarships.php) | $1,000 | Mar 1, 2027 |
 | [Dr. David Snyder Scholarship Endowment Fund](https://www.apsu.edu/field-biology/dr-david-snyder-scholarship-endowment-fund.php) | $2,500 | Apr 1, 2027 |
+| [CET Scholarships](https://cetacademicprograms.com/college-study-abroad/financial-services/scholarships/) | $10,000 | Nov 1, 2027 |
 | [Alumni Legacy Scholarship](https://www.apsu.edu/scholarships/) | $1,000 | not listed |
 | [American Women's Club in Stockholm Scholarship](https://www.apsu.edu/study-abroad-exchange/study-abroad/scholarships.php) |  | not listed |
 | [Aspire Award](https://www.apsu.edu/scholarships/tn-education-lottery-programs/hope-lottery-scholarship-programs.php) |  | not listed |

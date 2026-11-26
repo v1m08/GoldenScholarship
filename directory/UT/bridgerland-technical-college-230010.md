@@ -1,6 +1,6 @@
 # Bridgerland Technical College scholarships
 
-Logan, UT · 2 open · 7 with no date listed · 0 closed (not shown)
+Logan, UT · 2 open · 7 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/bridgerland-technical-college-230010)**
 

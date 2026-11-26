@@ -1,6 +1,6 @@
 # Washington University in St Louis scholarships
 
-St. Louis, MO · 7 open · 3 with no date listed · 0 closed (not shown)
+St. Louis, MO · 7 open · 4 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/washington-university-in-st-louis-179867)**
 
@@ -15,6 +15,7 @@ St. Louis, MO · 7 open · 3 with no date listed · 0 closed (not shown)
 | [Elizabeth Gray Danforth Scholarship](https://admissions.washu.edu/cost-aid/scholarships/transfer-student-scholarships/) | $2,000 | Mar 1, 2027 |
 | [Dr. Thomas F. Frist, Jr. Scholarship](https://admissions.washu.edu/frist-scholarship/) |  | not listed |
 | [Olin Business School Distinguished Scholars Program](https://admissions.washu.edu/cost-aid/scholarships/school-scholarships/) |  | not listed |
+| [School scholarships](https://admissions.washu.edu/cost-aid/scholarships/school-scholarships/) | $10,000 | not listed |
 | [WashU merit-based scholarships](https://financialaid.washu.edu/how-aid-works/scholarships/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

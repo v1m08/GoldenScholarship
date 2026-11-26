@@ -1,6 +1,6 @@
 # Central Methodist University-College of Liberal Arts and Sciences scholarships
 
-Fayette, MO · 2 open · 11 with no date listed · 0 closed (not shown)
+Fayette, MO · 2 open · 13 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/central-methodist-university-college-of-liberal-arts-and-sciences-176947)**
 
@@ -16,7 +16,9 @@ Fayette, MO · 2 open · 11 with no date listed · 0 closed (not shown)
 | [Gulstad Scholars Transfer Scholarship](https://www.centralmethodist.edu/admissions/financial-aid/scholarships.html) |  | not listed |
 | [Legacy Grant](https://www.centralmethodist.edu/admissions/financial-aid/scholarships.html) | $1,000 | not listed |
 | [Participation Scholarships](https://www.centralmethodist.edu/admissions/financial-aid/scholarships.html) |  | not listed |
+| [Phi Theta Kappa Scholarship](https://www.centralmethodist.edu/admissions/financial-aid/scholarships.html) | $1,000 | not listed |
 | [Prison Ed Scholarship](https://www.centralmethodist.edu/admissions/financial-aid/cges-scholarships.html) |  | not listed |
+| [Sibling Grant](https://www.centralmethodist.edu/admissions/financial-aid/scholarships.html) | $1,000 | not listed |
 | [Thogmorton Scholarship](https://www.centralmethodist.edu/admissions/financial-aid/scholarships.html) |  | not listed |
 | [United Methodist Half-Tuition Scholarship](https://www.centralmethodist.edu/admissions/financial-aid/scholarships.html) |  | not listed |
 

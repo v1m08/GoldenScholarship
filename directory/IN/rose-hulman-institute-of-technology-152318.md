@@ -1,6 +1,6 @@
 # Rose-Hulman Institute of Technology scholarships
 
-Terre Haute, IN · 7 open · 3 with no date listed · 0 closed (not shown)
+Terre Haute, IN · 8 open · 3 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/rose-hulman-institute-of-technology-152318)**
 
@@ -12,6 +12,7 @@ Terre Haute, IN · 7 open · 3 with no date listed · 0 closed (not shown)
 | [Trueb Scholarship](https://www.rose-hulman.edu/admissions-and-aid/financial-aid/scholarships-and-grants/rose-hulman-scholarships/index.html) |  | Feb 1, 2027 |
 | [VEX Robotics Scholarship](https://www.rose-hulman.edu/admissions-and-aid/financial-aid/scholarships-and-grants/rose-hulman-scholarships/index.html) | $40,000 | Feb 1, 2027 |
 | [Competition Team and Visual & Performing Arts Scholarships](https://www.rose-hulman.edu/admissions-and-aid/financial-aid/scholarships-and-grants/rose-hulman-scholarships/index.html) | $2,500 | Apr 1, 2027 |
+| [Rose-Hulman Scholarships](https://www.rose-hulman.edu/admissions-and-aid/financial-aid/scholarships-and-grants/rose-hulman-scholarships/index.html) | $2,500 | Apr 1, 2027 |
 | [Provost Scholarship](https://www.rose-hulman.edu/admissions-and-aid/financial-aid/scholarships-and-grants/rose-hulman-scholarships/index.html) | $10,000–$20,000 | Nov 1, 2027 |
 | [Randall G. Shoaf Scholarship](https://www.wicf-inc.org/high-school-scholarships) |  | not listed |
 | [Rose-Hulman Merit Scholarship](https://www.rose-hulman.edu/admissions-and-aid/financial-aid/scholarships-and-grants/rose-hulman-scholarships/index.html) |  | not listed |

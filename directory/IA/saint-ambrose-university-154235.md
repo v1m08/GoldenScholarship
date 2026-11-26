@@ -1,6 +1,6 @@
 # Saint Ambrose University scholarships
 
-Davenport, IA · 5 open · 42 with no date listed · 0 closed (not shown)
+Davenport, IA · 6 open · 44 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/saint-ambrose-university-154235)**
 
@@ -11,6 +11,7 @@ Davenport, IA · 5 open · 42 with no date listed · 0 closed (not shown)
 | [St. Vincent Scholarship](https://sau.edu/tuition-financial-aid/scholarships/st-vincent-scholarship/) | $2,500 | Apr 15, 2027 |
 | [O'Rourke Master of Public Health Scholarship](https://sau.edu/tuition-financial-aid/scholarships/orourke-master-public-health-endowned-scholarship/) | $1,500 | Oct 1, 2027 |
 | [Foreign Language Scholarship](https://sau.edu/tuition-financial-aid/scholarships/foreign-language-scholarship/) | $2,000 | Nov 15, 2027 |
+| [SAU's Foreign Language Scholarship](https://sau.edu/tuition-financial-aid/scholarships/foreign-language-scholarship/) | $2,000 | Nov 15, 2027 |
 | [25% Tuition Reduction with the MBA Access Scholarship](https://sau.edu/tuition-financial-aid/scholarships/) |  | not listed |
 | [Agnes Rose Malik Scholarship](https://sau.edu/tuition-financial-aid/scholarships/agnes-rose-malik-scholarship/) | $8,000 | not listed |
 | [Ambrose Advantage Full-Tuition Grant](https://sau.edu/tuition-financial-aid/scholarships/) |  | not listed |
@@ -24,6 +25,7 @@ Davenport, IA · 5 open · 42 with no date listed · 0 closed (not shown)
 | [Edith Yutt Scholarship](https://sau.edu/tuition-financial-aid/scholarships/edith-yutt-scholarship/) | $2,000 | not listed |
 | [Edward R. Frick Accounting Scholarship](https://sau.edu/tuition-financial-aid/scholarships/edward-frick-accounting-scholarship/) | $2,000 | not listed |
 | [Foreign Language Scholarship for Spanish Majors and Minors](https://sau.edu/tuition-financial-aid/scholarships/) |  | not listed |
+| [Full-Tuition Athletic Scholarships](https://sau.edu/tuition-financial-aid/scholarships/athletic-scholarship/) |  | not listed |
 | [George Till Scholarship](https://sau.edu/tuition-financial-aid/scholarships/george-till-scholarship/) | $25,000 | not listed |
 | [Joseph R. '72 and Joyce O'Rourke Master of Public Health Endowed Scholarship](https://sau.edu/tuition-financial-aid/scholarships/) |  | not listed |
 | [MBA Access Scholarship](https://sau.edu/tuition-financial-aid/scholarships/mba-access-scholarship/) |  | not listed |
@@ -31,6 +33,7 @@ Davenport, IA · 5 open · 42 with no date listed · 0 closed (not shown)
 | [Music Scholarships](https://sau.edu/tuition-financial-aid/scholarships/music-scholarships/) | $1,000–$6,000 | not listed |
 | [Phi Theta Kappa Academic Scholarship](https://sau.edu/tuition-financial-aid/scholarships/phi-theta-kappa-academic-scholarship/) | $500 | not listed |
 | [Physical Therapy Endowed Scholarship](https://sau.edu/tuition-financial-aid/scholarships/physical-therapy-endowed-scholarship/) | $1,000 | not listed |
+| [SAU's Study Abroad Scholarship](https://sau.edu/tuition-financial-aid/scholarships/study-abroad-scholarship/) |  | not listed |
 | [School of Social Work Empowerment Scholarship](https://sau.edu/tuition-financial-aid/scholarships/school-social-work-empowerment-scholarship/) |  | not listed |
 | [School of Social Work Fellowships](https://sau.edu/tuition-financial-aid/scholarships/school-socialwork-graduate-fellowships/) | $2,500 | not listed |
 | [School of Social Work Graduate Fellowships](https://sau.edu/tuition-financial-aid/scholarships/school-socialwork-graduate-fellowships/) | $2,500 | not listed |

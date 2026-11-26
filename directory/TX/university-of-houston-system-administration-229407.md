@@ -1,6 +1,6 @@
 # University of Houston-System Administration scholarships
 
-Houston, TX · 2 open · 1 with no date listed · 1 closed (not shown)
+Houston, TX · 2 open · 1 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-houston-system-administration-229407)**
 

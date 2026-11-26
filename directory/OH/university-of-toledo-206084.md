@@ -1,6 +1,6 @@
 # University of Toledo scholarships
 
-Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
+Toledo, OH · 2 open · 670 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-toledo-206084)**
 
@@ -24,6 +24,8 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Alumni Association Graduate Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Alumni Association Legacy Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Alumni Association Membership Dues Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Alumni Association Student Engagement Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Alvin E. and Richard H. Seeman Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Alvin J. Preis Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Alvo J. Bertolucci Scholarship Endowment](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [American Council of the Blind of Ohio Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -33,17 +35,20 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Anne Donabedian Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Annmarie Kwiatkowski Heldt Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Anthem BCBS of Ohio Pyschiatry Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Anthony G. Pizza Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Arabic Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Arnold W. Lapp Scholarship in Accounting](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Arrington Family Future Researchers Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Art Interests, Inc. Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Art on the Mall Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Arthur and Shwu Mabrey Family Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Arthur H. Black Award/Prize](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Arthur J. and Helen M. Hatch Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Arvind Ahuja MD Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Association of International Physicians of NW Ohio Merit Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [B.V. Scheib, M.D. Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Barbara Andrews Scholarship in Nursing](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Barbara Hall-Foley Black Law Student Book Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Barbara Mather and John Mather Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Barbara Rondelli Perry Scholarship for Superior Achievement in Vocal Performance in Competition](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Barnes and Noble Book Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -56,6 +61,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Bhal J. Bhatt Memorial International Business Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bliss Family Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [BLSA/Torrence R. Greene Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Bobby Kaplan Scholarship for Humanity in Legal Practice](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bodo Diehn Chemistry Undergraduate Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bollenbacher Chemical Engineering Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bonnie Nelson Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -69,6 +75,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [C. V. Wolfe - Natural Sciences Scholarship/Mathematics](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [C. V. Wolfe - Natural Sciences Scholarship/Physics and Astronomy](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [C. V. Wolfe - Theatre Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [C. William and Paula Fall Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CAI-NWO Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Career and Technical Education Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Carol A. Thomas '94 Scholarship for University College](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -79,6 +86,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Celia Koontz Findlay Scholarship in Elementary Education](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Cenovus Energy Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Century Equipment Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Chad Guthrie Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Charles A. Sullivan Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Charles DeBenedetti Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Charles Feilbach Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -92,6 +100,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Chris Tucker Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Christopher Bork Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Christopher States Scholarship in Communication and Broadcasting](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Cindy Puffer Externship Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Clair K. Searles Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Clarence and Margarete Simon Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Clarence J. Applegate Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -107,12 +116,14 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Dale and Patricia Myers Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dana S. Fitzsimmons Pharmacy Scholarship and Cultural Award Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Daniel G. McNamara Memorial Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Daniel Steven Manders Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Darin M. Goodman Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dave and Carol Haddix Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David and Cynthia Beekley Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David Boone and Helen Frye Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David G. and Rebecca Huey Education Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David Hamilton Ryerson Memorial Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
+| [David Henry Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David L. Applebaum Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David M. Huffstetler Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David Marchal Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -120,11 +131,13 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [David Neufeld Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David Stevens Wilson Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David Turnbull Scholarship in Physics](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dean Bess Emch Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dean Norman F. Billups Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dean Robert J. Schlembach Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Deans' Student Enrichment Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [DeArce-Koch Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Delbert L. Latta Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
+| [Delmer J. and Lillian M. Sullivan Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Denise Ardoyno Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dennis and Sheila Johnson Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dennis C. Jackson Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -141,15 +154,18 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Donna & Smitty Belcher Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dorothy and Ashel Bryan Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [Dorothy Mackenzie Price Music Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Doug Sinn Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Douglas Graduate Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. and Mrs. A. H. Steinberg Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. and Mrs. El-Shafie Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [Dr. Andrew Jorgensen Outstanding Teaching Assistant Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Anthony and Carolyn Geraci Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Bruce A. Crider Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. Charles Creutz Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Chidambaraswamy Jayanthi Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Cyrus Chan Endowed Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Daniel Neusom Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. David Dollimore Award in Chemistry](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Edward L. and Norma R. Doermann Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Elliott J. Tramer Environmental Science Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Ernest and Audrey Brookfield Endowed Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -158,6 +174,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Dr. J. Lee Johnson Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. J. Robert Navarre, Sr. Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [Dr. James S. Hatfield College of Medicine and Life Sciences Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. James S. Hatfield College of Natural Sciences and Mathematics Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Julius H. and Joan Jacobson Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Lance and Diana H. (Dee) Talmage Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Lee Hammerling Pre-Med Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -173,15 +190,20 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Dr. Richard M. Gibson Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Richard Perry and Barbara R. Perry Scholarship For Specially Challenged Students](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Robert T. Tidrick Memorial Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
+| [Dr. Rubin H. Kramer Mechanical Engineering Memorial Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Ruth L. Kelly Baccalaureate Nursing Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. Stephen L. Heater Occupational Therapy Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Timothy Sullivan Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. William A. Blank Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Willmarth R. Paine Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. Winfield "Ed" Bollinger Constitutional Law Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Drowatzky Family Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Drs Liu and Li Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dunbar Mechanical Inc. Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Earl O. Bean Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ed Foster Graduate Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Edgar T. Kilbride Memorial Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Education General Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Edward C. and Helen G. Schmakel Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Edward Ebert Merit Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Edward H. Schmidt Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -192,6 +214,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Electronic Concepts & Engineering, Inc. Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Elgin C. Brooks Astronomy Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Elise Scott Connin Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Elizabeth A. Wagoner Education Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Elkhatib Lifelong Brother Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ella Phillips Stewart Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ellery T. Eaton Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
@@ -203,7 +226,9 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Eric C. Sherman Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ernest Wayne Dewey Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Esther Anderson Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Ethel U. Wagenhauser Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ethel Wilcox Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Evelyn Leopold Weiher Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ewing Outstanding Junior Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Family Business Center Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Felice T. Kozak Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -224,17 +249,23 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Frank M. Fisher Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Frank McCullough, M.D. Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [Frank Nagy Military Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Frank S. McCullough MD Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Frank T. Pizza Memorial Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Frank W. Winker Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Franklyn and Hilda Hawkins Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Fred and Jill Grimm Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Fred J. Raniele Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Fred M. Tschanz Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Fred W. and Kathleen Bostleman Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Fred Wood Music Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Frederick J. Peters Civilian Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Frederick M. Hiss, M.D. Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
+| [Frederick W. Hiss Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [French Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Friends of Paralegal Studies Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [G. Gordon Strong Accounting Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [G. Norb Wambold Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Gardner Williams Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gary and Eileen Leidich Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gary and Karen Gould Muisus Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gary L. Wamer Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -243,11 +274,17 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Gene and Donna Saevig Medical Mission Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [George A. Abood Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [George and Anna Saloff Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [George E. and Dorothy Dickson Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [George Haidet Memorial Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [George Haidet, M.D. Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [George Isaac Scholarship in Occupational Therapy](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [George P. Guthrie Scholarship in Philosophy](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [George Stoyanovich Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [George T. Keilholtz Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Georgina Miranda Bentley Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gerald and Norma Zedlitz Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [German Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Gilbert & Janiece Siegel Scholarship/Leadership Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Good Neighbor Pharmacy Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Goodman-Goldstein VFW Post 6909 Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gordon and Bonnie Sloan Scholarship, Education](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -257,6 +294,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Grand Chapter of Ohio, Order of the Eastern Star Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Greater Toledo International Youth Orchestra Scholarship for The University of Toledo Department of Music](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gretchen Koo Memorial Award in Civil Engineering NonPay](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Hal Gilbert Memorial Scholarship Fund Toledo Post](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Harold M. and Doris J. Steinberg Law Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Harold R. Stevens, M.D. Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Harold S. Roos Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -264,8 +302,10 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Harry and Gan Park Loo Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Harry and Ruth Mikesell Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Harry H. Jr. and Joan L. Thieman Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Harry W. and Grace M. Went Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Harvey G. and Joyce H. Behner Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Heather Abrighach Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Helen Hatcher Law Student Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Helen M. Bewick Scholarship in Education](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Helen M. Fields Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Henry G. Joyner Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -273,8 +313,10 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Hoetzl Family Engineering Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Honorable Frank Witt Wiley Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Howard Runyan Memorial Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Hubert Frisinger Memorial Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Hullenkremer Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Humanities Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Huntington Bank Financial Wellness Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Hussien Y. and Dr. Randa M. Shousher Engineering Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Industrial Power Systems, Inc. Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Irene Ambers Hill Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -315,6 +357,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [John (Jack) and Mary Pat Carroll Moor Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [John A. Bergener and Brandt A. England Scholarship BU](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [John A. Bergener and Brandt A. England Scholarship CAL](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [John and Dorothy Clement Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [John and Virginia Hankison Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [John B. Brandeberry Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [John E. Harlan Memorial Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -328,20 +371,26 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Jose Fleites Student Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Joseph and Virginia Altschuller Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Joseph G. Gluck Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Joyce Shoemaker Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Judge Francis and Jane Restivo Law Student Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Judge James G. Carr Law School Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Judge Roger R. Weiher Law Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Judith Anderson Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Judith Archambeau Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Judith Herb College of Ed. Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Judith Herb College of Education Alumni Affiliate Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Justin R. Dunlop Media Communication Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Justin Walker Lone Star Medical Physics Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Karen A. Davis Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Karen Kennedy Binder Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kathryn Uhl Miler Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Katie Hoben Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kelly L. Darling Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Kelly Z. Gilbert Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kenneth "Doc" Pawlicki Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kenneth A. Harris Memorial Engineering Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kenneth Bachmann Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Kenneth J. DeWitt Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kenneth J. Rahman Jr. Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kenny Omlin, M.D. Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [KeyBank/Willis Trust Scholarship - Business](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -349,6 +398,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Keytack Henry Oh and Mariel Thorp Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kinsey Determination Scholarship for the College of Business](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kroger Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Kyle Hunlock Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [L.T. Juette-G.L.Hammitt-S.J.Kulish Scholarship Fund in Honor of Ivah and Wayne Duncan](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Laren K. McClain Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Larry Crider Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -361,11 +411,14 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Leo and Phyllis Hojnicki Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Leonard and Bess (Joseph) Burkett Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Leslie Henry Law Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Levis Leadership Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Libbey Glass LLC Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Limbaugh-Pelwecki Excellence in Law Enforcement Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Linda A. Bertsch Nursing Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Linda J. McCall, Pharm. D Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Linda Woods Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Lisa L. Neiswander Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Lloyd and Betty Lapp Merit Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Longenecker Servant Leader Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Louise Bohm Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Lt. Col. Frederick J. Peters Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -383,6 +436,8 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Mark and Robin Friedman Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mark L. Russell Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mark S. Feldstein Private Foundation Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Marla E. Wozniak Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Marsha Marenberg Powers Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Martin H. Ritchie Endowed Scholarship in Counselor Education](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Martin Luther King Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Martin-Bissell-Neuman Nursing Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -395,7 +450,9 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [MCO 50th Anniversary Scholarship Endowment](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [MECHA Undergraduate Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Medical Physics Consult Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [MedStart Program Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Meijer Pharmacy Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Melinda Curley Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Melissa Herstrum Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mervin Herman Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Metzger Family Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -419,6 +476,8 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Mosser Construction, Inc. Endowed Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Myron and Nicole Duhart Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Nadeem Khan Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Nand Kishore Mathematics Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [National Association of Chain Drug Stores Foundation Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [National Cement Products Company Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Navy Reserve LT Haraz N. Ghanbari Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Neff Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -430,10 +489,12 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Norman C. Klopping Engineering Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Northwest Ohio Respiratory Care Association Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [O-I Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [O. Garfield Jones Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Odesky Business Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Odesky Engineering Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ohio CAN! Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Orlena Thornton Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Ottalie E. Hassensall Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Outstanding Service Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Paralegal Association of Northwest Ohio (PANO) Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [ParkUToledo Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -452,6 +513,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Philistine Rivers Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Physical Therapy Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Pi Kappa Alpha - Ronald A. Born and Roy Munter Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Pilkington-Libbey-Owens-Ford Co. Scholarship/Engineering](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [PNC Diamante Main Campus Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [President's Summit Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Professional Staff Association Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -462,6 +524,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Ralph Rosenberg, M.D. and Hilda Slivka, M.D. Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ranger Roundup Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Raoul Wallenberg Scholarship Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Ray and Elizabeth Guy Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Raymond H. Kiefer Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Rebecca Martin Hurst Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Reed Reynolds Scholarship in Economics](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -469,8 +532,11 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Retta E. and Robert S. Weinman Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Richard Cadwell Pheatt Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Richard D. and Elizabeth S. Ruppert Presidential Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
+| [Richard D., M.D. and Elizabeth S., M.D. Ruppert Presidential Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Richard F. and Frances S. Leighton Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [Richard L. Bostleman Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Richard T. Rudduck Management Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Richard W. Saxe Dissertation Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Rightmyer-McLean Law Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Rightmyer-McLean Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Rita Corrado DeMedio Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -480,6 +546,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Robert Arthur Ossege Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Robert F. Cavalear Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Robert G. Farran Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Robert J. Barber and Wrey Warner Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Robert J. Burns and Anne Evans Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Robert J. Schlembach Alumni Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Robert Livengood Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -493,9 +560,11 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Roland A. Gandy, Jr./ Mercy Hospital Medical Staff Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Roland A. Lamley Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ronald A. Born Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Ronald and Jane Randall Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Roos-Hendrickson Family Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Roy Treuhaft Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [Rudolph/Libbe Engineering Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Russell Clare Perry Memorial Scholarship in Mechanical Engineering](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ruth and Les Lahti Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ruth Ann Thomas Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ruth Kelly Graduate Nursing Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -517,13 +586,17 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Shirley and Mark Judy Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Sonja Stahl Pinsky, M.D. and S. Theodore Pinsky, M.D. Pre-Medical Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Soriano Family Albularyos Scholarship for Pediatrics](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Spanish Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Stephanie (Stone) Schlitter Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Steves Family Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Stranahan Law Fellowship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Stranahan Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [StressCare Behavioral Health, Inc. Honoring Teri L. Swimmer Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [STRS Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Sucher Family Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Sue S. & James F. White, Jr. Scholarship for Theatre](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Susan M. Beilstein Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Sustainability Energy Efficiency and Design (SEED) Initiative Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Suzi and Ted Hahn Alumni Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Swagelok Scholarship in Mechanical Engineering](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Sy Mah Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -540,6 +613,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Thomas Baither Family Scholarship Fund - Business](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Thomas Baither Family Scholarship Fund - Education](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Thomas H. Lautenbach Memorial Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Thomas J. and Barbara A. Ferkovic Pharmacy Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Thomas J. Brennan Memorial Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [Thomas N. and Gloria A. Reddington Scholarship Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Thomas R. Moor Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -553,6 +627,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [Toledo Host Lions Club Welfare Fund, Inc., Endowed Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Toledo Mason Contractors Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Toledo Trucking Association University of Toledo Dean Kaplan Legacy Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Toledo Women's Bar Association Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Toledo Zoo Scholarship for the Natural Sciences](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Tom and Kathy Hart Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Tom Clapp Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -565,13 +640,16 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [UTRA (University of Toledo Retirees Association) Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Vernon Volland Memorial Scholarship](https://www.utoledo.edu/med/md/admissions/scholarships/) |  | not listed |
 | [Vincent and Laurie Mauro Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Vincent L. Barker, Jr. Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Violet B. Davis Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Violet Podesta and Richard W. Meyer Management Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Virgil A. and Beatrice M. Gladieux Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Virginia L. Kline Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Virginia White Madrid '58 Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [W. A. Hepner Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [W. Sinclair Walbridge Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Wally and Sally Krueger Family Foundation Engineering Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Walter John Ryan Memorial Scholarship Fund](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Warner Family Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Wendy Maran Recreation Therapy Club Award](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Willard I. Webb, III Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -588,6 +666,7 @@ Toledo, OH · 2 open · 591 with no date listed · 2 closed (not shown)
 | [William C. Susor Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [William Cooke Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [William Day Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [William F. Rohr Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [William J. McDaniels Law Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [William L. Rabideau Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [William P. Meyer Memorial Scholarship](https://utoledo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |

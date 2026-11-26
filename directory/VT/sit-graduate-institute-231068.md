@@ -1,6 +1,6 @@
 # SIT Graduate Institute scholarships
 
-Brattleboro, VT · 1 open · 18 with no date listed · 0 closed (not shown)
+Brattleboro, VT · 1 open · 19 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/sit-graduate-institute-231068)**
 
@@ -17,6 +17,7 @@ Brattleboro, VT · 1 open · 18 with no date listed · 0 closed (not shown)
 | [Gilman-McCain Scholarship](https://studyabroad.sit.edu/admissions-aid/financing-your-study-abroad/scholarships-grants/other-funding-sources/) | $5,000 | not listed |
 | [National Scholarships - Specific to Region](https://studyabroad.sit.edu/admissions-aid/financing-your-study-abroad/scholarships-grants/other-funding-sources/) |  | not listed |
 | [Point Foundation - The National LGBT Scholarship Fund](https://studyabroad.sit.edu/admissions-aid/financing-your-study-abroad/scholarships-grants/other-funding-sources/) |  | not listed |
+| [SEO Scholars Award](https://studyabroad.sit.edu/admissions-aid/financing-your-study-abroad/scholarships-grants/available-scholarships-grants/) | $2,000 | not listed |
 | [SIT Bonner Award](https://studyabroad.sit.edu/admissions-aid/financing-your-study-abroad/scholarships-grants/available-scholarships-grants/) | $2,500 | not listed |
 | [SIT Boren Scholar Award](https://studyabroad.sit.edu/admissions-aid/financing-your-study-abroad/scholarships-grants/available-scholarships-grants/) | $1,000 | not listed |
 | [SIT Custom Program Alumni Scholarship](https://studyabroad.sit.edu/admissions-aid/financing-your-study-abroad/scholarships-grants/available-scholarships-grants/) | $1,000 | not listed |

@@ -1,6 +1,6 @@
 # Florida Southern College scholarships
 
-Lakeland, FL · 4 open · 26 with no date listed · 0 closed (not shown)
+Lakeland, FL · 4 open · 27 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/florida-southern-college-134079)**
 
@@ -31,6 +31,7 @@ Lakeland, FL · 4 open · 26 with no date listed · 0 closed (not shown)
 | [ROTC Scholarship](https://www.flsouthern.edu/admissions/undergraduate/rotc/benefits) | $6,104 | not listed |
 | [Sibling Award](https://www.flsouthern.edu/admissions-and-aid/undergraduate/financial-aid/scholarships/special-interest-scholarships.html) | $1,000 | not listed |
 | [Special Interest Scholarships](https://www.flsouthern.edu/admissions-and-aid/undergraduate/financial-aid/scholarships/special-interest-scholarships.html) | $3,000 | not listed |
+| [Talent and Departmental Awards](https://www.flsouthern.edu/admissions-and-aid/undergraduate/financial-aid/scholarships/index.html) | $26,500 | not listed |
 | [The Hollingsworth Scholarship](https://www.flsouthern.edu/admissions/undergraduate/undergraduate-financial-aid/undergraduate-scholarships/hollingsworth-scholarship-application) | $26,500 | not listed |
 | [Theatre Scholarships](https://www.flsouthern.edu/admissions-and-aid/undergraduate/financial-aid/scholarships/index.html) |  | not listed |
 | [Transfer Academic Recognition Scholarship](https://www.flsouthern.edu/admissions-and-aid/undergraduate/financial-aid/scholarships/transfer-scholarships.html) | $21,000 | not listed |

@@ -1,11 +1,12 @@
 # University of Miami scholarships
 
-Coral Gables, FL · 7 open · 61 with no date listed · 0 closed (not shown)
+Coral Gables, FL · 8 open · 66 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-miami-135726)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Ph.D. Springboard Grants](https://www.grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/phd-springboard-grants/index.html) | $5,000 | Nov 30, 2026 |
 | [Dean's Fellowship](https://www.grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/deans-fellowship/index.html) | $1,500 | Feb 14, 2027 |
 | [Maytag Fellowship](https://www.grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/maytag-fellowship/index.html) | $30,000 | Feb 14, 2027 |
 | [UM Fellowship](https://www.grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/um-fellowship/index.html) | $40,250 | Feb 14, 2027 |
@@ -24,6 +25,7 @@ Coral Gables, FL · 7 open · 61 with no date listed · 0 closed (not shown)
 | [CREW Network Foundation College Scholarships](https://admissions.law.miami.edu/academics/llm/real-property/scholarships/) | $5,000 | not listed |
 | [Davis Property Management Scholarship](https://admissions.law.miami.edu/academics/llm/real-property/scholarships/) |  | not listed |
 | [Dean's Merit Scholarships](https://admissions.law.miami.edu/finance/scholarships/miami-law-scholarships/) |  | not listed |
+| [Edward J. Pfister Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [Ev Clay/PRSA Miami Chapter Endowed Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [Evelyn Y. Davis Graduate Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [Evelyn Y. Davis Graduate Scholarship in Journalism](https://com.miami.edu/um-scholarships/) |  | not listed |
@@ -33,6 +35,7 @@ Coral Gables, FL · 7 open · 61 with no date listed · 0 closed (not shown)
 | [Hank Meyer Public Relations Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [Harry and Myrtle Rathner Journalism Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [Herb Rau Journalism Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
+| [Homer Eugene Ford Endowed Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [I. Eric and Grace Leef Endowed Scholarship](https://admissions.law.miami.edu/finance/scholarships/miami-law-scholarships/) |  | not listed |
 | [Ila Rosenbaum Memorial Screenwriting Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [Isaac Bashevis Singer Scholarship](https://admissions.miami.edu/undergraduate/financial-aid/scholarships/isaac-bashevis-singer/index.html) |  | not listed |
@@ -41,6 +44,7 @@ Coral Gables, FL · 7 open · 61 with no date listed · 0 closed (not shown)
 | [Jorge Ramos Endowed Scholarship](https://com.miami.edu/spring-scholarships/) |  | not listed |
 | [Judy Wallace Communication Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [Kermit and Mickey Schafer Foundation Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
+| [Knight-Ridder, Inc. Journalism Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [LL.M. Scholarships](https://admissions.law.miami.edu/finance/scholarships/llm/) | $15,000 | not listed |
 | [LL.M. Students Scholarships & Funding](https://admissions.law.miami.edu/finance/scholarships/llm/) | $15,000 | not listed |
 | [Louis Wolfson II Communication Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
@@ -58,7 +62,9 @@ Coral Gables, FL · 7 open · 61 with no date listed · 0 closed (not shown)
 | [PREA Scholarship Program](https://admissions.law.miami.edu/academics/llm/real-property/scholarships/) |  | not listed |
 | [President's Scholarship](https://admissions.miami.edu/undergraduate/financial-aid/scholarships/freshman/index.html) | $30,000 | not listed |
 | [Richard Sirkin Memorial Journalism Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
+| [Ron Helf Television Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [Ronald A. Hammond Scholarship](https://admissions.miami.edu/undergraduate/financial-aid/scholarships/freshman/index.html) |  | not listed |
+| [School of Communication Alumni Scholarship](https://com.miami.edu/um-scholarships/) |  | not listed |
 | [SoC Internship Scholarship Fund](https://com.miami.edu/spring-scholarships/) |  | not listed |
 | [Spring Scholarships](https://com.miami.edu/spring-scholarships/) |  | not listed |
 | [Stamps Ensemble Scholarship Award](https://stamps.frost.miami.edu/how-to-apply/index.html) |  | not listed |

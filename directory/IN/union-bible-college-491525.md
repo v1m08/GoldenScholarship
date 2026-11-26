@@ -1,6 +1,6 @@
 # Union Bible College scholarships
 
-Westfield, IN · 0 open · 6 with no date listed · 0 closed (not shown)
+Westfield, IN · 0 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/union-bible-college-491525)**
 
@@ -9,6 +9,7 @@ Westfield, IN · 0 open · 6 with no date listed · 0 closed (not shown)
 | [Benjamin L. Crawford Ministerial Scholarship](https://www.ubca.org/scholarships) | $250 | not listed |
 | [Buddy Perry Memorial Scholarship](https://www.ubca.org/scholarships) | $500 | not listed |
 | [Diane Key Memorial Scholarship](https://www.ubca.org/scholarships) | $1,250 | not listed |
+| [Glick Music Scholarship](https://www.ubca.org/scholarships) | $500–$1,000 | not listed |
 | [Jeffrey Allen Buckler Memorial Scholarship](https://www.ubca.org/scholarships) | $250 | not listed |
 | [Legacy Scholarship](https://www.ubca.org/scholarships) | $4,000 | not listed |
 | [Williams Scholarships](https://www.ubca.org/scholarships) |  | not listed |

@@ -1,6 +1,6 @@
 # Concordia Seminary scholarships
 
-Saint Louis, MO · 13 open · 7 with no date listed · 0 closed (not shown)
+Saint Louis, MO · 14 open · 8 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/concordia-seminary-177092)**
 
@@ -19,6 +19,7 @@ Saint Louis, MO · 13 open · 7 with no date listed · 0 closed (not shown)
 | [Bethesda Lutheran Disability Ministries Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) | $3,000 | May 8, 2027 |
 | [Justin and Sara Haruyama Ministerial Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) |  | May 31, 2027 |
 | [California-Nevada-Hawaii (CNH) District LLL Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) |  | Aug 1, 2027 |
+| [Concordia University System Scholarship](https://www.csl.edu/admissions/financial-aid/) | $2,000 | Oct 31, 2027 |
 | [Admissions > Financial Aid > Concordia University System Scholarship](https://www.csl.edu/admissions/financial-aid/concordia-university-system-scholarship/) | $2,000 | not listed |
 | [Beta Sigma Psi Alumni Seminarian Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) |  | not listed |
 | [Champions for Christ Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) |  | not listed |
@@ -26,5 +27,6 @@ Saint Louis, MO · 13 open · 7 with no date listed · 0 closed (not shown)
 | [Mark Schubert Memorial Seminary Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) | $1,000 | not listed |
 | [Missouri District LWML Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) |  | not listed |
 | [Nebraska South District LWML Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) |  | not listed |
+| [Provost Awards](https://www.csl.edu/admissions/financial-aid/regent-awards/) | $4,500 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

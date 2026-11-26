@@ -1,6 +1,6 @@
 # University of Western States scholarships
 
-Portland, OR · 0 open · 7 with no date listed · 0 closed (not shown)
+Portland, OR · 0 open · 8 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-western-states-210438)**
 
@@ -13,5 +13,6 @@ Portland, OR · 0 open · 7 with no date listed · 0 closed (not shown)
 | [Leanne Wruck Student Success Scholarship](https://www.uws.edu/admissions/financing-your-future/scholarships/) | $745 | not listed |
 | [Mary and Norman Pattiz Scholarship](https://www.uws.edu/admissions/financing-your-future/scholarships/) | $2,320 | not listed |
 | [Northern Advantage Scholarship](https://www.uws.edu/admissions/financing-your-future/scholarships/) |  | not listed |
+| [UWS International Scholarships](https://www.uws.edu/admissions/financing-your-future/international-student-aid/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

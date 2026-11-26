@@ -1,6 +1,6 @@
 # Evangel University scholarships
 
-Springfield, MO · 2 open · 8 with no date listed · 1 closed (not shown)
+Springfield, MO · 2 open · 9 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/evangel-university-177339)**
 
@@ -16,5 +16,6 @@ Springfield, MO · 2 open · 8 with no date listed · 1 closed (not shown)
 | [Humanities Fine Arts Scholarships](https://www.evangel.edu/future-students/office-of-admissions/financial-aid-and-scholarships/undergraduate-scholarships-grants/) |  | not listed |
 | [Music Fine Arts Scholarships](https://www.evangel.edu/future-students/office-of-admissions/financial-aid-and-scholarships/undergraduate-scholarships-grants/) |  | not listed |
 | [Sibling Scholarship](https://www.evangel.edu/future-students/office-of-admissions/financial-aid-and-scholarships/undergraduate-scholarships-grants/) |  | not listed |
+| [Zimmerman Minister's Scholarship](https://www.evangel.edu/future-students/office-of-admissions/financial-aid-and-scholarships/undergraduate-scholarships-grants/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

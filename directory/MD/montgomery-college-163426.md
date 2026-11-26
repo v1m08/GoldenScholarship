@@ -1,6 +1,6 @@
 # Montgomery College scholarships
 
-Rockville, MD · 452 open · 5 with no date listed · 0 closed (not shown)
+Rockville, MD · 453 open · 5 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/montgomery-college-163426)**
 
@@ -185,6 +185,7 @@ Rockville, MD · 452 open · 5 with no date listed · 0 closed (not shown)
 | [Jan Acton & Helen Blumen ACES Scholarship](https://montgomerycollege.academicworks.com/opportunities/22695) |  | Jan 1, 2027 |
 | [Jan Malone Scholarship](https://montgomerycollege.academicworks.com/opportunities/22707) |  | Jan 1, 2027 |
 | [Jane Hydorn Memorial Scholarship](https://montgomerycollege.academicworks.com/opportunities/22363) |  | Jan 1, 2027 |
+| [Janet and Russell Dech Endowed Scholarship](https://montgomerycollege.academicworks.com/opportunities/22834) |  | Jan 1, 2027 |
 | [Janice Roberts Saunders, R.N., Memorial Nursing Endowment](https://montgomerycollege.academicworks.com/opportunities/22947) |  | Jan 1, 2027 |
 | [Jensen IHFRA Endowed Scholarship](https://montgomerycollege.academicworks.com/opportunities/22623) |  | Jan 1, 2027 |
 | [JLCH Endowed Scholarship](https://montgomerycollege.academicworks.com/opportunities/23227) |  | Jan 1, 2027 |

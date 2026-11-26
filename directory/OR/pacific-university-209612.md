@@ -1,6 +1,6 @@
 # Pacific University scholarships
 
-Forest Grove, OR · 19 open · 51 with no date listed · 0 closed (not shown)
+Forest Grove, OR · 19 open · 62 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/pacific-university-209612)**
 
@@ -34,18 +34,27 @@ Forest Grove, OR · 19 open · 51 with no date listed · 0 closed (not shown)
 | [Binford Endowed Scholarship in English](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) | $5,000 | not listed |
 | [Black United Fund of Oregon ACCESS Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) |  | not listed |
 | [Brian R. Zinser, OD '93 Endowment Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
+| [CooperVision Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
+| [CooperVision Travel Grants](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
+| [COVD Excellence in Vision Therapy Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Dean Eva C. Krebs 'Make A Difference' Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-continuing-undergraduate-students) |  | not listed |
+| [Dean's Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Dr. Dennis Smith & Dr. Nada Lingel Award for Excellence in Systemic Disease](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Dr. Newton K. Wesley Foundation Fund Endowed Scholarship Fund](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Dr. Robert M. Lohr, OD '69 Endowed Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Dr. Warren Meadowcroft Scholarship in Optometry](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Drs. Dana and Katie Ziskrout Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Early College High School Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) |  | not listed |
+| [Education Scholarships](https://www.pacificu.edu/directory/student-affairs/enrollment-management/office-financial-aid/types-financial-aid/scholarships/education-scholarships) |  | not listed |
+| [Eschenbach Low Vision Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | George Rossman Fund for Pacific University |  | not listed |
+| [GP CL Clinical Excellence Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [GWCO (Dr. Harue J. Marsden) Scholarship Fund](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Hawaii Optometric Association Endowed Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Hefner Family Drive to Excellence Endowed Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [J. Pat Cummings Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
+| [James R. Odgen "Mad Dog" Class of 1973 Scholarship Fund](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
+| [Lion's Club Service Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Littlefield Family Endowed Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Littlefield Public Health Outreach Program Endowed Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [MBA Program Scholarships](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/mba-program-scholarships) |  | not listed |
@@ -64,6 +73,7 @@ Forest Grove, OR · 19 open · 51 with no date listed · 0 closed (not shown)
 | [Peg Gilbert Award for Basic Visual Science](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Phi Theta Kappa Scholarship- Pacific University](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) | $2,500 | not listed |
 | [Phi Theta Kappa Scholarships](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) | $2,500 | not listed |
+| [PUCO Outstanding Clinician Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [Senior Preview Day Scholarship - Pacific University](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) | $2,000 | not listed |
 | [Senior Preview Scholarship Day](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) | $2,000 | not listed |
 | [Senior Preview Scholarship Days](https://www.pacificu.edu/admissions/undergraduate-admissions/admissions-events/senior-preview-scholarship-days) | $8,000 | not listed |
@@ -71,6 +81,7 @@ Forest Grove, OR · 19 open · 51 with no date listed · 0 closed (not shown)
 | [Thayer Family Foundation Establishes Veterans Scholarship At Pacific](https://www.pacificu.edu/magazine/thayer-family-foundation-establishes-veterans-scholarship-pacific) |  | not listed |
 | [Theatre and Applied Theatre Talent Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) | $5,000–$7,000 | not listed |
 | [Theatre and Applied Theatre Talent Scholarship - Pacific University](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) | $5,000–$7,000 | not listed |
+| [Tole Greenstein Memorial Award](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |
 | [United Church of Christ Matching Awards](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) | $1,500 | not listed |
 | [United Church of Christ Tuition Scholarships](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/scholarships-incoming-undergraduate-students) |  | not listed |
 | [VSP Endowed Student Leadership Scholarship](https://www.pacificu.edu/admissions/financial-aid-scholarships/scholarships/college-optometry-scholarships) |  | not listed |

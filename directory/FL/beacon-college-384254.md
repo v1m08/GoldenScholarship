@@ -1,6 +1,6 @@
 # Beacon College scholarships
 
-Leesburg, FL · 0 open · 27 with no date listed · 1 closed (not shown)
+Leesburg, FL · 0 open · 28 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/beacon-college-384254)**
 
@@ -25,6 +25,7 @@ Leesburg, FL · 0 open · 27 with no date listed · 1 closed (not shown)
 | [Microsoft Disability Scholarship](https://www.beaconcollege.edu/admissions-aid/scholarships/) | $20,000 | not listed |
 | [Mitchell Pospyhalla Memorial Scholarship](https://www.beaconcollege.edu/admissions-aid/scholarships/) | $2,000 | not listed |
 | [Pathway School Scholarships](https://www.beaconcollege.edu/admissions-aid/scholarships/) | $10,000 | not listed |
+| [Personal statement of financial need (e.g. Why do you need the scholarship?)](https://www.beaconcollege.edu/admissions-aid/scholarships/) |  | not listed |
 | [Philip A. Harris Scholarship](https://www.beaconcollege.edu/admissions-aid/scholarships/) | $1,000 | not listed |
 | [Professional Educator Referral Scholarship](https://www.beaconcollege.edu/admissions-aid/scholarships/) | $1,000 | not listed |
 | [Reagan Foundation Scholarship Program](https://www.beaconcollege.edu/admissions-aid/scholarships/) | $40,000 | not listed |

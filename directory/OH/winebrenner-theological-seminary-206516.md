@@ -1,6 +1,6 @@
 # Winebrenner Theological Seminary scholarships
 
-Findlay, OH · 0 open · 6 with no date listed · 0 closed (not shown)
+Findlay, OH · 0 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/winebrenner-theological-seminary-206516)**
 
@@ -10,6 +10,7 @@ Findlay, OH · 0 open · 6 with no date listed · 0 closed (not shown)
 | [Calvin E. Buhrman Memorial Scholarship Fund](https://winebrenner.edu/scholarships/) | $3,600 | not listed |
 | [Carlos E. and M. Louise Hopkins Scholarship Fund](https://winebrenner.edu/scholarships/) | $1,200 | not listed |
 | [Dr. Harry and Betty Cadamore Memorial Scholarship](https://winebrenner.edu/scholarships/) | $300 | not listed |
+| [Janice and Dennis Bishop Scholarship Endowment Fund](https://winebrenner.edu/scholarships/) |  | not listed |
 | [John and Toni Murray Scholarship Fund](https://winebrenner.edu/scholarships/) | $3,600 | not listed |
 | [William C. and Betty DeWitt Scholarship Fund](https://winebrenner.edu/scholarships/) | $1,200 | not listed |
 

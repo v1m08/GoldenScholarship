@@ -1,6 +1,6 @@
 # Arkansas State University-Mountain Home scholarships
 
-Mountain Home, AR · 2 open · 9 with no date listed · 0 closed (not shown)
+Mountain Home, AR · 2 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/arkansas-state-university-mountain-home-420538)**
 
@@ -13,6 +13,8 @@ Mountain Home, AR · 2 open · 9 with no date listed · 0 closed (not shown)
 | [Dora Fee Bruce Scholarship](https://asumh.edu/scholarships/asumh-scholarships/) |  | not listed |
 | [Douglas Family Academic Scholarship](https://asumh.edu/scholarships/asumh-scholarships/) |  | not listed |
 | [Evelyn Hill Osborn Teacher Education Scholarship](https://asumh.edu/scholarships/asumh-scholarships/) |  | not listed |
+| [Hazel J Alexander Memorial Scholarship](https://asumh.edu/scholarships/asumh-scholarships/) |  | not listed |
+| [Lota Faye Palmer Endowed Scholarship](https://asumh.edu/scholarships/asumh-scholarships/) |  | not listed |
 | [Mildred S. Griffin Endowed Scholarship](https://asumh.edu/scholarships/asumh-scholarships/) |  | not listed |
 | [Newth Scholarship](https://asumh.edu/scholarships/asumh-scholarships/) |  | not listed |
 | [Ruth E. Hamilton Nursing Scholarship](https://asumh.edu/scholarships/asumh-scholarships/) |  | not listed |

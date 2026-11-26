@@ -1,6 +1,6 @@
 # Johnson County Community College scholarships
 
-Overland Park, KS · 16 open · 241 with no date listed · 0 closed (not shown)
+Overland Park, KS · 16 open · 246 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/johnson-county-community-college-155210)**
 
@@ -31,6 +31,7 @@ Overland Park, KS · 16 open · 241 with no date listed · 0 closed (not shown)
 | [Andrew Eveloff Memorial Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Andrew John (D.R.) Rowe Fund](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ann Marie Cerra Watson Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Annabeth Surbaugh and Douglas Airey Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ash Grove Cement Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Assurant Employee Benefits Scholarship for Students with Disabilities](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Austins Bar & Grill Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -49,6 +50,7 @@ Overland Park, KS · 16 open · 241 with no date listed · 0 closed (not shown)
 | [Black & Veatch Engineers and Architects Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Black & Veatch Veterans Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Blakely Russell Kay Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [BNSF Training Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bodker Criminal Justice Scholarship Honoring John M. Douglass](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Brady Criminal Justice Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bud Brown Volkswagon Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -162,6 +164,7 @@ Overland Park, KS · 16 open · 241 with no date listed · 0 closed (not shown)
 | [Julie Lederer Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kaiser Permanente Nursing Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kansas City Regional Association of REALTORS Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Kansas CTE Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kansas Dental Hygienists' Association Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kansas Society of CPAs Metro Chapter Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Karen Forsythe Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -185,6 +188,7 @@ Overland Park, KS · 16 open · 241 with no date listed · 0 closed (not shown)
 | [Maron Lorimer Moore Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mary A. Beatty Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mary Margaret "Megan" Gladbach Memorial Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Maureen Duggan Nursing Scholarship Fund](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mazuma Credit Union Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [McCown Family Foundation Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Melissa Wells Counseling Center Hardship Grant](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -250,6 +254,7 @@ Overland Park, KS · 16 open · 241 with no date listed · 0 closed (not shown)
 | [Tantillo First-Generation Student Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Technology Diversity Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Terry Helmick Memorial Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [This scholarship is available to JCCC students pursuing a degree or certificate in CTE](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [TPP Certified Public Accountants Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Turner Construction Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Tyler Charles Standridge Scholarship](https://jccc.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |

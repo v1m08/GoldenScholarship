@@ -1,6 +1,6 @@
 # Hillsborough Community College scholarships
 
-Tampa, FL · 0 open · 16 with no date listed · 0 closed (not shown)
+Tampa, FL · 0 open · 19 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/hillsborough-community-college-134495)**
 
@@ -8,7 +8,9 @@ Tampa, FL · 0 open · 16 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [Art Scholarship](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/scholarships) |  | not listed |
 | [Board of Trustees Scholarship](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/scholarships) |  | not listed |
+| [Child Care Scholarship](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/scholarships) |  | not listed |
 | [Collegiate 100 Scholarship](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/scholarships) |  | not listed |
+| [Disabled Students Scholarship](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/scholarships) |  | not listed |
 | [Door Scholarship](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/scholarships) |  | not listed |
 | [First Generation Match Grant](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/grants) | $500 | not listed |
 | [Florida Assistance Grant](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/grants) | $600 | not listed |
@@ -22,5 +24,6 @@ Tampa, FL · 0 open · 16 with no date listed · 0 closed (not shown)
 | [Publications Scholarship](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/scholarships) |  | not listed |
 | [Sunshine Health Works Scholarship for CNAs](https://www.hcfl.edu/paying-college/financial-aid-and-scholarships/scholarships-grants-and-work-study/scholarships) |  | not listed |
 | [TRIO Scholarships](https://www.hcfl.edu/student-services/trio-student-support-services/trio-scholarships) |  | not listed |
+| [TRIO Student Support Services Scholarships](https://www.hcfl.edu/student-services/trio-student-support-services/trio-scholarships) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

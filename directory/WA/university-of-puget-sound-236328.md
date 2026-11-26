@@ -1,12 +1,13 @@
 # University of Puget Sound scholarships
 
-Tacoma, WA · 5 open · 13 with no date listed · 4 closed (not shown)
+Tacoma, WA · 6 open · 13 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-puget-sound-236328)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Lillis Foundation Scholarships](https://www.pugetsound.edu/student-financial-services-current-undergraduate-students/scholarships-grants/scholarships/incoming) |  | Dec 1, 2026 |
+| [Lillis Scholarship](https://www.pugetsound.edu/admission/cost-aid/types-aid/scholarships-grants/lillis-foundation-scholarship) |  | Dec 1, 2026 |
 | [Matelich Scholarship](https://www.pugetsound.edu/student-financial-services-current-undergraduate-students/scholarships-grants/scholarships/incoming) |  | Dec 1, 2026 |
 | [Scope of Award](https://www.pugetsound.edu/admission/cost-aid/types-aid/scholarships-grants/lillis-foundation-scholarship) |  | Dec 1, 2026 |
 | [Theatre Scholarships](https://www.pugetsound.edu/admission/student-financial-services/scholarships-grants) | $1,500 | Jan 15, 2027 |

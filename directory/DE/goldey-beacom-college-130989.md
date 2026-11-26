@@ -1,6 +1,6 @@
 # Goldey-Beacom College scholarships
 
-Wilmington, DE · 1 open · 56 with no date listed · 2 closed (not shown)
+Wilmington, DE · 1 open · 57 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/goldey-beacom-college-130989)**
 
@@ -22,6 +22,7 @@ Wilmington, DE · 1 open · 56 with no date listed · 2 closed (not shown)
 | [Distinguished Alumni Gallery Scholarship](https://www.gbc.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Dr. Javed Gilani Scholarship](https://www.gbc.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [DuPont Scholarship](https://www.gbc.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
+| [Established in 2022, the Lankford Family Scholarship honors the careers of two Lankford alumni](https://www.gbc.edu/admissions-aid/financial-aid/scholarships/) | $5,000 | not listed |
 | [Esther S. Marshall Scholarship](https://www.gbc.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Eunice Bounds Memorial Scholarship](https://www.gbc.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [FYE Peer Mentorship Scholarship](https://www.gbc.edu/admissions-aid/financial-aid/scholarships/) | $1,500 | not listed |

@@ -1,6 +1,6 @@
 # Fort Lewis College scholarships
 
-Durango, CO · 3 open · 217 with no date listed · 14 closed (not shown)
+Durango, CO · 3 open · 219 with no date listed · 14 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/fort-lewis-college-127185)**
 
@@ -107,6 +107,7 @@ Durango, CO · 3 open · 217 with no date listed · 14 closed (not shown)
 | [Helen Kroeger-Faris Scholarship](https://fortlewis.academicworks.com/opportunities/5261) |  | not listed |
 | [Hesperus Campus Girls Plus 1 Scholarship](https://fortlewis.academicworks.com/opportunities/5216) | $1,000 | not listed |
 | [ImageNet Scholarship](https://fortlewis.academicworks.com/opportunities/5117) | $2,500 | not listed |
+| [In-State Scholarship Awards](https://www.fortlewis.edu/tuition-aid/scholarships/first-year) |  | not listed |
 | [Ina Welsh Cook Martin Scholarship](https://fortlewis.academicworks.com/opportunities/5175) |  | not listed |
 | [Independent Order of Oddfellows, Rebekah & Mary K. Johnson Scholarship](https://fortlewis.academicworks.com/opportunities/5537) | $1,200 | not listed |
 | [Irma B. Strawn Violin Scholarship](https://fortlewis.academicworks.com/opportunities/5299) |  | not listed |
@@ -221,6 +222,7 @@ Durango, CO · 3 open · 217 with no date listed · 14 closed (not shown)
 | [Walter and Martha Dear Music Scholarship](https://fortlewis.academicworks.com/opportunities/5405) | $1,500 | not listed |
 | [Wayne and Darlene Schild Scholarship](https://fortlewis.academicworks.com/opportunities/5377) | $500 | not listed |
 | [Wayne Barger Health and Human Performance Endowed Athletic Scholarship Fund](https://fortlewis.academicworks.com/opportunities/5161) | $2,000 | not listed |
+| [Western Undergraduate Exchange (WUE) Scholarship](https://www.fortlewis.edu/tuition-aid/scholarships/transfer) |  | not listed |
 | [Westmeath Foundation Scholarship](https://fortlewis.academicworks.com/opportunities/5467) | $250–$2,000 | not listed |
 | [Wiescamp and Nelson Music Scholarship](https://fortlewis.academicworks.com/opportunities/5526) |  | not listed |
 | [Wilco Engineering Scholarship](https://fortlewis.academicworks.com/opportunities/5143) | $2,000 | not listed |

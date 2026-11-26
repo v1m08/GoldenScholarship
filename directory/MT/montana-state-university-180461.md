@@ -1,6 +1,6 @@
 # Montana State University scholarships
 
-Bozeman, MT · 1,246 open · 27 with no date listed · 5 closed (not shown)
+Bozeman, MT · 1,254 open · 33 with no date listed · 7 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/montana-state-university-180461)**
 
@@ -30,6 +30,7 @@ Bozeman, MT · 1,246 open · 27 with no date listed · 5 closed (not shown)
 | [Marshall and Betty Bjork Rural Student Teacher Scholarship](https://montana.academicworks.com/opportunities/28142) |  | Dec 1, 2026 |
 | [MSU Presidential Scholarship](https://www.montana.edu/international/admissions/INTL_UG_Scholarships.html) |  | Dec 1, 2026 |
 | [Presidential Scholarship](https://montana.academicworks.com/opportunities/30968) |  | Dec 1, 2026 |
+| [Robert Raskind Nursing Scholarship](https://www.montana.edu/nursing/current_students/raskind.html) |  | Dec 1, 2026 |
 | [Sigrid Haugstad Woodward Thornby Student Teacher Scholarship](https://montana.academicworks.com/opportunities/28848) |  | Dec 1, 2026 |
 | [Student Teaching SPRING Semester Scholarship](https://montana.academicworks.com/opportunities/28940) |  | Dec 1, 2026 |
 | [Edna Berg Scholarship](https://montana.academicworks.com/opportunities/27207) |  | Dec 15, 2026 |
@@ -1238,10 +1239,17 @@ Bozeman, MT · 1,246 open · 27 with no date listed · 5 closed (not shown)
 | [Yvonne Jurkovich-Wilson Scholarship](https://montana.academicworks.com/opportunities/32342) |  | Feb 1, 2027 |
 | [Zandy Sustainable Food Scholarship](https://montana.academicworks.com/opportunities/32749) |  | Feb 1, 2027 |
 | [Zoot Enterprises Scholarship](https://montana.academicworks.com/opportunities/31504) |  | Feb 1, 2027 |
+| [AMS/Industry Minority Scholarship](https://www.montana.edu/native/finance/scholarships.html) | $3,000 | Feb 7, 2027 |
+| [APS Scholarship for Minorities](https://www.montana.edu/native/finance/scholarships.html) | $2,000–$3,000 | Feb 7, 2027 |
+| [La Grant Foundation Scholarship](https://lagrantfoundation.org/scholarship-application-process/) | $3,750 | Feb 15, 2027 |
+| [Notah Begay III Scholarship Program](https://www.montana.edu/native/finance/scholarships.html) | $1,500 | Mar 6, 2027 |
 | [Office of International Programs Summer/Fall Semester Study Abroad Scholarship](https://montana.academicworks.com/opportunities/32218) |  | Mar 15, 2027 |
 | [Gordon Davidson Scholarship](https://bozemanhealth.org/community-benefit/) | $4,000 | Mar 21, 2027 |
+| [Albert W. Dent Graduate Student Scholarship](https://www.montana.edu/native/finance/scholarships.html) | $5,000 | Mar 31, 2027 |
+| [AICPA Minority Accounting Students Scholarships](https://www.montana.edu/native/finance/scholarships.html) | $5,000 | Apr 1, 2027 |
 | [MSU Staff Scholarship](https://montana.academicworks.com/opportunities/32560) |  | Apr 30, 2027 |
 | [Tucker Family Paleontology Scholarship](https://montana.academicworks.com/opportunities/29291) |  | Apr 30, 2027 |
+| [ESA Foundation Computer & Video Game Scholarship](https://www.montana.edu/native/finance/scholarships.html) | $1,000 | May 15, 2027 |
 | [Graduate Scholarship for Educators in Tribal Communities](https://montana.academicworks.com/opportunities/32835) |  | Jul 25, 2027 |
 | [Student Teaching FALL Semester Scholarship](https://montana.academicworks.com/opportunities/32798) |  | Jul 31, 2027 |
 | [Master of Science in Innovation and Management (MSIM) Scholarship](https://montana.academicworks.com/opportunities/33104) |  | Aug 1, 2027 |
@@ -1254,11 +1262,16 @@ Bozeman, MT · 1,246 open · 27 with no date listed · 5 closed (not shown)
 | [Vaniman Study Abroad Scholarship](https://montana.academicworks.com/opportunities/33196) |  | Sep 1, 2027 |
 | [A Scholarship for Students Attending Montana State University](https://www.dpwfoundation.org/scholarships/helen-b-miller-horatio-alger-scholarship/) |  | not listed |
 | [Air Force ROTC Scholarships](https://www.montana.edu/admissions/scholarships/additional.html) | $59,920 | not listed |
+| [American Association of Law Libraries Scholarship](https://www.montana.edu/native/finance/scholarships.html) |  | not listed |
+| [American Indian Graduate Center/Undergraduate Scholarships](https://accessscholarships.com/scholarship/american-indian-graduate-center-aigc-graduate-fellowship/) | $5,000 | not listed |
 | [Bureau of Indian Education High Education Grant Program](https://www.montana.edu/native/finance/scholarships.html) |  | not listed |
+| [Bureau of Indian Education Higher Education Grant Program](https://www.montana.edu/native/finance/scholarships.html) |  | not listed |
 | [Daniel Goodman Memorial Scholarship](https://montana.academicworks.com/opportunities/31287) |  | not listed |
 | [Debi Flanigan Memorial Scholarship](https://www.bozemanschoolsfoundation.org/community-memorial-applications) | $1,500 | not listed |
 | [Don C. Quimby Graduate Wildlife Research Scholarship](https://montana.academicworks.com/opportunities/31285) |  | not listed |
 | [Dr. Lynn Irby Fish and Wildlife Biology Graduate Scholarship](https://montana.academicworks.com/opportunities/30525) |  | not listed |
+| [Hedwig Arlen Memorial Scholarship](https://www.montana.edu/native/finance/scholarships.html) |  | not listed |
+| [Helen B. Miller Horatio Alger Scholarship](https://www.dpwfoundation.org/scholarships/helen-b-miller-horatio-alger-scholarship/) |  | not listed |
 | [INBRE](https://montana.academicworks.com/opportunities/5856) |  | not listed |
 | [Jim Belsey Graduate Student Fisheries Scholarship](https://montana.academicworks.com/opportunities/30677) |  | not listed |
 | [Jim Patton Wildlife Management Scholarship](https://montana.academicworks.com/opportunities/31295) |  | not listed |
@@ -1274,6 +1287,7 @@ Bozeman, MT · 1,246 open · 27 with no date listed · 5 closed (not shown)
 | [Presbyterian Church - USA Student Opportunity Scholarship](https://www.montana.edu/native/finance/scholarships.html) | $2,000 | not listed |
 | [Sacajawea Audubon Society Bob Moore Scholarship](https://montana.academicworks.com/opportunities/31312) |  | not listed |
 | [Sara Amasa Madsen Conservation Biology Graduate Scholarship](https://montana.academicworks.com/opportunities/31291) |  | not listed |
+| [Surety Industry Scholarship Program of Minority Students](https://surety.org/research-resources/sfaa-foundation/intern-scholarship-program/) | $5,000 | not listed |
 | [The Wild Sheep Foundation, Kevin Hurley Wild Sheep Biology Award](https://montana.academicworks.com/opportunities/31297) |  | not listed |
 | [Undergraduate Scholars Program](https://montana.academicworks.com/opportunities/5851) |  | not listed |
 | [William A. Hiscock Space Grant Award](https://spacegrant.montana.edu/scholarship_info/index.html) |  | not listed |

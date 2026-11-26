@@ -1,6 +1,6 @@
 # Gardner-Webb University scholarships
 
-Boiling Springs, NC · 4 open · 17 with no date listed · 0 closed (not shown)
+Boiling Springs, NC · 4 open · 18 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/gardner-webb-university-198561)**
 
@@ -11,6 +11,7 @@ Boiling Springs, NC · 4 open · 17 with no date listed · 0 closed (not shown)
 | [Godbold Business Scholarship](https://gardner-webb.edu/admissions-aid/scholarships-and-grants/) |  | Feb 10, 2027 |
 | [Godbold College of Business Board of Advisors Scholarship](https://gardner-webb.edu/admissions-aid/scholarships-and-grants/business-scholarships/) | $1,000 | Mar 15, 2027 |
 | [Bulldog Way Grant](https://gardner-webb.edu/admissions-aid/scholarships-and-grants/) | $3,000 | not listed |
+| [Christian Service Organization & Scholarships](https://gardner-webb.edu/admissions-aid/scholarships-and-grants/christian-service-organization-scholarships/) |  | not listed |
 | [Christian Service Organization Scholarships](https://gardner-webb.edu/admissions-aid/scholarships-and-grants/) |  | not listed |
 | [Church Matching Scholarship](https://gardner-webb.edu/admissions-aid/scholarships-and-grants/) | $5,000 | not listed |
 | [F. Keith Griggs Scholarship](https://gardner-webb.edu/admissions-aid/scholarships-and-grants/business-scholarships/) | $1,000 | not listed |

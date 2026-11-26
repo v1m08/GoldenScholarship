@@ -1,6 +1,6 @@
 # New Mexico State University-Dona Ana scholarships
 
-Las Cruces, NM · 2 open · 19 with no date listed · 0 closed (not shown)
+Las Cruces, NM · 2 open · 20 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/new-mexico-state-university-dona-ana-187620)**
 
@@ -16,6 +16,7 @@ Las Cruces, NM · 2 open · 19 with no date listed · 0 closed (not shown)
 | [Conroy Merit Scholarship](https://fa.nmsu.edu/scholarships/renewal.html) | $5,000 | not listed |
 | [Crimson Success Out-of-State Scholarship](https://fa.nmsu.edu/scholarships/) |  | not listed |
 | [Crimson Success Scholarship](https://fa.nmsu.edu/scholarships/) | $3,000 | not listed |
+| [Hadley Honors Out-of-State Scholarship](https://fa.nmsu.edu/scholarships/) |  | not listed |
 | [Hadley Honors Transfer Scholarship](https://fa.nmsu.edu/scholarships/) | $3,000 | not listed |
 | [In-State Institutional Scholarships](https://fa.nmsu.edu/scholarships/renewal.html) |  | not listed |
 | [In-State Top Scholarships](https://fa.nmsu.edu/scholarships/renewal.html) |  | not listed |

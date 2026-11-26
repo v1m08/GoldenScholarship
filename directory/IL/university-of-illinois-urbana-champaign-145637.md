@@ -1,6 +1,6 @@
 # University of Illinois Urbana-Champaign scholarships
 
-Champaign, IL · 8 open · 72 with no date listed · 0 closed (not shown)
+Champaign, IL · 8 open · 79 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-illinois-urbana-champaign-145637)**
 
@@ -15,9 +15,11 @@ Champaign, IL · 8 open · 72 with no date listed · 0 closed (not shown)
 | [Morgan L. Fitch Scholarship](https://www.ilreef.org/scholarships/) | $2,000 | Apr 1, 2027 |
 | [ACES Undergraduate Research Scholarships](https://aces.illinois.edu/student-opportunities/financial-aid-scholarships) | $1,500 | May 1, 2027 |
 | [ACES Study Abroad Scholarship](https://aces.illinois.edu/student-opportunities/financial-aid-scholarships) | $250–$2,000 | not listed |
+| [ACES Undergraduate Research Scholarship Program](https://aces.illinois.edu/student-opportunities/financial-aid-scholarships) |  | not listed |
 | [Ackerson Scholarship for Excellence in Student Teaching](https://socialwork.illinois.edu/admissions-academics/costs-and-financial-aid/scholarships/phd-scholarships/) | $6,000 | not listed |
 | [Adah Hopkins Aime Scholarship](https://socialwork.illinois.edu/admissions-academics/costs-and-financial-aid/scholarships/msw-scholarships/) |  | not listed |
 | [Amazing Grace Restorative Justice Scholarship](https://socialwork.illinois.edu/admissions-academics/costs-and-financial-aid/scholarships/msw-scholarships/) | $5,250 | not listed |
+| [Ann E. Penstone Scholarship](https://www.hk.illinois.edu/student-life/awards-and-scholarships/) | $1,000 | not listed |
 | [Arthur R. Wyatt Accounting Scholarship](https://www.icpas.org/communities/students/college-resources/student-scholarships) |  | not listed |
 | [Aurelio E. "Joe" Florio Scholarship](https://www.hk.illinois.edu/student-life/awards-and-scholarships/) | $1,500 | not listed |
 | [Becca Nimmer Marcus Award](https://socialwork.illinois.edu/admissions-academics/costs-and-financial-aid/scholarships/msw-scholarships/) |  | not listed |
@@ -33,6 +35,8 @@ Champaign, IL · 8 open · 72 with no date listed · 0 closed (not shown)
 | [Elizabeth R. Bennett Scholarship in Mathematics](https://math.illinois.edu/elizabeth-r-bennett-scholarship-mathematics) |  | not listed |
 | [Elsie Thomas Fraser Award](https://math.illinois.edu/elsie-thomas-fraser-award) |  | not listed |
 | [Enabled Abroad Scholarship](https://aces.illinois.edu/student-opportunities/financial-aid-scholarships) |  | not listed |
+| [F. Patricia Cullen Scholarship](https://www.hk.illinois.edu/student-life/awards-and-scholarships/) | $1,000 | not listed |
+| [Franz Hohn and J.P. Nash Scholarship Fund](https://math.illinois.edu/giving/scholarships-fellowships-and-research-experiences) |  | not listed |
 | [Gail V. Kellogg Scholarship](https://math.illinois.edu/gail-v-kellogg-scholarship) |  | not listed |
 | [GEAR UP Scholarship](https://www.osfa.illinois.edu/types-of-aid/scholarships/federal-state-scholarships/) |  | not listed |
 | [Gilman Scholarship](https://aces.illinois.edu/student-opportunities/financial-aid-scholarships) | $3,000 | not listed |
@@ -42,12 +46,15 @@ Champaign, IL · 8 open · 72 with no date listed · 0 closed (not shown)
 | [Illinois Achievement Scholarship](https://www.osfa.illinois.edu/types-of-aid/scholarships/merit-based-scholarships/) | $2,000 | not listed |
 | [Illinois for Illinois (I4I) Scholarship](https://aces.illinois.edu/student-opportunities/financial-aid-scholarships) |  | not listed |
 | [Illinois Mathematics Excellence Scholarship](https://math.illinois.edu/illinois-mathematics-excellence-scholarship) |  | not listed |
+| [James D. Hogan Memorial Scholarship Fund](https://math.illinois.edu/giving/scholarships-fellowships-and-research-experiences) |  | not listed |
 | [Janice M. Hartman Memorial Scholarship](https://socialwork.illinois.edu/admissions-academics/costs-and-financial-aid/scholarships/msw-scholarships/) |  | not listed |
 | [Jim and Doug Franz Memorial Scholarship](https://www.rimef.org/scholarships.php) | $1,500 | not listed |
 | [Jim and Joanna Dudley Scholarship](https://socialwork.illinois.edu/admissions-academics/costs-and-financial-aid/scholarships/msw-scholarships/) |  | not listed |
 | [Joanne M. and Charles M. Carraway Scholarship](https://www.hk.illinois.edu/student-life/awards-and-scholarships/) | $2,000 | not listed |
 | [Jonathan Baldwin Turner (JBT) scholarship](https://publish.illinois.edu/jbtscholars/) |  | not listed |
 | [Josephine Chanler Scholarship](https://math.illinois.edu/josephine-chanler-scholarship) |  | not listed |
+| [Karin A. Rosenblatt Community Health Graduate Scholarship](https://www.hk.illinois.edu/student-life/awards-and-scholarships/) | $2,000 | not listed |
+| [Kathleen M. Haywood Graduate Kinesiology Scholarship](https://www.hk.illinois.edu/student-life/awards-and-scholarships/) | $1,500 | not listed |
 | [Marianna F. Trekell Scholarship](https://www.hk.illinois.edu/student-life/awards-and-scholarships/) | $1,500 | not listed |
 | [Mark P. Hale Scholarship](https://socialwork.illinois.edu/admissions-academics/costs-and-financial-aid/scholarships/msw-scholarships/) |  | not listed |
 | [Math Careers for Women Scholarship Fund](https://math.illinois.edu/giving/scholarships-fellowships-and-research-experiences) |  | not listed |

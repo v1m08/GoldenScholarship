@@ -1,16 +1,21 @@
 # University of Nebraska-Lincoln scholarships
 
-Lincoln, NE · 2 open · 10 with no date listed · 0 closed (not shown)
+Lincoln, NE · 6 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-nebraska-lincoln-181464)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Nebraska Achievement Community College Tuition Scholarship](https://admissions.unl.edu/cost/scholarships/nebraska-achievement-community-college-tuition-scholarship/) | $1,000 | Mar 1, 2027 |
 | [Chancellor's Tuition Scholarship (In-State)](https://admissions.unl.edu/cost/scholarships/chancellors-tuition-scholarship-in-state/) | $8,000 | Nov 1, 2027 |
 | [Chancellor's Tuition Scholarship (Out-of-State)](https://admissions.unl.edu/cost/scholarships/chancellors-tuition-scholarship-out-of-state/) | $4,000 | Nov 1, 2027 |
+| [Nebraska Emerging Leaders Tuition Scholarship](https://admissions.unl.edu/cost/scholarships/nebraska-emerging-leaders-tuition-scholarship/) | $2,000 | Nov 1, 2027 |
+| [Nebraska Opportunity Scholarship](https://admissions.unl.edu/cost/scholarships/nebraska-opportunity-scholarship/) | $1,000 | Nov 1, 2027 |
+| [Pepsi Service Scholarship](https://admissions.unl.edu/cost/scholarships/pepsi-service-scholarship/) | $1,000 | Nov 1, 2027 |
 | [CIAC Tradition of Excellence Scholarship](https://engineering.unl.edu/durhamschool/scholarships-incoming-durham-school-students/) | $20,000 | not listed |
 | [Judith Stewart Gross Non-Traditional Student Scholarship Fund](https://cas.unl.edu/how-apply-scholarships/) |  | not listed |
 | [Libby Swanson Jacobs Scholarship](https://polisci.unl.edu/scholarships/) | $4,000 | not listed |
+| [Lulu Runge Scholarship](https://www.alphaxidelta.org/foundation/scholarships-grants-awards/scholarships-listing/) |  | not listed |
 | [McKelvie Scholarship](https://polisci.unl.edu/scholarships/) | $2,000 | not listed |
 | [Presidential Scholarship](https://financialaid.unl.edu/maintaining-eligibility/scholarship-guidelines/) |  | not listed |
 | [Robert McCall Scholarship](https://cas.unl.edu/how-apply-scholarships/) |  | not listed |

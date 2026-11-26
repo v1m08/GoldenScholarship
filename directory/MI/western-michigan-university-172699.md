@@ -1,6 +1,6 @@
 # Western Michigan University scholarships
 
-Kalamazoo, MI · 10 open · 18 with no date listed · 0 closed (not shown)
+Kalamazoo, MI · 11 open · 18 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/western-michigan-university-172699)**
 
@@ -16,6 +16,7 @@ Kalamazoo, MI · 10 open · 18 with no date listed · 0 closed (not shown)
 | [Value: Partial-tuition scholarship](https://wmich.edu/finaid/aid-types/institutional-offers/first-year-scholarships) |  | May 15, 2027 |
 | [MI Neighbor Advantage award](https://wmich.edu/finaid/aid-types/institutional-offers/first-year-scholarships) | $2,000 | Jun 1, 2027 |
 | [Paper Technology Foundation scholarships](https://wmich.edu/finaid/aid-types/institutional-offers/first-year-scholarships) |  | Jun 1, 2027 |
+| [Tenacity Award](https://wmich.edu/finaid/aid-types/institutional-offers/empowering-futures) |  | Jul 1, 2027 |
 | [Alumni Association Legacy Scholarship](https://wmich.edu/finaid/aid-types/institutional-offers/first-year-scholarships) | $500 | not listed |
 | [Bronco Achievement Scholarship](https://wmich.edu/finaid/aid-types/institutional-offers/first-year-scholarships) | $12,000–$14,000 | not listed |
 | [CHHS Scholarship](https://wmich.edu/hhs/scholarships) |  | not listed |

@@ -1,6 +1,6 @@
 # Lander University scholarships
 
-Greenwood, SC · 396 open · 54 with no date listed · 33 closed (not shown)
+Greenwood, SC · 397 open · 73 with no date listed · 33 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/lander-university-218229)**
 
@@ -236,6 +236,7 @@ Greenwood, SC · 396 open · 54 with no date listed · 33 closed (not shown)
 | [Lindsey Alison Lee Scholarship](https://lander.academicworks.com/opportunities/10068) | $380 | Aug 20, 2027 |
 | [Louise Hodges Hartzog Scholarship](https://lander.academicworks.com/opportunities/10382) | $540 | Aug 20, 2027 |
 | [Louise Willing McMullin Scholarship](https://lander.academicworks.com/opportunities/10271) | $370 | Aug 20, 2027 |
+| [Luanne Wentzky Scholarship](https://lander.academicworks.com/opportunities/10003) | $2,260 | Aug 20, 2027 |
 | [Luddy McDonald Memorial Scholarship](https://lander.academicworks.com/opportunities/10196) | $430 | Aug 20, 2027 |
 | [Lydia Woodham Parrish Nursing Scholarship](https://lander.academicworks.com/opportunities/10233) | $950 | Aug 20, 2027 |
 | [Madison and Frances Patton Breland Scholarship](https://lander.academicworks.com/opportunities/10245) |  | Aug 20, 2027 |
@@ -405,30 +406,43 @@ Greenwood, SC · 396 open · 54 with no date listed · 33 closed (not shown)
 | [Agnes M. Luddy Nursing Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Alumni Association Departmental Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) | $500 | not listed |
 | [Alumni Association Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Alumni Departmental Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Alumni Departmental Scholarship-Music](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Alumni Divisional Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) | $700 | not listed |
 | [Alumni Scholarships](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Amanda L. Wagoner Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Angelle Adams Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Ann Hare Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Annie Laurie Crawford Memorial Nursing Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Barbara A. Jackson Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Bill & Emily Bradford Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Bix Beiderbecke Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Bob and Debra Cumming Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Charles A. Park Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Cindy Bogerro Polatty Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Clara Bailey Robeson Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Computer Information Systems Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Cooper Power Systems Environmental Science Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Countybank Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Countybank Scholarship - Lander University](https://www.lander.edu/news/2010/July/lander-university-business-students-receive-countybank-scholarships.html) |  | not listed |
+| [Daisy Stewart Nursing Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Dean's Award](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/index.html) | $2,000 | not listed |
+| [Dearyl Lusk Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Dr. John Marvin Rast Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Dr. Leslie MacTaggart Myers Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [E. Don Herd Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Eaton Physical Science Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Eleanor M. Mundy Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Elliott-Davis Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Eula Caudle Bracknell Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Fall Nursing Class of 2013 Gagnon-Ready Memorial Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Fay Maria Mitchell Hart Choral Music Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Fay Maria Mitchell Hart Music Education Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Fuji Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [G. Bonner and Martha B. Harvley Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Greenwood Vocational Rehabilitation Advisory Board Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Harry & Ruth Hakam Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Harry P. Irwin Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Harvey E. Jeffreys Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Hattie Henry Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Helen Rodgers Baker Chemistry Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
@@ -437,13 +451,18 @@ Greenwood, SC · 396 open · 54 with no date listed · 33 closed (not shown)
 | [Jeff May Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Lander Nursing Alumni Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Lander Science Scholarship Award](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Larry A. Jackson Scholarship (Spanish)](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Leo & Louise McMullin Mass Communication Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Mickey McDowell Nursing Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Murrell Jones Huckabee Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Nahn Joo Chang Nursing Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Nancy Saxon Clark Nursing Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Nat F. White Instrumental Music Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Nell Henry Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Richard L. Wilkins Instrumental Music Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Sandra J. Lorenzatti Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Seab Coates McEntire and Ruth Ball English McEntire Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [Sharon Jones Williams Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Shelton E. Stewart Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Sherman L. Prosser Computer Information Systems Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Shirley Johnson Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
@@ -455,6 +474,7 @@ Greenwood, SC · 396 open · 54 with no date listed · 33 closed (not shown)
 | [W.D. Tinsley Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Whatley-Southerland Mathematics Teaching Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [William Jennings Bryan Dorn Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
+| [William Kenneth Henderson Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 | [Zeigler-Gregg Mathematics Scholarship](https://www.lander.edu/admissions/tuition-financial-aid/scholarships/departmental-scholarships.html) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

@@ -1,6 +1,6 @@
 # University of Colorado Boulder scholarships
 
-Boulder, CO · 572 open · 83 with no date listed · 1 closed (not shown)
+Boulder, CO · 572 open · 117 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-colorado-boulder-126614)**
 
@@ -581,30 +581,42 @@ Boulder, CO · 572 open · 83 with no date listed · 1 closed (not shown)
 | [Add-On Scholarships](https://www.colorado.edu/scholarships/cu-boulder-scholarships/auto-consider/matching) |  | not listed |
 | [Admitted (1l) Student Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Andy Fisher Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Ann B. Frick Student Support Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Armstrong, Teasdale LLP, Michael C. Tramble Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Ashley Boothby Endowed Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Asian Pacific Bar Association of Colorado Minoru Yasui Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Aurora Bar Association Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Automatic Consideration Scholarships](https://www.colorado.edu/scholarships/cu-boulder-scholarships/automatic-consideration-scholarships) |  | not listed |
+| [Barash Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [BBG Construction Law Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Benjamin S. Galland Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Berg Hill Greenleaf & Ruscitti Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Bernard J. Seeman Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Brooke Wunnicke Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Bryan Shaha Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Casey Feldman Memorial Scholarship](https://www.colorado.edu/volunteer/skoserve/scholarships) |  | not listed |
 | [Chancellor's Achievement Scholarship](https://www.colorado.edu/scholarships/chancellors-achievement-scholarship) |  | not listed |
+| [Character and Personal Excellence Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Charles N. Woodruff Memorial Scholarship](https://www.colorado.edu/center/gwc/student-resources) |  | not listed |
 | [Charlotte York Irey Fund Scholarship](https://www.colorado.edu/theatredance/dance/dance-scholarships) |  | not listed |
 | [Chayet & Danzo, LLC, Colorado Elder Law Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [CHBA Louise Romero Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Cheney Galluzzi & Howard, LLC, Kick-Ass Trial Lawyer Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Chief Justice Francis J. Knauss and Emma Gurr Knauss Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Chief Justice Luis D. Rovira Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Children of Faculty/Staff Scholarship](https://www.colorado.edu/scholarships/cu-boulder-scholarships/facultystaff-dependent-scholarships) | $1,500 | not listed |
 | [Class of 2008 Jennifer Lee Shelton Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Clifford I. Arinaga Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Clifford J. Calhoun Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Colorado Law Community Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Colorado Opportunities Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Colorado Women's Bar Association (CWBA) Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Commitment to Diversity Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Community-Centered Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Conrad and Cheryl Swanson Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Conscience Bay Company Endowed Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Conscience Bay Company Western Water Policy Fellowship](https://www.colorado.edu/center/gwc/student-resources) |  | not listed |
+| [Criminal Defense Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [CU Disability Services Scholarships](https://www.colorado.edu/disabilityservices/resources/student-resources/scholarships-and-financial-assistance) | $500 | not listed |
 | [CU Sko Serve Scholarship](https://www.colorado.edu/volunteer/skoserve/scholarships) |  | not listed |
 | [Dan Barash Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
@@ -612,30 +624,43 @@ Boulder, CO · 572 open · 83 with no date listed · 1 closed (not shown)
 | [Donald S. Stubbs Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Earnest-Johnson/Christian Legal Society Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Eklund Family Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Environmental & Natural Resources Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Faculty/Staff Dependent Endowment Scholarship](https://www.colorado.edu/scholarships/cu-boulder-scholarships/facultystaff-dependent-scholarships) | $1,000 | not listed |
 | [Faegre Baker Daniels Future Leaders Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [First-Generation Scholarship Program](https://www.colorado.edu/first-gen/first-generation-scholarship-program) |  | not listed |
 | [Frances Green Sustainability Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Frank E. (Sam) Maynes Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Gail Pokoik Scholarship](https://www.colorado.edu/theatredance/dance/dance-scholarships) |  | not listed |
+| [Gary Ceriani Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Gary Woods Family Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Gordon G. Greiner Endowed Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Graduate Research in Dance (GRID) Fund Scholarship](https://www.colorado.edu/theatredance/dance/dance-scholarships) |  | not listed |
 | [Herrick and Mary Lidstone Business Law Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Holland & Hart Community Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Hoskin, Farina, and Kampf Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Intellectual Property and Technology Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Ira C. Rothgerber, Jr. Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [J. Brad Bernthal Endowed Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [J. J. Witt Memorial Law Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [J.D. MacFarlane Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Jack N. Hyatt Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [James and Anne de Castro Dance Scholarship Fund](https://www.colorado.edu/theatredance/dance/dance-scholarships) | $1,000 | not listed |
+| [James E. Scarboro Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [James R. McBride Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Jamie Kellam Redmond Scholarship](https://www.colorado.edu/theatredance/dance/dance-scholarships) | $2,500–$3,500 | not listed |
 | [John & Cynthia Schultz Law Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [John and Florence Brennan Law Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [John D. Fleming and Charles J. Kelly Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Judge Alfred A. Arraj Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Judge Walker Miller Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Judi Wolf Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Kenneth N. Kripke and Derril K. Kripke Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Kristen Mix Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Lambda Liberation Endowed Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Law Alumni Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Law Class of 1991 Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Law Class of 1994 Seumsap Ly Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Leon and Dora Wolf Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Los Seis Memorial Scholarship](https://www.colorado.edu/center/bueno/scholarships/los-seis-memorial-scholarship) |  | not listed |
 | [Matt Bond Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Melanie Ruth Vogl Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
@@ -650,15 +675,24 @@ Boulder, CO · 572 open · 83 with no date listed · 1 closed (not shown)
 | [Robert M. Gilbert Law Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Roberts Family Colorado Public Service Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Rodney Lewis Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Royal C. Rubright and Lynnell Rubright Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Samuel and Frances Dazzo Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Sarah L. Rector Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Schultz Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Schultz Wildcat Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Service Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Shawn Stigler and Alex Nelson Alpine Endeavors Law Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Special Circumstances Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Summer Fellowship](https://www.colorado.edu/law/student-organizations) |  | not listed |
 | [Talent & Creativity Scholarships](https://www.colorado.edu/theatredance/dance/dance-scholarships) | $250–$1,500 | not listed |
 | [Tax, Estate, and Elder Law Scholarships](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Ted Woods Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Thomas and Claire Brown Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Tom Lustig Environmental Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [Tuttle Family Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Victor Quinn Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Vincente Sederberg LLP Steve Fox Memorial Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
+| [W. Elery Wilmarth III Endowed Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [William E. & Maxine Rentfro Law Scholarship](https://www.colorado.edu/law/colorado-law-scholarships) |  | not listed |
 | [Wm. C. 'Bill' Sterner Memorial Scholarship](https://www.localchangefoundation.org/scholarships) | $1,000–$5,000 | not listed |
 

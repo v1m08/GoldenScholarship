@@ -1,12 +1,13 @@
 # Tulsa Community College scholarships
 
-Tulsa, OK · 1 open · 11 with no date listed · 1 closed (not shown)
+Tulsa, OK · 1 open · 12 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/tulsa-community-college-207935)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Bridging the Gap Scholarship](https://www.tulsacc.edu/paying-college/scholarships-waivers/child-development-scholarships) | $250–$750 | May 15, 2027 |
+| [Advantage Scholarship](https://www.tulsacc.edu/paying-college/advantage-scholarship) |  | not listed |
 | [Child Development Scholarships](https://www.tulsacc.edu/paying-college/scholarships-waivers/child-development-scholarships) |  | not listed |
 | [City Year Tulsa Completion Scholarship](https://www.tulsacc.edu/paying-college/scholarships-waivers/city-year-tulsa-completion-scholarship) | $750–$1,500 | not listed |
 | [Honors Scholars State Regents Tuition Waiver Scholarship](https://www.tulsacc.edu/paying-college/scholarships-waivers/honors-scholarships) | $40,000 | not listed |

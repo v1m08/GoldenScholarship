@@ -1,6 +1,6 @@
 # University of Central Florida scholarships
 
-Orlando, FL · 4 open · 24 with no date listed · 13 closed (not shown)
+Orlando, FL · 4 open · 26 with no date listed · 13 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-central-florida-132903)**
 
@@ -11,9 +11,11 @@ Orlando, FL · 4 open · 24 with no date listed · 13 closed (not shown)
 | [MFA Provost's Graduate Fellowship](https://graduate.ucf.edu/fellowships/) | $16,000 | Mar 15, 2027 |
 | [Polaris Scholarship](https://cah.ucf.edu/fpep/polaris-scholarship/) |  | Apr 1, 2027 |
 | [Benacquisto Scholarship Program](https://www.ucf.edu/financial-aid/types/scholarships/benacquisto/) | $2,500 | not listed |
+| [Benacquisto Scholarships](https://www.ucf.edu/financial-aid/types/scholarships/benacquisto/) | $2,500 | not listed |
 | [Delores Auzenne Fellowship](https://graduate.ucf.edu/fellowships/) |  | not listed |
 | [Diane & Lawrence Wink Theatre Scholarship](https://cah.ucf.edu/performingarts/academics/scholarships/) |  | not listed |
 | [Eleanor Roosevelt Women's and Gender Studies Award](https://cah.ucf.edu/womengender/scholarship/roosevelt-award/) | $250 | not listed |
+| [Fellowship Stipend](https://graduate.ucf.edu/fellowships/) | $25,000 | not listed |
 | [Florida Prison Education Project](https://cah.ucf.edu/fpep/scholarship/) | $1,000 | not listed |
 | [Honors Emerging - Women's and Gender Studies Scholarship](https://cah.ucf.edu/womengender/scholarship/honors-emerging/) | $250 | not listed |
 | [Knights Achievement Scholarship Waiver](https://www.ucf.edu/financial-aid/types/scholarships/knights-achievement/) |  | not listed |

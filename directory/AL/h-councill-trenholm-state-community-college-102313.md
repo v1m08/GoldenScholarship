@@ -1,6 +1,6 @@
 # H Councill Trenholm State Community College scholarships
 
-Montgomery, AL · 1 open · 11 with no date listed · 0 closed (not shown)
+Montgomery, AL · 1 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/h-councill-trenholm-state-community-college-102313)**
 
@@ -9,6 +9,7 @@ Montgomery, AL · 1 open · 11 with no date listed · 0 closed (not shown)
 | [Achievement Scholarship](https://www.trenholmstate.edu/financial-aid/scholarships/) |  | Apr 1, 2027 |
 | [A.L. Molina and H.C. Trenholm Perseverance Academic Scholarship](https://www.trenholmstate.edu/trenholm-state-foundation-scholarship/) | $2,000 | not listed |
 | [A.L. Molina and H.C. Trenholm Workforce Excellence Scholarship](https://www.trenholmstate.edu/trenholm-state-foundation-scholarship/) | $1,000 | not listed |
+| [Alabama Advantage Scholarship](https://afford.ua.edu/scholarships/alabama-advantage/?utm_campaign=alabama_advantage&utm_content=adv1c_advisors_explainer&utm_medium=email&utm_source=slate) | $5,000 | not listed |
 | [Alabama State University (ASU) Presidential Scholarship](https://www.trenholmstate.edu/financial-aid/scholarships/) |  | not listed |
 | [Ambassador Scholarships](https://www.trenholmstate.edu/financial-aid/scholarships/) |  | not listed |
 | [Auburn University at Montgomery (AUM) Presidential Scholarship](https://www.trenholmstate.edu/financial-aid/scholarships/) |  | not listed |

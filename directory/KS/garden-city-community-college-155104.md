@@ -1,6 +1,6 @@
 # Garden City Community College scholarships
 
-Garden City, KS · 1 open · 4 with no date listed · 0 closed (not shown)
+Garden City, KS · 1 open · 5 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/garden-city-community-college-155104)**
 
@@ -11,5 +11,6 @@ Garden City, KS · 1 open · 4 with no date listed · 0 closed (not shown)
 | [Buster Commitment 2027 Scholarship](https://www.gcccks.edu/paying-for-college/buster-commitment-scholarship.html) | $2,000 | not listed |
 | [Buster Commitment Scholarship](https://www.gcccks.edu/paying-for-college/scholarships.html) | $2,000 | not listed |
 | [CAMP Scholarship Program](https://www.gcccks.edu/paying-for-college/scholarships.html) | $3,000 | not listed |
+| [Kansas Promise Scholarship](https://www.gcccks.edu/paying-for-college/kansas-promise-scholarship.html) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

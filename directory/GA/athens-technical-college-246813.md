@@ -1,6 +1,6 @@
 # Athens Technical College scholarships
 
-Athens, GA · 0 open · 15 with no date listed · 0 closed (not shown)
+Athens, GA · 0 open · 16 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/athens-technical-college-246813)**
 
@@ -18,6 +18,7 @@ Athens, GA · 0 open · 15 with no date listed · 0 closed (not shown)
 | [Janice Emily Nursing Scholarship](https://athenstech.edu/resources/student-resources/scholarships/) |  | not listed |
 | [Jeremy Busby Memorial Scholarship](https://athenstech.edu/resources/student-resources/scholarships/) |  | not listed |
 | [Kramer-Brown Nursing Scholarship](https://athenstech.edu/resources/student-resources/scholarships/) |  | not listed |
+| [Life Science and Public Safety Scholarship](https://athenstech.edu/resources/student-resources/scholarships/) |  | not listed |
 | [Phil Bettendorf Business and Education Scholarship](https://athenstech.edu/resources/student-resources/scholarships/) |  | not listed |
 | [Rotary Club of Athens Scholarship](https://athenstech.edu/resources/student-resources/scholarships/) |  | not listed |
 | [U-Lead Athens Scholarship](https://athenstech.edu/resources/student-resources/scholarships/) |  | not listed |

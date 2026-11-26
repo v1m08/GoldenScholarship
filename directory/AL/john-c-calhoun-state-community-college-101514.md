@@ -1,12 +1,13 @@
 # John C Calhoun State Community College scholarships
 
-Tanner, AL · 2 open · 67 with no date listed · 0 closed (not shown)
+Tanner, AL · 3 open · 70 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/john-c-calhoun-state-community-college-101514)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [RISE Employee Scholarships](https://calhoun.edu/about/hr-employment/rise-scholarship/) |  | Jan 1, 2027 |
+| [Summer Scholarship](https://calhoun.edu/financial-aid/scholarships/institutional-scholarships/) |  | Mar 1, 2027 |
 | [Career Development Scholarship](https://calhoun.edu/financial-aid/scholarships/institutional-scholarships/) |  | Jul 1, 2027 |
 | [3M Business Division Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [3M MAP Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
@@ -35,11 +36,13 @@ Tanner, AL · 2 open · 67 with no date listed · 0 closed (not shown)
 | [Clardy Memorial Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Commissioner Robert "Bob" Harrison Memorial Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Cook's Pest Control Scholarship - CCC](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
+| [Cyber ACCESS Scholarship](https://calhoun.edu/financial-aid/scholarships/institutional-scholarships/) |  | not listed |
 | [David and Karen Duke Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Disabled American Veterans Scholarship - CCC](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Donna Wilburn McDonald Nursing Memorial Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Dr. Virginia S. Hill Nursing Memorial Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Drs. George and Cathy Hansberry Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
+| [Dual Enrollment Scholarships](https://calhoun.edu/financial-aid/scholarships/) |  | not listed |
 | [Elizabeth Smith Maund Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Fostering Bridges to the Future Annual Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Gala Annual Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
@@ -57,6 +60,7 @@ Tanner, AL · 2 open · 67 with no date listed · 0 closed (not shown)
 | [Miss Calhoun Scholarship Competition](https://calhoun.edu/financial-aid/scholarships/) | $5,000 | not listed |
 | [Morgan/Lawrence County Medical Alliance Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [NAHEC Annual Scholarship](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
+| [Nursing Department Rhoda Hutchinson Scholarship](https://calhoun.edu/programs-training/explore-academic-programs/health-sciences/nursing/nursing-scholarships/) |  | not listed |
 | [Nursing Department Scholarships](https://calhoun.edu/financial-aid/scholarships/) |  | not listed |
 | [Office Supply Company, Inc. Scholarship - CCC](https://calhoun.edu/financial-aid/scholarships/foundation-scholarships/) |  | not listed |
 | [Pathways to Progress Grant](https://calhoun.edu/financial-aid/scholarships/pathways-to-progress-grant/) | $1,500 | not listed |

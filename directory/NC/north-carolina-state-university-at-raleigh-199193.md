@@ -1,6 +1,6 @@
 # North Carolina State University at Raleigh scholarships
 
-Raleigh, NC · 483 open · 44 with no date listed · 1 closed (not shown)
+Raleigh, NC · 483 open · 46 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/north-carolina-state-university-at-raleigh-199193)**
 
@@ -501,6 +501,7 @@ Raleigh, NC · 483 open · 44 with no date listed · 1 closed (not shown)
 | [Directors Scholarship](https://ced.ncsu.edu/undergraduate/scholarships-and-financial-aid/internal-scholarship-opportunities/) |  | not listed |
 | [Edgar J. and Ethel B. Boone Adult and Community College Leadership Award Endowment](https://ced.ncsu.edu/graduate/financing-graduate-education/scholarship-opportunities/) |  | not listed |
 | [Eileen and J. Bryant Kirkland Agricultural Endowed Scholarship](https://ced.ncsu.edu/undergraduate/scholarships-and-financial-aid/internal-scholarship-opportunities/) |  | not listed |
+| [Eileen and J. Bryant Kirkland Endowed Scholarship](https://ced.ncsu.edu/undergraduate/scholarships-and-financial-aid/internal-scholarship-opportunities/) |  | not listed |
 | [Epsilon Pi Tau Robert & Marilyn Wenig Scholarship](https://ced.ncsu.edu/graduate/financing-graduate-education/scholarship-opportunities/) |  | not listed |
 | [Frank I. Murray Scholarship](https://ced.ncsu.edu/undergraduate/scholarships-and-financial-aid/) |  | not listed |
 | [Frank I. Murray, Jr. Scholarship](https://ced.ncsu.edu/undergraduate/scholarships-and-financial-aid/internal-scholarship-opportunities/) |  | not listed |
@@ -512,6 +513,7 @@ Raleigh, NC · 483 open · 44 with no date listed · 1 closed (not shown)
 | [John and Nell Penick Fellowship in Science Education](https://ced.ncsu.edu/graduate/financing-graduate-education/scholarship-opportunities/) |  | not listed |
 | [John, Rebecca and Drew Logan Scholarship](https://ced.ncsu.edu/undergraduate/scholarships-and-financial-aid/internal-scholarship-opportunities/) |  | not listed |
 | [Lillian Ruth Rupard Memorial Scholarship](https://ced.ncsu.edu/undergraduate/scholarships-and-financial-aid/internal-scholarship-opportunities/) |  | not listed |
+| [Lisa and Michael Sandman Scholarship](https://ced.ncsu.edu/graduate/financing-graduate-education/scholarship-opportunities/) |  | not listed |
 | [Margaret and Bobby Raynor Graduate Support Award](https://ced.ncsu.edu/graduate/financing-graduate-education/scholarship-opportunities/) |  | not listed |
 | [Margaret and Tanya Gayle Elementary Education Scholarship](https://ced.ncsu.edu/undergraduate/scholarships-and-financial-aid/internal-scholarship-opportunities/) |  | not listed |
 | [Moshakos Family Graduate Fellowship](https://ced.ncsu.edu/graduate/financing-graduate-education/scholarship-opportunities/) | $2,000 | not listed |

@@ -1,6 +1,6 @@
 # Waubonsee Community College scholarships
 
-Sugar Grove, IL · 179 open · 7 with no date listed · 16 closed (not shown)
+Sugar Grove, IL · 179 open · 8 with no date listed · 16 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/waubonsee-community-college-149727)**
 
@@ -187,6 +187,7 @@ Sugar Grove, IL · 179 open · 7 with no date listed · 16 closed (not shown)
 | [Woman's Club of Aurora Nursing Scholarship](https://waubonsee.academicworks.com/opportunities/3597) | $1,000 | May 3, 2027 |
 | [Education Pathways Scholarship Fund for East Aurora High School](https://www.cffrv.org/profile/education-pathways-scholarship-fund-for-east-aurora-high-school/) |  | not listed |
 | [Education Pathways Scholarship Fund for West Aurora High School](https://www.cffrv.org/profile/education-pathways-scholarship-fund-for-west-aurora-high-school/) |  | not listed |
+| [Gary and Mary Hauge Scholarship Fund](https://www.cffrv.org/profile/gary-and-mary-hauge-scholarship-fund/) |  | not listed |
 | [John & Julia Onete Scholarship Endowment Fund](https://www.cffrv.org/profile/onete-john-julia-onete-scholarship-endowment-fund/) |  | not listed |
 | [Marvin F. & Geraldine E. Pilmer Scholarship Endowment Fund](https://www.cffrv.org/profile/pilmer-scholarship/) |  | not listed |
 | [Monetary Award Program (MAP)](https://www.waubonsee.edu/admissions/financial-aid-and-scholarships/types-financial-aid/grants) |  | not listed |

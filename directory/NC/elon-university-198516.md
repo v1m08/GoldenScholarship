@@ -1,11 +1,14 @@
 # Elon University scholarships
 
-Elon, NC · 0 open · 13 with no date listed · 1 closed (not shown)
+Elon, NC · 3 open · 13 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/elon-university-198516)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [CFA Student Scholarships](https://www.elon.edu/u/academics/business/finance/cfa-student-scholarships/) | $1,000 | Nov 30, 2026 |
+| [ACFE Ritchie-Jennings Memorial Scholarship](https://www.acfe.com/scholarship) | $2,000–$10,000 | Feb 1, 2027 |
+| [North Carolina Association of CPAs Scholarships](https://www.ncacpa.org/nc-cpa-foundation-scholarships/) | $2,500 | Oct 24, 2027 |
 | [Commitment to Democracy Scholarships](https://www.elon.edu/u/admissions/undergraduate/financial-aid/odyssey-program/) |  | not listed |
 | [Elon Engagement Scholarships](https://www.elon.edu/u/admissions/undergraduate/financial-aid/scholarships/merit-based-scholarships/) | $5,000 | not listed |
 | [Elon University Athletic Scholarships](https://www.elon.edu/u/admissions/undergraduate/financial-aid/scholarships/need-based-scholarships/) | $2,000 | not listed |

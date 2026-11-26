@@ -1,6 +1,6 @@
 # Southern Adventist University scholarships
 
-Collegedale, TN · 3 open · 17 with no date listed · 0 closed (not shown)
+Collegedale, TN · 3 open · 19 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/southern-adventist-university-221661)**
 
@@ -12,8 +12,10 @@ Collegedale, TN · 3 open · 17 with no date listed · 0 closed (not shown)
 | [Dr. Rahn and Natalia Shaw Endowed Scholarship](https://www.southern.edu/advancement/development/named-endowments/index.html) |  | not listed |
 | [Jerry Lee Holt Scholarship](https://www.southern.edu/administration/student-missions/jerry-holt-scholarship.html) | $2,500 | not listed |
 | [Jerry Lee Holt Student Missionary Scholarship](https://www.southern.edu/administration/student-missions/jerry-holt-scholarship.html) | $2,500 | not listed |
+| [Literature Evangelism Scholarship](https://www.southern.edu/undergrad/finances/grants-and-scholarships.html) | $2,000 | not listed |
 | [National Merit Finalist Scholarship](https://www.southern.edu/undergrad/finances/grants-and-scholarships.html) |  | not listed |
 | [National Recognition Program Scholarships](https://www.southern.edu/undergrad/finances/grants-and-scholarships.html) |  | not listed |
+| [Option 1: High School Leadership Scholarship](https://www.southern.edu/undergrad/finances/grants-and-scholarships.html) |  | not listed |
 | [Performance Scholarships](https://www.southern.edu/undergrad/finances/grants-and-scholarships.html) |  | not listed |
 | [Renewable Lightbearer Scholarship](https://www.southern.edu/undergrad/finances/grants-and-scholarships.html) | $8,000 | not listed |
 | [Renewable Scholarships for Freshmen](https://www.southern.edu/undergrad/finances/grants-and-scholarships.html) |  | not listed |

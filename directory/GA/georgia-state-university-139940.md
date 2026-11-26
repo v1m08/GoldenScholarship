@@ -1,6 +1,6 @@
 # Georgia State University scholarships
 
-Atlanta, GA · 9 open · 55 with no date listed · 0 closed (not shown)
+Atlanta, GA · 9 open · 60 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/georgia-state-university-139940)**
 
@@ -20,7 +20,9 @@ Atlanta, GA · 9 open · 55 with no date listed · 0 closed (not shown)
 | [Alumni Legacy Scholarship](https://alumni.gsu.edu/scholarships/) |  | not listed |
 | [Apperson Family Scholarship](https://honors.gsu.edu/current-students-scholarships/) |  | not listed |
 | [Atlanta Law School Fellowship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
+| [Atlanta Law School Legacy Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Barry Goldwater Scholarship](https://perimeter.gsu.edu/discover/scholarships/) | $7,500 | not listed |
+| [Catherine Henson Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Class Gift Campaign Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Commitment and Compensation for the Fellowship](https://law.gsu.edu/admissions/tuition-financial-aid/) | $1,000 | not listed |
 | [D. Scott Hudgens, Jr. Scholarship](https://www.icsc.com/who-we-are/foundation/scholarships/scholarships-at-select-universities/georgia-state-university-scott-hudgens) | $4,000 | not listed |
@@ -28,6 +30,7 @@ Atlanta, GA · 9 open · 55 with no date listed · 0 closed (not shown)
 | [Dean R. Morley III Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Dell Academic Excellence Award](https://honors.gsu.edu/current-students-scholarships/) |  | not listed |
 | [Diversity in the Legal Profession Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
+| [Donald P. Hensel Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Dr. Judy Deloache Scholarship](https://honors.gsu.edu/current-students-scholarships/) | $1,000 | not listed |
 | [Dreams Scholarship](https://sfs.gsu.edu/getting-started/dreams/) |  | not listed |
 | [Dugald Hudson Memorial Scholarship](https://honors.gsu.edu/current-students-scholarships/) | $1,000 | not listed |
@@ -59,12 +62,14 @@ Atlanta, GA · 9 open · 55 with no date listed · 0 closed (not shown)
 | [Rankin & Sandy Cooter Honors Kinesiology & Health Scholarship](https://honors.gsu.edu/current-students-scholarships/) |  | not listed |
 | [Rankin & Sandy Cooter Honors Student Athlete Scholarship](https://honors.gsu.edu/current-students-scholarships/) |  | not listed |
 | [Reference: Award Amounts for the REACH Georgia Scholarship Program](https://sfs.gsu.edu/getting-started/reach/) |  | not listed |
+| [Ronald and Gwen Freeman Family Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Ronald W. Blasi Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Roy B. Sewell Phi Kappa Phi Scholarship](https://honors.gsu.edu/current-students-scholarships/) | $20,000 | not listed |
 | [Selection for Awards and Fellowships](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Squire Patton Boggs Public Policy Fellowship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Steven B. Najjar Family Foundation Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Study Abroad Scholarship](https://honors.gsu.edu/current-students-scholarships/) |  | not listed |
+| [Todd MacDowell Endowed Scholarship](https://law.gsu.edu/admissions/tuition-financial-aid/) |  | not listed |
 | [Trankina Family Tax Clinic Fellowships](https://law.gsu.edu/admissions/tuition-financial-aid/) | $1,000 | not listed |
 | [Trustee's Endowment Scholarship](https://honors.gsu.edu/current-students-scholarships/) |  | not listed |
 | [Trustees' Endowment Scholarship](https://honors.gsu.edu/current-students-scholarships/) |  | not listed |

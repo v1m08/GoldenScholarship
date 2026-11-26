@@ -1,6 +1,6 @@
 # Concordia University-Wisconsin scholarships
 
-Mequon, WI · 25 open · 38 with no date listed · 2 closed (not shown)
+Mequon, WI · 27 open · 39 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/concordia-university-wisconsin-238616)**
 
@@ -12,8 +12,10 @@ Mequon, WI · 25 open · 38 with no date listed · 2 closed (not shown)
 | [Burress Injury Law Underdog Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $5,000 | Dec 9, 2026 |
 | [Attorney Marketing Network Offering Opportunity to Win a $1,000 Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | Dec 15, 2026 |
 | [Luther Scholar Guarantee Scholarship](https://www.cuw.edu/admissions/financial-aid/undergraduate/scholarships/luther-scholar-guarantee.html) |  | Dec 15, 2026 |
+| [Hutchison & Foreman Committing to Justice Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) |  | Dec 21, 2026 |
 | [Value CPR Foundation Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) |  | Dec 27, 2026 |
 | [Lawyers of Tomorrow Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | Dec 28, 2026 |
+| [Theatre Scholarship](https://www.cuw.edu/admissions/financial-aid/undergraduate/scholarships/theatre-scholarship.html) |  | Jan 9, 2027 |
 | [Victor A. Baylon, MD, Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $3,000 | Feb 1, 2027 |
 | [Fair Divorce Legislation Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | Feb 28, 2027 |
 | [Learner Math Tutoring Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $500 | Sep 20, 2027 |
@@ -63,6 +65,7 @@ Mequon, WI · 25 open · 38 with no date listed · 2 closed (not shown)
 | [Robert M. and Margaret J. Lampert Foundation Scholarship](https://www.cuw.edu/admissions/financial-aid/undergraduate/scholarships/index.html) |  | not listed |
 | [ROI CX Act Now Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $2,500 | not listed |
 | [Single Parent Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | not listed |
+| [Sponsored by: Scott Keever Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) |  | not listed |
 | [Therapy.com Mental Health 2026 Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $2,250 | not listed |
 | [United Voices Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) |  | not listed |
 | [Uplifting Communities Scholarship](https://www.cuw.edu/admissions/financial-aid/scholarships-grants.html) | $1,500 | not listed |

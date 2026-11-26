@@ -1,6 +1,6 @@
 # Bristol Community College scholarships
 
-Fall River, MA · 5 open · 66 with no date listed · 7 closed (not shown)
+Fall River, MA · 5 open · 68 with no date listed · 7 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/bristol-community-college-165033)**
 
@@ -69,6 +69,7 @@ Fall River, MA · 5 open · 66 with no date listed · 7 closed (not shown)
 | [Mary Lou Hallal Sabra Memorial Scholarship](https://bristolcc.edu/scholarships/sub-folder/mary_lou_hallal_sabra_memorial_scholarship.html) |  | not listed |
 | [Mary Lu Hallal Sabra Memorial Scholarship](https://bristolcc.edu/scholarships/sub-folder/mary_lou_hallal_sabra_memorial_scholarship.html) |  | not listed |
 | [Mary Raposa Memorial Scholarship](https://bristolcc.edu/scholarships/sub-folder/mary_raposa_memorial_scholarship.html) |  | not listed |
+| [Massachusetts Cash Grant](https://www.mass.edu/osfa/programs/cashgrant.asp) |  | not listed |
 | [Michael W. Verronneau Scholarship](https://bristolcc.edu/scholarships/sub-folder/michael_w._verronneau_scholarship.html) |  | not listed |
 | [Milton Clement Memorial Scholarship](https://bristolcc.edu/scholarships/sub-folder/milton_clement_memorial_scholarship.html) |  | not listed |
 | [NETA Scholarships](https://bristolcc.edu/studentservices/resources/transferservices/transferandptkscholarships.html) |  | not listed |
@@ -77,5 +78,6 @@ Fall River, MA · 5 open · 66 with no date listed · 7 closed (not shown)
 | [PV2 Michael E. Bouthot Memorial Scholarship](https://bristolcc.edu/scholarships/sub-folder/pv2_michael_e_bouthot_memorial_scholarship.html) |  | not listed |
 | [Rhode Island Society of Governmental Accountants & Auditors Scholarship](https://bristolcc.edu/scholarships/sub-folder/rhode_island_society_of_governmental_accountants_and_auditors_scholarship.html) |  | not listed |
 | [Robert F. Stoico/FIRSTFED Charitable Foundation Scholarship](https://bristolcc.edu/scholarships/sub-folder/robert_f._stoico_firstfed_charitable_foundation_scholarship.html) |  | not listed |
+| [Shelly A. Costa '22 Memorial Scholarship](https://bristolcc.edu/scholarships/sub-folder/shelly_a._costa_memorial_scholarship.html) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

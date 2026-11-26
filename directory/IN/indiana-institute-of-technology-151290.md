@@ -1,6 +1,6 @@
 # Indiana Institute of Technology scholarships
 
-Fort Wayne, IN · 0 open · 10 with no date listed · 0 closed (not shown)
+Fort Wayne, IN · 0 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/indiana-institute-of-technology-151290)**
 
@@ -16,5 +16,6 @@ Fort Wayne, IN · 0 open · 10 with no date listed · 0 closed (not shown)
 | [Indiana Women in Public Finance Scholarship](https://financialservices.indianatech.edu/scholarships/adult/) | $1,000 | not listed |
 | [Military Scholarships](https://financialservices.indianatech.edu/scholarships/military-scholarships/) |  | not listed |
 | [Steven J. Harmon Scholarship](https://financialservices.indianatech.edu/scholarships/adult/) |  | not listed |
+| [Wells County Foundation Scholarships](https://financialservices.indianatech.edu/scholarships/adult/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

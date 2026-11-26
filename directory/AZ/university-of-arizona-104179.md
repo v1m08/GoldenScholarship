@@ -1,6 +1,6 @@
 # University of Arizona scholarships
 
-Tucson, AZ · 7 open · 17 with no date listed · 1 closed (not shown)
+Tucson, AZ · 7 open · 18 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-arizona-104179)**
 
@@ -14,6 +14,7 @@ Tucson, AZ · 7 open · 17 with no date listed · 1 closed (not shown)
 | [President's Saguaro Scholars Award](https://www.arizona.edu/admissions/undergraduate/first-year/merit-scholarships) |  | Oct 15, 2027 |
 | [Tuition Awards](https://www.arizona.edu/admissions/undergraduate/first-year/merit-scholarships) |  | Nov 1, 2027 |
 | [Alice B. Good Scholarship](https://infosci.arizona.edu/admissions/scholarships) |  | not listed |
+| [Alpha Omicron Alumni Scholarship](https://www.zbtfoundation.org/available-scholarships) |  | not listed |
 | [Arizona Excellence Award](https://www.arizona.edu/admissions/undergraduate/first-year/merit-scholarships) |  | not listed |
 | [Arizona Tuition Awards](https://financialaid.arizona.edu/policies/merit-deferment) |  | not listed |
 | Betty B Chastain Educational Foundation |  | not listed |

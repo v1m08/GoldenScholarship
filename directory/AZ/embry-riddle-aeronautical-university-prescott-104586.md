@@ -1,6 +1,6 @@
 # Embry-Riddle Aeronautical University-Prescott scholarships
 
-Prescott, AZ · 5 open · 11 with no date listed · 1 closed (not shown)
+Prescott, AZ · 5 open · 13 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/embry-riddle-aeronautical-university-prescott-104586)**
 
@@ -15,6 +15,8 @@ Prescott, AZ · 5 open · 11 with no date listed · 1 closed (not shown)
 | [Air Force Aid Society Scholarships](https://erau.edu/admissions/financial-aid/types-of-aid/military-and-va-benefits/military-scholarships) | $5,000 | not listed |
 | [American Veterans Scholarships](https://erau.edu/admissions/financial-aid/types-of-aid/military-and-va-benefits/military-scholarships) |  | not listed |
 | [Embry‑Riddle Asia Family Grant](https://erau.edu/admissions/financial-aid/types-of-aid/scholarships) | $2,500 | not listed |
+| [Folds of Honor Higher Education (FHHE) Scholarship](https://erau.edu/admissions/financial-aid/types-of-aid/military-and-va-benefits/military-scholarships) |  | not listed |
+| [Freedom Alliance Scholarship](https://erau.edu/admissions/financial-aid/types-of-aid/military-and-va-benefits/military-scholarships) |  | not listed |
 | [Heroes' Legacy Scholarship](https://erau.edu/admissions/financial-aid/types-of-aid/military-and-va-benefits/military-scholarships) |  | not listed |
 | [Legacy Scholarship](https://erau.edu/admissions/financial-aid/types-of-aid/military-and-va-benefits/military-scholarships) |  | not listed |
 | [Military Spouse Scholarships](https://erau.edu/admissions/financial-aid/types-of-aid/military-and-va-benefits/military-scholarships) |  | not listed |

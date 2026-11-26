@@ -1,6 +1,6 @@
 # The University of Findlay scholarships
 
-Findlay, OH · 0 open · 417 with no date listed · 0 closed (not shown)
+Findlay, OH · 0 open · 425 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-findlay-202763)**
 
@@ -9,6 +9,7 @@ Findlay, OH · 0 open · 417 with no date listed · 0 closed (not shown)
 | [Active Christian Emissary (ACE) Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Admiral Edward L. Feightner Leadership Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [AEP Foundation Endowed Scholarship in STEM Education](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
+| [AEP Foundation Findlay Forward Scholarship for EHSS](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Alexandria "Ali" Gokey Memorial Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Allen Clopper Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Allyson Busch '09 Western Equestrian Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
@@ -49,6 +50,8 @@ Findlay, OH · 0 open · 417 with no date listed · 0 closed (not shown)
 | [C. Richard Beckett Pre-Veterinary Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [C.P. Voller Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Caleb T. Clark Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
+| [Carl Meyer '63 Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
+| [Catharine M. Bowen Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Catherine Achord Spanish Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Charles A. Jackson Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Charles H. Spragg Golf Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
@@ -59,6 +62,7 @@ Findlay, OH · 0 open · 417 with no date listed · 0 closed (not shown)
 | [Christian Ministries International Student Operating Scholarship Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Christin Kay "Chrissie" Kausrud Memorial English Equestrian Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Class of 1939 Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
+| [Class of 1942 Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Class of 1943 Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Class of 1944 Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Class of 1959 Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
@@ -72,7 +76,9 @@ Findlay, OH · 0 open · 417 with no date listed · 0 closed (not shown)
 | [Curtain Raisers Society Choral Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Curtain Raisers Society Performing Arts Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Curtain Raisers Society Technical Theatre Production Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
+| [CVS Bilingual Operating Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [CVS Pharmacy Operating Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
+| [CVS Spanish Operating Scholarship Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Cynthia A. Fishbaugh Walker Memorial Operating Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Dale Wilkinson Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Dallas & Cheryl Sterling Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
@@ -89,6 +95,7 @@ Findlay, OH · 0 open · 417 with no date listed · 0 closed (not shown)
 | [Doctor of Education Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Don and Brenda '90 Collins Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Don and Nellie Renninger Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
+| [Don Hanes & Marie Louden-Hanes Track Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Donald C. Higgins Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Donald D. Ewing Men's Basketball Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Donald Knepper Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
@@ -309,6 +316,7 @@ Findlay, OH · 0 open · 417 with no date listed · 0 closed (not shown)
 | [Nathalie J. Osmun Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Nellie Fox Hutson Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Nellie Ritz Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
+| [Nina Smith '09 Scholarship Endowment Fund](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Norma Dirmeyer Bibler Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [Nuclear Medicine Institute Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |
 | [O.J. and Georgia Huffman Scholarship](https://www.findlay.edu/about/give/endowment-list/) |  | not listed |

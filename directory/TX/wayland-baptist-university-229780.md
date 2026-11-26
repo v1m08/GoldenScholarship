@@ -1,6 +1,6 @@
 # Wayland Baptist University scholarships
 
-Plainview, TX · 31 open · 6 with no date listed · 1 closed (not shown)
+Plainview, TX · 31 open · 8 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/wayland-baptist-university-229780)**
 
@@ -38,10 +38,12 @@ Plainview, TX · 31 open · 6 with no date listed · 1 closed (not shown)
 | [Years of Loyalty" Alumni Scholarship](https://wbu.academicworks.com/opportunities/5636) |  | Jan 22, 2027 |
 | [Zaphryn Memorial Scholarship](https://wbu.academicworks.com/opportunities/5791) |  | Jan 22, 2027 |
 | [Blue and Gold Scholarship](https://www.wbu.edu/admissions/financial-aid/scholarships/blue-and-gold.htm) | $1,500–$5,000 | not listed |
+| [Christian Leadership Scholarship](https://www.wbu.edu/admissions/financial-aid/scholarships/index.htm) |  | not listed |
 | [Dean Scholarship](https://www.wbu.edu/admissions/financial-aid/scholarships/academic.htm) |  | not listed |
 | [Honors Program Scholarship](https://www.wbu.edu/admissions/financial-aid/scholarships/academic.htm) |  | not listed |
 | [Law Enforcement and Corrections Scholarship](https://www.wbu.edu/admissions/financial-aid/scholarships/index.htm) |  | not listed |
 | [Ministerial Scholarships](https://www.wbu.edu/admissions/financial-aid/scholarships/ministerial.htm) | $500 | not listed |
 | [Pioneer Scholarship](https://www.wbu.edu/admissions/financial-aid/scholarships/academic.htm) |  | not listed |
+| [President Scholarship](https://www.wbu.edu/admissions/financial-aid/scholarships/academic.htm) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

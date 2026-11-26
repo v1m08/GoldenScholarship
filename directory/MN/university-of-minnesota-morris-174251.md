@@ -1,6 +1,6 @@
 # University of Minnesota-Morris scholarships
 
-Morris, MN · 1 open · 6 with no date listed · 0 closed (not shown)
+Morris, MN · 1 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-minnesota-morris-174251)**
 
@@ -9,6 +9,7 @@ Morris, MN · 1 open · 6 with no date listed · 0 closed (not shown)
 | [Community of Scholars Competitive Scholarships](https://morris.umn.edu/costs-aid/scholarships) |  | Dec 15, 2026 |
 | [Ethel M. Curry American Indian Scholarship](https://onestop.morris.umn.edu/finances/types-financial-aid/scholarships) |  | not listed |
 | [Minnesota Indian Scholarship Program](https://onestop.morris.umn.edu/finances/types-financial-aid/scholarships) |  | not listed |
+| [National Merit Scholarship Timeline](https://morris.umn.edu/costs-aid/scholarships/national-merit-scholarships) | $4,000 | not listed |
 | [National Merit Scholarships](https://morris.umn.edu/costs-aid/scholarships/national-merit-scholarships) | $4,000 | not listed |
 | [Phi Theta Kappa Award](https://morris.umn.edu/costs-aid/scholarships) | $1,500 | not listed |
 | [Prairie Scholars Award](https://morris.umn.edu/costs-aid/scholarships) |  | not listed |

@@ -1,6 +1,6 @@
 # Rockhurst University scholarships
 
-Kansas City, MO · 6 open · 6 with no date listed · 0 closed (not shown)
+Kansas City, MO · 6 open · 9 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/rockhurst-university-179043)**
 
@@ -12,7 +12,10 @@ Kansas City, MO · 6 open · 6 with no date listed · 0 closed (not shown)
 | [Finucane Service Scholarship](https://www.rockhurst.edu/scholarships/finucane-service-scholarship) | $1,500 | Feb 1, 2027 |
 | [Art Scholarship ▼](https://www.rockhurst.edu/scholarships) |  | Oct 1, 2027 |
 | [Hummel Scholarship](https://www.rockhurst.edu/hummelscholarship) |  | Oct 1, 2027 |
+| [English Lakas Scholarship ▼](https://www.rockhurst.edu/scholarships) |  | not listed |
+| [Family Award ▼](https://www.rockhurst.edu/scholarships) |  | not listed |
 | [Music (Vocal Performance) Scholarship▼](https://www.rockhurst.edu/scholarships) |  | not listed |
+| [Nursing Majors Scholarship ▼](https://www.rockhurst.edu/scholarships) |  | not listed |
 | [Phi Theta Kappa Scholarship - Rockhurst University](https://www.rockhurst.edu/admissions/transfer/scholarships-financial-aid) | $30,000 | not listed |
 | [Smart Stem Scholarship Details](https://www.rockhurst.edu/financialaid/smartstem) | $15,000 | not listed |
 | [SMART-STEM Scholarship ▼](https://www.rockhurst.edu/scholarships) | $15,000 | not listed |

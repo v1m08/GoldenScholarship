@@ -1,6 +1,6 @@
 # Stevens Institute of Technology scholarships
 
-Hoboken, NJ · 1 open · 17 with no date listed · 1 closed (not shown)
+Hoboken, NJ · 1 open · 18 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/stevens-institute-of-technology-186867)**
 
@@ -21,6 +21,7 @@ Hoboken, NJ · 1 open · 17 with no date listed · 1 closed (not shown)
 | [Phi Theta Kappa Scholarship](https://www.stevens.edu/page-basic/stevens-scholarships) | $5,000 | not listed |
 | [Presidential Achievement Scholarship](https://www.stevens.edu/page-basic/stevens-scholarships) |  | not listed |
 | [Rhodes Scholarship](https://www.stevens.edu/admission-aid/tuition-financial-aid/nationally-competitive-scholarships-and-fellowships) |  | not listed |
+| [Schwarzman Scholarship](https://www.stevens.edu/admission-aid/tuition-financial-aid/nationally-competitive-scholarships-and-fellowships) |  | not listed |
 | [Stevens Scholarships](https://www.stevens.edu/page-basic/stevens-scholarships) | $2,000 | not listed |
 | [The Ann P. Neupauer Scholarship](https://www.stevens.edu/page-basic/stevens-scholarships) |  | not listed |
 | [Tuition Exchange Scholarship](https://www.stevens.edu/page-basic/stevens-scholarships) |  | not listed |

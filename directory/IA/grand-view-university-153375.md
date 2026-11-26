@@ -1,6 +1,6 @@
 # Grand View University scholarships
 
-Des Moines, IA · 12 open · 28 with no date listed · 0 closed (not shown)
+Des Moines, IA · 12 open · 29 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/grand-view-university-153375)**
 
@@ -39,6 +39,7 @@ Des Moines, IA · 12 open · 28 with no date listed · 0 closed (not shown)
 | [Lutheran Music Scholarship](https://www.grandview.edu/admissions/financial-aid/scholarships-grants) | $1,000 | not listed |
 | [Marsha A. Conboy Shining Star Scholarship](https://www.grandview.edu/admissions/financial-aid/scholarships-grants) | $1,000 | not listed |
 | [Musical Arts Scholarship](https://www.grandview.edu/admissions/financial-aid/scholarships-grants) | $500–$4,000 | not listed |
+| [Narcotics.com Scholarship](https://www.grandview.edu/admissions/financial-aid/scholarships-grants) |  | not listed |
 | [Nursing Honors Scholarship](https://www.grandview.edu/admissions/financial-aid/scholarships-grants) | $5,000 | not listed |
 | [Philip L. Hougen Campus Ministry Scholarship](https://www.grandview.edu/admissions/financial-aid/scholarships-grants) | $500–$1,500 | not listed |
 | [Social Work Honors Scholarship](https://www.grandview.edu/admissions/financial-aid/scholarships-grants) | $5,000 | not listed |

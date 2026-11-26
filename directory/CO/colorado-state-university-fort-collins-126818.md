@@ -1,6 +1,6 @@
 # Colorado State University-Fort Collins scholarships
 
-Fort Collins, CO · 1,818 open · 76 with no date listed · 39 closed (not shown)
+Fort Collins, CO · 1,818 open · 81 with no date listed · 39 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/colorado-state-university-fort-collins-126818)**
 
@@ -1507,6 +1507,6 @@ Fort Collins, CO · 1,818 open · 76 with no date listed · 39 closed (not shown
 | [Robinson Family Scholarship](https://colostate.academicworks.com/opportunities/65543) |  | Mar 1, 2027 |
 | [Rocky Mountain Flycasters Dick and Linda Jefferies Memorial Scholarship](https://colostate.academicworks.com/opportunities/64645) |  | Mar 1, 2027 |
 
-Showing the first 1,500 of 1,894. The rest are in [data/scholarships.csv](../../data/scholarships.csv).
+Showing the first 1,500 of 1,899. The rest are in [data/scholarships.csv](../../data/scholarships.csv).
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

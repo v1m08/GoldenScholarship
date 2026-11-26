@@ -1,6 +1,6 @@
 # George Fox University scholarships
 
-Newberg, OR · 7 open · 8 with no date listed · 0 closed (not shown)
+Newberg, OR · 7 open · 9 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/george-fox-university-208822)**
 
@@ -15,6 +15,7 @@ Newberg, OR · 7 open · 8 with no date listed · 0 closed (not shown)
 | [Honors Program Fellowship Day](https://www.georgefox.edu/college-admissions/scholarships/scholarship-summit/index.html) | $6,000 | Nov 8, 2027 |
 | [Alumni Certificate Scholarship](https://www.georgefox.edu/college-admissions/scholarships/additional-scholarships.html) | $500 | not listed |
 | [Associate-to-Bachelor's Beacon Transfer Scholarship](https://www.georgefox.edu/college-admissions/scholarships/additional-scholarships.html) |  | not listed |
+| [Every department will host interviews during Scholarship Summit](https://www.georgefox.edu/college-admissions/scholarships/scholarship-summit/on-campus-dept-summits.html) | $1,000–$3,000 | not listed |
 | [George Fox Donor-Funded Scholarships](https://www.georgefox.edu/offices/financial-aid/undergrad/grants.html) | $500–$25,000 | not listed |
 | [George Fox Merit Scholarships](https://www.georgefox.edu/offices/financial-aid/undergrad/grants.html) |  | not listed |
 | [George Fox Need Grant](https://www.georgefox.edu/offices/financial-aid/undergrad/grants.html) |  | not listed |

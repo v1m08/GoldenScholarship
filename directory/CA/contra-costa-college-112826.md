@@ -1,11 +1,12 @@
 # Contra Costa College scholarships
 
-San Pablo, CA · 95 open · 0 with no date listed · 3 closed (not shown)
+San Pablo, CA · 96 open · 0 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/contra-costa-college-112826)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Alamo Women's Club Scholarship](https://www.alamowomensclub.org/philanthropy/scholarship) | $5,000 | Jan 27, 2027 |
 | [#cccwheresmycheck Scholarship](https://contracosta.academicworks.com/opportunities/2332) | $1,000 | Mar 2, 2027 |
 | [A-Mark Student Journalism Award](https://contracosta.academicworks.com/opportunities/2451) | $5,000 | Mar 2, 2027 |
 | [African American Leadership Scholarship](https://contracosta.academicworks.com/opportunities/2492) | $1,000 | Mar 2, 2027 |

@@ -1,6 +1,6 @@
 # Youngstown State University scholarships
 
-Youngstown, OH · 10 open · 49 with no date listed · 1 closed (not shown)
+Youngstown, OH · 10 open · 52 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/youngstown-state-university-206695)**
 
@@ -30,6 +30,7 @@ Youngstown, OH · 10 open · 49 with no date listed · 1 closed (not shown)
 | [Eleanor Pershing Dana School of Music Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Esotto and Vera Pellegrini Brass Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Florence Simon Beecher Talent Scholarship](https://academics.ysu.edu/art/scholarships-financial-aid) |  | not listed |
+| [Friends of Music Award](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Gary Friedkin Scholarship for the Dana School of Music](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [George A. Gabler Music Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Gina Tenney Memorial Scholarship](https://academics.ysu.edu/university-theatre/scholarships-financial-aid) |  | not listed |
@@ -40,6 +41,7 @@ Youngstown, OH · 10 open · 49 with no date listed · 1 closed (not shown)
 | [J. Paul Good Family Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Joseph Edwards Memorial Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Katherine McDowell Wilson Music Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
+| [Larue R. Boals Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Lena M. Ferrara Memorial Scholarship](https://academics.ysu.edu/university-theatre/scholarships-financial-aid) |  | not listed |
 | [Mary Carroll Hartwig Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Michael Abrams Memorial Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
@@ -57,6 +59,7 @@ Youngstown, OH · 10 open · 49 with no date listed · 1 closed (not shown)
 | [Robert W. Michael Dana School of Music Guitar Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Roger and Gloria Jones Scholarship in Fine Arts](https://academics.ysu.edu/cliffe-college-of-creative-arts/cliffe-college-scholarships-awards) |  | not listed |
 | [Ronald Barnes and Emily Parker Mackall Scholarship](https://ysu.edu/academics/williamson-college-business-administration/scholarships) |  | not listed |
+| [Rose and Joseph Dusi, Sr. Memorial Scholarship Fund](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Rudy and Wealthie Prince Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Senator Harry Meshel Scholarship](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |
 | [Senator Harry Meshel Scholarship in Jazz](https://academics.ysu.edu/dana-school-of-music/scholarships-financial-aid) |  | not listed |

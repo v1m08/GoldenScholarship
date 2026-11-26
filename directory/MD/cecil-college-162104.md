@@ -1,6 +1,6 @@
 # Cecil College scholarships
 
-North East, MD · 157 open · 0 with no date listed · 4 closed (not shown)
+North East, MD · 158 open · 0 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/cecil-college-162104)**
 
@@ -13,6 +13,7 @@ North East, MD · 157 open · 0 with no date listed · 4 closed (not shown)
 | [Alpha Alpha Theta Scholarship](https://cecil.academicworks.com/opportunities/5277) |  | Apr 30, 2027 |
 | [American Legion Auxiliary Mason-Dixon Unit 194 Scholarship](https://cecil.academicworks.com/opportunities/5192) |  | Apr 30, 2027 |
 | [American Legion Post #194 Scholarship](https://cecil.academicworks.com/opportunities/5364) |  | Apr 30, 2027 |
+| [Amy Smythe Scholarship](https://cecil.academicworks.com/opportunities/5209) | $2,000 | Apr 30, 2027 |
 | [Ann Nickle Memorial Nursing Scholarship](https://cecil.academicworks.com/opportunities/5146) |  | Apr 30, 2027 |
 | [APGFCU Scholarship](https://cecil.academicworks.com/opportunities/5163) |  | Apr 30, 2027 |
 | [APO Scholarship](https://cecil.academicworks.com/opportunities/5360) |  | Apr 30, 2027 |

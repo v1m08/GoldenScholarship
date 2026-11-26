@@ -1,6 +1,6 @@
 # Allegany College of Maryland scholarships
 
-Cumberland, MD · 341 open · 56 with no date listed · 41 closed (not shown)
+Cumberland, MD · 342 open · 56 with no date listed · 41 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/allegany-college-of-maryland-161688)**
 
@@ -152,6 +152,7 @@ Cumberland, MD · 341 open · 56 with no date listed · 41 closed (not shown)
 | [Zembower - Droze G. and Margaret Hott Zembower](https://allegany.academicworks.com/opportunities/14948) | $2,000 | Mar 31, 2027 |
 | [Bartlett - Roscoe G. Bartlett Scientific](https://allegany.academicworks.com/opportunities/257) | $500 | Apr 1, 2027 |
 | [McGowan - John F. McGowan Criminal Justice](https://allegany.academicworks.com/opportunities/164) | $500 | Apr 1, 2027 |
+| [Fulton County Scholarship](https://www.allegany.edu/bedford-county-campus-scholarships/fulton-county-scholarship.html) | $500 | Apr 15, 2027 |
 | [Afton - Dennis and Gretta Afton](https://allegany.academicworks.com/opportunities/15239) | $1,000 | Apr 30, 2027 |
 | [Allegany Acappella Harmony/Chorus of the Potomac, Allegany County Chapter, Barbershop Harmony Society (Fall 2027)](https://allegany.academicworks.com/opportunities/14787) | $250 | Apr 30, 2027 |
 | [Allegany College of Maryland Cumberland Campus Student Government Association](https://allegany.academicworks.com/opportunities/14892) | $600 | Apr 30, 2027 |

@@ -1,6 +1,6 @@
 # William & Mary scholarships
 
-Williamsburg, VA · 3 open · 21 with no date listed · 0 closed (not shown)
+Williamsburg, VA · 3 open · 24 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/william-and-mary-231624)**
 
@@ -15,10 +15,13 @@ Williamsburg, VA · 3 open · 21 with no date listed · 0 closed (not shown)
 | [Aurelia Behm Walford Scholarship in Classical Music](https://www.wm.edu/as/music/students/scholarships/) |  | not listed |
 | [Carmelita K. Williams VSRA Scholarship](https://education.wm.edu/admissions/financialaid/other/carmelitawilliams/) |  | not listed |
 | [Charles P. Varner Scholarship](https://www.wm.edu/as/music/students/scholarships/) |  | not listed |
+| [Conference Travel Grant](https://www.wm.edu/as/monroescholars/conference-travel-grant/) |  | not listed |
 | [Elizabeth P. Tillery Music Scholarship](https://www.wm.edu/as/music/students/scholarships/) | $1,000 | not listed |
 | [Gene A. Burns and Mary Alexander Burns Music Scholarship](https://www.wm.edu/as/music/students/scholarships/) |  | not listed |
+| [Hulon Willis Scholarship](https://www.wm.edu/admission/financialaid/types/scholarships/department-awards/) | $2,000 | not listed |
 | [James Monroe Scholars Program](https://www.wm.edu/admission/financialaid/types/scholarships/merit/) | $1,500–$4,000 | not listed |
 | [Law School Scholarships](https://law.wm.edu/admissions/jdprograms/cost/scholarships/) |  | not listed |
+| [Naval ROTC Scholarships](https://www.wm.edu/as/naval-rotc/) | $250–$400 | not listed |
 | [Phi Kappa Tau Memorial Scholarship](https://www.wm.edu/as/music/students/scholarships/) |  | not listed |
 | [Provost Scholar Awards](https://www.wm.edu/admission/financialaid/types/scholarships/merit/) | $10,000 | not listed |
 | [ROTC Scholarships](https://www.wm.edu/admission/financialaid/types/scholarships/) | $300 | not listed |

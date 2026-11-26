@@ -1,6 +1,6 @@
 # St Catherine University scholarships
 
-Saint Paul, MN · 1 open · 8 with no date listed · 0 closed (not shown)
+Saint Paul, MN · 1 open · 9 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/st-catherine-university-175005)**
 
@@ -13,6 +13,7 @@ Saint Paul, MN · 1 open · 8 with no date listed · 0 closed (not shown)
 | [ELS Scholarship](https://www.stkate.edu/admission-and-aid/international-students/scholarships) |  | not listed |
 | [Katie Housing Scholarship](https://www.stkate.edu/admission-and-aid/international-students/scholarships) | $6,400 | not listed |
 | [Legacy Scholarships](https://www.stkate.edu/admission-and-aid/cfw/scholarships) |  | not listed |
+| [Out-of-State Student Scholarships](https://www.stkate.edu/admission-and-aid/cfw/scholarships) |  | not listed |
 | [St. Catherine Scholarships for National Merit and National Hispanic Scholars](https://www.stkate.edu/admission-and-aid/cfw/scholarships) | $2,000 | not listed |
 | [Venture Scholarship](https://www.stkate.edu/admission-and-aid/cfw/scholarships) | $5,000 | not listed |
 

@@ -1,6 +1,6 @@
 # Lincoln University scholarships
 
-Jefferson City, MO · 1 open · 21 with no date listed · 0 closed (not shown)
+Jefferson City, MO · 1 open · 22 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/lincoln-university-177940)**
 
@@ -12,6 +12,7 @@ Jefferson City, MO · 1 open · 21 with no date listed · 0 closed (not shown)
 | [Blue Tiger Advantage Scholarship](https://www.lincolnu.edu/admissions/financial-aid/types-of-aid/scholarships1.html) | $500–$3,250 | not listed |
 | [Blue Tiger Advantage Transfer Scholarship](https://www.lincolnu.edu/admissions/financial-aid/types-of-aid/scholarships1.html) | $500–$1,500 | not listed |
 | [Chairish Scholarship](https://www.lincolnu.edu/about-lincoln/advancement/scholarships.html) | $5,000 | not listed |
+| [Congressional Black Caucus Foundation's scholarship](https://www.lincolnu.edu/about-lincoln/advancement/scholarships.html) |  | not listed |
 | [Dr. Don W. Cook and Mrs. Wilma R. Cook Annual Scholarship](https://www.lincolnu.edu/about-lincoln/advancement/scholarships.html) |  | not listed |
 | [Dr. John and Frankie Jackson Scholarship](https://www.lincolnu.edu/about-lincoln/advancement/scholarships.html) |  | not listed |
 | [Dr. Queen F. Randall Annual Scholarship](https://www.lincolnu.edu/about-lincoln/advancement/scholarships.html) |  | not listed |

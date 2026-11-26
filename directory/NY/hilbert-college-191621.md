@@ -1,6 +1,6 @@
 # Hilbert College scholarships
 
-Hamburg, NY · 2 open · 57 with no date listed · 0 closed (not shown)
+Hamburg, NY · 2 open · 61 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/hilbert-college-191621)**
 
@@ -21,6 +21,7 @@ Hamburg, NY · 2 open · 57 with no date listed · 0 closed (not shown)
 | [Doris and Robert Drago Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Dr. and Mrs. Robert Pantera Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Edmund and Edna Paczesny Family Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
+| [Edward J.P. Drabczyk Memorial Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Elizabeth Prezyna Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Enactus (formerly SIFE) Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [First Niagara Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
@@ -41,12 +42,15 @@ Hamburg, NY · 2 open · 57 with no date listed · 0 closed (not shown)
 | [Jocelyn R. Hughes Academic Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Jocelyn R. Hughes Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [John F. Kissel Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
+| [John W. Kissel Leadership Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Joseph and Lottie Walas Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Josephine Goodyear Foundation Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Key Bank Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
+| [KeyBank Adult Women Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Lambert and Margaret Graham Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Lawley Family Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Leanne, Ronnie, Joseph and Larissa Manzi Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
+| [M & T Leadership Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Magdeline and John Hayman Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Mary Falletta and Michael Graci Memorial Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |
 | [Meghan Sorbera Scholarship](https://www.hilbert.edu/admissions-aid/cost-aid/financial-aid-scholarships/types-of-aid/campus-based-scholarships-grants/) |  | not listed |

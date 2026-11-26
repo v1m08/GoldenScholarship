@@ -1,6 +1,6 @@
 # University of Wisconsin-Madison scholarships
 
-Madison, WI · 428 open · 65 with no date listed · 501 closed (not shown)
+Madison, WI · 429 open · 67 with no date listed · 501 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-wisconsin-madison-240444)**
 
@@ -434,6 +434,7 @@ Madison, WI · 428 open · 65 with no date listed · 501 closed (not shown)
 | [Continuing Education (CE) Grant](https://specialstudents.wisc.edu/ce-grant/) | $500 | Jul 1, 2027 |
 | [Wisconsin School of Business BBA Scholarships - Direct Admit & Pre-Business Freshmen](https://wisc.academicworks.com/opportunities/113029) |  | Aug 1, 2027 |
 | [Senior Thesis Professional Development Scholarship](https://humanecology.wisc.edu/academics/scholarships/) | $500 | Oct 15, 2027 |
+| [WiSC Scholars Travel Grant](https://intlscholars.wisc.edu/travel-grant-application/) | $6,000 | Oct 15, 2027 |
 | [Abe Sigman Scholarship](https://wisc.academicworks.com/opportunities/110929) |  | not listed |
 | [Achievement awards to recognize excellence in scholarship](https://cjs.wisc.edu/achievement-awards/) |  | not listed |
 | [Alex Temkin Scholarship](https://wisc.academicworks.com/opportunities/110439) |  | not listed |
@@ -441,6 +442,7 @@ Madison, WI · 428 open · 65 with no date listed · 501 closed (not shown)
 | [Angela and Jeffrey Bartell Scholarship](https://wisc.academicworks.com/opportunities/110473) |  | not listed |
 | [Bette Salmon Scholarship](https://wisc.academicworks.com/opportunities/109311) |  | not listed |
 | [Bruce and Cynthia Scott Scholarship](https://wisc.academicworks.com/opportunities/114617) |  | not listed |
+| [Byron Riesch Paralysis Foundation Scholarships](https://mcburney.wisc.edu/student-resources/scholarships/) |  | not listed |
 | [Career & Leadership Development Scholarship](https://humanecology.wisc.edu/academics/scholarships/) | $1,000 | not listed |
 | [Christian J. Otjen Scholarship](https://wisc.academicworks.com/opportunities/109739) |  | not listed |
 | [Clarence R. Hicks Scholarship](https://wisc.academicworks.com/opportunities/110603) |  | not listed |
@@ -474,6 +476,7 @@ Madison, WI · 428 open · 65 with no date listed · 501 closed (not shown)
 | [Martha Helen and Walker George Dollmeyer Scholarship](https://wisc.academicworks.com/opportunities/110960) |  | not listed |
 | [Mary and Edward W. Reisner Scholarship](https://wisc.academicworks.com/opportunities/109789) |  | not listed |
 | [McBurney Center Scholarships](https://mcburney.wisc.edu/student-resources/scholarships/) |  | not listed |
+| [Mesothelioma.com Scholarship](https://mcburney.wisc.edu/student-resources/scholarships/) |  | not listed |
 | [Michael J. Cleary Scholarship](https://wisc.academicworks.com/opportunities/109297) |  | not listed |
 | [Nelson Institute Scholarships](https://nelson.wisc.edu/undergraduate/scholarships/) |  | not listed |
 | [Ouisconsin Field Research Scholarship - Waa France Chapter](https://frit.wisc.edu/ouisconsin-scholarship/) | $3,000 | not listed |

@@ -1,6 +1,6 @@
 # University of Cincinnati-Main Campus scholarships
 
-Cincinnati, OH · 19 open · 30 with no date listed · 0 closed (not shown)
+Cincinnati, OH · 19 open · 32 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-cincinnati-main-campus-201885)**
 
@@ -48,10 +48,12 @@ Cincinnati, OH · 19 open · 30 with no date listed · 0 closed (not shown)
 | [Rieveschl/Parke-Davis Meritorious Manuscript Award](https://www.pharmacy.uc.edu/admissions/scholarships-aid.html) |  | not listed |
 | [Ritschel Doctoral Fellowship](https://www.pharmacy.uc.edu/admissions/scholarships-aid.html) |  | not listed |
 | [Sinclair Bearcats Fast Track Scholarship](https://www.admissions.uc.edu/tuition-aid/scholarships/transfer.html) | $2,500 | not listed |
+| [Sinclair Pathways Scholarships](https://www.uc.edu/about/financial-aid/aid/scholarships/scholars/transfer.html) | $2,500 | not listed |
 | [Stanley M. Chesley and Hon. Susan J. Dlott Scholarship](https://www.law.uc.edu/tuition-fees/scholarships.html) |  | not listed |
 | [Steinmann Scholarship](https://www.pharmacy.uc.edu/admissions/scholarships-aid.html) | $5,000 | not listed |
 | [UC Blue Ash & UC Clermont Transition Scholarships](https://www.uc.edu/about/financial-aid/aid/scholarships/scholars/transfer.html) | $2,500 | not listed |
 | [UC Community College Transfer Scholarship](https://www.admissions.uc.edu/tuition-aid/scholarships/transfer.html) | $2,500 | not listed |
+| [UC Community College Transfer Scholarship s](https://www.uc.edu/about/financial-aid/aid/scholarships/scholars/transfer.html) | $2,500 | not listed |
 | [UC Regional to Clifton Transition Scholarship](https://www.uc.edu/campus-life/transition-advising/regional-uptown-transition.html) |  | not listed |
 | [UC Regional to Clifton Transition Scholarship and UC Transition Access Award](https://www.uc.edu/campus-life/transition-advising/regional-uptown-transition.html) |  | not listed |
 | [Wilfred S. Pahner Endowed Scholarship](https://www.pharmacy.uc.edu/admissions/scholarships-aid.html) | $2,000 | not listed |

@@ -1,12 +1,13 @@
 # United Lutheran Seminary scholarships
 
-Gettysburg, PA · 0 open · 3 with no date listed · 0 closed (not shown)
+Gettysburg, PA · 0 open · 4 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/united-lutheran-seminary-213631)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Affiliate Student Scholarships](https://www.unitedlutheranseminary.edu/admissions/financial-aid) |  | not listed |
+| [Faculty/Staff Tuition Scholarships](https://www.unitedlutheranseminary.edu/admissions/financial-aid) |  | not listed |
 | [ULS Housing Scholarships](https://www.unitedlutheranseminary.edu/admissions/financial-aid) |  | not listed |
 | [ULS Tuition Scholarships](https://www.unitedlutheranseminary.edu/admissions/financial-aid) |  | not listed |
 

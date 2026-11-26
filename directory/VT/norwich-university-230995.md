@@ -1,12 +1,15 @@
 # Norwich University scholarships
 
-Northfield, VT · 4 open · 39 with no date listed · 0 closed (not shown)
+Northfield, VT · 7 open · 39 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/norwich-university-230995)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Air Force and Space Force (AFROTC) Scholarships](https://home.norwich.edu/on/corps-cadets/rotc/air-force-and-space-force/scholarships) |  | Dec 1, 2026 |
 | [Take the Lead Scholarship ($8,000)](https://home.norwich.edu/on/admissions-aid/scholarships-awards-military-benefits) | $8,000 | Dec 31, 2026 |
+| [Walter Byers Graduate Scholarship](https://home.norwich.edu/on/admissions-aid/scholarships-awards-military-benefits) | $24,000 | Jan 10, 2027 |
+| [Ethnic Minority and Women's Enhancement Graduate Scholarship](https://home.norwich.edu/on/admissions-aid/scholarships-awards-military-benefits) | $10,000 | Feb 3, 2027 |
 | [Tylenol Future Care Scholarship](https://home.norwich.edu/on/admissions-aid/scholarships-awards-military-benefits) | $10,000 | Jun 27, 2027 |
 | [Sallie Mae Completing the Dream Scholarship](https://home.norwich.edu/on/admissions-aid/scholarships-awards-military-benefits) | $2,500 | Jul 17, 2027 |
 | [Education Matters Scholarship by Unigo](https://home.norwich.edu/on/admissions-aid/scholarships-awards-military-benefits) | $5,000 | Nov 3, 2027 |

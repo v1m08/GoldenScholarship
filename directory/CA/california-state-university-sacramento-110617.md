@@ -1,6 +1,6 @@
 # California State University-Sacramento scholarships
 
-Sacramento, CA · 698 open · 2 with no date listed · 53 closed (not shown)
+Sacramento, CA · 698 open · 3 with no date listed · 53 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/california-state-university-sacramento-110617)**
 
@@ -706,5 +706,6 @@ Sacramento, CA · 698 open · 2 with no date listed · 53 closed (not shown)
 | [Yocha Dehe Wintun Nation Native American Studies Scholarship](https://csus.academicworks.com/opportunities/21119) | $2,000–$10,000 | Mar 2, 2027 |
 | [(closed) Geography Department Study Abroad Scholarship](https://csus.academicworks.com/opportunities/3526) | $500 | not listed |
 | [Fostering Success Scholarship](https://csus.academicworks.com/opportunities/22521) |  | not listed |
+| [The Mark McCollum "Ride On" Scholarship](https://www.sacregcf.org/students/) | $1,000–$2,000 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

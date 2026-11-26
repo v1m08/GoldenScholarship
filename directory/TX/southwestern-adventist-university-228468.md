@@ -1,6 +1,6 @@
 # Southwestern Adventist University scholarships
 
-Keene, TX · 1 open · 17 with no date listed · 0 closed (not shown)
+Keene, TX · 1 open · 18 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/southwestern-adventist-university-228468)**
 
@@ -16,6 +16,7 @@ Keene, TX · 1 open · 17 with no date listed · 0 closed (not shown)
 | [John and Remy Cabansag Scholarship](https://swau.edu/give/stories-of-scholarships/john-remy-r-cabansag-scholarship/) |  | not listed |
 | [Lessie Culpepper Hagen Scholarship](https://swau.edu/give/stories-of-scholarships/lessie-culpepper-hagen-scholarship/) |  | not listed |
 | [Norma Bartolome Scholarship](https://swau.edu/give/stories-of-scholarships/norma-p-bartolome-scholarship/) |  | not listed |
+| [Norma P Bartolome Scholarship](https://swau.edu/give/stories-of-scholarships/norma-p-bartolome-scholarship/) |  | not listed |
 | [Paul L. and Dorothea Wilson Scholarship](https://swau.edu/give/stories-of-scholarships/paul-l-dorothea-wilson-scholarship/) |  | not listed |
 | [Sheree Parris Nudd Communication Scholarship](https://swau.edu/give/stories-of-scholarships/sheree-parris-nudd-communication/) |  | not listed |
 | [Southwestern Union Educational Endowment Scholarship](https://catalog.swau.edu/southwestern-union-educational-endowment-scholarship) | $300–$1,000 | not listed |

@@ -1,6 +1,6 @@
 # Campbellsville University scholarships
 
-Campbellsville, KY · 7 open · 15 with no date listed · 0 closed (not shown)
+Campbellsville, KY · 7 open · 17 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/campbellsville-university-156365)**
 
@@ -24,9 +24,11 @@ Campbellsville, KY · 7 open · 15 with no date listed · 0 closed (not shown)
 | [Green River Ministries Homeless Shelter Scholarship](https://www.campbellsville.edu/admission-and-aid/scholarships-and-grants/index.html) |  | not listed |
 | [Howell Environmental Science Scholarship](https://www.campbellsville.edu/admission-and-aid/scholarships-and-grants/howell-environmental-science-scholarship.html) | $1,000 | not listed |
 | [Kentucky Baptist Scholarship](https://www.campbellsville.edu/admission-and-aid/scholarships-and-grants/index.html) | $1,000 | not listed |
+| [Kentucky Tuition Grant (KTG)](https://www.campbellsville.edu/admission-and-aid/financial-aid/index.html) | $3,300 | not listed |
 | [Missionary Kids Scholarship](https://www.campbellsville.edu/admission-and-aid/scholarships-and-grants/index.html) |  | not listed |
 | [PoolTeacher Scholarship](https://www.campbellsville.edu/admission-and-aid/scholarships-and-grants/index.html) |  | not listed |
 | [Presidential Scholarship](https://www.campbellsville.edu/admission-and-aid/scholarships-and-grants/index.html) |  | not listed |
+| [Supplemental Educational Opportunity Grant (SEOG)](https://www.campbellsville.edu/admission-and-aid/financial-aid/index.html) |  | not listed |
 | [Valedictorian Scholarship](https://www.campbellsville.edu/admission-and-aid/scholarships-and-grants/index.html) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

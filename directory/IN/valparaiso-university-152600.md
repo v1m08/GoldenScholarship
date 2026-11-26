@@ -1,6 +1,6 @@
 # Valparaiso University scholarships
 
-Valparaiso, IN · 5 open · 31 with no date listed · 1 closed (not shown)
+Valparaiso, IN · 5 open · 34 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/valparaiso-university-152600)**
 
@@ -11,6 +11,7 @@ Valparaiso, IN · 5 open · 31 with no date listed · 1 closed (not shown)
 | [Rotary District 6540 Study Abroad Summer Scholarship](https://www.valpo.edu/academics/study-abroad/financial-planning/scholarships/) |  | Feb 15, 2027 |
 | [Multicultural Scholarships](https://www.valpo.edu/aid/scholarships/program-based/multicultural/) | $1,000 | Apr 10, 2027 |
 | [OMP Scholarships](https://www.valpo.edu/aid/scholarships/program-based/multicultural/) | $1,000 | Apr 10, 2027 |
+| [Alumni Heritage Scholarship](https://www.valpo.edu/aid/scholarships/other/) | $1,000 | not listed |
 | [Alumni Heritage Scholarship - Valpo](https://www.valpo.edu/aid/scholarships/other/) | $1,000 | not listed |
 | [Alumni Heritage Scholarship or Legacy Award](https://www.valpo.edu/aid/scholarships/other/) | $3,500 | not listed |
 | [Ament-Brenner Scholarship](https://www.valpo.edu/aid/scholarships/lutheran-christian/) | $7,000 | not listed |
@@ -30,8 +31,10 @@ Valparaiso, IN · 5 open · 31 with no date listed · 1 closed (not shown)
 | [Global Ambassadors Scholarship](https://www.valpo.edu/academics/study-abroad/financial-planning/scholarships/) | $500 | not listed |
 | [Global Scholarships](https://www.valpo.edu/academics/study-abroad/financial-planning/scholarships/) | $2,000 | not listed |
 | [Ivy-Beacon Award](https://www.valpo.edu/aid/scholarships/transfer-student/) |  | not listed |
+| [Legacy Award](https://www.valpo.edu/aid/scholarships/other/) |  | not listed |
 | [Lilly Community Foundation Scholarships](https://www.valpo.edu/aid/scholarships/other/) | $900 | not listed |
 | [Lutheran and Other Christian Affiliated Scholarships](https://www.valpo.edu/aid/scholarships/lutheran-christian/) | $7,000 | not listed |
+| [Music Scholarships](https://www.valpo.edu/college-of-arts-and-sciences/music/admission/scholarships/) | $9,000 | not listed |
 | [Music Scholarships at Valpo](https://www.valpo.edu/college-of-arts-and-sciences/music/admission/scholarships/) |  | not listed |
 | [Signature Artist Scholarships](https://www.valpo.edu/college-of-arts-and-sciences/music/admission/scholarships/) | $10,000 | not listed |
 | [Tortuga Backpacks Scholarship](https://www.valpo.edu/academics/study-abroad/financial-planning/scholarships/) | $1,000 | not listed |

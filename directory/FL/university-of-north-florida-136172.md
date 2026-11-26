@@ -1,6 +1,6 @@
 # University of North Florida scholarships
 
-Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
+Jacksonville, FL · 2 open · 489 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-north-florida-136172)**
 
@@ -45,8 +45,11 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Bank of America Take Stock in Children Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Baptist Health Fellowship Endowment](https://www.unf.edu/brooks/scholarships/baptist-health-fellowship.html) |  | not listed |
 | [Baptist Medical Center Auxiliary - Jacksonville Scholarship](https://www.unf.edu/brooks/scholarships/baptist-medical-center.html) |  | not listed |
+| [Baptist Medical Center Nassau Auxiliary Scholarship](https://www.unf.edu/brooks/scholarships/baptist-medical-center-nassau.html) |  | not listed |
 | [Barbara Anne Wade Endowed Scholarship](https://www.unf.edu/silverfield/scholarships/list/barbara-anne-wade-endowed-scholarship.html) |  | not listed |
 | [BCH Health Investors Scholarship](https://www.unf.edu/brooks/scholarships/bch-heatlh-investors.html) |  | not listed |
+| [Betty Bair Lawson Endowed Physical Therapy Fellowship](https://www.unf.edu/brooks/scholarships/lawson-endowed-physical-therapy.html) |  | not listed |
+| [Betty Bogue Ramsey Salter Physical Therapy Endowed Graduate Fellowship](https://www.unf.edu/brooks/scholarships/ramsey-salter--physical-therapy.html) |  | not listed |
 | [Betty L Donahue and Lonette D Seaton Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Betty Lawson Endowed Physical Therapy Fellowship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Bill and Yvonne Herrold Endowed Scholarship](https://www.unf.edu/silverfield/scholarships/list/bill-yvonne-herrold-endowed-scholarship.html) |  | not listed |
@@ -81,6 +84,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Corinne Hodak Nursing Scholarship](https://www.unf.edu/brooks/scholarships/corinne-hodak-nursing.html) |  | not listed |
 | [Creative Writing Scholarship](https://www.unf.edu/coas/scholarships/creative-writing.html) |  | not listed |
 | [Crew Jacksonville Commercial Construction Scholarship](https://www.unf.edu/ccec/scholarships/crew-jacksonville.html) | $1,500 | not listed |
+| [Crowley Center For Transportation and Logistics Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Crowther Mann Boyd and Ida Broward Boyd Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Crucial Care Golden Stethoscope Nursing Scholarship](https://www.unf.edu/brooks/scholarships/crucial-care.html) |  | not listed |
 | [Cummer Family Foundation Environmental Leadership Scholarship](https://www.unf.edu/asa/scholarships/undergraduate/cummer-environmental-leadership.html) |  | not listed |
@@ -122,6 +126,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Dr. Edna L. Saffy Library Scholarship](https://www.unf.edu/asa/scholarships/undergraduate/dr-saffy-library-scholarship.html) |  | not listed |
 | [Dr. Howard and Muriel Rose Nutrition and Dietetics Doctoral Endowed Fellowship](https://www.unf.edu/brooks/scholarships/nutrition-dietetic-doctoral-endowed.html) |  | not listed |
 | [Dr. James Sorce Construction Management Scholarship](https://www.unf.edu/ccec/scholarships/dr-james-sorce-construction-management.html) | $1,500 | not listed |
+| [Dr. Kirsten Calleja Salerno Mental Graduate Fellowship for Mental Health Counseling and Research](https://www.unf.edu/brooks/scholarships/salerno-mental-health.html) |  | not listed |
 | [Dr. Marsha Lupi TLO International Travel Award](https://www.unf.edu/silverfield/scholarships/list/lupi-international-travel-scholarship.html) |  | not listed |
 | [Dr. Mauricio Gonzalez Scholarship in Art and Design](https://www.unf.edu/coas/scholarships/Dr-Mauricio-Gonzalez-Scholarship-in-Art-and-Design.html) |  | not listed |
 | [Dr. Nuria Ibanez Quintana Study Abroad Scholarship](https://www.unf.edu/coas/scholarships/Dr-Nuria-Ibanez-Quintana-Study-Abroad-Scholarship.html) |  | not listed |
@@ -129,6 +134,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Dr. Scott Brown Art History Scholarship](https://www.unf.edu/coas/scholarships/) |  | not listed |
 | [Dr. Terri Stahlman Endowed Fellowship](https://www.unf.edu/silverfield/scholarships/list/stahlman-scholarship.html) |  | not listed |
 | [Dream Finders Homes Scholarship](https://www.unf.edu/ccec/scholarships/DreamFindersHomes.html) | $2,000 | not listed |
+| [DuBow Family Foundation Graduate Fellowship](https://www.unf.edu/brooks/scholarships/dubow-family-foundation.html) |  | not listed |
 | [Dupuy Silo Facility Annual Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Dusty Rhodes Endowed Baseball Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Dutton Schilling Scholarship](https://www.unf.edu/asa/scholarships/undergraduate/dutton-schilling.html) |  | not listed |
@@ -182,6 +188,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Geddes Enterprises/Dav-Lin/Chancey Metals Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [George H. Dorion First Generation Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [George W. Rainbolt Art and Design Scholarship](https://www.unf.edu/coas/scholarships/George-W-Rainbolt-Art-and-Design-Scholarship.html) |  | not listed |
+| [George W. Rainbolt French Study Abroad TLO](https://www.unf.edu/coas/scholarships/george-w-rainbolt-french-study-abroad-tlo.html) |  | not listed |
 | [Gerald F. Hurst Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Gerri and John Hayt Endowed Athletic Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Giordano Family Construction Scholarship](https://www.unf.edu/ccec/scholarships/giordano-family-construction.html) | $1,500 | not listed |
@@ -199,6 +206,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Harry and Eunice Brock Scholarship](https://www.unf.edu/coas/scholarships/harry-and-eunice-brock.html) |  | not listed |
 | [Harry Rothschild Outstanding Student-Athlete Endowed Scholarship & Award](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Haskell Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
+| [Health Administration Advisory Board Scholarship](https://www.unf.edu/brooks/scholarships/health-admin-advisory-board.html) |  | not listed |
 | [Hellen Martin Teacher Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [HELP NE FL E Week Scholarship](https://www.unf.edu/ccec/scholarships/help-ne-fl-e-week.html) | $1,000 | not listed |
 | [Hicks Honors College Fellows Award](https://www.unf.edu/hicks/scholarships.html) |  | not listed |
@@ -243,6 +251,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Jim Sabo Memorial Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Joan Amery Van Vleck Fellowship for Coastal Biology](https://www.unf.edu/coas/scholarships/joan-amery-van-vleck-fellowship.html) |  | not listed |
 | [Jody & Layton Smith Endowed Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
+| [John Barrett Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [John Hutcheson Memorial Printmaking Scholarship](https://www.unf.edu/coas/scholarships/john-hutcheson-memorial-printmaking.html) |  | not listed |
 | [John J. Allen 1+1=3 or more Endowed Scholarship](https://www.unf.edu/coas/scholarships/John-j-allen-endowed.html) |  | not listed |
 | [John, Nina, Jon, Brooke and Benjamin Soileau Endowed Athletic Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
@@ -255,6 +264,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [JT Townsend Scholarship](https://www.unf.edu/silverfield/scholarships/list/jt-townsend.html) |  | not listed |
 | [Judith Rodriguez Nutrition & Dietetics Endowed Scholarship](https://www.unf.edu/brooks/scholarships/judith-rodriguez-nutrition-dietetics-endowed.html) |  | not listed |
 | [Judy and Saul Eisen Study Abroad Scholarship](https://www.unf.edu/coas/scholarships/judy-and-saul-eisen-study-abroad.html) |  | not listed |
+| [Julie Locquaio Memorial Nursing Scholarship](https://www.unf.edu/brooks/scholarships/locquaio-memorial-nursing.html) |  | not listed |
 | [Kameron Witt Memorial Scholarship](https://www.unf.edu/ccec/scholarships/KameronWitt-Edward-Witt.html) | $1,500 | not listed |
 | [Katharine H. Lovett Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Katherine M. Kasten Scholarship/Fellowship](https://www.unf.edu/silverfield/scholarships/list/katherine-kasten.html) |  | not listed |
@@ -294,6 +304,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Marianne B. and Lehman W. Barnes Endowed Scholarship/Fellowship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Marietta Sand Corporation Scholarship](https://www.unf.edu/ccec/scholarships/marietta-sand-corporation.html) | $2,500 | not listed |
 | [Marine Corporal Joshua C. Watkins Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
+| [Marjorie Dean Olin Perkison and Wilber Gerald Perkison Endowed Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Mark and Eryn Dawkins Endowed Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Mark K. Wallace CSX Transportation & Logistics Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Marnie Jones Scholarship](https://www.unf.edu/hicks/scholarships.html) |  | not listed |
@@ -302,6 +313,8 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Matthews Design Group Engineering Scholarship](https://www.unf.edu/ccec/scholarships/matthews-design-group-engineering.html) | $2,500 | not listed |
 | [Meal Plan Scholarships for Nesting Place Students](https://www.unf.edu/asa/scholarships/undergraduate/meal-plan-scholarships-for-nesting-place-students.html) |  | not listed |
 | [Memorial Hospital Jacksonville Auxiliary Endowed Scholarship](https://www.unf.edu/brooks/scholarships/memorial-hospital-jacksonville-auxiliary.html) |  | not listed |
+| [Memorial Hospital Nursing Scholarship](https://www.unf.edu/brooks/scholarships/memorial-hospital-nursing.html) |  | not listed |
+| [Mental Health Graduate Nursing Fellowship](https://www.unf.edu/brooks/scholarships/mental-health-graduate.html) |  | not listed |
 | [Michael Andreu Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Mike and Shannon Italia Community Service Endowed Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Mike Gibbs Memorial Endowed Soccer Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
@@ -316,12 +329,17 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [National Defense Transportation Association Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [NE Florida Chapter of the Florida Engineering Society "Charles Bennett Scholar" Scholarship](https://www.unf.edu/ccec/scholarships/fes-cb.html) | $1,000 | not listed |
 | [NE Florida Chapter of the Florida Engineering Society "FES Scholar" Scholarship](https://www.unf.edu/ccec/scholarships/fes-scholar-ne-florida-chapter.html) | $1,500 | not listed |
+| [NE Florida Engineers Week Committee Scholarship](https://www.unf.edu/ccec/scholarships/ne-florida-engineers-week.html) | $2,500 | not listed |
 | [Nicki Leach Foundation Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Nina Waters Nonprofit Leadership Scholarship](https://www.unf.edu/coas/scholarships/nina-waters-nonprofit-leadership.html) |  | not listed |
 | [Nneka Z. Umunna American Dream Scholarship](https://www.unf.edu/coas/scholarships/nneka-z-umunna-american-dream.html) |  | not listed |
 | [Northeast Florida Chapter of Florida Engineering Society Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Northeast Florida MGMA Health Administration Scholarship](https://www.unf.edu/brooks/scholarships/northeast-florida-mgma.html) |  | not listed |
+| [Nutrition and Dietetics Advisory Board Scholarship](https://www.unf.edu/brooks/scholarships/nutrition-dietetics-advisory-board.html) |  | not listed |
+| [Nutrition and Dietetics Scholarship (for RDN Prep Exam)](https://www.unf.edu/brooks/scholarships/nutrition-dietetic-rdn-prep-eam.html) |  | not listed |
+| [Nutrition and Dietetics Study Abroad Scholarship](https://www.unf.edu/brooks/scholarships/nutrition-dietetics-study-abroad.html) |  | not listed |
 | [Oberdorfer-Rasche Family Endowed Scholarship](https://www.unf.edu/coas/scholarships/Oberdorfer-Rasche-Family-Endowed-Scholarship1.html) |  | not listed |
+| [One Call Care Management Scholarship](https://www.unf.edu/brooks/scholarships/one-call-care-management.html) |  | not listed |
 | [Oscar Patterson Scholarship](https://www.unf.edu/coas/scholarships/oscar-patterson.html) |  | not listed |
 | [Osprey Accounting Endowed Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Otis Smith Kids Foundation Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
@@ -334,6 +352,7 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Panides-Doughty Memorial Scholarship](https://www.unf.edu/coas/scholarships/panides-doughty-memorial.html) |  | not listed |
 | [Pat Hoffman Memorial Endowed Nursing Scholarship](https://www.unf.edu/brooks/scholarships/hoffman-memorial-endowed.html) |  | not listed |
 | [Pat Moran and JM Family Enterprises, Inc. Endowed Scholarship in Transportation and Logistics](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
+| [Patricia H. Foster Graduate Nurse Endowed Research Fellowship](https://www.unf.edu/brooks/scholarships/foster-graduate-nurse-endowed.html) |  | not listed |
 | [Patriot Rail Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Paul and Christie Mucciolo Pre-Medical Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Paul and Virginia Shields / Brooks Health Foundation Scholarship](https://www.unf.edu/brooks/scholarships/shields-foundation.html) |  | not listed |
@@ -349,8 +368,10 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Pre-Law Scholarship](https://www.unf.edu/coas/scholarships/pre-law.html) |  | not listed |
 | [President's Silver Scholarship - UNF](https://www.unf.edu/scholarships/programs.html) | $1,000–$3,000 | not listed |
 | [Professional Development Schools' Teacher Fellowship](https://www.unf.edu/silverfield/scholarships/list/Professional-Development-Teacher-Fellowship.html) |  | not listed |
+| [Propeller Club of Jacksonville Scholar in Transportation & Logistics](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Prosser Hallock Tekie Foundation Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Prosser Hallock Tekie Foundation, Inc. Scholarship](https://www.unf.edu/ccec/scholarships/prosser-hallock-tekie.html) | $2,000 | not listed |
+| [Quentin E. and Louise L. Wood First Generation Scholarship](https://www.unf.edu/udae/scholarships/first-generation.html) |  | not listed |
 | [Rawand Hirezi Memorial Music Scholarship](https://www.unf.edu/coas/scholarships/rawand-hirezi-memorial-music.html) |  | not listed |
 | [Rawand Hirezi Memorial Scholarship](https://www.unf.edu/coas/scholarships/Rawand-Hirezi-Memorial-Scholarship.html) |  | not listed |
 | [Ray Ross Memorial Endowed Nursing Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
@@ -420,9 +441,13 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [Terrence Y. Milam Memorial Endowed Scholarship](https://www.unf.edu/coas/scholarships/terrence-y-milam-memorial.html) |  | not listed |
 | [Terri Stahlman Endowed Fellowship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Thad M. Moseley, M.D. Endowed Scholarship](https://www.unf.edu/brooks/scholarships/moseley-endowed.html) |  | not listed |
+| [The Center for the Advancement of Engineering](https://www.unf.edu/ccec/scholarships/cae.html) | $2,500 | not listed |
+| [The Garrison Family Communication Scholarship](https://www.unf.edu/coas/scholarships/garrison-family-communication.html) |  | not listed |
 | [The Haskell Company Endowed Scholarship](https://www.unf.edu/ccec/scholarships/haskell-company.html) | $1,800 | not listed |
 | [The Hundred Club of Broward County Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [The Main Street America Group Endowed Urban Education Scholarship](https://www.unf.edu/silverfield/scholarships/list/main-street-america.html) |  | not listed |
+| [THE PLAYERS Championship First Generation Scholarship](https://www.unf.edu/udae/scholarships/first-generation.html) |  | not listed |
+| [The Reginald Haywood Scholarship of Jazz Studies](https://www.unf.edu/coas/scholarships/The-Reginald-Haywood-Scholarship-of-Jazz-Studies.html) |  | not listed |
 | [The St. Joe Company Endowed Scholarship / Fellowship](https://www.unf.edu/silverfield/scholarships/fellowship-list.html) |  | not listed |
 | [Theodis Simmons Jr. Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
 | [Theresa Johnson Spirit Scholarship](https://www.unf.edu/coggin/scholarships/catalog.html) |  | not listed |
@@ -446,8 +471,10 @@ Jacksonville, FL · 2 open · 462 with no date listed · 3 closed (not shown)
 | [UNF Foundation First Generation Scholarships](https://www.unf.edu/udae/scholarships/first-generation.html) |  | not listed |
 | [UNF Foundation Scholarships](https://www.unf.edu/coas/scholarships/) |  | not listed |
 | [UNF Parents Association Endowed Scholarship](https://www.unf.edu/asa/scholarships/undergraduate/unf-parents-association-endowed-scholarship.html) |  | not listed |
+| [Unf Student Leadership Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [UNF Student Leadership Scholarship (Taylor Leadership Institute)](https://www.unf.edu/asa/scholarships/undergraduate/unf-student-leadership-scholarship.html) |  | not listed |
 | [Urban Education Scholarship](https://www.unf.edu/silverfield/scholarships/list/main-street-america.html) |  | not listed |
+| [Vada Rosen Endowed Fellowship in Clinical Mental Health Counseling](https://www.unf.edu/brooks/scholarships/rosen-endowed-fellowship.html) |  | not listed |
 | [Van Law Endowed Scholarship/Fellowship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Varsity Club Founders Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |
 | [Vernon Walker, Sr. and Cynthia Walker Endowed Scholarship](https://www.unf.edu/udae/awards/endowments.html) |  | not listed |

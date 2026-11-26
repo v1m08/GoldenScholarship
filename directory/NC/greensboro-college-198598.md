@@ -1,11 +1,12 @@
 # Greensboro College scholarships
 
-Greensboro, NC · 1 open · 0 with no date listed · 0 closed (not shown)
+Greensboro, NC · 1 open · 1 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/greensboro-college-198598)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Theatre Scholarships](https://www.greensboro.edu/academics/arts/theatre/theatre-scholarships/) |  | May 1, 2027 |
+| [Leah Louise B. Tannenbaum Scholarship at Greensboro College](https://tsfoundation.com/scholarships) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

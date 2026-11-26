@@ -1,6 +1,6 @@
 # Florida Institute of Technology scholarships
 
-Melbourne, FL · 3 open · 12 with no date listed · 0 closed (not shown)
+Melbourne, FL · 3 open · 13 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/florida-institute-of-technology-133881)**
 
@@ -14,6 +14,7 @@ Melbourne, FL · 3 open · 12 with no date listed · 0 closed (not shown)
 | [Florida Tech Family Grant](https://www.fit.edu/admission/scholarships--aid/university-scholarships-and-grants/) |  | not listed |
 | [Florida Tech Grant](https://www.fit.edu/admission/scholarships--aid/university-scholarships-and-grants/) |  | not listed |
 | [Florida Tech International Scholarship](https://www.fit.edu/admission/scholarships--aid/university-scholarships-and-grants/) |  | not listed |
+| [Florida Tech Legacy Grant](https://www.fit.edu/admission/scholarships--aid/university-scholarships-and-grants/) |  | not listed |
 | [Florida Tech Merit Scholarships](https://www.fit.edu/admission/scholarships--aid/university-scholarships-and-grants/) |  | not listed |
 | [Florida Tech NCSS Scholarship](https://www.fit.edu/admission/scholarships--aid/university-scholarships-and-grants/) | $12,000 | not listed |
 | [Florida Tech Robotics Grant](https://www.fit.edu/admission/scholarships--aid/university-scholarships-and-grants/) |  | not listed |

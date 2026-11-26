@@ -1,6 +1,6 @@
 # Kean University scholarships
 
-Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
+Union, NJ · 2 open · 149 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/kean-university-185262)**
 
@@ -9,6 +9,7 @@ Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
 | [VFW Military Scholarships](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) | $3,000 | Dec 31, 2026 |
 | [McDonnell-Millard College Composition Awards](https://www.kean.edu/academics/college-liberal-arts/school-english-studies/english-scholarships) | $250–$750 | Apr 1, 2027 |
 | [Adelaide AnnaMarie Kornau Endowed Scholarship in Theatre](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Adriana C. Brennan Alumni Endowment Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Alice Nelanger McGuigan Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [American Legion Legacy Scholarship](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) |  | not listed |
 | [American Legion Scholarship](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) |  | not listed |
@@ -16,10 +17,14 @@ Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
 | [Andrea Abramson Scholarship CPTS](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Andrew DeGrado Piano Scholarship Endowment](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Anne Evans Estabrook Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Anthony J. Bosco Annual Scholarship in English Literature](https://www.kean.edu/academics/college-liberal-arts/school-english-studies/english-scholarships) |  | not listed |
+| [Arlene Brautigan Theater Department Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Autumn Lake Healthcare "Keep Good Going" Scholarship Fund](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [B.J. and Helen Fidurski Endowed Memorial Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Barbara & Paul Wyciskala Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Barbara Ann Kloss '76 Scholarship Business Administration](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Barbara Baker Johnson Endowed Scholarship (Int'l study)](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Barbara J. Lecomte, Ph.D. Annual Scholarship in Speech-Language Pathology](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Be the Change Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Benefit Payments for Fry Scholarship](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships/john-david-fry-scholarship) |  | not listed |
 | [Bick Family Holocaust and Genocide Studies Scholarship Fund](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -30,8 +35,10 @@ Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
 | [Christopher A. Turner Endowed Memorial Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Clifford Bush Annual Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/graduate-scholarships) |  | not listed |
 | [Climb to Success Fund Scholarship](https://www.kean.edu/offices/office-scholarship-services/climb-success-scholarship) | $16,000 | not listed |
+| [Cookie & Ed Esposito Annual Education Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Courtney Hyman and Heather Rizzo Social Work Advocacy Change Agent Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/graduate-scholarships) |  | not listed |
 | [Dan '83 and Margie Charleston Endowed Global MBA Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/graduate-scholarships) |  | not listed |
+| [Dan & Margie Charleston Endowed Scholarship in Early Childhood](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Daniel Drevnick Scholarship](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) |  | not listed |
 | [David A. Kirpan Annual Scholarship for Business & Entrepreneurship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Department of Psychology Annual Graduate Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/graduate-scholarships) |  | not listed |
@@ -46,18 +53,22 @@ Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
 | [Dr. Carol Williams Annual Memorial Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/graduate-scholarships) |  | not listed |
 | [Dr. Jon Erickson's Memorial Annual Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Reynold E. and Mary B. Burch Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. Sharon Brendzel Memorial Scholarship Endowment](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Stanley H. Lipson Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [E. Alma Flagg Scholarship Endowment](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
+| [E.J. Shephard Memorial Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/college-liberal-arts-scholarships) |  | not listed |
+| [Edmund Spiro '68 '70 Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Edward & Dolly Miltner Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Edward McColgan Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Emma Geilfuss Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [EPIC Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Frances J. Greany M'73 Endowed Scholarship in Elementary Education](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Frances Mika R.N. Memorial Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Francis Farber Annual Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/college-liberal-arts-scholarships) |  | not listed |
 | [Frank and Maureen Anderson Memorial Design Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Frank J. Bulfin Endowed Memorial Scholarship Fund Endowment](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Freedom Alliance Scholarship Fund](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) |  | not listed |
 | [G. Evelyn Foster Memorial Scholarship Fund Endowment](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
-| [Garden State Equity Scholarship](https://www.kean.edu/equality) |  | not listed |
 | [George Hennings Memorial Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Global MBA Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Google SVA Scholarship](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) | $10,000 | not listed |
@@ -67,9 +78,12 @@ Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
 | [Harold B. and Dorothy A. Snyder Foundation Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Harwood Endowed Scholarship Fund](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Hazel H. Hardgrove Music Education Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Helen Longacre Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Helio E. Rosete Memorial Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Horatio Alger Military Veterans Scholarship](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) |  | not listed |
 | [Housing Authority of Plainfield Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Jacqueline R. Fidurski Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [James R. Murphy Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Jim Hynes '63 Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Jim Stamey Memorial Endowed Scholarship for Teachers of the Science](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Joe & Josie Gonnella Annual Scholarship in Design](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -86,10 +100,16 @@ Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
 | [Ken & Anne Estabrook Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kenneth Muller Interior Design Endowed Scholarship Fund](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kevin and Beth Alton Annual Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) | $2,000 | not listed |
+| [KU Alumni Association College of Business and Public Management Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [KU Alumni Association College of Health Professions and Human Services Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [KU Alumni Association Dorothy & George Hennings College of Science, Math and Tech Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [KU Alumni Association Michael Graves College, Architecture and Design Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Lambda Alpha Sigma Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Lennie Pierro Fine Arts Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Liz McColgan Memorial Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Lucy Jajosky Orfan Annual Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Lynn M.K. Franklin Annual Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [M. Ernest Townsend Honor Scholarship (Sibal Brown Endwnt)](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mabel G. Holmes Annual Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mabel Holmes Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Marc Birger Memorial Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/college-liberal-arts-scholarships) |  | not listed |
@@ -106,6 +126,7 @@ Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
 | [National Military Family Association (MNMFA) MILITARY SPOUSE SCHOLARSHIP PROGRAM](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) |  | not listed |
 | [NBCUniversal SVA Scholarship](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) | $12,000 | not listed |
 | [NJ Association of Public Accountants Scholarship Endowment](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [No, our scholarships are aimed towards direct costs](https://www.kean.edu/offices/office-scholarship-services/scholarship-faqs) |  | not listed |
 | [Nu Theta Chi Alumni Annual Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) | $500 | not listed |
 | [Penny and John North Endowed Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Pi Alpha Alpha Honor Society Annual Scholarship](https://www.kean.edu/offices/financial-aid/scholarship-services/graduate-scholarships) |  | not listed |
@@ -128,6 +149,7 @@ Union, NJ · 2 open · 127 with no date listed · 0 closed (not shown)
 | [Sigma Beta Tau Annual Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Sophia and Edward Sheplak Memorial Scholarship Endowment](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Steven J. Weiss Memorial Scholarship Endowment](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Sylvia Holder Endowed Scholarship for M.A. in Holocaust & Genocide Studies](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Thelma Kaplan Endowed Memorial Scholarship Fund](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [This is a Book Scholarship](https://kean.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [VA Mortgage Center Scholarship](https://www.kean.edu/offices/veteran-student-services/veteran-student-scholarships) | $1,000 | not listed |

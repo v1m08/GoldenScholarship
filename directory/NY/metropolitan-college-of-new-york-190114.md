@@ -1,6 +1,6 @@
 # Metropolitan College of New York scholarships
 
-New York, NY · 0 open · 11 with no date listed · 0 closed (not shown)
+New York, NY · 0 open · 11 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/metropolitan-college-of-new-york-190114)**
 

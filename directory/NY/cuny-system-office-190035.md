@@ -1,6 +1,6 @@
 # CUNY System Office scholarships
 
-New York, NY · 10 open · 58 with no date listed · 5 closed (not shown)
+New York, NY · 10 open · 58 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/cuny-system-office-190035)**
 

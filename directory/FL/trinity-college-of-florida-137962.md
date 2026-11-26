@@ -1,11 +1,12 @@
 # Trinity College of Florida scholarships
 
-Trinity, FL · 1 open · 11 with no date listed · 0 closed (not shown)
+Trinity, FL · 2 open · 13 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/trinity-college-of-florida-137962)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Early Acceptance Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) | $500–$1,000 | Dec 1, 2026 |
 | [Trinity College of Florida Grants](https://www.trinitycollege.edu/tcf-admissions/grants/) | $500–$1,000 | Dec 1, 2026 |
 | [Christian Workers Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) | $1,000 | not listed |
 | [Church Matching Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) | $1,000 | not listed |
@@ -14,6 +15,8 @@ Trinity, FL · 1 open · 11 with no date listed · 0 closed (not shown)
 | [Quest Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) |  | not listed |
 | [Quest Ministerial Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) | $500 | not listed |
 | [Referral Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) | $1,000 | not listed |
+| [Senior Citizen Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) | $255 | not listed |
+| [Supplemental Educational Opportunity Grant (SEOG)](https://www.trinitycollege.edu/tcf-admissions/grants/) |  | not listed |
 | [Trinity College Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) |  | not listed |
 | [Trinity College of Florida Grant](https://www.trinitycollege.edu/tcf-admissions/grants/) |  | not listed |
 | [Trinity College of Florida Merit Scholarship](https://www.trinitycollege.edu/admissions/financial-aid-scholarships/) | $4,000 | not listed |

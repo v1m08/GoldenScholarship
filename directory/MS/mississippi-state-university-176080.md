@@ -1,6 +1,6 @@
 # Mississippi State University scholarships
 
-Mississippi State, MS · 219 open · 84 with no date listed · 0 closed (not shown)
+Mississippi State, MS · 219 open · 90 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/mississippi-state-university-176080)**
 
@@ -230,6 +230,7 @@ Mississippi State, MS · 219 open · 84 with no date listed · 0 closed (not sho
 | [Bardsley Scholarship Program](https://www.vetmed.msstate.edu/admissions/scholarships) | $25,000–$50,000 | not listed |
 | [Building Construction Science Scholarships](https://www.caad.msstate.edu/scholarships/building-construction-science) |  | not listed |
 | [Bynum L. Meeks Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
+| [Champion Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Clarence M. Worthey and Billie Ann Worthey Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Clarice C. Jackson Memorial Scholarship](https://www.vetmed.msstate.edu/admissions/scholarships) |  | not listed |
 | [Clyde Patrick Wade Memorial Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
@@ -246,6 +247,7 @@ Mississippi State, MS · 219 open · 84 with no date listed · 0 closed (not sho
 | [Drs. Carroll and Gwen Perkins Annual Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Educational Enrichment Scholarship](https://www.sfa.msstate.edu/scholarships/details/presidential-endowed-scholarship-package) | $12,000 | not listed |
 | [Elton R. and Patricia R. Coley Annual Scholarships](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
+| [Eva Ann Beasley Dorris Scholarship](https://createfoundation.com/scholarships/) |  | not listed |
 | [Forestry Suppliers, Inc. Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Forrest/Lamar County Forestry Association Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Freshman Non-Resident Academic Scholarship](https://www.sfa.msstate.edu/scholarships/details/freshman-non-resident-academic-scholarship) | $19,000 | not listed |
@@ -257,6 +259,7 @@ Mississippi State, MS · 219 open · 84 with no date listed · 0 closed (not sho
 | [Hall Timberlands Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Ham Sanders Forestry Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Ham Sanders Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
+| [Hood Industries Linear Programming Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Howard McDuffie Memorial Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Ike Shoemake Memorial Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Illahee Tree Farm Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
@@ -293,6 +296,7 @@ Mississippi State, MS · 219 open · 84 with no date listed · 0 closed (not sho
 | [Presidential Partnership Scholarship](https://www.sfa.msstate.edu/scholarships/details/presidential-partnership-scholarship) |  | not listed |
 | [Robert Lee "Mr. Bob" Carlton Memorial Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Robert Parker Summer Camp Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
+| [Roy L. Pugh Memorial Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Scenic Homes-Dr. Richard M. Kaminski Scholarship in Waterfowl and Wetlands Conservation](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Sharp Academic Merit Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) | $12,000 | not listed |
 | [Skip and Julie McCollough Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
@@ -302,12 +306,14 @@ Mississippi State, MS · 219 open · 84 with no date listed · 0 closed (not sho
 | [Starr Summer Camp Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Study Abroad Scholarship for Current Students](https://www.sfa.msstate.edu/scholarships/details/study-abroad-scholarship-current-students) |  | not listed |
 | [Susan Jordan Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
+| [Sustainable Bioproducts Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Tenneco Packaging Company Forestry Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Terry and Anne Ozier Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Thomas Plein Foundation Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Vicksburg Kennel Club of Mississippi Scholarship](https://www.vetmed.msstate.edu/admissions/scholarships) |  | not listed |
 | [Washington County Conservation League Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Washington County Conservation League Scholarship - MSU](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
+| [Wildlife and Fisheries Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 | [Winston Plywood & Veneer LLC Endowed Scholarship](https://www.cfr.msstate.edu/students/scholarships.php) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

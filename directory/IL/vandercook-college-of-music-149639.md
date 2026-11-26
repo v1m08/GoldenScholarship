@@ -1,15 +1,18 @@
 # VanderCook College of Music scholarships
 
-Chicago, IL · 1 open · 20 with no date listed · 0 closed (not shown)
+Chicago, IL · 3 open · 22 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/vandercook-college-of-music-149639)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [VanderCook Need Grant](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) | $2,000 | Dec 1, 2026 |
+| [Nellie Love Butcher Scholarship](https://www.appily.com/scholarships/nellie-love-butcher-music-scholarship) | $1,000 | Jan 31, 2027 |
+| [Phoebe Ann Rose Scholarship](https://www.appily.com/scholarships/phoebe-ann-rose-scholarship) | $1,000 | Mar 1, 2027 |
 | [Blake E. Wiener Woodwind Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) |  | not listed |
 | [Dr. Lewis and Gerry Schmidt Instrumental Music Education Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) | $500–$1,000 | not listed |
 | [Eddie & Patty Oyer Percussion Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) |  | not listed |
+| [Edith Eisler Scholarship](https://www.appily.com/scholarships/edith-eisler-scholarship-award) | $1,000 | not listed |
 | [Internal Scholarships](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) |  | not listed |
 | [Jacob Bass Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) |  | not listed |
 | [Joey Martorano Vocal Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) |  | not listed |
@@ -25,6 +28,7 @@ Chicago, IL · 1 open · 20 with no date listed · 0 closed (not shown)
 | [VanderCook Legacy Award](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) | $1,000 | not listed |
 | [VanderCook President's Award](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) | $500–$5,000 | not listed |
 | [VanderCook Talent Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) | $2,500 | not listed |
+| [Victor Zajec Memorial Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) |  | not listed |
 | [William Carroll Memorial Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) | $500–$1,000 | not listed |
 | [Wisconsin Alumni Scholarship](https://www.vandercook.edu/financial-aid-resources/music-scholarships-grants/) |  | not listed |
 

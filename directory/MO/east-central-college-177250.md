@@ -1,6 +1,6 @@
 # East Central College scholarships
 
-Union, MO · 4 open · 11 with no date listed · 0 closed (not shown)
+Union, MO · 4 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/east-central-college-177250)**
 
@@ -19,6 +19,7 @@ Union, MO · 4 open · 11 with no date listed · 0 closed (not shown)
 | [Operation: Graduation! Scholarship](https://www.eastcentral.edu/finaid/scholarship-opportunities/) | $500 | not listed |
 | [P.E.O LV Chapter Scholarship 2026-27](https://www.eastcentral.edu/finaid/scholarship-opportunities/) |  | not listed |
 | [President's Scholarship](https://www.eastcentral.edu/finaid/scholarship-opportunities/) |  | not listed |
+| [Targeted Recruitment Scholarships](https://www.eastcentral.edu/finaid/scholarship-opportunities/) |  | not listed |
 | [Technical Skills Scholarship](https://www.eastcentral.edu/finaid/scholarship-opportunities/) |  | not listed |
 | [Wartime Veteran's Survivors Grant Program](https://www.eastcentral.edu/finaid/scholarship-opportunities/) |  | not listed |
 

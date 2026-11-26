@@ -1,6 +1,6 @@
 # Blue Ridge Community and Technical College scholarships
 
-Martinsburg, WV · 7 open · 25 with no date listed · 0 closed (not shown)
+Martinsburg, WV · 7 open · 26 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/blue-ridge-community-and-technical-college-446774)**
 
@@ -29,6 +29,7 @@ Martinsburg, WV · 7 open · 25 with no date listed · 0 closed (not shown)
 | [Martha Maxwell Developmental Education Scholarship](https://www.blueridgectc.edu/financial-aid/scholarships/) |  | not listed |
 | [Nade Award To Outstanding Alumnus of A Developmental Education Program](https://www.blueridgectc.edu/financial-aid/scholarships/) |  | not listed |
 | [Opportunity Scholarship](https://www.blueridgectc.edu/financial-aid/scholarships/) |  | not listed |
+| [Parsons Scholarship](https://www.blueridgectc.edu/financial-aid/scholarships/) |  | not listed |
 | [Raymond B. & Susan M. Benzinger Scholarship](https://www.blueridgectc.edu/financial-aid/scholarships/) | $2,500 | not listed |
 | [Ring Container Technologies Stem Textbook Scholarship](https://www.blueridgectc.edu/financial-aid/scholarships/) | $500 | not listed |
 | [S. Dallas Cooley Scholarship](https://www.blueridgectc.edu/financial-aid/scholarships/) |  | not listed |

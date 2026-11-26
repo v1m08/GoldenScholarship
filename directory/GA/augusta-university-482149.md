@@ -1,6 +1,6 @@
 # Augusta University scholarships
 
-Augusta, GA · 2 open · 80 with no date listed · 0 closed (not shown)
+Augusta, GA · 2 open · 82 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/augusta-university-482149)**
 
@@ -26,6 +26,7 @@ Augusta, GA · 2 open · 80 with no date listed · 0 closed (not shown)
 | [ASCP Foundation Laboratory Student Scholarship](https://www.augusta.edu/ahec/financial-aid-scholarships.php) | $1,000 | not listed |
 | [ASET Foundation Tuition Grants](https://www.augusta.edu/ahec/financial-aid-scholarships.php) | $500–$1,000 | not listed |
 | [ASRT Foundation Scholarships](https://www.augusta.edu/ahec/financial-aid-scholarships.php) |  | not listed |
+| [Becton Family Scholarship](https://www.augusta.edu/education/scholarships.php) |  | not listed |
 | [Bill Monge Scholarship](https://www.augusta.edu/hull/scholarships.php) |  | not listed |
 | [Blanche Garrard Memorial Scholarship](https://www.augusta.edu/education/scholarships.php) |  | not listed |
 | [CBCF General Mills Health Scholarship](https://www.augusta.edu/ahec/financial-aid-scholarships.php) | $2,000 | not listed |
@@ -33,6 +34,7 @@ Augusta, GA · 2 open · 80 with no date listed · 0 closed (not shown)
 | [Dedicating Resources to Educationally Advance More Students (DREAMS) Scholarship Program](https://www.augusta.edu/finaid/dreams-scholarship.php) |  | not listed |
 | [Dolbey Graduate & Undergraduate Scholarships](https://www.augusta.edu/ahec/financial-aid-scholarships.php) | $1,500 | not listed |
 | [Donald B. Brigdon Education Scholarship](https://www.augusta.edu/education/scholarships.php) |  | not listed |
+| [Dr. Frank Chou Scholarship](https://www.augusta.edu/education/scholarships.php) |  | not listed |
 | [Dr. Lyle R. Smith Scholarship](https://www.augusta.edu/education/scholarships.php) |  | not listed |
 | [Dr. Richard D. Harrison Scholarship](https://www.augusta.edu/education/scholarships.php) |  | not listed |
 | [Dr. Samuel Hardy III and Janet Hardy Education Scholarship](https://www.augusta.edu/education/scholarships.php) |  | not listed |

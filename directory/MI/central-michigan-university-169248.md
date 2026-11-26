@@ -1,12 +1,13 @@
 # Central Michigan University scholarships
 
-Mount Pleasant, MI · 6 open · 120 with no date listed · 1 closed (not shown)
+Mount Pleasant, MI · 7 open · 123 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/central-michigan-university-169248)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Fall and Spring awards](https://www.cmich.edu/offices-departments/office-scholarships-financial-aid/scholarships/scholarship-universe/scholarship-universe-assistance) |  | Nov 30, 2026 |
+| [CMU Scholarships](https://www.cmich.edu/undergraduate/cost-aid-scholarships/scholarships) | $5,500 | Dec 1, 2026 |
 | [Admission Transfer Scholarships](https://www.cmich.edu/academics/honors-program/current-students/admission-current-transfer-students) | $2,500 | Dec 21, 2026 |
 | [Lem Tucker Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/student-services/scholarships/lem-tucker-scholarship) |  | Jan 29, 2027 |
 | [Theatre Special Talent Scholarships](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/theatre-dance/department-of-theatre-and-dance-programs/bfa-acting-directing-auditions) | $1,000 | Feb 27, 2027 |
@@ -14,6 +15,7 @@ Mount Pleasant, MI · 6 open · 120 with no date listed · 1 closed (not shown)
 | [Emily and Jason Dizik Media Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/communication-journalism-media/student-resources/scholarships) |  | Apr 1, 2027 |
 | [A. Victoria Endowed Internship Award](https://www.cmich.edu/academics/colleges/college-arts-media/student-services/scholarships/a-victoria-endowed-internship-award) |  | not listed |
 | [Al Painter Outstanding Newcomer Award](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/communication-journalism-media/student-resources/scholarships) |  | not listed |
+| [Army Health Professions Scholarship Program](https://www.cmich.edu/offices-departments/office-scholarships-financial-aid/scholarships/additional-scholarship-information) |  | not listed |
 | [Beverly A. Gould Chapin Endowed Award](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/school-of-music/audition-information/scholarships) |  | not listed |
 | [Bila-Michels Professional Development Experience Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/communication-journalism-media/student-resources/scholarships) |  | not listed |
 | [Centralis Alumni Scholarship](https://www.cmich.edu/academics/honors-program/current-students/admission-current-transfer-students) | $1,250 | not listed |
@@ -87,6 +89,7 @@ Mount Pleasant, MI · 6 open · 120 with no date listed · 1 closed (not shown)
 | [Louise A. Plachta Endowed Award](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/school-of-music/audition-information/scholarships) |  | not listed |
 | [Marie Donner and Fred R. Bush Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/theatre-dance/department-of-theatre-and-dance-student-resources/scholarships) |  | not listed |
 | [Marine Gunnery Sergeant John David Fry Scholarship](https://www.cmich.edu/offices-departments/office-scholarships-financial-aid/scholarships/additional-scholarship-information) |  | not listed |
+| [Marjorie Rogene Trout Slocum Music Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/school-of-music/audition-information/scholarships) |  | not listed |
 | [Maroon and Gold Merit Scholarship](https://www.cmich.edu/offices-departments/office-scholarships-financial-aid/scholarships/scholarships-for-continuing-students) |  | not listed |
 | [Mary Ellen and George M. Blackburn Award](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/school-of-music/audition-information/scholarships) |  | not listed |
 | [MI Achievement Scholarship](https://www.cmich.edu/offices-departments/office-scholarships-financial-aid/scholarships/mi-achievement-scholarship) | $5,500 | not listed |
@@ -128,6 +131,7 @@ Mount Pleasant, MI · 6 open · 120 with no date listed · 1 closed (not shown)
 | [Tim and Pattee Bender Endowed Award](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/school-of-music/audition-information/scholarships) |  | not listed |
 | [Tim Roberts Country Radio Broadcasters Endowed Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/communication-journalism-media/student-resources/scholarships) |  | not listed |
 | [Tom and Audrey Lico Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/communication-journalism-media/student-resources/scholarships) |  | not listed |
+| [Veha Chamichian Orchestral Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/school-of-music/audition-information/scholarships) |  | not listed |
 | [William E. Valle Design and Technical Theatre Award](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/theatre-dance/department-of-theatre-and-dance-student-resources/scholarships) |  | not listed |
 | [William Talcott Annual Award](https://www.cmich.edu/academics/colleges/liberal-arts-social-sciences/departments/military-science-leadership/military-science-scholarships/department-scholarships) |  | not listed |
 | [Williams & Koerner Scholarship](https://www.cmich.edu/academics/colleges/college-arts-media/departments-schools/art-design/scholarships) |  | not listed |

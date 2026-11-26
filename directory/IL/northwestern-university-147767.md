@@ -1,6 +1,6 @@
 # Northwestern University scholarships
 
-Evanston, IL · 10 open · 8 with no date listed · 2 closed (not shown)
+Evanston, IL · 10 open · 9 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/northwestern-university-147767)**
 
@@ -21,6 +21,7 @@ Evanston, IL · 10 open · 8 with no date listed · 2 closed (not shown)
 | [Fellowships and Grants](https://polisci.northwestern.edu/graduate/current-students/fellowships-and-grants.html) | $5,000 | not listed |
 | [Native American and Indigenous Studies Scholarship](https://undergradaid.northwestern.edu/types-of-aid/scholarships-grants/northwestern-scholarships.html) |  | not listed |
 | [Northwestern Endowed Scholarships](https://undergradaid.northwestern.edu/types-of-aid/scholarships-grants/northwestern-scholarships.html) |  | not listed |
+| [Northwestern University Lawrence Lipking Fellowship](https://www.newberry.org/research/fellowships/short-term-fellowships) |  | not listed |
 | [Northwestern University Scholarship](https://undergradaid.northwestern.edu/types-of-aid/scholarships-grants/northwestern-scholarships.html) |  | not listed |
 | [NU Appropriated Scholarship](https://undergradaid.northwestern.edu/types-of-aid/scholarships-grants/northwestern-scholarships.html) |  | not listed |
 | [QuestBridge National College Match Scholarship](https://undergradaid.northwestern.edu/types-of-aid/scholarships-grants/northwestern-scholarships.html) |  | not listed |

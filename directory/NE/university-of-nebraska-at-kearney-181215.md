@@ -1,6 +1,6 @@
 # University of Nebraska at Kearney scholarships
 
-Kearney, NE · 10 open · 31 with no date listed · 0 closed (not shown)
+Kearney, NE · 10 open · 36 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-nebraska-at-kearney-181215)**
 
@@ -32,6 +32,8 @@ Kearney, NE · 10 open · 31 with no date listed · 0 closed (not shown)
 | [Kearney Noon Rotary International Scholarship](https://www.unk.edu/international/international-admissions/scholarship-opportunities.php) | $18,396 | not listed |
 | [Kelly Buck Memorial Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) |  | not listed |
 | [Lahaye Nursing Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) | $5,000 | not listed |
+| [Loper Achievement Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) | $3,500 | not listed |
+| [Loper Recognition Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) | $1,500 | not listed |
 | [M. and H. Stauffer Family Scholarship](https://www.unk.edu/grad-scholarships.php) |  | not listed |
 | [Marshall Scholarship](https://www.unk.edu/academics/honors/national-scholarships-and-fellowships.php) |  | not listed |
 | [Nebraska Bankers Association Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) |  | not listed |
@@ -39,11 +41,14 @@ Kearney, NE · 10 open · 31 with no date listed · 0 closed (not shown)
 | [Ray E. and Doris E. Lundy Scholarship](https://www.unk.edu/grad-scholarships.php) |  | not listed |
 | [Richard E. Person Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) |  | not listed |
 | [Ron and Carol Cope UNK Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) | $4,000 | not listed |
+| [Sandy Krausnick Memorial Scholarship](https://www.unk.edu/grad-scholarships.php) |  | not listed |
 | [Second, Third, and Fourth Year ROTC Scholarships](https://www.unk.edu/transfer-scholarships.php) | $10,000 | not listed |
 | [Sherrie Dusch Memorial Scholarship](https://www.unk.edu/grad-scholarships.php) |  | not listed |
 | [Truman Scholarship](https://www.unk.edu/academics/honors/national-scholarships-and-fellowships.php) | $30,000 | not listed |
 | [UNK Carpenter Fellowship Fund](https://www.unk.edu/grad-scholarships.php) |  | not listed |
 | [UNK Carpenter Scholars - Business and Arts Scholarship](https://www.unk.edu/grad-scholarships.php) |  | not listed |
+| [UNK Chancellor's Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) | $8,000 | not listed |
+| [UNK Distinguished Scholar Award](https://www.unk.edu/first-time-freshmen-scholarships.php) | $4,500–$5,500 | not listed |
 | [UNK FBLA Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) |  | not listed |
 | [Vetter Foundation UNK Scholarship/Fellowship](https://www.unk.edu/grad-scholarships.php) |  | not listed |
 | [William and Julie Albin Family Freshman Scholarship](https://www.unk.edu/first-time-freshmen-scholarships.php) |  | not listed |

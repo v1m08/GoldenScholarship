@@ -1,6 +1,6 @@
 # Midwives College of Utah scholarships
 
-Salt Lake City, UT · 11 open · 3 with no date listed · 10 closed (not shown)
+Salt Lake City, UT · 11 open · 4 with no date listed · 10 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/midwives-college-of-utah-480985)**
 
@@ -19,6 +19,7 @@ Salt Lake City, UT · 11 open · 3 with no date listed · 10 closed (not shown)
 | [MCU's Briana Blackwelder Scholarship Fund](https://www.midwifery.edu/blackwelder-scholarship-fund/) |  | Nov 1, 2027 |
 | [Briana Blackwelder MCU Equal Access Scholarship Fund (An MCU Scholarship)](https://www.midwifery.edu/scholarship-resources/) |  | not listed |
 | [Curtis Holloway Memorial Scholarship](https://www.midwifery.edu/scholarship-resources/) | $1,500 | not listed |
+| [Single Award](https://www.midwifery.edu/blackwelder-scholarship-fund/) |  | not listed |
 | [Women's Independence Scholarship Program](https://www.midwifery.edu/scholarship-resources/) | $500 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

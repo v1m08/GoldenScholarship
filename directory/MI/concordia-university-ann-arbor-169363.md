@@ -1,6 +1,6 @@
 # Concordia University Ann Arbor scholarships
 
-Ann Arbor, MI · 42 open · 40 with no date listed · 2 closed (not shown)
+Ann Arbor, MI · 43 open · 41 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/concordia-university-ann-arbor-169363)**
 
@@ -12,6 +12,7 @@ Ann Arbor, MI · 42 open · 40 with no date listed · 2 closed (not shown)
 | [Burress Injury Law Underdog Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $5,000 | Dec 9, 2026 |
 | [Supporting Prisoners' Families Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $3,000 | Dec 14, 2026 |
 | [Attorney Marketing Network Offering Opportunity to Win a $1,000 Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | Dec 15, 2026 |
+| [Hutchison & Foreman Committing to Justice Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) |  | Dec 21, 2026 |
 | [Value CPR Foundation Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) |  | Dec 27, 2026 |
 | [Lawyers of Tomorrow Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | Dec 28, 2026 |
 | [Victor A. Baylon, MD, Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $3,000 | Feb 1, 2027 |
@@ -77,6 +78,7 @@ Ann Arbor, MI · 42 open · 40 with no date listed · 2 closed (not shown)
 | [Salvado Law Dream Chaser Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | not listed |
 | [Second Chances Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | not listed |
 | [Single Parent Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | not listed |
+| [Sponsored by: Scott Keever Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) |  | not listed |
 | [Sports Gear Swag $1,000 Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | not listed |
 | [Studemont Group Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $1,000 | not listed |
 | [Therapy.com Mental Health 2026 Scholarship](https://www.cuaa.edu/admissions/financial-aid/scholarships-grants.html) | $2,250 | not listed |

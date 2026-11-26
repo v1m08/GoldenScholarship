@@ -1,6 +1,6 @@
 # University of Iowa scholarships
 
-Iowa City, IA · 37 open · 78 with no date listed · 450 closed (not shown)
+Iowa City, IA · 37 open · 86 with no date listed · 450 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-iowa-153658)**
 
@@ -46,6 +46,7 @@ Iowa City, IA · 37 open · 78 with no date listed · 450 closed (not shown)
 | [All-Iowa Academic Team Scholarship - University of Iowa](https://admissions.uiowa.edu/cost-aid/transfer-scholarships) | $1,500 | not listed |
 | [All-USA Academic Team Scholarship](https://admissions.uiowa.edu/cost-aid/transfer-scholarships) |  | not listed |
 | [All-USA Academic Team Scholarship - University of Iowa](https://admissions.uiowa.edu/cost-aid/transfer-scholarships) |  | not listed |
+| [Allie Mae Oden Memorial Scholarship](https://veterans.uiowa.edu/scholarships/scholarships-list) |  | not listed |
 | [Ben Silver Broadcasting Journalism Scholarship](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Bernard and Ethel Adler Hurwitz Scholarship](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Betty Braverman Award](https://art.uiowa.edu/undergraduate/scholarships) | $1,500 | not listed |
@@ -69,6 +70,7 @@ Iowa City, IA · 37 open · 78 with no date listed · 450 closed (not shown)
 | [Foil Imaging and Frogman's Print Workshop Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Frank Luther Mott Undergraduate Scholarship](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Freeman Foundation Asian Internships Scholarship](https://international.uiowa.edu/students/scholarships-study-abroad/freeman-foundation-asian-internships-scholarship) | $6,500 | not listed |
+| [Gabriella Nora Cross Memorial Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [GAIN Travel Grant](https://international.uiowa.edu/students/scholarships-study-abroad/ciee-study-abroad-scholarships) |  | not listed |
 | [George S. Schaeffer Scholarship](https://clas.uiowa.edu/scholarships/currently-enrolled-students) |  | not listed |
 | [Gilman Go Global Grant](https://international.uiowa.edu/students/scholarships-study-abroad/ciee-study-abroad-scholarships) |  | not listed |
@@ -88,10 +90,13 @@ Iowa City, IA · 37 open · 78 with no date listed · 450 closed (not shown)
 | [John & Peg Slusher U of I Scholarship](https://linnmarfoundation.org/scholarships/) | $1,000 | not listed |
 | [John F. Kennedy Truth-in-Journalism Scholarship](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Judy Klemesrud Writing Scholarship](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
+| [L.A. "Tadd" Jensen Sculpture Study Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
+| [LA FRA Scholarship](https://veterans.uiowa.edu/scholarships/scholarships-list) |  | not listed |
 | [Leona Zaharis Scholarship](https://international.uiowa.edu/students/scholarships-study-abroad/leona-zaharis-scholarship) | $3,000 | not listed |
 | [Louise L. Osten Memorial Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Lt. Col. Romeo and Josephine Bass Ferretti Scholarship](https://veterans.uiowa.edu/scholarships/scholarships-list) | $5,000 | not listed |
 | [Marcia Thayer Scholarship](https://theatre.uiowa.edu/undergraduate/scholarships) | $20,000 | not listed |
+| [Margarete Ellyson Rice Travel Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Mary Sue Miller Memorial Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Mike & Gail Donley Spouse Scholarships](https://veterans.uiowa.edu/scholarships/scholarships-list) | $2,500 | not listed |
 | [Naomi Gunderson Scholarship](https://international.uiowa.edu/students/scholarships-study-abroad/merit-based-scholarships/naomi-gunderson-scholarship) |  | not listed |
@@ -100,8 +105,10 @@ Iowa City, IA · 37 open · 78 with no date listed · 450 closed (not shown)
 | [Nicholas Meyer Scholarship in Playwriting](https://theatre.uiowa.edu/undergraduate/scholarships) | $20,000 | not listed |
 | [NP Scholarship](https://veterans.uiowa.edu/scholarships/scholarships-list) |  | not listed |
 | [Opportunity Award](https://pharmacy.uiowa.edu/pharmd/financial_support/scholarship_opportunities) | $5,000 | not listed |
+| [Orton & Eugenia Hamby Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Paul Conrad Scholarship](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Paula Patton Grahame Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
+| [Pen Parks Andrishok Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Philip D. Adler Journalist Award](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Professor Donald K. Woolley Scholarship](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [R&MJ Stanley Scholarship](https://international.uiowa.edu/rmj-stanley-scholarship) | $1,000 | not listed |
@@ -117,6 +124,7 @@ Iowa City, IA · 37 open · 78 with no date listed · 450 closed (not shown)
 | [Tom King Memorial Scholarship](https://journalism.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Tyner Scholarship](https://international.uiowa.edu/students/scholarships-study-abroad/merit-based-scholarships/richard-j-tyner-scholarship) |  | not listed |
 | [Vivian McCarty Scholarship](https://theatre.uiowa.edu/undergraduate/scholarships) | $600 | not listed |
+| [W.T. Proudfoot Scholarship](https://art.uiowa.edu/undergraduate/scholarships) |  | not listed |
 | [Website: Freedom Alliance Scholarship Fund](https://veterans.uiowa.edu/scholarships/scholarships-list) |  | not listed |
 | [Website: Military Commanders' Scholarship Fund](https://veterans.uiowa.edu/scholarships/scholarships-list) | $5,000 | not listed |
 | [Winter or Summer Scholarships](https://international.uiowa.edu/students/scholarships-study-abroad/merit-based-scholarships) |  | not listed |

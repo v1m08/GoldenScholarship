@@ -1,6 +1,6 @@
 # Redlands Community College scholarships
 
-El Reno, OK · 3 open · 42 with no date listed · 0 closed (not shown)
+El Reno, OK · 4 open · 43 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/redlands-community-college-207069)**
 
@@ -9,6 +9,7 @@ El Reno, OK · 3 open · 42 with no date listed · 0 closed (not shown)
 | [Romaette Bryant Memorial Nursing Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | Jan 9, 2027 |
 | [Margaret E. Petree Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | May 1, 2027 |
 | [Karen Boucher Memorial Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | May 31, 2027 |
+| [Redlands Scholarships](https://www.redlandscc.edu/costs-aid/scholarships/index.php) | $5,500 | Nov 1, 2027 |
 | [Austin Family Endowed Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
 | [Blanc Centennial Farms' Scholarships](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
 | [Burruss Family Endowed Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
@@ -23,6 +24,7 @@ El Reno, OK · 3 open · 42 with no date listed · 0 closed (not shown)
 | [El Reno High School Class of '65 Endowed Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
 | [El Reno Masonic Lodge #50 / Redlands Aggie Club Endowed Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
 | [Emily Kay Wilds Memorial Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
+| [Hannah Scarberry Memorial Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
 | [Harold H. & Rebecca Raney Hutson Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
 | [Henry Jo Von Tungeln Memorial Agriculture Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |
 | [James D. (Jim) Shaw Memorial Endowed Scholarship](https://www.redlandscc.edu/costs-aid/scholarships/foundation.php) |  | not listed |

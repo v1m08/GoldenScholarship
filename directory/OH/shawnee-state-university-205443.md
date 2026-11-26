@@ -1,6 +1,6 @@
 # Shawnee State University scholarships
 
-Portsmouth, OH · 2 open · 40 with no date listed · 1 closed (not shown)
+Portsmouth, OH · 2 open · 47 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/shawnee-state-university-205443)**
 
@@ -22,14 +22,18 @@ Portsmouth, OH · 2 open · 40 with no date listed · 1 closed (not shown)
 | [Courtney Erin Todt Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [David G. Besco Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Dr. George & Sandy White Veterans Scholarship](https://www.shawnee.edu/financial-aid/scholarships/veterans.html) |  | not listed |
+| [Dr. J.R. Boynton Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Dr. Robert L. Wilson Writing Scholarship for Poets](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Frank Byrne Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Frank D. Hyland Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Frank Taylor Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
+| [Galen S. Besco Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Harold Micklethwaite Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Intel Scholarships](https://www.shawnee.edu/financial-aid/scholarships/intel.html) | $3,000 | not listed |
 | [Ira and Flora Diddle Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [James B. Miller Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
+| [Joseph W. McKinley Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
+| [Judith A. Canter Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [KEES Scholarship (for Kentucky Residents)](https://www.shawnee.edu/financial-aid/scholarships/) |  | not listed |
 | [Larry and Penny Gates Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Lillian Wiltshire Thomas Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
@@ -37,13 +41,16 @@ Portsmouth, OH · 2 open · 40 with no date listed · 1 closed (not shown)
 | [Mary Elliott Jenkins Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [McElhaney Honors Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Michael Hairston Art Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
+| [Nathan Jenkins Scholar-Athlete Award Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Octavia N. McKinley Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Paws Up Scholarship](https://www.shawnee.edu/financial-aid/scholarships/) | $1,500 | not listed |
 | [Peg Ellsesser Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Presidential Scholarship](https://www.shawnee.edu/financial-aid/scholarships/) |  | not listed |
+| [Roy Rogers Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Sherman Family Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [SSU Legacy Scholarship](https://www.shawnee.edu/financial-aid/scholarships/) | $500 | not listed |
 | [Stan Callihan Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
+| [Thomas B. Reynolds Memorial Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Vern Riffe Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |
 | [Veterans and Military-Connected Scholarships](https://www.shawnee.edu/financial-aid/scholarships/veterans.html) |  | not listed |
 | [Victor W. Morgan, Jr. Scholarship](https://www.shawnee.edu/financial-aid/scholarships/development-foundation.html) |  | not listed |

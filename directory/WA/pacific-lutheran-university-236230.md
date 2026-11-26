@@ -1,6 +1,6 @@
 # Pacific Lutheran University scholarships
 
-Tacoma, WA · 13 open · 22 with no date listed · 0 closed (not shown)
+Tacoma, WA · 13 open · 23 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/pacific-lutheran-university-236230)**
 
@@ -21,6 +21,7 @@ Tacoma, WA · 13 open · 22 with no date listed · 0 closed (not shown)
 | [PLU Matching Scholarship (PLUMS) - up to $1,000](https://www.plu.edu/financial-services/students/financial-aid/types-of-aid/scholarships-and-grants/) | $1,000 | Aug 15, 2027 |
 | [253 PLU Bound Full Tuition Scholarship](https://www.plu.edu/admission/first-year/scholarships/253-plu-bound/) |  | not listed |
 | [Alumni Dependent (Legacy) Scholarship - $1,000](https://www.plu.edu/admission/first-year/scholarships/) | $1,000 | not listed |
+| [Alumni Dependent Scholarship - $1,000](https://www.plu.edu/admission-international/cost-scholarship/international-scholarships-and-grants/) | $1,000 | not listed |
 | [Army ROTC Scholarship](https://www.plu.edu/financial-services/students/financial-aid/types-of-aid/scholarships-and-grants/) |  | not listed |
 | [Army ROTC Scholarship - up to Full Tuition](https://www.plu.edu/admission/first-year/scholarships/) |  | not listed |
 | [Confirmation Scholarship - $500](https://www.plu.edu/admission/first-year/scholarships/) | $500 | not listed |

@@ -1,6 +1,6 @@
 # Texas Tech University scholarships
 
-Lubbock, TX · 6 open · 22 with no date listed · 0 closed (not shown)
+Lubbock, TX · 6 open · 21 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/texas-tech-university-229115)**
 
@@ -27,7 +27,6 @@ Lubbock, TX · 6 open · 22 with no date listed · 0 closed (not shown)
 | [Mike Hoff Memorial Scholarship](https://cliftoneducationfoundationtx.org/scholarships) |  | not listed |
 | [Philip Johnson Scholarship](https://www.cfwtx.org/current-scholarships) |  | not listed |
 | [Philip Johnson Tuition Scholarship](https://www.cfwtx.org/current-scholarships) |  | not listed |
-| [Prestigious Awards](https://www.depts.ttu.edu/pesa/Scholarships/index.php) |  | not listed |
 | [Sarah Eiland Noret Scholarship](https://www.cfwtx.org/current-scholarships) |  | not listed |
 | [Study Abroad Designated Scholarship](https://www.depts.ttu.edu/international/studyabroad/financial/scholarships/sads.php) |  | not listed |
 | [Terry Foundation® Scholarship Program](https://www.depts.ttu.edu/scholarships/terrys/) |  | not listed |

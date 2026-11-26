@@ -1,11 +1,12 @@
 # Yeshiva University scholarships
 
-New York, NY · 0 open · 12 with no date listed · 0 closed (not shown)
+New York, NY · 1 open · 13 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/yeshiva-university-197708)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [DRI Law Student Diversity Scholarship Program](https://www.dri.org/foundation/diversity-scholarship) | $10,000 | Jun 30, 2027 |
 | [Anita Zucker Early Childhood Jewish Education Scholarship](https://go.yu.edu/merit-scholarships) |  | not listed |
 | [Anne Scheiber Scholarship Fund](https://go.yu.edu/merit-scholarships) | $25,000 | not listed |
 | [David Martinidez Scholarship](https://cardozo.yu.edu/scholarships) |  | not listed |
@@ -15,6 +16,7 @@ New York, NY · 0 open · 12 with no date listed · 0 closed (not shown)
 | [Katz Scholarships for Jewish Educators](https://go.yu.edu/merit-scholarships) | $20,000 | not listed |
 | [Lieberman-Mitzner Center for Public Service and Advocacy Scholars](https://go.yu.edu/merit-scholarships) | $25,000 | not listed |
 | [Masmidim Scholarships](https://go.yu.edu/merit-scholarships) |  | not listed |
+| [NAPABA Law Foundation Scholarships](https://www.napabalawfoundation.org/scholarships) | $7,500 | not listed |
 | [Professor Thomas Otway Memorial Scholarships](https://go.yu.edu/merit-scholarships) | $5,000 | not listed |
 | [Torah in Action Scholarship](https://go.yu.edu/merit-scholarships) | $15,000 | not listed |
 | [YU-Einstein Medical Scholars Program](https://go.yu.edu/einstein-medical-scholars-program) |  | not listed |

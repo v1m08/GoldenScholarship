@@ -1,6 +1,6 @@
 # St. John's University-New York scholarships
 
-Queens, NY · 211 open · 38 with no date listed · 14 closed (not shown)
+Queens, NY · 211 open · 39 with no date listed · 14 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/st-john-s-university-new-york-195809)**
 
@@ -234,6 +234,7 @@ Queens, NY · 211 open · 38 with no date listed · 14 closed (not shown)
 | [Insurance Leader of the Year (ILOTY) Fellowship](https://www.stjohns.edu/academics/schools/peter-j-tobin-college-business/greenberg-school-risk-management-insurance-and-actuarial-science/scholarships-fellowships) |  | not listed |
 | [Insurance Leader of the Year Fellowships](https://www.stjohns.edu/admission/scholarships/graduate-scholarships) |  | not listed |
 | [Jerry Farelli Leadership Award](https://www.stjohns.edu/admission/scholarships/benefactor-funds) |  | not listed |
+| [John and Mary Greeley Endowed Scholarship](https://www.stjohns.edu/admission/scholarships/benefactor-funds) |  | not listed |
 | [John Colligas '38 Expendable Scholarship Fund](https://www.stjohns.edu/admission/scholarships/benefactor-funds) | $1,000 | not listed |
 | [Joseph P. Addabbo Scholarship Fund](https://www.stjohns.edu/admission/scholarships/benefactor-funds) | $5,000 | not listed |
 | [Judy Rosenberger and Marilyn Masters Memorial Theatre Expendable Scholarship Fund](https://www.stjohns.edu/admission/scholarships/benefactor-funds) | $1,000 | not listed |

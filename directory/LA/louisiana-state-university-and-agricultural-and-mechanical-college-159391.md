@@ -1,6 +1,6 @@
 # Louisiana State University and Agricultural & Mechanical College scholarships
 
-Baton Rouge, LA · 23 open · 140 with no date listed · 0 closed (not shown)
+Baton Rouge, LA · 23 open · 142 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/louisiana-state-university-and-agricultural-and-mechanical-college-159391)**
 
@@ -56,6 +56,7 @@ Baton Rouge, LA · 23 open · 140 with no date listed · 0 closed (not shown)
 | [Caroline Durieux Scholarship](https://design.lsu.edu/student-life/scholarships/art-scholarships/) |  | not listed |
 | [Carroll King Mathews Sustainable Design Scholarship](https://design.lsu.edu/student-life/scholarships/interior-design-scholarships/) |  | not listed |
 | [Celanese Chemicals Chemical Engineering Scholarship Fund (varies](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) |  | not listed |
+| [Chancellor'S ALUMNI AWARD](https://www.lsu.edu/financialaid/scholarships/incoming-students.php) | $2,000 | not listed |
 | [Charles E. Severance Endowed Fellowship](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) |  | not listed |
 | [Charles Stewart Churchill Memorial Scholarship](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) |  | not listed |
 | [Chemical Engineering Junior Award](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) |  | not listed |
@@ -146,6 +147,7 @@ Baton Rouge, LA · 23 open · 140 with no date listed · 0 closed (not shown)
 | [Robert G. Flory Scholarship Fund (varies](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) |  | not listed |
 | [Russell L. Sledge Scholarship](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) |  | not listed |
 | [Russell Lobdell Memorial Scholarship](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) |  | not listed |
+| [School of Interior Design General Scholarship Fund](https://design.lsu.edu/student-life/scholarships/interior-design-scholarships/) |  | not listed |
 | [Scott Gerard Verret Scholarship](https://design.lsu.edu/student-life/scholarships/interior-design-scholarships/) |  | not listed |
 | [Shelby Robert Family Endowed Memorial Scholarship](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) |  | not listed |
 | [Sheldon Beychock Chancellor's Leadership Scholarships in Political Science (8](https://catalog.lsu.edu/content.php?catoid=2&navoid=194#College_of_Engineering) | $1,000 | not listed |

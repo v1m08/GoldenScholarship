@@ -1,6 +1,6 @@
 # Concordia Theological Seminary scholarships
 
-Fort Wayne, IN · 8 open · 4 with no date listed · 0 closed (not shown)
+Fort Wayne, IN · 9 open · 5 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/concordia-theological-seminary-150288)**
 
@@ -8,6 +8,7 @@ Fort Wayne, IN · 8 open · 4 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [Wampner-Hoffmyer Scholarship Fund](https://www.ctsfw.edu/admission/financial-aid/scholarships/) | $16,000 | Dec 31, 2026 |
 | [Dora Maclellan Brown Ministry Scholarship](https://www.ctsfw.edu/admission/financial-aid/scholarships/) |  | Feb 17, 2027 |
+| [Mary E. Bivins Foundation Scholarship](https://www.ctsfw.edu/admission/financial-aid/scholarships/) |  | Feb 28, 2027 |
 | [Wischer Scholarship](https://www.ctsfw.edu/admission/financial-aid/scholarships/) | $750 | Mar 1, 2027 |
 | [LWML Indiana District Scholarship](https://www.ctsfw.edu/admission/financial-aid/scholarships/) | $20,000 | Mar 15, 2027 |
 | [Trinity Lutheran Foundation Scholarship](https://www.ctsfw.edu/admission/financial-aid/scholarships/) | $1,000 | Mar 31, 2027 |
@@ -16,6 +17,7 @@ Fort Wayne, IN · 8 open · 4 with no date listed · 0 closed (not shown)
 | [LWML Nebraska South District Scholarship](https://www.ctsfw.edu/admission/financial-aid/scholarships/) |  | May 31, 2027 |
 | [Herschell and Gladys Umbaugh Scholarship](https://marshallcountycf.org/scholarships/other-and-graduate-scholarships/) |  | not listed |
 | [LWML Iowa East District Scholarship](https://www.ctsfw.edu/admission/financial-aid/scholarships/) |  | not listed |
+| [Milt and Sally Knabusch Ministerial & Parochial School Teacher Endowed Scholarship Fund](https://www.ctsfw.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [Next LWML Indiana District Scholarship](https://www.ctsfw.edu/?scholarship=lwml-indiana-district-scholarship) |  | not listed |
 | [Previous LWML Nebraska South District Scholarship](https://www.ctsfw.edu/?scholarship=lwml-nebraska-south-district-scholarship) | $500 | not listed |
 

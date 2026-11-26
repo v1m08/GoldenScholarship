@@ -1,12 +1,13 @@
 # The Southern Baptist Theological Seminary scholarships
 
-Louisville, KY · 29 open · 24 with no date listed · 0 closed (not shown)
+Louisville, KY · 30 open · 26 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/southern-baptist-theological-seminary-157748)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Trey Porter Law Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/online-scholarships/) |  | Dec 1, 2026 |
+| [Missions Grants](https://www.sbts.edu/financial-aid/scholarships-and-grants/missions-grants/) |  | Jan 1, 2027 |
 | [Daniel R. Hoover Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) | $2,500 | Jan 10, 2027 |
 | [Risden P. Reece Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) |  | Jan 27, 2027 |
 | [Cancer for College General Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/online-scholarships/) |  | Jan 31, 2027 |
@@ -37,6 +38,7 @@ Louisville, KY · 29 open · 24 with no date listed · 0 closed (not shown)
 | [Get Educated Online College Scholarship Program](https://www.sbts.edu/financial-aid/scholarships-and-grants/online-scholarships/) |  | Oct 15, 2027 |
 | [Attn: Sweeney Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) | $650–$1,800 | not listed |
 | [Because College is Expensive Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/online-scholarships/) |  | not listed |
+| [Chester A. Igleheart Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) |  | not listed |
 | [Chuck Palmer Memorial Missions Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/sbts-scholarships/) |  | not listed |
 | [Clara McCartt Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) |  | not listed |
 | [David Hershberg Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) | $3,000 | not listed |
@@ -55,6 +57,7 @@ Louisville, KY · 29 open · 24 with no date listed · 0 closed (not shown)
 | [Mary Anna Gilbert Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) |  | not listed |
 | [Nick Challies Memorial Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/sbts-scholarships/) |  | not listed |
 | [North Carolina Council of Women's Organizations Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) |  | not listed |
+| [Raymond C. Schnur Memorial Scholarship Fund](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) |  | not listed |
 | [Ruby King Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) |  | not listed |
 | [Southern Baptists of Texas Convention Scholarship](https://www.sbts.edu/financial-aid/scholarships-and-grants/state-scholarships/) |  | not listed |
 | [Spencer Foundation Dissertation Fellowship](https://www.sbts.edu/financial-aid/scholarships-and-grants/doctoral-student-scholarships/) |  | not listed |

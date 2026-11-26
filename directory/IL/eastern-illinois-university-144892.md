@@ -1,6 +1,6 @@
 # Eastern Illinois University scholarships
 
-Charleston, IL · 592 open · 4 with no date listed · 3 closed (not shown)
+Charleston, IL · 593 open · 4 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/eastern-illinois-university-144892)**
 
@@ -124,6 +124,7 @@ Charleston, IL · 592 open · 4 with no date listed · 3 closed (not shown)
 | [Coles-Douglas Scholarship](https://eiu.academicworks.com/opportunities/22292) |  | Mar 15, 2027 |
 | [College Access Foundation of California Scholarship](https://eiu.academicworks.com/opportunities/21490) |  | Mar 15, 2027 |
 | [College of Education Alumni and Friends](https://eiu.academicworks.com/opportunities/22386) |  | Mar 15, 2027 |
+| [Community Ambassador Scholarship](https://www.eiu.edu/ambassador-scholarship/) | $2,000 | Mar 15, 2027 |
 | [Cooley Scholarship](https://eiu.academicworks.com/opportunities/22094) |  | Mar 15, 2027 |
 | [COS Advisory Board Endowed Fund](https://eiu.academicworks.com/opportunities/22319) |  | Mar 15, 2027 |
 | [Cultural Diversity Essay Contest](https://eiu.academicworks.com/opportunities/20140) |  | Mar 15, 2027 |

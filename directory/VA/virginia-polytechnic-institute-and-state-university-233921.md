@@ -1,6 +1,6 @@
 # Virginia Polytechnic Institute and State University scholarships
 
-Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
+Blacksburg, VA · 104 open · 200 with no date listed · 54 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/virginia-polytechnic-institute-and-state-university-233921)**
 
@@ -15,6 +15,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | $2,500 | Dec 31, 2026 |
 | [Honors College Scholarship Application](https://vt.academicworks.com/opportunities/73429) |  | Jan 8, 2027 |
 | [Pamplin Leadership Award](https://vt.academicworks.com/opportunities/73725) |  | Jan 8, 2027 |
+| [Alumni Chapter Scholarships](https://www.alumni.vt.edu/chapters/scholarship.html) |  | Jan 15, 2027 |
 | [Chapter Scholarships /](https://alumni.vt.edu/chapters/scholarship.html) |  | Jan 15, 2027 |
 | [IMPACT Scholarships (Inclusion improving Medicine, Patient outcomes And Community health with Talent)](https://vt.academicworks.com/opportunities/72037) |  | Jan 15, 2027 |
 | [Sociology Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/sociology-scholarships.html) |  | Jan 15, 2027 |
@@ -54,7 +55,6 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Mo Donaldson Memorial Scholarship](https://vt.academicworks.com/opportunities/71410) |  | Jan 22, 2027 |
 | [Nagy & Jennifer Maalouf Scholarship](https://vt.academicworks.com/opportunities/68404) |  | Jan 22, 2027 |
 | [O. C. Thompson Scholarship](https://vt.academicworks.com/opportunities/73276) |  | Jan 22, 2027 |
-| [Presidential Scholarship Initiative](https://www.undergraduate.provost.vt.edu/aai/scholar-support/psi.html) |  | Jan 22, 2027 |
 | [Rhonyll Seballos Endowed Scholarship](https://vt.academicworks.com/opportunities/72331) |  | Jan 22, 2027 |
 | [Robert C. Jones and Family Award for Student Leaders](https://vt.academicworks.com/opportunities/71526) |  | Jan 22, 2027 |
 | [Robin Reed Journalism Scholarship](https://vt.academicworks.com/opportunities/69904) |  | Jan 22, 2027 |
@@ -75,6 +75,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Philosophy Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/philosophy-scholarships.html) | $21,780 | Feb 1, 2027 |
 | [Science, Technology, and Society Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/science-technology-and-society-scholarships.html) |  | Feb 1, 2027 |
 | [The Austin Excellence Fund for Veterans](https://vt.academicworks.com/opportunities/74211) | $5,000 | Feb 1, 2027 |
+| [Study Abroad Scholarships](https://www.globaleducation.vt.edu/students/Outbound/financialmatters.html) | $2,500 | Feb 6, 2027 |
 | [Friends of Psychology Endowed Scholarship](https://vt.academicworks.com/opportunities/69306) |  | Feb 15, 2027 |
 | [Mary Nolen Blackwood Endowed Scholarship](https://vt.academicworks.com/opportunities/71627) |  | Feb 15, 2027 |
 | [Political Science Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/political-science-scholarships.html) | $500 | Feb 15, 2027 |
@@ -86,6 +87,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Jocelyne Couture-Nowak Memorial Scholarship](https://vt.academicworks.com/opportunities/74479) |  | Mar 5, 2027 |
 | [Jamie Bishop Scholarship](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/modern-and-classical-Languages-scholarships.html) |  | Mar 6, 2027 |
 | [Kevin S. Weekley Endowed Scholarship](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/modern-and-classical-Languages-scholarships.html) |  | Mar 6, 2027 |
+| [FRIENDS Founder Lynn Davis Scholarship](https://blueridgefriends.org/scholarships/) |  | Mar 8, 2027 |
 | [Virginia Tech - Virginia Community College System Transfer Achievement Scholarship](https://vt.academicworks.com/opportunities/72603) |  | Mar 12, 2027 |
 | [Hansen Lind Meyer Scholarship](https://vt.academicworks.com/opportunities/74407) |  | Mar 15, 2027 |
 | [Herschel G.A. Elarth Scholarship](https://vt.academicworks.com/opportunities/72509) |  | Mar 15, 2027 |
@@ -100,6 +102,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Counselor Education Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/education-scholarships.html) | $4,000 | Mar 26, 2027 |
 | [Charles W. Schiffert and Dolores S. Schiffert Scholarship](https://vt.academicworks.com/opportunities/73481) |  | Mar 31, 2027 |
 | [Alexander L. Meszaros Student Leadership Award](https://vt.academicworks.com/opportunities/74125) |  | Apr 1, 2027 |
+| [Leo Bourassa Scholarship](https://vlwa.org/committees-and-activities/scholarship/) | $500–$3,000 | Apr 1, 2027 |
 | [Career and Technical Education scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/education-scholarships.html) |  | Apr 15, 2027 |
 | [Public Service Education Institute Scholarship](https://vt.academicworks.com/opportunities/68071) |  | Apr 15, 2027 |
 | [Smithfield Foundation Scholarship](https://vt.academicworks.com/opportunities/74537) |  | May 15, 2027 |
@@ -108,13 +111,16 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Marcos Arvind Venkatesh-Caña Endowed Scholarship](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/modern-and-classical-Languages-scholarships.html) |  | Nov 12, 2027 |
 | [MVF: Dr. Harry L. Schultz Jr. Memorial Award](https://vt.academicworks.com/opportunities/23887) |  | Nov 15, 2027 |
 | [A. P. Montague, Jr.Memorial Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
+| [A.E. "Jim" Evans Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $2,000 | not listed |
 | [Alfred E. Knobler Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/english-development-scholarships.html) |  | not listed |
 | [Archa Vaughan, Jr. Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Armstrong Family Endowed English Scholarship](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/english-development-scholarships.html) |  | not listed |
 | [Auto-match Scholarships](https://students.vt.edu/advancement/Scholarships.html) |  | not listed |
 | [Bartlett Tree Foundation Scholarship Fund](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
+| [Benedetti Student Leader Scholarship](https://students.vt.edu/advancement/Scholarships/Benedetti_Student_Leader_Scholarship.html) |  | not listed |
 | [Bible Family "Dream Big" Scholarship](https://students.vt.edu/advancement/Scholarships/Bible_Family_Dream_Big_Scholarship.html) |  | not listed |
 | [Bixler Scholarship Fund](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/modern-and-classical-Languages-scholarships.html) |  | not listed |
+| [Bonnie Appleton Memorial Scholarship Program](https://treefund.org/appletonfund) |  | not listed |
 | [Bryan W. Graeser Memorial Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $5,625 | not listed |
 | [Cameron Smook Memorial Scholarship](https://vt.academicworks.com/opportunities/5205) |  | not listed |
 | [Camp-Younts Foundation Scholarship in Wildlife (renewable)](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
@@ -128,6 +134,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Charles W. Wampler, Sr. Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Class of 1952 Scholarship](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [Clinton Wiley Baber Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
+| [Commonwealth Grant](https://finaid.vt.edu/undergraduate/typesofaid/grants/commonwealthgrant.html) |  | not listed |
 | [Corps Named Scholarship](https://vtcc.vt.edu/join/scholarships1.html) | $1,000 | not listed |
 | [Cyrus H. McCormick Undergraduate Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Dallas Kinser & RT Johnson Scholarship](https://vt.academicworks.com/opportunities/5882) |  | not listed |
@@ -136,6 +143,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Dean James R. Nichols Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Dean L.B. Dietrick Freshman Merit Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Distinguished Alumni Board Scholarship](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/english-development-scholarships.html) |  | not listed |
+| [Dow Hokie Spirit Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Dr. Donald Zantop Memorial Scholarship Sponsored by Harford County Veterinary Medical Association Scholarship](https://vt.academicworks.com/opportunities/9539) |  | not listed |
 | [Dr. Margaret Knoll Memorial Scholarship](https://vt.academicworks.com/opportunities/23674) |  | not listed |
 | [Dr. Thomas C. Ward Graduate Fellowship](https://vt.academicworks.com/opportunities/23644) |  | not listed |
@@ -143,6 +151,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Educational Leadership scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/education-scholarships.html) |  | not listed |
 | [Edward L. Tucker Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Elizabeth A. Ingalls Forestry Scholarship (renewable)](https://cnre.vt.edu/admissions/scholarships.html) | $2,400 | not listed |
+| [Ellen and Ben Ames Leadership Scholarship](https://students.vt.edu/advancement/Scholarships/Ellen_and_Ben_Ames_Leadership_Scholarship.html) |  | not listed |
 | [English Family Rescue Squad Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Forrest Ray Lewis '68 Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,100 | not listed |
 | [Francis M. Donleavey University Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
@@ -153,6 +162,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [G. Scott Francis Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $7,625 | not listed |
 | [GA Pacific Deans Fellow WS & FP](https://vt.academicworks.com/opportunities/16725) |  | not listed |
 | [Ga Pacific Deans Grad Fellow (FIW)](https://vt.academicworks.com/opportunities/19267) |  | not listed |
+| [Garden Club of America Scholarships](https://www.gcamerica.org/scholarships) |  | not listed |
 | [Garnett H. Harvey Memorial Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [GEO Scholarship](https://www.globaleducation.vt.edu/students/Outbound/financialmatters.html) | $2,500–$7,000 | not listed |
 | [George M. Simmons Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $11,000 | not listed |
@@ -161,6 +171,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Giving Day Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/english-development-scholarships.html) |  | not listed |
 | [Gladys S. Decker Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Gordon and Barbara King Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
+| [Gordon R. Miller Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Gray Lumber Company Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,500 | not listed |
 | [Harry L. Haney Jr. Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $4,200 | not listed |
 | [Harry M. and Mildred M. Raulet Memorial Award](https://vt.academicworks.com/opportunities/9606) |  | not listed |
@@ -168,6 +179,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Healthline Stronger Scholarship](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [Heather N. Hendrickson Memorial Scholarship](https://vt.academicworks.com/opportunities/9654) |  | not listed |
 | [Henricopolis Soil and Water Conservation District Scholarships](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
+| [Henry Dekker Student Leadership Scholarship](https://students.vt.edu/advancement/Scholarships/Henry_Dekker_Student_Leadership_Scholarship.html) |  | not listed |
 | [Henry S. Mosby Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,225 | not listed |
 | [Herman W. Gabriel Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $33,000 | not listed |
 | [Highty-Tighties Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/military-scholarships.html) | $2,000 | not listed |
@@ -175,9 +187,11 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Hokie Spirit Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Human Development and Family Science Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/human-development-scholarships.html) |  | not listed |
 | [Irene T. Meigs Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
+| [Izaak Walton League of America National Conservation Scholarship](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [J. Ambler Johnston Scholarship](https://vt.academicworks.com/opportunities/3146) |  | not listed |
 | [Jack and Pat Raybourne Scholarship](https://vt.academicworks.com/opportunities/13214) |  | not listed |
 | [James & Bernardine Cornelison Scholarship](https://vt.academicworks.com/opportunities/9484) |  | not listed |
+| [James C Reed Memorial Scholarship](https://students.vt.edu/advancement/Scholarships/James_C_Reed_Memorial_Scholarship.html) |  | not listed |
 | [James D. Moran Memorial Scholarship for Graduate Students](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/graduate-scholarships-fellowships.html) |  | not listed |
 | [James L. McDonald Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Jay Swami Memorial Scholarships](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/english-development-scholarships.html) |  | not listed |
@@ -191,6 +205,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [John Lee Pratt Animal Nutrition Senior Research Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [John Lee Pratt Animal Nutrition Senior Research Scholarship Program](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [John Lee Pratt Merit Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
+| [John Mabry Forestry Scholarship](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [John R. Dawkins Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Joseph Moore Creative Writing Scholarship](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/english-development-scholarships.html) |  | not listed |
 | [Joyce Gentry Smoot Scholarship](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/english-development-scholarships.html) |  | not listed |
@@ -204,15 +219,19 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Margaret R. Svoboda 4-H Scholarship](https://liberalarts.vt.edu/student-experience/scholarships-and-awards/college-scholarships.html) |  | not listed |
 | [Marion & Annie Williams General Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Marion A. and Annie W. Williams Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
+| [Martha Pennington Orth Memorial Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,400 | not listed |
 | [Martin-Marietta Aircraft Scholarship](https://vt.academicworks.com/opportunities/3773) |  | not listed |
 | [Maryland Kennel Club Scholarship](https://vt.academicworks.com/opportunities/9674) |  | not listed |
 | [Maury A. Hubbard Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
+| [McClelland Aspirations Scholarship](https://students.vt.edu/advancement/Scholarships/McClelland_Aspirations_Scholarship.html) |  | not listed |
 | [McNair Alumni Fund](https://vt.academicworks.com/opportunities/15155) |  | not listed |
 | [Michael B. Wagner Memorial Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,500 | not listed |
+| [Mid-Atlantic Chapter of the International Erosion Control Association Collegiate Scholarship Award](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [Military Scholarships](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/military-scholarships.html) | $2,000 | not listed |
 | [Molly E. Workmeister Memorial Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Morgan Lumber Company Management Team Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $2,850 | not listed |
 | [Morgan Lumber Company Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $7,700 | not listed |
+| [Mr. and Mrs. Thomas C. Newbill Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,550 | not listed |
 | [MVF: Dr. A. Cleveland Brown Scholarship](https://vt.academicworks.com/opportunities/23875) |  | not listed |
 | [MVF: Dr. Charles G. Ziegler Memorial Scholarship](https://vt.academicworks.com/opportunities/23893) |  | not listed |
 | [MVF: Dr. David Bogash Memorial Award](https://vt.academicworks.com/opportunities/23770) |  | not listed |
@@ -228,6 +247,7 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Patricia Gallagher History Scholars](https://vt.academicworks.com/opportunities/6016) |  | not listed |
 | [Paul M. Large Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Paul N. Derring Scholarship](https://students.vt.edu/advancement/Scholarships/Paul_N_Derring_Scholarship.html) |  | not listed |
+| [Paul Webster Forestry Scholarship](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [PCC Foundry Scholarship](https://vt.academicworks.com/opportunities/17004) |  | not listed |
 | [Population Health Science](https://vt.academicworks.com/opportunities/23647) |  | not listed |
 | [Pulley-Louden Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
@@ -238,10 +258,13 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Richard & Marie Venable Scholarship](https://vt.academicworks.com/opportunities/17917) |  | not listed |
 | [Richard B. Vasey Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $5,900 | not listed |
 | [Roanoke Valley Horsemen's Association Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
+| [Robert C. and Emily S. Jones Family Scholarship](https://students.vt.edu/advancement/Scholarships/Robert_C_and_Emily_S_Jones_Family_Scholarship.html) |  | not listed |
 | [Robert Edward Nance '50 Memorial Scholarship](https://students.vt.edu/advancement/Scholarships/Robert_Edward_Nance_50_Memorial_Scholarship.html) |  | not listed |
 | [Robert L. and Benton R. Leach Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Robert L. and Esther S. Youngs Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $4,100 | not listed |
+| [Rocky Mountain Elk Foundation's Wildlife Leadership Award](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [Roseanne Robertson Memorial Award for Ophthalmology](https://vt.academicworks.com/opportunities/23686) |  | not listed |
+| [Rt. Rev. William Loyall Gravatt Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $2,375 | not listed |
 | [Ryan Christopher Clark Memorial Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Senator Robert J. Noell and Randolph A. Noell Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [SGA/USS Leader Scholarship](https://students.vt.edu/advancement/Scholarships/SGA_USS_Leader_Scholarship.html) |  | not listed |
@@ -257,13 +280,16 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Thomas H. Jones Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $3,500 | not listed |
 | [Thomas L. Robertson Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
 | [Thomas M. Brooks Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $2,450 | not listed |
+| [Thornhill Family Alpha Gamma Rho Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Tom W. Poole Memorial Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
+| [Trees Virginia Academic Scholarships](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [Tucker Livestock Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Udall Foundation Undergraduate Scholarships](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [Victor W. Stewart Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,000–$3,500 | not listed |
 | [Virginia Association of Soil and Water Conservation Districts Student Scholarships](https://cnre.vt.edu/admissions/scholarships.html) |  | not listed |
 | [Virginia Beef Corporation Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Virginia Beef Corporation Scholarship - Virginia Tech](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
+| [Virginia County Agents Foundation Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Virginia Crop Production Association Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Virginia Crop Production Association, Inc. Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Virginia Farm Bureau Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
@@ -278,6 +304,8 @@ Blacksburg, VA · 101 open · 175 with no date listed · 54 closed (not shown)
 | [Watt R. Foster, Jr. and Jennifer Foster Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [William August Stuermann and Mable Beard Stuermann Scholarship (renewable)](https://cnre.vt.edu/admissions/scholarships.html) | $17,000 | not listed |
 | [William Fleming High School Scholarship](https://finaid.vt.edu/undergraduate/typesofaid/scholarships/terms-and-conditions.html) |  | not listed |
+| [William M. Carter Memorial Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,200 | not listed |
+| [William O. Ross Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $1,150 | not listed |
 | [William R. Powell Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [William Whateley Tanner Memorial Scholarship](https://www.cals.vt.edu/academic-programs/prospective/scholarships/scholarships-academic-programs.html) |  | not listed |
 | [Wood Enterprise Institute Entrepreneurial Scholarship](https://cnre.vt.edu/admissions/scholarships.html) | $500 | not listed |

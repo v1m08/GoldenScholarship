@@ -1,6 +1,6 @@
 # Averett University scholarships
 
-Danville, VA · 1 open · 41 with no date listed · 0 closed (not shown)
+Danville, VA · 1 open · 42 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/averett-university-231420)**
 
@@ -18,6 +18,7 @@ Danville, VA · 1 open · 41 with no date listed · 0 closed (not shown)
 | [Bruce James Barbour Family Scholarship](https://www.averett.edu/financial-aid/apply-for-financial-aid/private-scholarships/) | $5,000 | not listed |
 | [Carroll and Ruth McDowell Scholarship](https://www.averett.edu/financial-aid/apply-for-financial-aid/private-scholarships/) |  | not listed |
 | [David S. Reynolds Theatre Arts Scholarship](https://www.averett.edu/financial-aid/apply-for-financial-aid/private-scholarships/) |  | not listed |
+| [Earnest L. Carter II Scholarship](https://www.averett.edu/financial-aid/apply-for-financial-aid/scholarships-grants-gps/) |  | not listed |
 | [Elizabeth and James Bustard Distinguished Award](https://www.averett.edu/financial-aid/apply-for-financial-aid/private-scholarships/) | $5,000 | not listed |
 | [Elizabeth R. Smith/Tom Wilson Theatre Arts Scholarship](https://www.averett.edu/financial-aid/apply-for-financial-aid/private-scholarships/) |  | not listed |
 | [Ella Vaden Aylor Scholarship](https://www.averett.edu/financial-aid/apply-for-financial-aid/private-scholarships/) | $2,500 | not listed |

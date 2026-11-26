@@ -1,6 +1,6 @@
 # St. Thomas University scholarships
 
-Miami Gardens, FL · 1 open · 102 with no date listed · 0 closed (not shown)
+Miami Gardens, FL · 1 open · 104 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/st-thomas-university-137476)**
 
@@ -11,6 +11,7 @@ Miami Gardens, FL · 1 open · 102 with no date listed · 0 closed (not shown)
 | [Adrienne R. & Edward J. Mulvey Endowed Scholarship for Undergraduate Students](https://stu.academicworks.com/opportunities/381) |  | not listed |
 | [Al & Beatriz Miniaci Endowed Scholarship](https://stu.academicworks.com/opportunities/378) |  | not listed |
 | [Alma H. Bir Endowed Scholarship](https://stu.academicworks.com/opportunities/330) |  | not listed |
+| [Alumni Award](https://www.stu.edu/financial-aid/scholarships/) |  | not listed |
 | [Amaturo Family Foundation Theology & Ministry Scholarships](https://stu.academicworks.com/opportunities/489) |  | not listed |
 | [American Academy of Matrimonial Lawyers-Florida Chapter Endowed Scholarship](https://stu.academicworks.com/opportunities/144) | $1,000 | not listed |
 | [Ana I. Cantens Education Scholarship](https://stu.academicworks.com/opportunities/339) |  | not listed |
@@ -96,6 +97,7 @@ Miami Gardens, FL · 1 open · 102 with no date listed · 0 closed (not shown)
 | [Rudy & Michele Graf Family Endowed Scholarship](https://stu.academicworks.com/opportunities/357) |  | not listed |
 | [Saint Pope John Paul II Graduate Scholarships in Pastoral Ministry](https://stu.academicworks.com/opportunities/486) |  | not listed |
 | [Santisteban Family Law Scholarship](https://stu.academicworks.com/opportunities/189) |  | not listed |
+| [Sibling Award](https://www.stu.edu/financial-aid/scholarships/) |  | not listed |
 | [Silvia A. & Jose R. Rodriguez Theology Scholarship](https://stu.academicworks.com/opportunities/495) |  | not listed |
 | [Suntrust Bank Endowed Scholarship](https://stu.academicworks.com/opportunities/420) |  | not listed |
 | [Suntrust First Generation Scholarship](https://stu.academicworks.com/opportunities/426) |  | not listed |

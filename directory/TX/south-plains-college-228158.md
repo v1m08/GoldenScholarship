@@ -1,6 +1,6 @@
 # South Plains College scholarships
 
-Levelland, TX · 347 open · 5 with no date listed · 0 closed (not shown)
+Levelland, TX · 347 open · 6 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/south-plains-college-228158)**
 
@@ -353,6 +353,7 @@ Levelland, TX · 347 open · 5 with no date listed · 0 closed (not shown)
 | [Xi Theta Pi Chapter of Beta Sigma Phi](https://southplainscollege.academicworks.com/opportunities/9687) |  | Mar 1, 2027 |
 | [Z.O. Lincoln Memorial Scholarship in History](https://southplainscollege.academicworks.com/opportunities/9726) |  | Mar 1, 2027 |
 | [Zane Morgan Timmons Memorial Scholarship](https://southplainscollege.academicworks.com/opportunities/9774) |  | Mar 1, 2027 |
+| [Activity Scholarships](https://www.southplainscollege.edu/admission-aid/paying-for-school/scholarships/actscholars.php) | $100–$400 | not listed |
 | [Dunco R.E. "Peck" Williams Tuition Scholarship](https://www.cfwtx.org/current-scholarships) |  | not listed |
 | [Non-Traditional Student Scholarships](https://www.southplainscollege.edu/admission-aid/paying-for-school/scholarships/nontradscholars.php) | $500 | not listed |
 | [Roy Voyles Scholarship](https://www.cfwtx.org/current-scholarships) |  | not listed |

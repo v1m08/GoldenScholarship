@@ -1,6 +1,6 @@
 # Texas State University scholarships
 
-San Marcos, TX · 5 open · 143 with no date listed · 0 closed (not shown)
+San Marcos, TX · 5 open · 147 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/texas-state-university-228459)**
 
@@ -34,6 +34,7 @@ San Marcos, TX · 5 open · 143 with no date listed · 0 closed (not shown)
 | [Carman Endowed Undergraduate Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [Carol Plassmann Endowed Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
 | [Cathey E. and James E. Moore Endowed Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
+| [Cecil D. & Rosalie N. Strickland Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
 | [Cecilia Temponi Quasi-Endowed Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [Centurylink Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [Charles Butt Scholarship for Aspiring Teachers](https://www.education.txst.edu/students/scholarships/cbf-scholarship.html) |  | not listed |
@@ -101,6 +102,7 @@ San Marcos, TX · 5 open · 143 with no date listed · 0 closed (not shown)
 | [Larry and Robin Kapavik Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [Latham J. Kerley Endowed Undergraduate Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [Lesley Jones Graduate Fellowship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
+| [Liekovsky Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
 | [Lila Lee Cleckler Bales Memorial Endowed Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
 | [Linda E. Homeyer Play Therapy Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
 | [Lorine Ramsdell Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
@@ -121,6 +123,7 @@ San Marcos, TX · 5 open · 143 with no date listed · 0 closed (not shown)
 | [Otis G. Reese Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [Patricia Fertsch Beck Education Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
 | [Paul D. Coverdell Fellowship: International Studies](https://www.gradcollege.txst.edu/funding/scholarships.html) | $39,000 | not listed |
+| [Paul D. Coverdell Fellowship: Public Administration](https://www.gradcollege.txst.edu/funding/scholarships.html) |  | not listed |
 | [Paul D. Coverdell Fellowship: Social Work Advanced Practice Leadership](https://www.gradcollege.txst.edu/funding/scholarships.html) | $65,552 | not listed |
 | [Paul R. Gowens Endowed Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [President's Honor Scholarship](https://onestop.txst.edu/financial-aid/scholarships/freshman.html) | $48,000 | not listed |
@@ -137,6 +140,7 @@ San Marcos, TX · 5 open · 143 with no date listed · 0 closed (not shown)
 | [Sally Boeck Memorial Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
 | [Sam and Ann Hawkins Endowed Education Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
 | [Sandee Marshall Abbott Endowed Scholarship](https://www.education.txst.edu/students/scholarships/coe-scholarships.html) |  | not listed |
+| [Sarah and Doug Foshee Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [Stan and Judy Stephenson Endowed Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) | $1,000 | not listed |
 | [Stanley K. Tanger Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |
 | [Steven M. "Steve" Peña, Sr. and Claudia Fournier-Peña Scholarship](https://www.mccoy.txst.edu/students/scholarships/scholarships-index.html?) |  | not listed |

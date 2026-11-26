@@ -1,6 +1,6 @@
 # Harding University scholarships
 
-Searcy, AR · 18 open · 46 with no date listed · 1 closed (not shown)
+Searcy, AR · 18 open · 51 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/harding-university-107044)**
 
@@ -32,12 +32,14 @@ Searcy, AR · 18 open · 46 with no date listed · 1 closed (not shown)
 | [Bill and Pat Yick Music Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Blachly Premedicine Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Burns-Harris Math and Physical Science Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
+| [Carter Admissions Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Charles and Geraldine Poole Endowed Scholarship Fund](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Christian High School Graduate Scholarship](https://www.harding.edu/admissions/cost/) | $1,000 | not listed |
 | [Christian Leadership and Service Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Christian Ministers and Educators Scholarship](https://www.harding.edu/admissions/cost/) | $8,000 | not listed |
 | [Communication Scholarships offered](https://www.harding.edu/arts-sciences/communication/scholarships/) | $2,000 | not listed |
 | [Coons-Farrar Endowment Scholarships for the Health Sciences](https://www.harding.edu/admissions/cost/) |  | not listed |
+| [Dale and Joan Coleman Endowed Scholarship Fund](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Dana Wilburn Martin endowed scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Directors Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Doctoral in Leadership: Harding University Staff Fellowship](https://www.harding.edu/academics/graduate-professional/graduate-financial-aid/) |  | not listed |
@@ -64,11 +66,14 @@ Searcy, AR · 18 open · 46 with no date listed · 1 closed (not shown)
 | [Neva J. White Scholarship Fund](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Otis Nichols Premedical Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Pauline Crumpler Foundation Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
+| [Richie's Specialty Pharmacy Scholarship](https://www.harding.edu/academics/graduate-professional/graduate-financial-aid/) |  | not listed |
 | [Rodney and Joan Carlton Premedical Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Stanley S. Schwartz Premedical Scholarship](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Summitt Family Endowed Scholarship Fund](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Valda Montgomery Endowed Scholarship Fund](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Veterans Endowed Scholarship for Physician Assistant](https://www.harding.edu/admissions/cost/) |  | not listed |
 | [Vicki Dell Memorial Endowed Music Scholarship Fund](https://www.harding.edu/admissions/cost/) |  | not listed |
+| [Walgreens Diversity and Inclusion Scholarship](https://www.harding.edu/academics/graduate-professional/graduate-financial-aid/) |  | not listed |
+| [Walgreens Multilingual Scholarship](https://www.harding.edu/academics/graduate-professional/graduate-financial-aid/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

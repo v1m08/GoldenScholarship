@@ -1,6 +1,6 @@
 # Cerro Coso Community College scholarships
 
-Ridgecrest, CA · 9 open · 14 with no date listed · 0 closed (not shown)
+Ridgecrest, CA · 10 open · 15 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/cerro-coso-community-college-111896)**
 
@@ -11,6 +11,7 @@ Ridgecrest, CA · 9 open · 14 with no date listed · 0 closed (not shown)
 | [Jack Kent Cooke Scholarship](https://www.cerrocoso.edu/enrollment-aid/scholarships/) | $1,000 | Dec 9, 2026 |
 | [Foreclosure.com Scholarship Program](https://www.cerrocoso.edu/enrollment-aid/scholarships/) | $4,000 | Dec 15, 2026 |
 | [Top Ten List Scholarship](https://www.cerrocoso.edu/enrollment-aid/scholarships/) | $1,500 | Dec 31, 2026 |
+| [Unigo $10K Scholarship](https://www.cerrocoso.edu/enrollment-aid/scholarships/) | $10,000 | Dec 31, 2026 |
 | [CCCSFAAA 2026-27 Scholarships](https://www.cerrocoso.edu/enrollment-aid/scholarships/) | $500 | Jan 8, 2027 |
 | [Sweet and Simple Scholarship](https://www.cerrocoso.edu/enrollment-aid/scholarships/) | $1,500 | Feb 28, 2027 |
 | [Superpower Scholarship](https://www.cerrocoso.edu/enrollment-aid/scholarships/) | $3,000 | Mar 31, 2027 |
@@ -29,5 +30,6 @@ Ridgecrest, CA · 9 open · 14 with no date listed · 0 closed (not shown)
 | [Ridgecrest Chapter CTTC and KAS Meade Biological Sciences Scholarship](https://www.cerrocoso.edu/enrollment-aid/scholarships/cttc-kas-meade-biological-sciences-scholarship.html) | $1,000 | not listed |
 | [Ronald Curtis Wilson Memorial Scholarship](https://www.cerrocoso.edu/enrollment-aid/scholarships/ronald-curtis-wilson-memorial-scholarship.html) |  | not listed |
 | [Tania Lynn Atkisson Memorial Scholarship](https://www.cerrocoso.edu/enrollment-aid/scholarships/tania-lynn-atkisson-memorial-scholarship.html) | $300 | not listed |
+| [Varsity Tutors Monthly Scholarship Description](https://www.cerrocoso.edu/enrollment-aid/scholarships/) | $1,000 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

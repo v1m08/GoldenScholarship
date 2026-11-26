@@ -1,6 +1,6 @@
 # Angelo State University scholarships
 
-San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
+San Angelo, TX · 1 open · 385 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/angelo-state-university-222831)**
 
@@ -11,6 +11,7 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Agriculture Meat Science Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Aileen B. Trimble Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Al B. & Frances Trammel Moore Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Alan Davis Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Alvin New Family Honors Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Amoco Production Company Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Amy Pettit Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -30,9 +31,13 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [ASU Distinguished Transfer Scholarship](https://www.angelo.edu/admissions-and-aid/paying-for-college/scholarships/scholarship-faq/distinguished-scholarship-faq.php) |  | not listed |
 | [ASU Fame Endowed Scholarship Fund](https://www.saafound.org/list-of-scholarship-funds) |  | not listed |
 | [ASU Mascot Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
+| [ASU Rodeo Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [ASU ROTC Det. 847 Alumni Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $500 | not listed |
 | [ASU Student-Athlete Alumni Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [B & W Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [B.R. & Ruth Weatherford Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Barbara B. Rallo Student Support Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Barbara Holt Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ben and Alvetta Kelly Football Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Berchman T. Carville Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bernard T. Young Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -50,11 +55,14 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Cadine Massey Williams Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CalTech MIS Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Captain Jack Wood Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Carl and Addie Schmidt Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Carla Pierce Memorial Scholarship Fund](https://www.saafound.org/list-of-scholarship-funds) |  | not listed |
 | [Carolyn Ann Finney Nursing Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Carolyn R. Mason PT Research Travel Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Casillas Mechanical Engineering Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Cecil Jameson Nursing Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Celia Berwin Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Charles Day Windell Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Charlie Van Pelt Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Charlie Woodson Henderson Jr., Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Chartwells Meal Plan Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -65,7 +73,9 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Cheerleader Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
 | [Cheryl Story Null Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Cheyenne Marie Fiveash Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Chionsini Foster Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $2,000 | not listed |
 | [Chionsini Nursing Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $2,000 | not listed |
+| [Choir Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Christine Hurst Cockrell Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Clarence Wiseman Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Claude Collins, Jr. Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -80,6 +90,7 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Cumbie Ivey, Jr. Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dale Evans Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Danny Cooper Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [David Fennell Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David R. and Jo Nell Harlow Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [David R. and Margaret Shahan Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dean Chenoweth Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -88,6 +99,7 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Delbert Tarter Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Distinguished Earn-in Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Distinguished Honors Scholarships](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $13,000 | not listed |
+| [Distinguished Returning Student Scholarship](https://www.angelo.edu/admissions-and-aid/paying-for-college/scholarships/asu-distinguished/returning-student.php) | $1,000–$2,000 | not listed |
 | [Distinguished Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $10,000 | not listed |
 | [Distinguished Transfer Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $4,000 | not listed |
 | [Don & Adele Fleming Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -95,9 +107,11 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Donald and Martha Shelby Pre-Vet Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Donald D. and Fay Cox Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Donald D. Lummus Music Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Donna Swartz Family Visual Arts Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Arnoldo and Dolores De Leon Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
 | [Dr. Charley H. Shannon Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Crosby W. Jones Research Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. Dan Parsons Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Doreen Grimes Piano Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. E. James Holland Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Edgar N. Drake Memorial Chemistry Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -109,10 +123,12 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Dr. Leslie Mayrand Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Merril W. Everhart Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Raymond M. and Maurine Cavness Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. Robert and Jean Ann LeGrand Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Shelly D. Weise Physical Therapy Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Tamara Olive Single-Parent Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Terry Lehmann Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. Verna Mae Crutchfield Special Education Award](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Dr. Warren Simpson Excellence Fund for Handball Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. William "Bill" Mills Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. William A. and Randi Buche Biology Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dr. William A. and Randi Buche English Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -144,6 +160,7 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Frank M. Pool, Jr. English Graduate Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Frank Sturzl Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Friends of The Visual Arts Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Future Engineering Leaders Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gary and Gretchen Massingill Education Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gary Grogan Agriculture Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Gary Sanderford Science Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -185,6 +202,7 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [James A. "Buddy" Davidson Nursing Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [James A. (Jim) Richardson Management Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [James H. & Minnie M. Edmonds Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [James Hindman Baseball ASU Baseball Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [James M. Varnadore Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [James Michael Archer Biology Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [James William Keller Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -246,6 +264,8 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [McIntyre Family Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Melba and Sherri Edenbaum Women's Athletic Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Miers Family Education Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Mike & Donna Anderson ASU Baseball Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Mike Floyd Commercial Aviation Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mike Floyd Freshmen Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mike Floyd Veteran Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mike Irons Football Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -266,7 +286,9 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Mr. and Mrs. Theo Alexander Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Nan Hopson Lackey Women's Sports Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Nathan's Jewelers Athletic Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [National Association of Royalty Owners - Texas Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Neurologic Physical Therapy Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Nevel "Red" and Geneva Haley Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [O. S. and Julia Merck Cauthen Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [O.D. Harrison, Jr. Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Odene Crawford Fine Arts Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -290,6 +312,7 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Ralph & Bobby Lou Mayer Athletic Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ralph & Elene Wilson Scholarship Fund](https://www.saafound.org/list-of-scholarship-funds) |  | not listed |
 | [Ralph and Bobby Lou Mayer Scholarship Fund](https://www.saafound.org/list-of-scholarship-funds) |  | not listed |
+| [Ram Band Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ram Family Student Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ram Lal Seekri Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [RAMbassador Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -299,6 +322,7 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Randy Matthews Athletic Training Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Raymond Torres Meza II Memorial Scholarship Fund](https://www.saafound.org/list-of-scholarship-funds) |  | not listed |
 | [Reece Albert Civil Engineering Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Rena Thorp Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Rev. Howard and Elizabeth Johnson Memorial Scholarship for the Arts](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Richard G. Mayer and Betty Clark Mayer All-Sports Scholarship Endowment](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Rick May Nursing Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $5,000 | not listed |
@@ -330,6 +354,7 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [Staff/Faculty Student Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Stayton Gillett Ward Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Stephens ASU Athletics Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Stephens Scholarship Concho Valley for ASU Athletics](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Steve Meadows Baseball Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Sue Lubke Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Susan Miles Scholarship Fund](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -351,12 +376,14 @@ San Angelo, TX · 1 open · 358 with no date listed · 0 closed (not shown)
 | [TSgt R.F. Leftwich Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [TXCPA San Angelo Accounting Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Victoria "Tori" Rice Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,250 | not listed |
+| [Vincent Family Athletic Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Virginia Lea Carson Harris Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Wallace and Wanna Clary Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Walter H. Bader Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Walton A. Foster Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) | $500 | not listed |
 | [Wayland Yates Memorial Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Weatherford-Nau Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Weldon and Virginia Fikes Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Werner and Celia Gerlach Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Wilfred "Fred" and Billie D. Bruce Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [William A. Bonner Educational Scholarship](https://angelo.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |

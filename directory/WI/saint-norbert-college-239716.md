@@ -1,6 +1,6 @@
 # Saint Norbert College scholarships
 
-De Pere, WI · 4 open · 6 with no date listed · 0 closed (not shown)
+De Pere, WI · 4 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/saint-norbert-college-239716)**
 
@@ -16,5 +16,6 @@ De Pere, WI · 4 open · 6 with no date listed · 0 closed (not shown)
 | [St. Norbert College Grant](https://snc.edu/financial-aid/scholarships) |  | not listed |
 | [Trustee Distinguished Scholarship](https://snc.edu/financial-aid/scholarships) | $34,000 | not listed |
 | [Trustee Emeritus Scholarship](https://snc.edu/financial-aid/scholarships) | $35,000 | not listed |
+| [Wisconsin Veterans Grant](https://heab.state.wi.us/features/vets.html) | $2,000 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

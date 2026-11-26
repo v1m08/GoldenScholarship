@@ -1,6 +1,6 @@
 # Pennsylvania State University-Main Campus scholarships
 
-University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown)
+University Park, PA · 24 open · 306 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/pennsylvania-state-university-main-campus-214777)**
 
@@ -28,6 +28,8 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [Penn State Commonwealth Award](https://www.psu.edu/costs-aid/types-of-aid/scholarships/commonwealth-award) |  | May 1, 2027 |
 | [Pennsylvania State Resident Grant](https://altoona.psu.edu/tuition-financial-aid/grants) |  | May 1, 2027 |
 | [Provost's Award](https://www.psu.edu/costs-aid/types-of-aid/scholarships/provost-academic-award) |  | May 1, 2027 |
+| [Behan Law Group Military Veteran Scholarship](https://www.missduiarizona.com/military-veteran-scholarship?utm_source=chatgpt.com) | $1,000 | May 24, 2027 |
+| [First Command Educational Foundation Scholarships](https://fcef.com/scholarships/) | $25,000 | Oct 1, 2027 |
 | [Ackroyd Family Healthier Days Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/ackroyd-family-healthier-days-scholarship) |  | not listed |
 | [Adma Hammam Shibley Memorial Scholarship in Library Science](https://libraries.psu.edu/about/awards-scholarships-internships-and-graduate-assistantships/scholarship-opportunities) |  | not listed |
 | [Administrative Unit Scholarships](https://www.psu.edu/costs-aid/types-of-aid/scholarships) | $7,500 | not listed |
@@ -76,6 +78,7 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [Courtney Pollock Memorial Trustee Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/courtney-pollock-memorial-trustee-scholarship) |  | not listed |
 | [Craig and Heidi Ritter Scholarship at Penn State Harrisburg](https://harrisburg.psu.edu/financial-aid/scholarships/craig-and-heidi-ritter-scholarship-at-penn-state-harrisburg) |  | not listed |
 | [Craig H. Neilsen Foundation Scholarship](https://equity.psu.edu/offices/student-disability-resources/craig-h-neilson-foundation-scholarship) |  | not listed |
+| [Cynthia M. Joyce Trustee Scholarship](https://libraries.psu.edu/about/awards-scholarships-internships-and-graduate-assistantships/scholarship-opportunities) |  | not listed |
 | [Daisey Family Scholarship in Educational Equity](https://equity.psu.edu/scholarships/scholarships-with-specific-eligibility-requirements) |  | not listed |
 | [Dale and Rosaline Hollinger Scholarship for Students with Disabilities](https://equity.psu.edu/offices/student-disability-resources/scholarships) |  | not listed |
 | [Dale W. Hollinger-Charlotte W. Newcombe Foundation Scholarship](https://equity.psu.edu/offices/student-disability-resources/scholarships) |  | not listed |
@@ -118,8 +121,10 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [Excellence in Mathematics Education Award](https://harrisburg.psu.edu/financial-aid/scholarships/excellence-in-mathematics-education-award) |  | not listed |
 | [Excellence in Neuropsychology Award](https://harrisburg.psu.edu/financial-aid/scholarships/excellence-neuropsychology-award) |  | not listed |
 | [Forrest and Ruth Fenstermaker Trustee Scholarship in Educational Equity](https://equity.psu.edu/scholarships/scholarships-with-specific-eligibility-requirements) |  | not listed |
+| [Francis E. Brady Memorial Award](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Francis H.S. Hall Memorial Scholarship for Academic Excellence](https://fayette.psu.edu/tuition-and-financial-aid/financial-aid/scholarships/psf-scholarships) |  | not listed |
 | [Franklin Family Undergraduate Endowed Scholarship in Educational Equity](https://equity.psu.edu/scholarships/scholarships-with-specific-eligibility-requirements) |  | not listed |
+| [Fred W. Montanari Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Frederick R. Blair Business Excellence Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/frederick-r-blair-business-excellence-scholarship) |  | not listed |
 | [G. Mccarter & W. Stout Memorial Scholarships](https://harrisburg.psu.edu/financial-aid/scholarships/g-mccarter-and-w-stout-memorial-scholarship) |  | not listed |
 | [Gannett Fleming Award in Honor of Dr. Charles A. Cole](https://harrisburg.psu.edu/financial-aid/scholarships/gannett-fleming-award-in-honor-of-dr-charles-a-cole) |  | not listed |
@@ -134,6 +139,7 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [H. Leonard Krouse Award of the Penn State Club of Delaware County](https://www.brandywine.psu.edu/tuition-financial-aid/scholarships) |  | not listed |
 | [H.B. Alexander Foundation, Inc. Penn State Harrisburg Engineering Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/hb-alexander-foundation-inc-penn-state-harrisburg-engineering-scholarship) |  | not listed |
 | [Hall Family Scholarship in Nursing](https://harrisburg.psu.edu/financial-aid/scholarships/hall-family-scholarship-nursing) |  | not listed |
+| [Harold A. Johnson Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Harold E. and V. Arlene Cheatham Educational Equity Scholarship](https://equity.psu.edu/scholarships/scholarships-with-specific-eligibility-requirements) |  | not listed |
 | [Harold M. Schaeffer Scholarship](https://www.brandywine.psu.edu/tuition-financial-aid/scholarships) |  | not listed |
 | [Harry and Susan Kauffman Bunton-Waller Scholarship](https://equity.psu.edu/scholarships/scholarships-with-specific-eligibility-requirements) |  | not listed |
@@ -148,8 +154,10 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [Hoverter Foundation Trustee Matching Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/hoverter-foundation-trustee-matching-scholarship) |  | not listed |
 | [Hoverter Trustee Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/hoverter-trustee-scholarship) |  | not listed |
 | [Howard C. and Betty B. Woodring - Newcombe Foundation Scholarship for Students with Disabilities](https://equity.psu.edu/offices/student-disability-resources/scholarships) |  | not listed |
+| [Industrial Engineering Faculty/Staff and Alumni Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Integrated Undergraduate & Graduate Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/low-award-in-american-studies) |  | not listed |
 | [InterCon Systems, Inc., Endowed Undergraduate Scholarship](https://harrisburg.psu.edu/financial-aid/scholarship/intercon-systems-inc-endowed-undergraduate-scholarship) |  | not listed |
+| [Inyong Ham Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Irving and Mildred Hand State, Urban and Regional Affairs Award](https://harrisburg.psu.edu/financial-aid/scholarships/irving-and-mildred-hand-state-urban-and-regional-affairs-award) |  | not listed |
 | [Irwin Richman Scholarship in American Studies](https://harrisburg.psu.edu/financial-aid/scholarships/irwin-richman-scholarship-american-studies) |  | not listed |
 | [Jack and Dorothy Calderone Award](https://www.brandywine.psu.edu/tuition-financial-aid/scholarships) |  | not listed |
@@ -157,6 +165,7 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [James P. and Barbara J. Palumbo Boodon Family Scholarships in Educational Equity](https://equity.psu.edu/scholarships/scholarships-with-specific-eligibility-requirements) |  | not listed |
 | [James R. and Barbara J. Myler Scholarship in Educational Equity](https://equity.psu.edu/offices/veterans-programs/scholarships) |  | not listed |
 | [James T. Wallace Family Award for Engineering Excellence](https://harrisburg.psu.edu/financial-aid/scholarships/james-t-wallace-family-award-for-engineering-excellence) |  | not listed |
+| [James W. Grove Industrial Engineering Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Jane E. Cooper Endowed Adult Student Scholarship](https://www.brandywine.psu.edu/tuition-financial-aid/scholarships) |  | not listed |
 | [Jane Filby Leipold Scholarship](https://harrisburg.psu.edu/financial-aid/scholarship/jane-filby-leipold-scholarship) |  | not listed |
 | [Jane Housman Sheetz Memorial Scholarship](https://www.brandywine.psu.edu/tuition-financial-aid/scholarships) |  | not listed |
@@ -219,9 +228,12 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [Navy SEAL Foundation Scholarship](https://equity.psu.edu/offices/veterans-programs/scholarships) |  | not listed |
 | [Neelima and Mukul Parikh Foundation Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/neelima-and-mukul-parikh-foundation-scholarship) |  | not listed |
 | [Nelson R. and Jaclyn King Braddy/King Family Undergraduate Scholarship](https://libraries.psu.edu/about/awards-scholarships-internships-and-graduate-assistantships/scholarship-opportunities) |  | not listed |
+| [Neyhart Scholarship in Industrial Engineering](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Nichola D. Gutgold Speak Up and Speak Well Scholarship](https://lehighvalley.psu.edu/penn-state-lehigh-valley-scholarships) |  | not listed |
+| [Nicholas Kay Scholarship Fund](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Norbert P. Gaelen Industrial and Manufacturing Engineering Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Nursing Scholarships](https://fayette.psu.edu/tuition-and-financial-aid/financial-aid/scholarships/psf-scholarships) |  | not listed |
+| [Orlando and Mary Houts Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Osaze Olufemi Osagie Memorial Scholarship](https://equity.psu.edu/offices/student-disability-resources/scholarships) |  | not listed |
 | [Osaze Olufemi Osagie Memorial Scholarship for Educational Equity](https://equity.psu.edu/offices/student-disability-resources/scholarships) |  | not listed |
 | [Paralyzed Veterans of America Educational Scholarship](https://equity.psu.edu/offices/veterans-programs/scholarships) | $2,500 | not listed |
@@ -297,6 +309,7 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [Thomas A. Plein Foundation Trustee Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/thomas-a-plein-foundation-trustee-scholarship) |  | not listed |
 | [Thomas E. Hare III Memorial Award](https://www.brandywine.psu.edu/tuition-financial-aid/scholarships) |  | not listed |
 | [Thomas L. Zug, P. E. Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/thomas-l-zug-pe-scholarship) |  | not listed |
+| [Tracy J. Knott Memorial Award](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Trustee Scholarship Fund for Penn State Harrisburg](https://harrisburg.psu.edu/financial-aid/scholarships/trustee-scholarship-fund-for-penn-state-harrisburg) |  | not listed |
 | [UGI Educational Equity Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/ugi-educational-equity-scholarship) |  | not listed |
 | [UGI Utilities Inc. Engineering Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/ugi-utilities-inc-engineering-scholarship) |  | not listed |
@@ -311,7 +324,9 @@ University Park, PA · 22 open · 293 with no date listed · 2 closed (not shown
 | [Webclients.net Trustee Scholarship in Honor of Founder, Mounir Elabridi](https://harrisburg.psu.edu/financial-aid/scholarships/webclientsnet-trustee-scholarship-honor-founder-mounir-elabridi) |  | not listed |
 | [Weik Family Nursing Scholarship](https://harrisburg.psu.edu/financial-aid/scholarships/weik-family-nursing-scholarship) |  | not listed |
 | [Wells Fargo Veterans Scholarship](https://equity.psu.edu/offices/veterans-programs/scholarships) | $5,000 | not listed |
-| [Whiting Research Awards](https://libraries.psu.edu/about/awards-scholarships-internships-and-graduate-assistantships/whiting-indigenous-knowledge) | $2,500 | not listed |
+| [Whiting Indigenous Knowledge Student Research Award](https://libraries.psu.edu/about/awards-scholarships-internships-and-graduate-assistantships/whiting-indigenous-knowledge) | $2,500 | not listed |
+| [William and Wendy Korb Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
+| [William and Wendy Korb Scholarship in Industrial and Manufacturing Engineering](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [William M. and Pamela M. Ramsey Scholarship](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [William M. and Pamela M. Ramsey Scholarship in Engineering](https://www.ime.psu.edu/students/resources/scholarships.aspx) |  | not listed |
 | [Wohlsen Construction Company Foundation Trustee Scholarship](https://harrisburg.psu.edu/financial-aid/scholarship/wohlsen-construction-company-foundation-trustee-scholarship) |  | not listed |

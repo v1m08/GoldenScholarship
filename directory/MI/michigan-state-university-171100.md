@@ -1,6 +1,6 @@
 # Michigan State University scholarships
 
-East Lansing, MI · 5 open · 95 with no date listed · 1 closed (not shown)
+East Lansing, MI · 5 open · 101 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/michigan-state-university-171100)**
 
@@ -26,6 +26,7 @@ East Lansing, MI · 5 open · 95 with no date listed · 1 closed (not shown)
 | [Carol Robinson Beals Endowed Nursing Scholarship Fund](https://nursing.msu.edu/admissions/scholarships/undergraduate-scholarships) |  | not listed |
 | [Catherine Hooper Fredin Award](https://admissions.msu.edu/cost-aid/scholarships/first-year/high-achieving) |  | not listed |
 | [Charles E. and Harriet L. Bader Endowed Nursing Scholarship Fund](https://nursing.msu.edu/admissions/scholarships/graduate-scholarships) |  | not listed |
+| [Christine May Hutchinson, Class of '91, Scholarship](https://www.alphaxidelta.org/foundation/scholarships-grants-awards/scholarships-listing/) |  | not listed |
 | [College of Nursing Alumni Association Endowed Scholarship](https://nursing.msu.edu/admissions/scholarships/graduate-scholarships) |  | not listed |
 | [Community College Scholarship](https://admissions.msu.edu/cost-aid/scholarships/transfer) |  | not listed |
 | [Community College Scholarship - MSU](https://admissions.msu.edu/cost-aid/scholarships/transfer) |  | not listed |
@@ -41,18 +42,22 @@ East Lansing, MI · 5 open · 95 with no date listed · 1 closed (not shown)
 | [Earvin "Magic" Johnson Scholarship](https://admissions.msu.edu/cost-aid/scholarships/first-year/criteria-specific) |  | not listed |
 | [Edward Tuinier Memorial Scholarship](https://endowment.org/apply/scholarships) |  | not listed |
 | [Elizabeth Blay Maison Endowed Scholarship](https://nursing.msu.edu/admissions/scholarships/undergraduate-scholarships) |  | not listed |
+| [Gary and Barbara Rupprecht Scholarship](https://www.frankenmuthfoundation.org/gary-and-barbara-rupprecht-scholarship) |  | not listed |
 | [George and Margaret Lorimer Parsons Nursing Scholarship](https://nursing.msu.edu/admissions/scholarships/graduate-scholarships) |  | not listed |
+| [Gilbert and Leona Schumann Endowed Scholarship](https://nursing.msu.edu/admissions/scholarships/graduate-scholarships) |  | not listed |
 | [Gupta Values Scholarship](https://admissions.msu.edu/cost-aid/scholarships/first-year/criteria-specific) |  | not listed |
 | [Harold I. Gach Scholarship](https://admissions.msu.edu/cost-aid/scholarships/first-year/criteria-specific) |  | not listed |
 | [Hayes-Talley Nurse Anesthesia Endowed Scholarship](https://nursing.msu.edu/admissions/scholarships/graduate-scholarships) |  | not listed |
 | [Helen Calder Nursing Scholarship](https://nursing.msu.edu/admissions/scholarships/undergraduate-scholarships) |  | not listed |
 | [Helen M. Kelley Endowed Scholarship](https://nursing.msu.edu/admissions/scholarships/graduate-scholarships) |  | not listed |
+| [High-achieving scholarships](https://admissions.msu.edu/cost-aid/scholarships/first-year) |  | not listed |
 | [High-achieving student scholarships](https://admissions.msu.edu/cost-aid/scholarships/first-year/high-achieving) |  | not listed |
 | [Honors College Distinction Scholarship](https://admissions.msu.edu/cost-aid/scholarships/international) | $5,000 | not listed |
 | [Honors College Excellence Scholarship](https://admissions.msu.edu/cost-aid/scholarships/international) | $13,000 | not listed |
 | [Honors College scholarships for high-achieving students](https://admissions.msu.edu/cost-aid/scholarships/international) |  | not listed |
 | [Honors College STATE Scholarship](https://admissions.msu.edu/cost-aid/scholarships/first-year/high-achieving) | $5,000 | not listed |
 | [Honors Excellence Scholarship regulations](https://admissions.msu.edu/cost-aid/scholarships/first-year/high-achieving/scholarship-regulations) | $52,000 | not listed |
+| [Honors Excellence Scholarship regulations (international)](https://admissions.msu.edu/cost-aid/scholarships/first-year/high-achieving/scholarship-regulations) | $52,000 | not listed |
 | [Honors State Scholarship regulations](https://admissions.msu.edu/cost-aid/scholarships/first-year/high-achieving/scholarship-regulations) | $20,000 | not listed |
 | [Inez and Gladys Harmon Endowed Scholarship Fund](https://nursing.msu.edu/admissions/scholarships/undergraduate-scholarships) |  | not listed |
 | [James B. Hamilton Scholarship](https://admissions.msu.edu/cost-aid/scholarships/first-year/criteria-specific) |  | not listed |
@@ -93,6 +98,7 @@ East Lansing, MI · 5 open · 95 with no date listed · 1 closed (not shown)
 | [Presidential Study Abroad Scholarship](https://admissions.msu.edu/cost-aid/scholarships/international) | $3,000–$5,000 | not listed |
 | [Richard and Carole Tompkins Scholarship](https://facommunityfoundation.org/home/scholarships/our-scholarships-awards/scholarships-available/) |  | not listed |
 | [Robert and Catherine Workman Endowed Scholarship](https://admissions.msu.edu/cost-aid/scholarships/first-year/out-of-state-resident) |  | not listed |
+| [Schupan and Sons/Michigan Beer and Wine Wholesalers Association Scholarship](https://admissions.msu.edu/cost-aid/scholarships/first-year/criteria-specific) |  | not listed |
 | [Sergeant Leonard Bernard Graham III Nursing Endowed Scholarship](https://nursing.msu.edu/admissions/scholarships/undergraduate-scholarships) |  | not listed |
 | [Spartan Transfer Scholarship](https://admissions.msu.edu/cost-aid/scholarships/transfer) | $2,500 | not listed |
 | [Spartan Transfer Scholarship - MSU](https://admissions.msu.edu/cost-aid/scholarships/transfer) | $2,500 | not listed |

@@ -1,6 +1,6 @@
 # Liberty University scholarships
 
-Lynchburg, VA · 4 open · 30 with no date listed · 2 closed (not shown)
+Lynchburg, VA · 5 open · 30 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/liberty-university-232557)**
 
@@ -10,6 +10,7 @@ Lynchburg, VA · 4 open · 30 with no date listed · 2 closed (not shown)
 | [Liberty Local Private School Scholarship](https://www.liberty.edu/student-financial-services/scholarships/) | $3,000 | Jan 1, 2027 |
 | [National Merit Scholarship - Liberty University](https://www.liberty.edu/honors-program/about/) | $4,000 | Mar 1, 2027 |
 | [Valedictorian/Salutatorian Scholarship](https://www.liberty.edu/student-financial-services/scholarships/) |  | Apr 1, 2027 |
+| [Virginia Tuition Assistance Grant (VTAG)](https://www.liberty.edu/student-financial-services/vtag/) | $5,750 | Sep 15, 2027 |
 | [Alumni Legacy Award](https://www.liberty.edu/student-financial-services/scholarships/) | $1,000 | not listed |
 | [Army ROTC Scholarships](https://www.liberty.edu/military/scholarships-and-resources/rotc-information/) |  | not listed |
 | [Book Dollars Scholarship](https://www.liberty.edu/student-financial-services/scholarships/) | $400 | not listed |

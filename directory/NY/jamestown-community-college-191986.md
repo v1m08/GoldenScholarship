@@ -1,6 +1,6 @@
 # Jamestown Community College scholarships
 
-Jamestown, NY · 0 open · 12 with no date listed · 0 closed (not shown)
+Jamestown, NY · 0 open · 15 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/jamestown-community-college-191986)**
 
@@ -18,5 +18,8 @@ Jamestown, NY · 0 open · 12 with no date listed · 0 closed (not shown)
 | [John A. & Oscar Johnson Memorial Scholarship](https://www.sunyjcc.edu/support/financial-aid-billing/scholarships/john-oscar-johnson-memorial) |  | not listed |
 | [Military Enhanced Recognition Incentive and Tribute (MERIT) Scholarship](https://www.sunyjcc.edu/support/military/nys-tuition) |  | not listed |
 | [NYS military scholarships](https://www.sunyjcc.edu/support/military/nys-tuition) |  | not listed |
+| [Residence Halls Out-of-state Tuition Grant](https://www.sunyjcc.edu/support/financial-aid-billing/scholarships/res-halls-oos-tuition-grant) |  | not listed |
+| [Veteran's Scholarship in Memory of Traci Maybach](https://www.sunyjcc.edu/support/military/nys-tuition) |  | not listed |
+| [Veterans' Scholarship in Memory of Traci Maybach (JCC)](https://www.sunyjcc.edu/support/military/nys-tuition) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

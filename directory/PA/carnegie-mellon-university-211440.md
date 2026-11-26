@@ -1,6 +1,6 @@
 # Carnegie Mellon University scholarships
 
-Pittsburgh, PA · 5 open · 40 with no date listed · 2 closed (not shown)
+Pittsburgh, PA · 5 open · 41 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/carnegie-mellon-university-211440)**
 
@@ -40,6 +40,7 @@ Pittsburgh, PA · 5 open · 40 with no date listed · 2 closed (not shown)
 | [MPM Regional Healthcare Scholarship](https://www.heinz.cmu.edu/admissions/scholarships-and-financial-aid) |  | not listed |
 | [MPM Regional K-12 Scholarship](https://www.heinz.cmu.edu/admissions/scholarships-and-financial-aid) |  | not listed |
 | [Navy ROTC Grant](https://www.cmu.edu/sfs/financial-aid/types/scholarships-and-grants/rotc.html) | $8,000 | not listed |
+| [Nonprofit Scholarship](https://www.heinz.cmu.edu/admissions/scholarships-and-financial-aid) |  | not listed |
 | [Nonprofit, Municipal and Government Employee Scholarships](https://www.heinz.cmu.edu/admissions/scholarships-and-financial-aid) |  | not listed |
 | [Pittsburgh Regional Leaders Scholarships](https://www.heinz.cmu.edu/admissions/scholarships-and-financial-aid) |  | not listed |
 | [Pittsburgh Water and Sewer Authority Scholarship](https://www.heinz.cmu.edu/admissions/scholarships-and-financial-aid) |  | not listed |

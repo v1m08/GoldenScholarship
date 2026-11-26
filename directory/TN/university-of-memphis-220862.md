@@ -1,6 +1,6 @@
 # University of Memphis scholarships
 
-Memphis, TN · 529 open · 53 with no date listed · 65 closed (not shown)
+Memphis, TN · 529 open · 55 with no date listed · 65 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-memphis-220862)**
 
@@ -547,6 +547,7 @@ Memphis, TN · 529 open · 53 with no date listed · 65 closed (not shown)
 | [Dr. John Cicala Endowed Scholarship for Marketing and Supply Chain Management](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/mscm.php) |  | not listed |
 | [Dr. Lillian H. Chaney Business Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/general-ug.php) |  | not listed |
 | [Dr. Mitzi Pitts Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/mis.php) |  | not listed |
+| [Duncan-Williams, Inc. Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/general-ug.php) |  | not listed |
 | [Eleanor O'Neill Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/mscm.php) |  | not listed |
 | [Ernest W. Pegram Business Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/general-ug.php) |  | not listed |
 | [Ethel Lewis Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/general-ug.php) |  | not listed |
@@ -585,6 +586,7 @@ Memphis, TN · 529 open · 53 with no date listed · 65 closed (not shown)
 | [Thomas R. Price/Regions Bank Memorial Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/general-ug.php) |  | not listed |
 | [Tim Skinner Endowed Business Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/general-ug.php) |  | not listed |
 | [Ward Family Scholarship in Marketing](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/mscm.php) |  | not listed |
+| [William and Lauren Pickens Graduate Fellowship](https://www.memphis.edu/fcbescholarships/scholarships/graduate/general-grad.php) |  | not listed |
 | [William Buchanan Dunavant, Jr. High Ability Supply Chain Scholarship](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/mscm.php) |  | not listed |
 | [Willie L. Ross Endowed Scholarship in Business](https://www.memphis.edu/fcbescholarships/scholarships/undergraduate/general-ug.php) |  | not listed |
 | [Willie Sue Jones Educational Scholarship](https://memphis.academicworks.com/opportunities/3566) |  | not listed |

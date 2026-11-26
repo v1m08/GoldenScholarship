@@ -1,12 +1,13 @@
 # The University of Texas at Arlington scholarships
 
-Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
+Arlington, TX · 4 open · 649 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-texas-at-arlington-228769)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Craig H. Neilsen Foundation Scholarship for Students with Spinal Cord Injury](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | Mar 1, 2027 |
+| [Presidential Honors Scholarship](https://www.uta.edu/administration/fao/scholarships/merit) | $13,000 | Mar 1, 2027 |
 | [COED - C5 Youth Foundation Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | Mar 15, 2027 |
 | [Terry Scholarship - Fall 2027](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | Apr 15, 2027 |
 | [3M STEM Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -46,16 +47,19 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Betty Bob Buckley Memorial Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bilingual EC-6 Teacher Certification Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bilingual Project Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
+| [Bill Snodgrass Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Blaine T. and Jean W. Williams Endowed Scholarship in Sociol](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Blumenthal Endowed Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bob and Ann Utley Graduate Fellowship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bobbitt Family Endowed Graduate Fellowship for COLA](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bobbitt Family Endowed Scholarship for the College of Liberal Arts](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Bobby and Melba Bogard Endowed Trumpet Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [BOKA Powell Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Brian Shults Memorial Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Cadet Corps Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CAPPA - Aaron and Carolyn Farmer Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CAPPA - Architecture Alumni Topping Out Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [CAPPA - BBR Architecture 1895 Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CAPPA - BRR Architecture Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CAPPA - David and Jerry Tees Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CAPPA - Donald Randall Fullenwider Memorial Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -73,6 +77,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [CAPPA - Richard L. Cole Memorial Graduate Fellowship in Public Affairs](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CAPPA - studioMET Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CAPPA - Trey and Shana Yelverton Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [CAPPA Alumni Scholarship J Schultz](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Career Services (DART) Dallas Area Rapid Transit Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Carla Buss Memorial Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Carol Sue Marshall Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -104,9 +109,11 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COB - Dale Kinney Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Daniel G. Reynolds, CPA Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Daniel Kauth Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $250 | not listed |
+| [COB - David A. Mack and Cathy J. Weeks Future Leader Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - David C. Mason Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Dean's Leadership Circle Graduate Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $5,500 | not listed |
 | [COB - Debra and Jimmy Bennett Graduate Fellowship in Accounting](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COB - Department of Accounting Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Don B. Panton Scholarship in Finance](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Donny Oltean Memorial Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Doug and Jill Reed Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -137,9 +144,11 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COB - Linda F. Burket Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Lucinda (Cyndy) K. Carver Memorial Award Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Mahmalji Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COB - Marie A. Moore Endowed Scholarship in Accounting](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Mark D. Hixson Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Michael & Susan Gaston Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Michael A. Reilly Endowed Scholarship in Real Estate](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COB - Michael A. Tomich '15 Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Michael A. Tomich Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Michael Phemister Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Michael R. Baylor Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -155,6 +164,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COB - Philip Barnard Endowed Scholarship Fund: Fall 2026](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Potratz Family Endowed Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Randal Rose Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COB - Reuben and Mary Taniguchi Graduate Fellowship in Accounting](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Ron and Carrie Maiorano Endowed Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Roy and Barbara Williams Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Roy B. McDonald Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -176,7 +186,9 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COB - Van Siclen - Davis Family Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Vince White Endowed Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Wayne Watts Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COB - Weaver and Tidwell, LLP Graduate Fellowship in Accounting](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Welcome Back Graduate Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $2,000 | not listed |
+| [COB - Weldon R. and Jeffrey Weldon Aston Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Wendell and Charlotte Brooks Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - William McWhirter Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COB - Women in Business Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -206,6 +218,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COE - Charlie and Mollie Daniels Family Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Charlie M. Moore Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Clarke Benham Excellence Scholarship in Engineering](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COE - Construction Research Center UTA Student Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Dallas Branch ASCE Civil Engineering Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - David E. Bloxom, Sr. Engineering Scholarship and Research En](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - David Findley Endowed Scholarship for Mechanical Engineering](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -220,6 +233,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COE - Dr. K. R. Rao Electrical Engineering Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
 | [COE - Dr. Mo-Shing Chen Scholarship in Power Systems](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Dr. Nikolai Stelmakh Outstanding Student Research Award in E](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COE - Dr. Ramez Elmasri Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Dr. Shamim Sughra Malik Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Elinor Pape Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Emma and Dr. Vittorio "Vic" Argento Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -255,13 +269,17 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COE - Laura Goodnight Poor Civil Engineering Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Lawrence Stephens Awards for Outstanding Aerospace Engineeri](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Lisa and Jeff Smith Endowed Scholarship for Computer Science](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COE - Lockheed Martin Missiles and Fire Control Graduate Fellowship Endowment for Eng](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Lonestar Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Mahin Afzali Scarlata Endowed Scholarship in Bioengineering](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COE - Marie and Bill Sampson Endowed Scholarship Fund in MAE](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Marjorie and Russell Priest Family Endowed Scholarship in](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Mark and Brenda Perkins Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Mary Aline Baker Haden Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Mechanical Engineering Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Meister Family Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
+| [COE - Michael Fairchild Memorial Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COE - North American Foundation Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Omron Foundation Automation Engineering Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Palaniappan/Terradyne Endowed Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Professor Dayle M. Clark Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -269,9 +287,11 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COE - Professor Wen Chan Memorial Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Research in Motion Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Robert and Carol Eberhart Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COE - Robert and Debra Gnuse Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Roger D. Goolsby Graduate Fellowship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Ron L. Cates Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Samuel Clayton Quinn Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COE - Stephen A. Underwood Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Stephen C. Robb Scholarship in Engineering](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Stephen T. Kugle Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COE - Thomas Dewey Field, Jr. Endowed Scholarship in Aerospace Eng](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -291,6 +311,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [COEd - Howard H. Meyers Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COEd - Lida Wilson Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COEd - Lockheed Martin Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [COEd - Rebecca Wright Memorial Scholarship Endowment Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COEd - Reverend Soonwong Lee Memorial Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COEd - Steffen Palko Endowed Graduate Fellowship in the College of Education](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [COEd - The Texas Higher Education Coordinating Board (THECB) Bilingual Education Program Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -299,10 +320,12 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Coleen Shannon Memorial Scholarship Endowment Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Colonel Edgar H. Keltner Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Colonel Michael T. Phillips Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Comm - Eric Nadel Sports Broadcasting Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Amerigroup Nursing Scholarship Endowment Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - April Elizabeth Gillespie Memorial Nursing Scholarship Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Arlington Memorial Hospital Scholarship Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Baylor Health Care System Endowed Nursing Scholarship Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [CONHI - Bonnie Dowdy Nursing Scholarship Endowment Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - College of Nursing Dream Makers Scholarship Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Cook Children's Paula J. Webb Nursing Scholarship Fund Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Courage in Adversity: Billy Flores Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -316,6 +339,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [CONHI - Emma Allison Morey Nursing Scholarship Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Ferne Kyba and Pamela Smith RN to BSN Endowed Scholarship Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Ferne Kyba Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000–$1,500 | not listed |
+| [CONHI - Frances and Barney C. Barnes Memorial Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Garland Health Care Auxiliary Endowed Scholarship in Nursing Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Janelle Braun Nursing Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [CONHI - Jean Ashwill Leadership Award Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -375,6 +399,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Dean's Excellence Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dean's Leadership Circle Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $5,500 | not listed |
 | [Department of Chemistry President Spaniolo Graduate Award](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Department of Communication Excellence in Philanthropy Scholarship - DUPLICATE](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Department of Modern Languages Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Diversity Regional Enhancement in STEM Scholarship (DRESS)](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Donald and Dorothy Bunnell Endowed Scholarship in Communicat](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -402,8 +427,10 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Ellen Coker Centennial Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [EM Mike Jarrett Memorial Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [EMNSPC Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [EMNSPC Scholarship for Doctoral Students](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Emory D. Estes Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Employee Roundhouse Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Eugene W. Anderson Memorial Scholarship Endowment Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Evelyn Anita Sawyer Ray Endowed Scholarship in English](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $5,000 | not listed |
 | [Faye and Maurice Barksdale and Shiela and Don Babers Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $2,000 | not listed |
 | [Foreign Language Acquisition Award (Graduate)](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -423,6 +450,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Goldman Sachs Excellence in Computer Science Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $10,000 | not listed |
 | [Grace Thornton Leadership Award](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
 | [Greater Texas Foundation Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [H.A.D. Dunsworth Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Hall-Stephenson Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [History - Chair's Excellence Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [History - Chair's Excellence Scholarships for Outstanding Incoming Freshmen & Transfer Students](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -449,6 +477,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Jeffrey A. Leuschel Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Jennifer Cowley Endowed Graduate Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Jim Burfisher Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Joe E. Morgan and Betty D. Morgan Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [John A. and Elizabeth Gardner Family Math Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [John Berry Rogers Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [John Dycus and Shorthorn Scholarship Fund (Calvin Pyle Award)](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -459,6 +488,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Julia and Dale Martin Pre-Dental Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Junior Woman's Club of Fort Worth Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Karan Harbison Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Karin McCallum Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Karl M. Petruso Scholarship for Honors Fieldwork in Liberal Arts](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kathryn Head Scholarship Endowment - McNair Scholars](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Kathryn Head Scholarship Endowment - TRIO SSS](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -489,6 +519,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Luna Ruth Tinker Keyboard Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Luther Wayne Odom Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Management PhD Alumni Doctoral Fellowship Award](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Marion "Jake" Jacob Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mark Holtz Sports Broadcasting Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mary Frances Reel Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mary Lynn Crow Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -515,7 +546,9 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [National Science Foundation Robert Noyce Scholarship for Science and Mathematics Teachers](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $10,000 | not listed |
 | [Non-Resident Tuition Waiver & Grants](https://www.uta.edu/administration/fao/scholarships/competitive-scholarship-non-resident-tuition-waiver) | $10,000 | not listed |
 | [North Texas Agricultural College Scholarship Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Nursing Distinguished Alumni Scholarship Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Nursing Mentor Program Scholarship (NMP) Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Nursing Named Scholarship Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [O'Neill Graduate Teaching Assistant Award in English](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Pat Brandenburg Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Pat Brandenburg Endowed Scholarship for Mexican American and Latino Studies (MAS) Minors](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -562,6 +595,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Shahrzad Amirani Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Shakespeare Club of Arlington Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Shalyn and Al Clark Academic Achievement Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Sharon and Donald L. Jernigan Chemistry Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Shirlee J. and Taylor Gandy First Generation Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Shirlee J. and Taylor Gandy Scholarship Endowment for Liberal Arts](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Sigma Theta Tau Research Endowment Award](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -587,13 +621,16 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [Tax Executives Institute Dallas and Fort Worth Chapters Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Texas APA Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Texas Chapter American Society of Landscape Architects Students Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Texas Health Resources Scholarship Fund in the Goolsby Leadership Academy](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Texas Trust Credit Union Graduate Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [To provide student scholarships in two categories](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Tom Creighton Memorial Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Tom Vandergriff Endowed Scholarship Fund](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Toni Hillenbrand Memorial Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Tonry/Orr Veterans Endowed Scholarship in Nursing Spring](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Tony Litsey Memorial Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Travel and Sports Legacy Foundation Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
+| [Truman D. Black Endowed Scholarship in Physics](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Univision Tu Futuro Tu Comunidad Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $7,500 | not listed |
 | [Univision Tu Futuro Tu Comunidad Scholarship Fall 2027](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $7,500 | not listed |
 | [UT Arlington Ambassadors Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -604,6 +641,7 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [UTA Veteran Student Success Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [UTA Volunteers Endowed Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Van Siclen - Davis Family Endowed Scholarship - Eng (B)](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Veterans STEM Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Vikram J. Bajaj Memorial Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Virginia and Jenkins Garrett Endowed Fellowship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
 | [Virginia M. Lepenski Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,000 | not listed |
@@ -620,5 +658,6 @@ Arlington, TX · 3 open · 611 with no date listed · 1 closed (not shown)
 | [William L. and Martha Hughes Award for the Study of Biology](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Yardi Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Yolanda and Oscar Santos Scholarship](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Yumi Nakamura Prize in Linguistics Endowment](https://uta.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

@@ -1,6 +1,6 @@
 # Albany College of Pharmacy and Health Sciences scholarships
 
-Albany, NY · 1 open · 79 with no date listed · 0 closed (not shown)
+Albany, NY · 1 open · 82 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/albany-college-of-pharmacy-and-health-sciences-188526)**
 
@@ -35,10 +35,12 @@ Albany, NY · 1 open · 79 with no date listed · 0 closed (not shown)
 | [David Oles '76 Vermont Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Debbie Savage Award](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Debra Bramer '87 Memorial Scholarship](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
+| [Demers Family Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Dennis Rule '96 Memorial Scholarship](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Donald McAndrew '62 Memorial Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Donald McAndrew Memorial Scholarship](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Dr. Bruce Stewart '55 Endowed Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
+| [Dr. Faith S. Rothermel '04 Memorial Scholarship](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Dr. Joseph Lapetina Award](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Dr. Kenneth W. Miller Scholarship](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) | $1,000 | not listed |
 | [Dr. Robert M. Stote '60 Endowed Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
@@ -63,6 +65,7 @@ Albany, NY · 1 open · 79 with no date listed · 0 closed (not shown)
 | [Jane Wells Fox '68 Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Janet Doyle Maiuro '52 Memorial Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Julius Anthony Pasquariello '83 Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
+| [Kenneth G. Hunter '25 Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Kirkpatrick Memorial Scholarship](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Leigh Briscoe-Dwyer '87 Scholarship](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |
 | [Malcolm Payne '86 Memorial Scholarship Fund](https://www.acphs.edu/admissions-aid/tuition-aid/scholarships-grants-loans/) |  | not listed |

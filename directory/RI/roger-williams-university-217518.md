@@ -1,6 +1,6 @@
 # Roger Williams University scholarships
 
-Bristol, RI · 1 open · 59 with no date listed · 2 closed (not shown)
+Bristol, RI · 1 open · 66 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/roger-williams-university-217518)**
 
@@ -23,9 +23,13 @@ Bristol, RI · 1 open · 59 with no date listed · 2 closed (not shown)
 | [David and Matilda Kessler Endowed Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [Diane Drake Memorial Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $2,300 | not listed |
 | [Dianne E. Crowell Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
+| [Dr. George A. Ficorilli Professor Emeritus Endowed Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [Dr. Harold Way Memorial Scholarship Fund](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,600 | not listed |
 | [Ethel Barrymore Colt Miglietta Memorial Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,950 | not listed |
+| [Evelyn and Rita Pendergast Memorial Scholarship, given by Dr. and Mrs. Peter Mogayzel](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [George E. Garvin Jr. Memorial Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,000 | not listed |
+| [Gingerella Family Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
+| [Idalia Whitcomb (Pre-Vet) Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [Idalia Whitcomb Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [Intercultural Leadership Ambassador Program & Scholarship (ILAPS)](https://www.rwu.edu/life-at-rwu/community/intercultural-center/ILA) |  | not listed |
 | [Intercultural Leadership Ambassador Scholarship (ILA)](https://www.rwu.edu/life-at-rwu/community/intercultural-center/ILA) |  | not listed |
@@ -35,6 +39,7 @@ Bristol, RI · 1 open · 59 with no date listed · 2 closed (not shown)
 | [John W. King Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,700 | not listed |
 | [John W. King, P.E. Electrical Industry Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,700 | not listed |
 | [Jonathan Redler Memorial Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $7,500 | not listed |
+| [Judge Thomas J. Paolino Theatre/Arts Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [Kaestle Boos Associates, Inc. Architecture Student Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $6,700 | not listed |
 | [Lincoln W. N. Pratt Memorial Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $2,000 | not listed |
 | [Lt. Charles A. Henderson III USN '99 Outstanding Tutor Award](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $8,600 | not listed |
@@ -60,8 +65,10 @@ Bristol, RI · 1 open · 59 with no date listed · 2 closed (not shown)
 | [Robert F. Stoico Scholarship Fund](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,150 | not listed |
 | [Sergeant Jim Cole Peace Officer Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $3,000 | not listed |
 | [Sgt. Michael J. Jannitto Memorial Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $2,800 | not listed |
+| [Sparks Memorial Endowed Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [Steven Ficorilli '87 Memorial Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,300 | not listed |
 | [Steven Ficorilli Memorial Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,300 | not listed |
+| [Thomas E. Fitzgerald, Jr. Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [Tuition Exchanged Scholarships](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) |  | not listed |
 | [Walk of Fame" Alumni Association Scholarship - RWU](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $1,800 | not listed |
 | [Wright Family Scholarship](https://www.rwu.edu/admission/financial-aid/types-financial-aid/scholarships) | $4,600 | not listed |

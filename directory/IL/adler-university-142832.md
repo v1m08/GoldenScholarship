@@ -1,6 +1,6 @@
 # Adler University scholarships
 
-Chicago, IL · 0 open · 11 with no date listed · 0 closed (not shown)
+Chicago, IL · 0 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/adler-university-142832)**
 
@@ -12,6 +12,7 @@ Chicago, IL · 0 open · 11 with no date listed · 0 closed (not shown)
 | [Division 18 Student Award](https://www.adler.edu/admissions/financial-aid-and-scholarships/) |  | not listed |
 | [Division 2 Early Career Travel Grant Program](https://www.adler.edu/admissions/financial-aid-and-scholarships/) |  | not listed |
 | [Division 37 Student Dissertation Award](https://www.adler.edu/admissions/financial-aid-and-scholarships/) |  | not listed |
+| [Division 45 Student Travel Award](https://www.adler.edu/admissions/financial-aid-and-scholarships/) | $1,000 | not listed |
 | [Entrance Merit Scholarship](https://www.adler.edu/admissions/financial-aid-and-scholarships/) |  | not listed |
 | [Indigenous Student Scholarship](https://www.adler.edu/admissions/financial-aid-and-scholarships/) | $5,000 | not listed |
 | [Military Scholarship](https://www.adler.edu/admissions/financial-aid-and-scholarships/) | $1,000 | not listed |

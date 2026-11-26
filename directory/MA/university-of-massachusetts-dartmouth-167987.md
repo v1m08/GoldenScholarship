@@ -1,6 +1,6 @@
 # University of Massachusetts-Dartmouth scholarships
 
-North Dartmouth, MA · 69 open · 249 with no date listed · 1 closed (not shown)
+North Dartmouth, MA · 69 open · 257 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-massachusetts-dartmouth-167987)**
 
@@ -92,6 +92,7 @@ North Dartmouth, MA · 69 open · 249 with no date listed · 1 closed (not shown
 | [Bazinet Cobert, Jacqueline Memorial Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bernstein, Sarah C. Law School Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Biassou, Suze M. Immigration Law Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Blue & Gold Gala Law School Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Blue & Gold Scholarship 2023-24 - Karlson Family Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Blue & Gold Scholarship 2024-25 - Alves, Al](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bolinder, William H. and English, Heather J. Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -142,12 +143,14 @@ North Dartmouth, MA · 69 open · 249 with no date listed · 1 closed (not shown
 | [Educational Leadership & Public Policy Fellowship Fund](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Elliott, Willoughby Endowed Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Emerging Roots Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Emery Jr., Manning Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Endurance Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Fall River Endowment Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Feitelberg, Joseph H & Abraham, Anthony J Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Felix, Antone Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Fey, Grace K. Presidential Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) | $1,500 | not listed |
 | [Fifield Charles W. Jr Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Firth, William Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Fisher, Robert John Memorial Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Fontaine, Eleanora S. Memorial Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Freedman, Janet Women and Gender Studies Major/Minor Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -159,6 +162,7 @@ North Dartmouth, MA · 69 open · 249 with no date listed · 1 closed (not shown
 | [Gammons, Kenneth G. CPA Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Garcia, Eduardo Scholarship - Endowment](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Garro, Dawn and Felicia STEM Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Gesmondi, Karen Memorial Law Endowed Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [God's Grace Scholarship - Ziqiang He Family-Agency](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [GRAD Last Mile Fall Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [GRAD Last Mile Spring Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -169,9 +173,11 @@ North Dartmouth, MA · 69 open · 249 with no date listed · 1 closed (not shown
 | [Habicht, Louise A. University Honors Program Senior Honors Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Hale, Karen and Rob Endowed Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Hansberry, John W. (Jay) Memorial Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Hartley, Edward Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Horvitz, Ida and Morris Jr. Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Houde Family Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Houth, Joseph W. Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Howard, Dean Donald Memorial Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Howard, Dr. W. John Computer Science Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Howard, Dr. W. John Engineering Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Howard, Marie M. Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -219,6 +225,7 @@ North Dartmouth, MA · 69 open · 249 with no date listed · 1 closed (not shown
 | [Medeiros, Thomas M. '60 Arts Travel Study Abroad Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Melanson, Philip H. Memorial Scholarship - Undergraduate](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Melendes, Robert A. Memorial Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Mierzejewski, Jennie Szymanski Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mikolajczak, Boleslaw Memorial Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Miller, Trudi Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mogilnicki, Gene & Ruth Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -277,6 +284,7 @@ North Dartmouth, MA · 69 open · 249 with no date listed · 1 closed (not shown
 | [Stevens, Frank S. Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Stoico, Robert F. / FIRSTFED Charitable Foundation Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Stone, Samuel Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Suffolk Cares Presidential Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Sullivan, William F. Memorial Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Swain School of Design Alumni Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Tacy Engineering Scholarship](https://umassd.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |

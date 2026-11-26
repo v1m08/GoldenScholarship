@@ -1,6 +1,6 @@
 # Saint Louis University scholarships
 
-Saint Louis, MO · 25 open · 28 with no date listed · 7 closed (not shown)
+Saint Louis, MO · 25 open · 29 with no date listed · 7 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/saint-louis-university-179159)**
 
@@ -35,6 +35,7 @@ Saint Louis, MO · 25 open · 28 with no date listed · 7 closed (not shown)
 | [Billiken, Ignatian, University or Vice Presidents' Scholarships](https://www.slu.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
 | [Boston Alumni Club Scholarship](https://slu.academicworks.com/opportunities/23257) |  | not listed |
 | [Brandt Disability Scholarship](https://www.slu.edu/professional-studies/becoming-a-student/tuition-scholarships-aid/scholarships.php) |  | not listed |
+| [Brewing Science and Operations Scholarship](https://www.slu.edu/professional-studies/becoming-a-student/tuition-scholarships-aid/scholarships.php) | $2,000 | not listed |
 | [Catherine and Nathan Merrick Finish Line Scholarship](https://www.slu.edu/professional-studies/becoming-a-student/tuition-scholarships-aid/scholarships.php) |  | not listed |
 | [Community College Scholarship](https://www.slu.edu/financial-aid/types-of-aid/scholarships.php) | $2,000 | not listed |
 | [Continuous Progress Scholarship](https://www.slu.edu/professional-studies/becoming-a-student/tuition-scholarships-aid/scholarships.php) |  | not listed |

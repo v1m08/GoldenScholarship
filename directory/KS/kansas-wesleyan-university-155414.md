@@ -1,6 +1,6 @@
 # Kansas Wesleyan University scholarships
 
-Salina, KS · 1 open · 20 with no date listed · 0 closed (not shown)
+Salina, KS · 1 open · 21 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/kansas-wesleyan-university-155414)**
 
@@ -23,6 +23,7 @@ Salina, KS · 1 open · 20 with no date listed · 0 closed (not shown)
 | [Kansas Wesleyan University Presidential Scholarship](https://www.kwu.edu/pay-for-college/financial-aid/scholarships/) |  | not listed |
 | [Kansas Wesleyan University Promise Scholarship](https://www.kwu.edu/pay-for-college/financial-aid/scholarships/) |  | not listed |
 | [Legacy and UMC Member Scholarships](https://www.kwu.edu/pay-for-college/financial-aid/scholarships/) |  | not listed |
+| [Music Scholarships](https://www.kwu.edu/pay-for-college/financial-aid/scholarships/?ecopen=music-scholarships) | $20,000 | not listed |
 | [Presidential Scholarship](https://www.kwu.edu/pay-for-college/financial-aid/scholarships/) | $13,000–$17,000 | not listed |
 | [Salina Regional Health Center Employee/Dependent Scholarship](https://www.kwu.edu/pay-for-college/financial-aid/scholarships/) | $20,000 | not listed |
 | [Saline County Guarantee](https://www.kwu.edu/pay-for-college/financial-aid/scholarships/) | $20,000 | not listed |

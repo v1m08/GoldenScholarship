@@ -1,11 +1,13 @@
 # New York School of Interior Design scholarships
 
-New York, NY · 0 open · 34 with no date listed · 0 closed (not shown)
+New York, NY · 2 open · 34 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/new-york-school-of-interior-design-194116)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [NYSID Graduate Scholarships](https://www.nysid.edu/financial-aid/graduate-scholarships) |  | Feb 1, 2027 |
+| [NYSID Undergraduate Scholarships](https://www.nysid.edu/financial-aid/undergraduate-scholarships) |  | Feb 1, 2027 |
 | [Albert Hadley Scholarship](https://www.nysid.edu/financial-aid/undergraduate-scholarships) |  | not listed |
 | [Alex Papachristidis Scholarship](https://www.nysid.edu/financial-aid/graduate-scholarships) |  | not listed |
 | [Barbara Bernie Scholarship](https://www.nysid.edu/financial-aid/graduate-scholarships) |  | not listed |

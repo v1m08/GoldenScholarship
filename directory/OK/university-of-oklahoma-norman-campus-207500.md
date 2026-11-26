@@ -1,6 +1,6 @@
 # University of Oklahoma-Norman Campus scholarships
 
-Norman, OK · 11 open · 63 with no date listed · 2 closed (not shown)
+Norman, OK · 13 open · 66 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-oklahoma-norman-campus-207500)**
 
@@ -9,6 +9,7 @@ Norman, OK · 11 open · 63 with no date listed · 2 closed (not shown)
 | [First Year Engineering Scholarship - University of Oklahoma](https://www.ou.edu/coe/academics/scholarships) |  | Dec 15, 2026 |
 | [National Merit Semifinalist Scholarship](https://www.ou.edu/admissions/honors/scholarships/national-merit-semifinalist-scholarship) | $16,000–$70,000 | Dec 15, 2026 |
 | [Non-resident Scholarship](https://www.ou.edu/admissions/honors/scholarships/national-merit-finalist-scholarship/non-resident) | $5,532 | Dec 15, 2026 |
+| [OU General Scholarships](https://www.ou.edu/admissions/affordability/scholarships) | $70,000 | Dec 15, 2026 |
 | [Resident Scholarship](https://www.ou.edu/admissions/honors/scholarships/national-merit-finalist-scholarship/resident) | $24,000 | Dec 15, 2026 |
 | [George Gibson Scholarship](https://www.ou.edu/coe/ise/resources/scholarships) | $1,000 | Feb 1, 2027 |
 | [ISE Faculty/Staff Scholarship](https://www.ou.edu/coe/ise/resources/scholarships) |  | Feb 1, 2027 |
@@ -16,6 +17,7 @@ Norman, OK · 11 open · 63 with no date listed · 2 closed (not shown)
 | [OKPELS - Professional Engineering the Future Scholarship](https://www.ou.edu/coe/academics/scholarships) | $2,000–$6,000 | Mar 1, 2027 |
 | [Rath Foundation Academic Scholarship](https://www.ou.edu/price/cost-aid/undergrad-financial-aid) | $20,000 | Mar 1, 2027 |
 | [Patti Johnson Wilson Foundation 2025-2026 Scholarships](https://www.ou.edu/coe/academics/scholarships) | $10,000 | Mar 17, 2027 |
+| [Engineering Scholarships](https://www.ou.edu/coe/academics/scholarships/) | $15,000 | Oct 1, 2027 |
 | [GCoE CASH Scholarships](https://www.ou.edu/coe/cs/resources/scholarships) |  | Oct 15, 2027 |
 | [A.E. Clark Memorial Scholarship](https://www.ou.edu/education/resources/students/graduate-scholarships) |  | not listed |
 | [B.H. Taylor Scholarship](https://www.ou.edu/education/resources/students/undergraduate-scholarships) |  | not listed |
@@ -25,6 +27,7 @@ Norman, OK · 11 open · 63 with no date listed · 2 closed (not shown)
 | [Comfort Scholarship](https://law.ou.edu/admissions/jd-program/financial-aid-and-scholarships) |  | not listed |
 | [David & Sally Polk Howard Scholarship](https://ou.edu/sfc/scholarships/current-students/terms-of-the-david---sally-polk-howard-scholarship) | $30,000 | not listed |
 | [Dr. Boleslaus S. Kurpiewski Scholarship](https://www.ou.edu/education/resources/students/graduate-scholarships) |  | not listed |
+| [Dr. Glenn Snider Education Scholarship](https://www.ou.edu/education/resources/students/graduate-scholarships) |  | not listed |
 | [Dr. Stephen H. McDonald Endowed Scholarship](https://www.ou.edu/education/resources/students/graduate-scholarships) |  | not listed |
 | [Early Childhood Education Endowed Scholarship](https://www.ou.edu/education/resources/students/undergraduate-scholarships) |  | not listed |
 | [EDAH - Higher Education Scholarships](https://www.ou.edu/education/resources/students/graduate-scholarships) |  | not listed |
@@ -55,6 +58,7 @@ Norman, OK · 11 open · 63 with no date listed · 2 closed (not shown)
 | [Maintain the Award](https://www.ou.edu/sfc/scholarships/current-students/watw) |  | not listed |
 | [Michael Langenbach Scholarship Fund](https://www.ou.edu/education/resources/students/graduate-scholarships) |  | not listed |
 | [National Merit Finalist Scholarship](https://www.ou.edu/admissions/honors/scholarships/national-merit-finalist-scholarship) |  | not listed |
+| [National Merit Finalists are offered one of three possible awards](https://www.ou.edu/admissions/honors/scholarships/national-merit-finalist-scholarship/resident) | $5,000 | not listed |
 | [National Merit Scholarship](https://www.ou.edu/admissions/honors/scholarships/national-merit-finalist-scholarship) |  | not listed |
 | [Non-Resident Freshman Scholarships](https://ou.edu/admissions/affordability/scholarships) | $70,000 | not listed |
 | [Non-Resident Transfer Scholarships](https://ou.edu/admissions/affordability/scholarships) | $3,000 | not listed |
@@ -65,6 +69,7 @@ Norman, OK · 11 open · 63 with no date listed · 2 closed (not shown)
 | [OU Onward Scholarship](https://www.ou.edu/admissions/affordability/ou-onward) | $10,000 | not listed |
 | [PLC & PCS Scholarships](https://ou.edu/sfc/scholarships/current-students/plc-pcs) |  | not listed |
 | [Program Requirements for Four-Year Awards](https://ou.edu/sfc/scholarships/current-students/plc-pcs) |  | not listed |
+| [R. Steven Hsu Special Education Endowed Scholarship](https://www.ou.edu/education/resources/students/graduate-scholarships) |  | not listed |
 | [Request for Transfer of Scholarship to Professional Or Graduate School](https://ou.edu/sfc/scholarships/current-students/terms-of-the-national-merit-scholarship) |  | not listed |
 | [Resident Freshman Scholarships](https://ou.edu/admissions/affordability/scholarships) |  | not listed |
 | [Resident Transfer Scholarships](https://ou.edu/admissions/affordability/scholarships) | $2,000 | not listed |

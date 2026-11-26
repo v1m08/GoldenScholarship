@@ -1,6 +1,6 @@
 # University of Houston-Victoria scholarships
 
-Victoria, TX · 49 open · 4 with no date listed · 1 closed (not shown)
+Victoria, TX · 49 open · 5 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-houston-victoria-225502)**
 
@@ -57,6 +57,7 @@ Victoria, TX · 49 open · 4 with no date listed · 1 closed (not shown)
 | [Presidential Scholarship](https://www.tamuv.edu/financial-aid/scholarships/presidential-scholarship/) | $5,000 | May 1, 2027 |
 | [Institution Grants](https://www.tamuv.edu/financial-aid/grants/) |  | not listed |
 | [Texas A&M University-Victoria Endowed Scholarships](https://www.tamuv.edu/financial-aid/scholarships/university-scholarships/) |  | not listed |
+| [Texas Public Education Grant](https://www.tamuv.edu/financial-aid/grants/) |  | not listed |
 | [Texas Public Education Grant (TPEG)](https://www.tamuv.edu/financial-aid/grants/) |  | not listed |
 | [Toward Excellence, Access, and Success (TEXAS) Grant](https://www.tamuv.edu/financial-aid/grants/) |  | not listed |
 

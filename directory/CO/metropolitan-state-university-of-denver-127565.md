@@ -1,6 +1,6 @@
 # Metropolitan State University of Denver scholarships
 
-Denver, CO · 179 open · 4 with no date listed · 13 closed (not shown)
+Denver, CO · 179 open · 6 with no date listed · 13 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/metropolitan-state-university-of-denver-127565)**
 
@@ -186,8 +186,10 @@ Denver, CO · 179 open · 4 with no date listed · 13 closed (not shown)
 | [Elevate Education Scholarship (GMSWKN)](https://msudenver.academicworks.com/opportunities/10393) | $6,000 | Sep 8, 2027 |
 | [Cybersecurity Master's Program Academic Scholarship](https://msudenver.academicworks.com/opportunities/10347) | $1,500 | Mar 1, 2028 |
 | [Aviation and Aerospace Science Scholarships](https://www.msudenver.edu/aviation-aerospace/student-resources/) |  | not listed |
+| [Captain E.B. Jeppesen Endowed Memorial Scholarship](https://www.msudenver.edu/financial-aid/scholarships/) |  | not listed |
 | [MSU Denver Phi Theta Kappa Transfer Scholarship](https://www.msudenver.edu/financial-aid/scholarships/) | $1,000 | not listed |
 | [MSU Denver scholarships](https://www.msudenver.edu/financial-aid/scholarships/) | $2,000 | not listed |
 | [School of Education Annual Scholarship (DNU)](https://msudenver.academicworks.com/opportunities/1919) |  | not listed |
+| [Stephen & Ruth Jordan Endowed Scholarship for Leadership](https://www.msudenver.edu/financial-aid/scholarships/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

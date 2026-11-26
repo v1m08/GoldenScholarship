@@ -1,6 +1,6 @@
 # University of North Georgia scholarships
 
-Dahlonega, GA · 3 open · 16 with no date listed · 3 closed (not shown)
+Dahlonega, GA · 3 open · 18 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-north-georgia-482680)**
 
@@ -15,7 +15,9 @@ Dahlonega, GA · 3 open · 16 with no date listed · 3 closed (not shown)
 | [Bridging Scholarship](https://ung.edu/education-abroad/scholarships-and-finaid.php) | $2,500–$4,000 | not listed |
 | [CedintheCity Scholarship](https://ung.edu/education-abroad/scholarships-and-finaid.php) |  | not listed |
 | [Criteria for Army ROTC Scholarships](https://ung.edu/military-college-admissions/costs-financial-aid/scholarships-and-grants/army-rotc-scholarship.php) |  | not listed |
+| [Critical Language Scholarship](https://ung.edu/education-abroad/scholarships-and-finaid.php) |  | not listed |
 | [Education Abroad Scholarships](https://ung.edu/education-abroad/scholarships-and-finaid.php) | $5,000 | not listed |
+| [Erasmus Mundus Scholarship](https://www.euroculturemaster.eu/erasmus-mundus-scholarship) |  | not listed |
 | [German International Parliamentary Scholarship](https://ung.edu/education-abroad/scholarships-and-finaid.php) | $700 | not listed |
 | [Gilman Scholarship](https://ung.edu/education-abroad/scholarships-and-finaid.php) | $5,000 | not listed |
 | [Global Nighthawk Study Abroad Scholarship](https://ung.edu/education-abroad/scholarships-and-finaid.php) |  | not listed |

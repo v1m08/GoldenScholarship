@@ -1,6 +1,6 @@
 # North Dakota State University-Main Campus scholarships
 
-Fargo, ND · 1,504 open · 3 with no date listed · 11 closed (not shown)
+Fargo, ND · 1,505 open · 4 with no date listed · 11 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/north-dakota-state-university-main-campus-200332)**
 
@@ -12,6 +12,7 @@ Fargo, ND · 1,504 open · 3 with no date listed · 11 closed (not shown)
 | [Spring NDSU Green and Gold](https://ndsu.academicworks.com/opportunities/39157) |  | Dec 1, 2026 |
 | [Spring Phi Theta Kappa Scholarship](https://ndsu.academicworks.com/opportunities/39160) |  | Dec 1, 2026 |
 | [Holli Kautzman Memorial Scholarship](https://www.ndcf.net/receive/scholarships/kautzman.html) | $1,500 | Jan 1, 2027 |
+| [ND Farmers Union Co-op House Scholarship](https://www.ndcf.net/receive/scholarships/ndfuc.html) |  | Jan 1, 2027 |
 | [Spring NDSU HERD S-STEM Scholarship](https://ndsu.academicworks.com/opportunities/39155) |  | Jan 9, 2027 |
 | [NDSU International Spring Award (Tier 1)](https://ndsu.academicworks.com/opportunities/39156) | $3,000 | Jan 15, 2027 |
 | [NDSU International Spring Award (Tier 2)](https://ndsu.academicworks.com/opportunities/39158) | $2,000 | Jan 15, 2027 |
@@ -1505,8 +1506,7 @@ Fargo, ND · 1,504 open · 3 with no date listed · 11 closed (not shown)
 | [Vernon E. Howell and Orlee R. Howell Graduate Scholarship](https://ndsu.academicworks.com/opportunities/41608) |  | May 21, 2027 |
 | [Vernon W. Bursch Scholarship Endowment](https://ndsu.academicworks.com/opportunities/40900) |  | May 21, 2027 |
 | [Walgreens Multilingual Scholarship](https://ndsu.academicworks.com/opportunities/39654) |  | May 21, 2027 |
-| [Walgreens Pharmacy Champion Award Scholarship](https://ndsu.academicworks.com/opportunities/39559) |  | May 21, 2027 |
 
-Showing the first 1,500 of 1,507. The rest are in [data/scholarships.csv](../../data/scholarships.csv).
+Showing the first 1,500 of 1,509. The rest are in [data/scholarships.csv](../../data/scholarships.csv).
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

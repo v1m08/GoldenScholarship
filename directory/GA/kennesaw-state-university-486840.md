@@ -1,6 +1,6 @@
 # Kennesaw State University scholarships
 
-Kennesaw, GA · 3 open · 39 with no date listed · 4 closed (not shown)
+Kennesaw, GA · 3 open · 41 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/kennesaw-state-university-486840)**
 
@@ -14,6 +14,7 @@ Kennesaw, GA · 3 open · 39 with no date listed · 4 closed (not shown)
 | [Bagwell College of Education Alumni Club Scholarship](https://campus.kennesaw.edu/colleges-departments/bagwell/resources/scholarships-education-majors.php) |  | not listed |
 | [Bates Mechanical Scholarship](https://campus.kennesaw.edu/colleges-departments/spceet/resources/engineering-scholarships.php) |  | not listed |
 | [Beverly F. Shore Scholarship](https://campus.kennesaw.edu/colleges-departments/spceet/resources/engineering-scholarships.php) |  | not listed |
+| [Cary L. and William H. Turner English Scholarship](https://campus.kennesaw.edu/colleges-departments/bagwell/resources/scholarships-education-majors.php) |  | not listed |
 | [Catherine Land-Waters Endowed Scholarship](https://campus.kennesaw.edu/colleges-departments/spceet/resources/engineering-scholarships.php) |  | not listed |
 | [Chantal and Tommy Bagwell Scholarship](https://campus.kennesaw.edu/colleges-departments/bagwell/resources/scholarships-education-majors.php) |  | not listed |
 | [David E. Summers Scholarship](https://campus.kennesaw.edu/colleges-departments/spceet/resources/engineering-scholarships.php) |  | not listed |
@@ -26,6 +27,7 @@ Kennesaw, GA · 3 open · 39 with no date listed · 4 closed (not shown)
 | [Dr. Mary Ursits Student Assistance Scholarship (Adult Learner)](https://campus.kennesaw.edu/colleges-departments/bagwell/resources/scholarships-education-majors.php) |  | not listed |
 | [Durden Family/Betty L. Siegel Scholarship](https://campus.kennesaw.edu/colleges-departments/bagwell/resources/scholarships-education-majors.php) |  | not listed |
 | [Ellen and Shepherd Long Scholarship](https://campus.kennesaw.edu/colleges-departments/spceet/resources/engineering-scholarships.php) |  | not listed |
+| [Enplas (USA) Scholarship](https://campus.kennesaw.edu/colleges-departments/spceet/resources/engineering-scholarships.php) |  | not listed |
 | [FieldCore Scholarship](https://campus.kennesaw.edu/colleges-departments/spceet/resources/engineering-scholarships.php) |  | not listed |
 | [G.F. Wan Memorial Scholarship](https://campus.kennesaw.edu/colleges-departments/bagwell/resources/scholarships-education-majors.php) |  | not listed |
 | [Guanacaste Ventures US, Inc. Scholarship](https://campus.kennesaw.edu/colleges-departments/cacm/academics/architecture/resources/scholarships.php) |  | not listed |

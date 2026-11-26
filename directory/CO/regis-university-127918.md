@@ -1,6 +1,6 @@
 # Regis University scholarships
 
-Denver, CO · 0 open · 6 with no date listed · 0 closed (not shown)
+Denver, CO · 0 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/regis-university-127918)**
 
@@ -12,5 +12,6 @@ Denver, CO · 0 open · 6 with no date listed · 0 closed (not shown)
 | [Dean's Scholarships](https://www.regis.edu/financial-aid/types-of-financial-aid/graduate-doctoral-students/scholarships-and-grants) | $10,200 | not listed |
 | [Notarianni Scholarships](https://www.regis.edu/financial-aid/types-of-financial-aid/graduate-doctoral-students/scholarships-and-grants) |  | not listed |
 | [Pharmacy Scholarships](https://www.regis.edu/financial-aid/types-of-financial-aid/graduate-doctoral-students/scholarships-and-grants) |  | not listed |
+| [Physical Therapy Scholarships](https://www.regis.edu/financial-aid/types-of-financial-aid/graduate-doctoral-students/scholarships-and-grants) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

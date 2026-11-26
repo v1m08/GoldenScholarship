@@ -1,11 +1,12 @@
 # University of Mississippi scholarships
 
-University, MS · 6 open · 29 with no date listed · 0 closed (not shown)
+University, MS · 7 open · 34 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-mississippi-176017)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Department of Modern Languages Scholarships](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | Jan 10, 2027 |
 | [Mississippi Resident Freshman Competitive Scholarships](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | Jan 10, 2027 |
 | [Stamps Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | Jan 10, 2027 |
 | [Intensive Summer Program Scholarships](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) | $3,500 | Jan 15, 2027 |
@@ -16,6 +17,7 @@ University, MS · 6 open · 29 with no date listed · 0 closed (not shown)
 | [Army ROTC Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) | $28,350 | not listed |
 | [Automatic Consideration Scholarships for Entering Freshmen](https://olemiss.edu/finaid/types-of-aid/scholarships/) |  | not listed |
 | [Automatic Consideration Scholarships for Entering Freshmen (Non-Resident)](https://olemiss.edu/finaid/types-of-aid/scholarships/) |  | not listed |
+| [Automatic Consideration Scholarships for New Transfers (Non-Resident)](https://olemiss.edu/finaid/types-of-aid/scholarships/) |  | not listed |
 | [Barnard Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/awards-automatic-consideration/nr-freshman-merit/) | $20,000 | not listed |
 | [Boys State/Girls State Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/awards-automatic-consideration/nr-freshman-merit/) | $4,000 | not listed |
 | [Chancellor's Leadership Class Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) | $1,000 | not listed |
@@ -24,17 +26,21 @@ University, MS · 6 open · 29 with no date listed · 0 closed (not shown)
 | [Christine and Clarence Day Business Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | not listed |
 | [Croft Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | not listed |
 | [Eagle Scout/Gold Award Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/awards-automatic-consideration/nr-freshman-merit/) | $6,000 | not listed |
+| [Henry C. Brevard, Jr., Engineering Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | not listed |
 | [High School Valedictorian/Salutatorian Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/awards-automatic-consideration/nr-freshman-merit/) | $8,000 | not listed |
 | [J. Means Non-Resident Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/non-resident-fee-specific-awards/nr-fee-specific/) | $5,000–$8,000 | not listed |
+| [James W. Davis Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | not listed |
 | [John Robert Boswell Memorial Scholarship Fund](https://www.formississippi.org/apply-for-a-scholarship) |  | not listed |
 | [Lott Leadership Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | not listed |
 | [Luckyday Community College Transfer Scholarship](https://olemiss.edu/luckyday/scholarship-information/) | $12,000 | not listed |
+| [McCarty Family Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | not listed |
 | [Military Benefit Non-Resident Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/non-resident-fee-specific-awards/nr-fee-specific/) |  | not listed |
 | [Mississippi Resident Scholarships for New Transfers](https://olemiss.edu/finaid/types-of-aid/scholarships/) |  | not listed |
 | [National Merit Finalist Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/awards-automatic-consideration/nr-freshman-merit/) | $4,000 | not listed |
 | [Non-Resident Alumni Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/non-resident-fee-specific-awards/nr-fee-specific/) | $32,000 | not listed |
 | [Non-Resident portion of the Academic Merit scholarships](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/awards-automatic-consideration/nr-freshman-merit/) | $4,000 | not listed |
 | [OMWC Scholarships](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) |  | not listed |
+| [Renasant Bank - Jim and Nancy Ingram Scholarship](https://createfoundation.com/scholarships/) |  | not listed |
 | [Roger and Susie Friou Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/mississippi-residents/entering-freshman/competitive-awards/) | $12,000 | not listed |
 | [STEM Major Non-Resident Scholarship](https://olemiss.edu/finaid/types-of-aid/scholarships/non-resident/entering-freshman/non-resident-fee-specific-awards/nr-fee-specific/) | $8,000 | not listed |
 | [Sumners Scholarship](https://olemiss.edu/finaid/types-of-aid/sumners-scholarship/) |  | not listed |

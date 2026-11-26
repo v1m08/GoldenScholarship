@@ -1,6 +1,6 @@
 # Monterey Peninsula College scholarships
 
-Monterey, CA · 2 open · 12 with no date listed · 0 closed (not shown)
+Monterey, CA · 2 open · 13 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/monterey-peninsula-college-119067)**
 
@@ -16,6 +16,7 @@ Monterey, CA · 2 open · 12 with no date listed · 0 closed (not shown)
 | [Helen Brett Scholarship](https://www.mpc.edu/admissions-financial-aid/paying-for-college/financial-aid/scholarships.html) | $5,000 | not listed |
 | [Jack Kent Cooke Undergraduate Transfer Scholarship](https://www.mpc.edu/admissions-financial-aid/paying-for-college/financial-aid/scholarships.html) |  | not listed |
 | [James Randall Rosendale Scholarship](https://www.mpc.edu/admissions-financial-aid/paying-for-college/financial-aid/scholarships.html) | $5,000 | not listed |
+| [Karl S. Pister Leadership Opportunity Award](https://www.mpc.edu/admissions-financial-aid/paying-for-college/financial-aid/scholarships.html) | $20,000 | not listed |
 | [Keenan Insurance Scholarship](https://www.mpc.edu/admissions-financial-aid/paying-for-college/financial-aid/scholarships.html) | $10,000 | not listed |
 | [Monterey Elks Lodge #1285 Scholarship](https://www.mpc.edu/admissions-financial-aid/paying-for-college/financial-aid/scholarships.html) | $500 | not listed |
 | [Past Presidents Parley Nursing Scholarship](https://www.mpc.edu/admissions-financial-aid/paying-for-college/financial-aid/scholarships.html) |  | not listed |

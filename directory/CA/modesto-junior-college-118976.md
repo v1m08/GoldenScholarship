@@ -1,12 +1,14 @@
 # Modesto Junior College scholarships
 
-Modesto, CA · 0 open · 8 with no date listed · 1 closed (not shown)
+Modesto, CA · 1 open · 9 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/modesto-junior-college-118976)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [California College Promise Grant](https://www.mjc.edu/financialaid/ccpg.html) | $8,250 | Dec 11, 2026 |
 | [Barry Goldwater Scholarship](https://www.mjc.edu/financialaid/scholarships.html) |  | not listed |
+| [California Farm Bureau Scholarship Foundation](https://www.mjc.edu/financialaid/scholarships.html) |  | not listed |
 | [Innova Electronics Corporation Scholarship](https://www.mjc.edu/financialaid/scholarships.html) | $2,000 | not listed |
 | [Sacramento State Alumni Scholarship for Incoming Freshman](https://www.mjc.edu/financialaid/scholarships.html) | $1,000–$3,000 | not listed |
 | [SEMA Memorial Scholarship](https://www.mjc.edu/financialaid/scholarships.html) |  | not listed |

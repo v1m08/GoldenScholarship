@@ -1,11 +1,12 @@
 # University of New Hampshire at Manchester scholarships
 
-Manchester, NH · 5 open · 79 with no date listed · 0 closed (not shown)
+Manchester, NH · 6 open · 84 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-new-hampshire-at-manchester-183071)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [UNH Manchester Study Abroad Scholarship](https://manchester.unh.edu/admissions/financial-aid/scholarships) |  | Feb 15, 2027 |
 | [Enrichment Scholarship](https://manchester.unh.edu/admissions/financial-aid/scholarships) | $2,500 | Mar 1, 2027 |
 | [Frank D. McCann Study Abroad Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) | $5,000 | Mar 1, 2027 |
 | [Dick Shea Memorial Award](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | Mar 31, 2027 |
@@ -21,9 +22,13 @@ Manchester, NH · 5 open · 79 with no date listed · 0 closed (not shown)
 | [B. Thomas Trout Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Barbara A. White Social Justice Leadership Award](https://cola.unh.edu/admissions/scholarships-financial-aid) | $500 | not listed |
 | [Barbara Anne White Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
+| [Bernice Gray Hanhisalo Art Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Bunny Bryant Class of 1927 Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Clark Paper Prize](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
+| [Distinguished Communication Scholarship Award](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
+| [Distinguished Service Award](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Don Murray Memorial Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) | $200 | not listed |
+| [Donald Steele Classical Music Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Elizabeth Jones Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Excellence in Teaching Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Fanny Delisle Award](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
@@ -31,6 +36,7 @@ Manchester, NH · 5 open · 79 with no date listed · 0 closed (not shown)
 | [Gary Lindberg Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Gary R. O'Neal Musical Theatre Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [George M. Haslerud Award](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
+| [German Society of Manchester Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Gilbert B. Davenport Theatre Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Greenleaf Paper Prize](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Hennessey Scholarship](https://cola.unh.edu/admissions/scholarships-financial-aid) |  | not listed |

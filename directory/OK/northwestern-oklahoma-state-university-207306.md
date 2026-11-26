@@ -1,6 +1,6 @@
 # Northwestern Oklahoma State University scholarships
 
-Alva, OK · 2 open · 76 with no date listed · 0 closed (not shown)
+Alva, OK · 2 open · 78 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/northwestern-oklahoma-state-university-207306)**
 
@@ -38,6 +38,7 @@ Alva, OK · 2 open · 76 with no date listed · 0 closed (not shown)
 | [Drs. Loyd Hill & Cynthia Pfeifer-Hill Natural Science Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
 | [Earl and Margie Brunkest Estate Music Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
 | [Exceptionally & Extraordinarily Talented Award](https://www.nwosu.edu/scholarships/) | $1,900 | not listed |
+| [Extraordinarily Talented Award](https://www.nwosu.edu/scholarships/) | $1,900 | not listed |
 | [Fred O. "Dick" and Gladys Smith Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
 | [George and Lois Sense Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
 | [Gil & Roberta Michaelis Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
@@ -74,6 +75,7 @@ Alva, OK · 2 open · 76 with no date listed · 0 closed (not shown)
 | [Ronald Reagan College Republican Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
 | [Sarah Whitehead Ackley Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
 | [Schuhmacher Family Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
+| [SGA officers receive tuition scholarships](https://www.nwosu.edu/scholarships/) |  | not listed |
 | [Shirley Family Music Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
 | [Thelma Elmore Ruch Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |
 | [Thomas H. and Evajoy Elliott Scholarship](https://ournorthwestern.org/make-an-investment/scholarships) |  | not listed |

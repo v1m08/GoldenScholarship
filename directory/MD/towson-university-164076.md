@@ -1,6 +1,6 @@
 # Towson University scholarships
 
-Towson, MD · 32 open · 79 with no date listed · 3 closed (not shown)
+Towson, MD · 32 open · 83 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/towson-university-164076)**
 
@@ -43,6 +43,7 @@ Towson, MD · 32 open · 79 with no date listed · 3 closed (not shown)
 | [Applied Information Sciences Scholarship](https://www.towson.edu/fcsm/departments/computerinfosci/resources/scholarships/) | $3,200 | not listed |
 | [Art + Design, Art History, & Art Education Scholarships](https://www.towson.edu/cofac/departments/art/scholarships.html) |  | not listed |
 | [Audiology and Speech-Language Pathology Scholarships](https://www.towson.edu/chp/departments/asld/resources/scholarships.html) | $500 | not listed |
+| [Audiology Scholarship](https://www.towson.edu/chp/departments/asld/resources/scholarships.html) | $500 | not listed |
 | [Barnes-Harris Scholarship Endowment](https://www.towson.edu/studentdiversity/scholarships/) |  | not listed |
 | [Barry M. Goldwater Scholarship and Excellence in Education Program](https://www.towson.edu/fcsm/departments/environsci/scholarships.html) |  | not listed |
 | [benjaMIN A. Gilman INTERNATIONAL Scholarship](https://www.towson.edu/academics/international/abroad/scholarships.html) |  | not listed |
@@ -53,6 +54,7 @@ Towson, MD · 32 open · 79 with no date listed · 3 closed (not shown)
 | [Boren Scholarships](https://www.towson.edu/academics/international/abroad/scholarships.html) |  | not listed |
 | [Bridging Scholarships](https://www.towson.edu/academics/international/abroad/scholarships.html) |  | not listed |
 | [BUTEX Scholarship](https://www.towson.edu/academics/international/abroad/scholarships.html) |  | not listed |
+| [Carl Henrikson Memorial Award for Academic Achievement by a Junior](https://www.towson.edu/fcsm/departments/biology/scholarships.html) |  | not listed |
 | [Charlotte W. Newcombe Endowed Scholarship](https://www.towson.edu/studentdiversity/scholarships/newcombe-scholarship.html) |  | not listed |
 | [Compton Crook Award for Outstanding Junior Biology Major](https://www.towson.edu/fcsm/departments/biology/scholarships.html) |  | not listed |
 | [Critical Language Scholarship Program](https://www.towson.edu/academics/international/abroad/scholarships.html) |  | not listed |
@@ -69,6 +71,7 @@ Towson, MD · 32 open · 79 with no date listed · 3 closed (not shown)
 | [Dr. Helene Breazeale Dance B.F.A. Scholarship](https://www.towson.edu/cofac/departments/dance/resources/scholarships.html) |  | not listed |
 | [Dr. Jack D. Osman Health Education Award](https://www.towson.edu/chp/departments/health-sciences/undergrad/health-care/scholarships.html) | $1,100 | not listed |
 | [Dr. Ruth Stocking Lynch Memorial Scholarship for Biology Scholars](https://www.towson.edu/fcsm/departments/biology/scholarships.html) |  | not listed |
+| [Dr. Vic S. Gladstone and Mary A. Saylor Scholarship in Audiology Education](https://www.towson.edu/chp/departments/asld/resources/scholarships.html) |  | not listed |
 | [Ernest F. Hollings Undergraduate Scholarship Program](https://www.towson.edu/fcsm/departments/environsci/scholarships.html) | $9,500 | not listed |
 | [Eunice Bowers Schmied'30 and Otto Karl Schmied Scholarship](https://www.towson.edu/fcsm/departments/mathematics/resources/scholarships.html) | $1,500 | not listed |
 | [FAMA Creative Promise Award](https://www.towson.edu/cofac/departments/film-audio-media/resources/scholarships.html) |  | not listed |
@@ -102,6 +105,7 @@ Towson, MD · 32 open · 79 with no date listed · 3 closed (not shown)
 | [Mary Hudson Scarborough Awards for Excellence](https://www.towson.edu/fcsm/departments/mathematics/resources/scholarships.html) |  | not listed |
 | [Mary Scarbrough-Carr Scholarship](https://www.towson.edu/fcsm/departments/biology/scholarships.html) |  | not listed |
 | [Mathematics Scholarships](https://www.towson.edu/fcsm/departments/mathematics/resources/scholarships.html) | $5,000 | not listed |
+| [Mature Reentry Student Scholarships](https://www.towson.edu/studentdiversity/scholarships/) |  | not listed |
 | [Michele M. Cooper, M.D. Scholarship](https://www.towson.edu/fcsm/scholarships/) |  | not listed |
 | [Mildred T. Becker Scholarship Endowment](https://www.towson.edu/fcsm/departments/mathematics/resources/scholarships.html) | $500 | not listed |
 | [Origine Huss Scholarship](https://www.towson.edu/cofac/departments/music/scholarships.html) |  | not listed |

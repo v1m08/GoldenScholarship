@@ -1,6 +1,6 @@
 # Texas Woman's University scholarships
 
-Denton, TX · 614 open · 8 with no date listed · 21 closed (not shown)
+Denton, TX · 615 open · 9 with no date listed · 21 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/texas-woman-s-university-229179)**
 
@@ -572,6 +572,7 @@ Denton, TX · 614 open · 8 with no date listed · 21 closed (not shown)
 | [Tillie and Tom McDonald Scholarship and Fellowship Quasi-Endowment (PT)](https://twu.academicworks.com/opportunities/31871) |  | Mar 1, 2027 |
 | [Tina Irene Hager Endowed Scholarship in Honor of Daughter Victoria and Granddaughter Annalla (SLIS)](https://twu.academicworks.com/opportunities/31957) |  | Mar 1, 2027 |
 | [TWU Alumni Advantage Scholarship (IF)](https://twu.academicworks.com/opportunities/32592) | $1,000 | Mar 1, 2027 |
+| [TWU Alumni Graduate Education Scholarship](https://twu.edu/alumni-advantage/) | $1,000 | Mar 1, 2027 |
 | [TWU Beta Gamma Sigma (BGS) Scholarship](https://twu.academicworks.com/opportunities/31104) |  | Mar 1, 2027 |
 | [TWU Big Tex Matching Scholarship](https://twu.academicworks.com/opportunities/32972) |  | Mar 1, 2027 |
 | [TWU Class of 1952 Endowed Scholarship](https://twu.academicworks.com/opportunities/32752) |  | Mar 1, 2027 |
@@ -621,6 +622,7 @@ Denton, TX · 614 open · 8 with no date listed · 21 closed (not shown)
 | [Wilson-Tayabali Family Annual Scholarship](https://twu.academicworks.com/opportunities/31380) |  | Mar 1, 2027 |
 | [Donna Nicholls Chambers Endowed Scholarship for Tomorrow's Teachers](https://twu.academicworks.com/opportunities/33016) |  | Mar 1, 2028 |
 | [Boldly Go Scholarships](https://twu.edu/finaid/scholarships/boldly-go-scholarships/) | $2,000–$5,000 | not listed |
+| [Honors Scholarships](https://twu.edu/honors/scholarships/) | $6,000 | not listed |
 | [Terry Scholarship - Texas Woman's University](https://twu.edu/scholar-programs/terry-foundation-scholarship/) |  | not listed |
 | [Texas Armed Services Scholarship Program](https://twu.edu/finaid/scholarships/texas-armed-services-scholarship-program/) |  | not listed |
 | [Texas Armed Services Scholarship Program (TASSP)](https://twu.edu/finaid/scholarships/texas-armed-services-scholarship-program/) |  | not listed |

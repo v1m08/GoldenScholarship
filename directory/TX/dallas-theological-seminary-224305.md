@@ -1,6 +1,6 @@
 # Dallas Theological Seminary scholarships
 
-Dallas, TX · 2 open · 31 with no date listed · 0 closed (not shown)
+Dallas, TX · 3 open · 33 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/dallas-theological-seminary-224305)**
 
@@ -8,6 +8,7 @@ Dallas, TX · 2 open · 31 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [Conditions and Stipulations of the Presidential Scholarship](https://www.dts.edu/start-your-journey/presidents-scholarship) | $12,000 | Mar 1, 2027 |
 | [Presidential Scholarship](https://www.dts.edu/start-your-journey/presidents-scholarship) | $12,000 | Mar 15, 2027 |
+| [Pastoral Formation Fellowship](https://www.dts.edu/start-your-journey/the-thm-william-b-dean-md-pastor-formation-fellowship) | $500 | Apr 15, 2027 |
 | [1 Corinthians 4:2 Scholarship Fund](https://www.dts.edu/start-your-journey/scholarships-discounts) |  | not listed |
 | [ASF Support Scholarship](https://www.dts.edu/start-your-journey/scholarships-discounts) | $750 | not listed |
 | [ASF Vision Award](https://www.dts.edu/start-your-journey/scholarships-discounts) | $3,000 | not listed |
@@ -23,8 +24,10 @@ Dallas, TX · 2 open · 31 with no date listed · 0 closed (not shown)
 | [Description of Scholarship](https://www.dts.edu/start-your-journey/the-full-tuition-scholarship) |  | not listed |
 | [Dorothy H. Melville I Thessalonians 4:14 Scholarship Fund](https://www.dts.edu/start-your-journey/scholarships-discounts) |  | not listed |
 | [Finishing Strong Scholarship](https://www.dts.edu/start-your-journey/finishing-strong-scholarship) |  | not listed |
+| [Full-Tuition Scholarship](https://www.dts.edu/start-your-journey/the-full-tuition-scholarship) | $15,000 | not listed |
 | [Glad Tidings Gospel Ministry Scholarship](https://www.dts.edu/start-your-journey/scholarships-discounts) | $500–$1,000 | not listed |
 | [God's Grace Scholarship Fund](https://www.dts.edu/start-your-journey/scholarships-discounts) |  | not listed |
+| [Harvesters Scholarship Foundation](https://www.dts.edu/start-your-journey/scholarships-discounts) |  | not listed |
 | [Harvey Elbert Holland Scholarship Fund](https://www.dts.edu/start-your-journey/scholarships-discounts) |  | not listed |
 | [Houston Dean's Scholarship-MA](https://www.dts.edu/start-your-journey/houston-dc-deans-scholarships) | $6,000 | not listed |
 | [Jerry H. Stoller Scholarship Fund](https://www.dts.edu/start-your-journey/scholarships-discounts) |  | not listed |

@@ -1,6 +1,6 @@
 # Monroe County Community College scholarships
 
-Monroe, MI · 92 open · 2 with no date listed · 8 closed (not shown)
+Monroe, MI · 92 open · 3 with no date listed · 8 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/monroe-county-community-college-171225)**
 
@@ -98,6 +98,7 @@ Monroe, MI · 92 open · 2 with no date listed · 8 closed (not shown)
 | [William J. and Hildreth C. Braunlich Family Memorial Scholarship](https://monroeccc.academicworks.com/opportunities/4037) | $3,550 | Mar 1, 2027 |
 | [William J. and Jennie E. Bacarella Scholarship](https://monroeccc.academicworks.com/opportunities/3991) | $1,350 | Mar 1, 2027 |
 | [Michigan Completitive Scholarship:](https://www.monroeccc.edu/michigan-scholarship-programs) |  | Jul 1, 2027 |
+| [Advanced Manufacturing Endowed Scholarship](https://cfmonroe.org/students) |  | not listed |
 | [MCCC Scholarships](https://www.monroeccc.edu/scholarships) | $2,450 | not listed |
 | [Performing Music Scholarship (Band, Choir, Orchestra)](https://www.monroeccc.edu/scholarships) |  | not listed |
 

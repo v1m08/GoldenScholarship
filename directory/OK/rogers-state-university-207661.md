@@ -1,6 +1,6 @@
 # Rogers State University scholarships
 
-Claremore, OK · 189 open · 5 with no date listed · 0 closed (not shown)
+Claremore, OK · 189 open · 6 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/rogers-state-university-207661)**
 
@@ -199,6 +199,7 @@ Claremore, OK · 189 open · 5 with no date listed · 0 closed (not shown)
 | [Concurrent High School Student → Incoming Freshman Scholarship](https://www.rsu.edu/financial-aid/scholarships/) | $4,000 | not listed |
 | [Concurrent Student → Incoming Freshman Scholarship](https://www.rsu.edu/financial-aid/scholarships/freshmen/) | $4,000 | not listed |
 | [Regional University Baccalaureate Scholarship](https://www.rsu.edu/financial-aid/scholarships/grants-waivers/) | $3,000 | not listed |
+| [RSU Transfer Scholarships](https://www.rsu.edu/financial-aid/scholarships/transfer/) | $1,500–$2,000 | not listed |
 | [William P. Willis Scholarship](https://www.rsu.edu/financial-aid/scholarships/grants-waivers/) | $2,400 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

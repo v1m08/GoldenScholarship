@@ -1,6 +1,6 @@
 # Spartanburg Community College scholarships
 
-Spartanburg, SC · 0 open · 31 with no date listed · 1 closed (not shown)
+Spartanburg, SC · 0 open · 33 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/spartanburg-community-college-218830)**
 
@@ -20,6 +20,7 @@ Spartanburg, SC · 0 open · 31 with no date listed · 1 closed (not shown)
 | [Haas Foundation Scholarship for MTT Fall 2022](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/community/) | $500 | not listed |
 | [Heating, Ventilation and Air Conditioning (HVAC) Technology Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
 | [Horatio Alger National Career & Technical Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/community/) | $2,500 | not listed |
+| [James C. Wood Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
 | [Jean Miller McAbee Memorial Horticulture Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
 | [Jimmy Painter Horticulture Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
 | [Joe R. & Joella F. Utley Radiologic Technology and Surgical Technology Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
@@ -29,6 +30,7 @@ Spartanburg, SC · 0 open · 31 with no date listed · 1 closed (not shown)
 | [John S. & Nora B. Featherston Family Memorial Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
 | [Mildred Harrison Dent Memorial Scholarship (Area Career Center Scholarships)](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/community/) |  | not listed |
 | [MLK Dream Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/community/) |  | not listed |
+| [Peter Mendivil Horticulture Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
 | [Piedmont Interstate Fair Horticulture Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
 | [President Henry C. Giles Jr. Scholarship](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |
 | [Program: University Transfer Scholarships - AA or AS program](https://www.sccsc.edu/admissions-aid/financial-aid/scholarships/scc-scholarships/) |  | not listed |

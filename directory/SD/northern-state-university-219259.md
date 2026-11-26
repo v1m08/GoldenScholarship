@@ -1,6 +1,6 @@
 # Northern State University scholarships
 
-Aberdeen, SD · 8 open · 36 with no date listed · 1 closed (not shown)
+Aberdeen, SD · 9 open · 39 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/northern-state-university-219259)**
 
@@ -8,12 +8,14 @@ Aberdeen, SD · 8 open · 36 with no date listed · 1 closed (not shown)
 | --- | --- | --- |
 | [SD Critical Teaching Needs Scholarship](https://northern.edu/academics/school-education/scholarships) |  | Dec 15, 2026 |
 | [Wolfpact unleashed scholarship](https://northern.edu/financial-aid/scholarships/freshmen) | $16,000 | Dec 15, 2026 |
+| [Music Scholarships](https://northern.edu/music-scholarships) | $500 | Jan 29, 2027 |
 | [Hollings Scholarship](https://northern.edu/academics/honors-program/scholarships) | $8,000 | Jan 31, 2027 |
 | [Arts and Sciences Scholarships](https://northern.edu/academics/college-of-arts-and-sciences/scholarships) | $2,500 | Mar 31, 2027 |
 | [Business Scholarships](https://northern.edu/academics/school-of-business/scholarships) | $1,000 | Mar 31, 2027 |
 | [Dr. Russell Brock Memorial Scholarship](https://northern.edu/academics/college-of-arts-and-sciences/scholarships) | $200 | Mar 31, 2027 |
 | [Daniel Wold Foundation Scholarship](https://northern.edu/academics/school-education/scholarships) | $1,000 | May 1, 2027 |
 | [Jacob K. Javits Fellowship](https://northern.edu/academics/honors-program/scholarships) |  | Sep 1, 2027 |
+| [Aberdeen Area Human Resources Association Scholarship](https://northern.edu/academics/school-of-business/scholarships) |  | not listed |
 | [Aberdeen Area Retired Teachers Association Annual Scholarship](https://northern.edu/academics/school-education/scholarships) |  | not listed |
 | [Barry M. Goldwater Scholarship](https://northern.edu/academics/honors-program/scholarships) | $7,500 | not listed |
 | [Bob Lehr Memorial Scholarship](https://northern.edu/academics/school-of-business/scholarships) |  | not listed |
@@ -24,6 +26,7 @@ Aberdeen, SD · 8 open · 36 with no date listed · 1 closed (not shown)
 | [Delta Kappa Gamma Scholarship](https://northern.edu/academics/school-education/scholarships) | $1,000 | not listed |
 | [Doreen Thomas Kayl Endowment Scholarship](https://northern.edu/academics/school-education/scholarships) |  | not listed |
 | [Dr. Wanda Coffield Hisel Memorial Scholarship](https://northern.edu/academics/school-education/scholarships) |  | not listed |
+| [Durheim Special Education Endowed Scholarship](https://northern.edu/academics/school-education/scholarships) |  | not listed |
 | [Fine Arts Scholarships](https://northern.edu/academics/school-fine-arts/fine-arts-scholarships) |  | not listed |
 | [Freeman Foundation Fellowship](https://northern.edu/academics/honors-program/scholarships) | $3,000–$7,000 | not listed |
 | [Fulbright Scholarship](https://northern.edu/academics/honors-program/scholarships) |  | not listed |
@@ -40,6 +43,7 @@ Aberdeen, SD · 8 open · 36 with no date listed · 1 closed (not shown)
 | [Lyman L. Humann Moose Lodge Scholarship](https://northern.edu/academics/school-of-business/scholarships) |  | not listed |
 | [Maroon and Gold Scholarship](https://northern.edu/financial-aid) |  | not listed |
 | [Marshall Scholarship](https://northern.edu/academics/honors-program/scholarships) |  | not listed |
+| [Marvin & Ione Ehley Accounting Scholarship](https://northern.edu/academics/school-of-business/scholarships) |  | not listed |
 | [Millicent Atkins 1901 Scholarship Program](https://northern.edu/academics/school-education/scholarships) |  | not listed |
 | [NSF Grant Research Fellowship Program](https://northern.edu/academics/honors-program/scholarships) |  | not listed |
 | [Pettigrew Annual Scholarship](https://northern.edu/academics/school-education/scholarships) |  | not listed |

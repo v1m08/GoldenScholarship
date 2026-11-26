@@ -1,6 +1,6 @@
 # Colorado Mountain College scholarships
 
-Glenwood Springs, CO · 1 open · 4 with no date listed · 197 closed (not shown)
+Glenwood Springs, CO · 1 open · 5 with no date listed · 197 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/colorado-mountain-college-126711)**
 
@@ -11,5 +11,6 @@ Glenwood Springs, CO · 1 open · 4 with no date listed · 197 closed (not shown
 | [CMC Foundation Scholarships](https://coloradomtn.edu/scholarships/) |  | not listed |
 | [Go for 4 Scholarship](https://coloradomtn.edu/scholarships/) |  | not listed |
 | [Reisher Bridge Scholarship Program](https://coloradomtn.edu/scholarships/reisher-bridge/) | $2,000 | not listed |
+| [Senior Grant Tuition Rate](https://coloradomtn.edu/scholarships/tuition-discounts/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

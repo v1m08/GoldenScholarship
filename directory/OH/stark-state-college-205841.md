@@ -1,6 +1,6 @@
 # Stark State College scholarships
 
-North Canton, OH · 146 open · 9 with no date listed · 0 closed (not shown)
+North Canton, OH · 147 open · 9 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/stark-state-college-205841)**
 
@@ -29,6 +29,7 @@ North Canton, OH · 146 open · 9 with no date listed · 0 closed (not shown)
 | [Charity School of Kendal Scholarship](https://www.starkstate.edu/paying-for-college/scholarships/) |  | Jun 1, 2027 |
 | [Charles and Virginia West Endowed Scholarship](https://www.starkstate.edu/paying-for-college/scholarships/) |  | Jun 1, 2027 |
 | [Cheryl Van Lehn-Hamilton Endowed Scholarship](https://www.starkstate.edu/paying-for-college/scholarships/) |  | Jun 1, 2027 |
+| [Christopher and Stacy Remark Nursing Endowed Scholarship](https://www.starkstate.edu/paying-for-college/scholarships/) |  | Jun 1, 2027 |
 | [Christopher J. and Cynthia J. Maurer Endowed Scholarship](https://www.starkstate.edu/paying-for-college/scholarships/) |  | Jun 1, 2027 |
 | [Corsaut Family Endowed Scholarship](https://www.starkstate.edu/paying-for-college/scholarships/) |  | Jun 1, 2027 |
 | [Dale and Marguerite Young Endowed Scholarship](https://www.starkstate.edu/paying-for-college/scholarships/) |  | Jun 1, 2027 |

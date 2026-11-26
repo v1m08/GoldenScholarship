@@ -1,6 +1,6 @@
 # University of Southern California scholarships
 
-Los Angeles, CA · 3 open · 17 with no date listed · 2 closed (not shown)
+Los Angeles, CA · 3 open · 19 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-southern-california-123961)**
 
@@ -10,6 +10,7 @@ Los Angeles, CA · 3 open · 17 with no date listed · 2 closed (not shown)
 | [To Formally Accept the Award:](https://admission.usc.edu/scholarship-guide/) |  | May 1, 2027 |
 | [USC Merit Scholarships (Academic Year 2024-2025)](https://military.usc.edu/students/scholarships-and-fellowships/usc-scholarships/) |  | Nov 1, 2027 |
 | [Ahmanson Scholarship](https://military.usc.edu/students/scholarships-and-fellowships/usc-scholarships/) | $1,000 | not listed |
+| [Alpha Delta (Stanley Rousso) Centennial Scholarship Fund](https://www.zbtfoundation.org/available-scholarships) |  | not listed |
 | [Gary Sinise Endowed Scholarship - *1st year students, only](https://military.usc.edu/students/scholarships-and-fellowships/usc-scholarships/) | $2,000–$5,000 | not listed |
 | [Green to Gold Scholarships](https://military.usc.edu/students/scholarships-and-fellowships/rotc/) |  | not listed |
 | [Hollywood Canteen Endowed Scholarship](https://military.usc.edu/students/scholarships-and-fellowships/usc-scholarships/) |  | not listed |
@@ -20,6 +21,7 @@ Los Angeles, CA · 3 open · 17 with no date listed · 2 closed (not shown)
 | [On-Campus Army ROTC Scholarships (Current College Students)](https://military.usc.edu/students/scholarships-and-fellowships/rotc/) | $10,000 | not listed |
 | [On-Campus Navy/Marine ROTC Scholarships (Current College Students)](https://military.usc.edu/students/scholarships-and-fellowships/rotc/) |  | not listed |
 | [Pamela & Mark Mischel Family Endowed Scholarship Fund](https://military.usc.edu/students/scholarships-and-fellowships/usc-scholarships/) |  | not listed |
+| [Robert Wright Medical Scholarship Fund](https://military.usc.edu/students/scholarships-and-fellowships/usc-scholarships/) |  | not listed |
 | [ROTC Scholarships](https://admission.usc.edu/scholarship-guide/) | $4,000 | not listed |
 | [ROTC Sponsorships & Scholarships](https://admission.usc.edu/scholarship-guide-archive-2019-2020/) | $4,000 | not listed |
 | [Schoen Family Scholarship Program for Veterans](https://military.usc.edu/students/scholarships-and-fellowships/usc-scholarships/) |  | not listed |

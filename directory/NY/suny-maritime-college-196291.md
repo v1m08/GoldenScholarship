@@ -1,6 +1,6 @@
 # SUNY Maritime College scholarships
 
-Throggs Neck, NY · 62 open · 12 with no date listed · 0 closed (not shown)
+Throggs Neck, NY · 62 open · 16 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/suny-maritime-college-196291)**
 
@@ -68,15 +68,19 @@ Throggs Neck, NY · 62 open · 12 with no date listed · 0 closed (not shown)
 | [William L. Babel Scholarship Fund](https://sunymaritime.academicworks.com/opportunities/1522) |  | Jan 26, 2027 |
 | [Trooper Joseph J. Gallagher Memorial Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) | $1,000 | Jul 1, 2027 |
 | [APL U.S. Maritime Workforce Development Scholarship Program](https://www.sunymaritime.edu/admissions/scholarship-listing) | $25,000 | Oct 31, 2027 |
+| [ACT for Excellence and Student Initiative Scholarship Award](https://www.sunymaritime.edu/admissions/scholarship-listing) | $1,000 | not listed |
 | [American Society of Naval Engineers Scholarship Program](https://www.sunymaritime.edu/admissions/scholarship-listing) | $4,000 | not listed |
 | [Blue Water Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) |  | not listed |
 | [Carey Gabay Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) |  | not listed |
 | [CMA Education Foundation Scholarship Program](https://www.sunymaritime.edu/admissions/scholarship-listing) | $500–$10,000 | not listed |
 | [Excelsior Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) |  | not listed |
+| [Florida Harbor Pilots Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) | $2,500 | not listed |
 | [Hillel International Scholarships](https://www.sunymaritime.edu/admissions/scholarship-listing) |  | not listed |
 | [John G. Karrer Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) | $1,000 | not listed |
 | [Marine Technology Society Student Scholarships](https://www.sunymaritime.edu/admissions/scholarship-listing) | $2,500 | not listed |
 | [National Defense Transportation Association Foundation Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) |  | not listed |
+| [Norm Manly YMTA Maritime Educational Scholarship](https://ymta.net/ymta-scholarships/) | $5,000 | not listed |
+| [Robert N. Herbert Undergraduate Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) | $5,000 | not listed |
 | [South Asian American Association Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) | $6,000 | not listed |
 | [Study Abroad Scholarships](https://www.sunymaritime.edu/admissions/scholarship-listing) |  | not listed |
 | [TK Foundation Maritime University Scholarship](https://www.sunymaritime.edu/admissions/scholarship-listing) | $10,000 | not listed |

@@ -1,6 +1,6 @@
 # Florida International University scholarships
 
-Miami, FL · 59 open · 26 with no date listed · 5 closed (not shown)
+Miami, FL · 60 open · 27 with no date listed · 6 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/florida-international-university-133951)**
 
@@ -62,6 +62,7 @@ Miami, FL · 59 open · 26 with no date listed · 5 closed (not shown)
 | [John Branstetter Scholarship](https://fiu.academicworks.com/opportunities/22943) |  | Mar 15, 2027 |
 | [Kelly Foundation Tropical Botany Scholarship](https://fiu.academicworks.com/opportunities/22866) |  | Mar 15, 2027 |
 | [FIU Presidential Merit Scholarship](https://scholarships.fiu.edu/browse-scholarships/merit-scholarships/index.html) | $48,000 | May 1, 2027 |
+| [Florida Resident National Merit Finalists are funded by the State Benaquisto Award which covers](https://admissions.fiu.edu/cost-and-aid/scholarships/) | $9,000 | May 1, 2027 |
 | [Invitational Scholarship](https://fiu.academicworks.com/opportunities/22855) | $500 | May 1, 2027 |
 | [Rosa L. Jones Scholarship](https://fiu.academicworks.com/opportunities/22853) | $1,000 | May 1, 2027 |
 | [Moss Scholarship](https://fiu.academicworks.com/opportunities/22589) |  | Jun 30, 2027 |
@@ -73,6 +74,7 @@ Miami, FL · 59 open · 26 with no date listed · 5 closed (not shown)
 | [FIU Business Scholarships](https://business.fiu.edu/students/paying-for-school/scholarships/index.html) | $2,500 | not listed |
 | [FIU Scholarship](https://miamibaysidefoundation.org/scholarships/florida-international-university/) |  | not listed |
 | [FLAME Intro Micro-Scholarship](https://cdssec.fiu.edu/student-resources/cdssec-scholarships/index.html) | $500 | not listed |
+| [ForEverglades Scholarship](https://case.fiu.edu/opportunities/scholarships-fellowships/index.html) |  | not listed |
 | [Gold and Blue Scholarship](https://admissions.fiu.edu/cost-and-aid/scholarships/) | $1,000–$4,000 | not listed |
 | [ICSC Foundation: Rufrano Family First Generation Scholarship](https://business.fiu.edu/students/paying-for-school/scholarships/) |  | not listed |
 | [ICSC Foundation: Rufrano Family Real Estate Scholarship](https://business.fiu.edu/students/paying-for-school/scholarships/) | $4,000–$5,000 | not listed |

@@ -1,6 +1,6 @@
 # Carthage College scholarships
 
-Kenosha, WI · 19 open · 20 with no date listed · 1 closed (not shown)
+Kenosha, WI · 21 open · 19 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/carthage-college-238476)**
 
@@ -19,7 +19,9 @@ Kenosha, WI · 19 open · 20 with no date listed · 1 closed (not shown)
 | [School of Business and Economics Scholarships](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) |  | Dec 3, 2026 |
 | [Tarble Family California Scholarships](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) | $33,000 | Dec 3, 2026 |
 | [Teacher Education Scholarship](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) |  | Dec 3, 2026 |
+| [Clark Research Fellowship](https://spacegrant.carthage.edu/live/profiles/2010-clark-research-fellowship) | $6,000 | Feb 1, 2027 |
 | [Early FAFSA Filers Award - Carthage College](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) | $500 | Feb 1, 2027 |
+| [WSGC Research Fellowship](https://spacegrant.carthage.edu/live/profiles/1998-wsgc-graduate-professional-research-fellowship) | $6,000 | Feb 1, 2027 |
 | [Visual and Performing Arts Scholarships](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) |  | Feb 28, 2027 |
 | [Communication/Public Relations Scholarship](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) |  | Nov 1, 2027 |
 | [French/Japanese/Spanish Scholarships](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) | $33,000 | Nov 1, 2027 |
@@ -36,7 +38,6 @@ Kenosha, WI · 19 open · 20 with no date listed · 1 closed (not shown)
 | [Lincoln Scholarships](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/presidential-scholarship-program/) |  | not listed |
 | [Lutheran GRANT](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) | $1,000 | not listed |
 | [Ministerial Grant](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/) | $500 | not listed |
-| [NASA WSGC Aviation Scholarship](https://spacegrant.carthage.edu/live/profiles/2005-aviation-scholarship) | $3,000 | not listed |
 | [Phi Theta Kappa Scholarship](https://www.carthage.edu/admissions/transfer-students/transfer-student-scholarships/) | $2,000 | not listed |
 | [Ruud Scholarships](https://www.carthage.edu/admissions/undergraduate-students/undergraduate-scholarships/presidential-scholarship-program/) |  | not listed |
 | [Spring Scholarship Competition](https://www.carthage.edu/admissions/transfer-students/transfer-student-scholarships/) | $33,000 | not listed |

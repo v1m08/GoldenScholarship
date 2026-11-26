@@ -1,6 +1,6 @@
 # Louisiana State University-Alexandria scholarships
 
-Alexandria, LA · 24 open · 1 with no date listed · 0 closed (not shown)
+Alexandria, LA · 27 open · 1 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/louisiana-state-university-alexandria-159382)**
 
@@ -15,12 +15,15 @@ Alexandria, LA · 24 open · 1 with no date listed · 0 closed (not shown)
 | [Hire a Helper Scholarship](https://www.lsua.edu/admissions/scholarships/) | $2,000 | Jan 15, 2027 |
 | [Job Test Career Coach Scholarship for Law Students](https://www.lsua.edu/admissions/scholarships/) | $1,000 | Feb 3, 2027 |
 | [Learner Tutoring Innovators of Color in STEM Scholarship](https://www.lsua.edu/admissions/scholarships/) | $500 | Mar 1, 2027 |
+| [LendUP Opportunity Scholarship](https://www.lsua.edu/admissions/scholarships/) | $2,500 | Mar 31, 2027 |
 | [Best Greens Powder Hero's Legacy Scholarship](https://www.lsua.edu/admissions/scholarships/) | $3,000 | Apr 1, 2027 |
 | [HeySunday Scholarship for Moms in College](https://www.lsua.edu/admissions/scholarships/) | $2,500 | Jun 1, 2027 |
 | [Top Nutrition Coaching First-Gen Futures Scholarship](https://www.lsua.edu/admissions/scholarships/) | $1,000 | Jun 1, 2027 |
 | [Jobtest.org Career Scholarship](https://www.lsua.edu/admissions/scholarships/) | $1,000 | Jul 1, 2027 |
 | [Live It Up Best Greens Powder Women in Healthcare Scholarship](https://www.lsua.edu/admissions/scholarships/) | $1,000 | Jul 1, 2027 |
 | [Live It Up Nursing Scholarship](https://www.lsua.edu/admissions/scholarships/) | $1,000 | Jul 1, 2027 |
+| [Wellness Warriors Scholarship](https://www.lsua.edu/admissions/scholarships/) | $500 | Jul 1, 2027 |
+| [GoodRx Pharmacy, Physician Assistant, and Nurses Scholarships](https://www.lsua.edu/admissions/scholarships/) | $5,000 | Jul 7, 2027 |
 | [VNutrition Best Online Nutritionists LGBTQ+ Vitality Scholarship](https://www.lsua.edu/admissions/scholarships/) | $1,000 | Jul 29, 2027 |
 | [Healthy Eating Scholarship](https://www.lsua.edu/admissions/scholarships/) | $500 | Jul 31, 2027 |
 | [Learner Algebra Scholarship](https://www.lsua.edu/admissions/scholarships/) | $500 | Jul 31, 2027 |

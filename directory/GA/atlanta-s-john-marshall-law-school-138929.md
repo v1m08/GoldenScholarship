@@ -1,6 +1,6 @@
 # Atlanta's John Marshall Law School scholarships
 
-Atlanta, GA · 0 open · 24 with no date listed · 0 closed (not shown)
+Atlanta, GA · 0 open · 25 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/atlanta-s-john-marshall-law-school-138929)**
 
@@ -18,6 +18,7 @@ Atlanta, GA · 0 open · 24 with no date listed · 0 closed (not shown)
 | [Georgia Bar Success Endowed Award](https://www.johnmarshall.edu/financing/) |  | not listed |
 | [Georgia Civil Justice Foundation Scholarship](https://www.johnmarshall.edu/financing/) | $1,500–$2,000 | not listed |
 | [Interested applicants for this scholarship must answer the following question](https://www.johnmarshall.edu/financing/) |  | not listed |
+| [Interested applicants for this scholarship must answer the following questions](https://www.johnmarshall.edu/financing/) |  | not listed |
 | [John E. Ryan Merit Scholarship](https://www.johnmarshall.edu/financing/) |  | not listed |
 | [John Marshall Law School Foundation Scholarship](https://www.johnmarshall.edu/financing/) |  | not listed |
 | [John Marshall Scholarship](https://www.johnmarshall.edu/financing/) |  | not listed |

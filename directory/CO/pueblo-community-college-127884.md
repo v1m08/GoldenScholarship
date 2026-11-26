@@ -1,6 +1,6 @@
 # Pueblo Community College scholarships
 
-Pueblo, CO · 0 open · 1 with no date listed · 0 closed (not shown)
+Pueblo, CO · 0 open · 1 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/pueblo-community-college-127884)**
 

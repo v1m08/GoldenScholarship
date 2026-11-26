@@ -1,6 +1,6 @@
 # Chowan University scholarships
 
-Murfreesboro, NC · 0 open · 4 with no date listed · 1 closed (not shown)
+Murfreesboro, NC · 0 open · 5 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/chowan-university-198303)**
 
@@ -10,5 +10,6 @@ Murfreesboro, NC · 0 open · 4 with no date listed · 1 closed (not shown)
 | [HSF awards scholarships to applicants that range from $500](https://www.chowan.edu/admissions/financial-aid/scholarships-grants/) | $5,000 | not listed |
 | [Iraq and Afghanistan Service Grant](https://www.chowan.edu/admissions/financial-aid/scholarships-grants/) |  | not listed |
 | [Lettie Pate Whitehead Scholarship](https://www.chowan.edu/admissions/financial-aid/scholarships-grants/lettie-pate-whitehead-scholarship/) |  | not listed |
+| [Number of Awards](https://comfortcases.org/chowan-university/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

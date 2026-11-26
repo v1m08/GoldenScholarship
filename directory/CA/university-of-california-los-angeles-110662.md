@@ -1,6 +1,6 @@
 # University of California-Los Angeles scholarships
 
-Los Angeles, CA · 49 open · 807 with no date listed · 64 closed (not shown)
+Los Angeles, CA · 49 open · 809 with no date listed · 64 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-california-los-angeles-110662)**
 
@@ -585,6 +585,7 @@ Los Angeles, CA · 49 open · 807 with no date listed · 64 closed (not shown)
 | [Nsf 2440163 Williams 09/27 57.5%](https://ucla.academicworks.com/opportunities/131733) | $7,000 | not listed |
 | [O. F. Munson Memorial Scholarship](https://ucla.academicworks.com/opportunities/126979) |  | not listed |
 | [Oariona Lowe Scholarship](https://ucla.academicworks.com/opportunities/130000) |  | not listed |
+| [Olomouc Region Scholarships](https://law.ucla.edu/admissions/llm-admissions/scholarships-financial-aid) |  | not listed |
 | [OPERA Scholarship](https://ucla.academicworks.com/opportunities/129716) | $500 | not listed |
 | [Orange County Bruins Alumni Scholarship](https://ucla.academicworks.com/opportunities/125371) |  | not listed |
 | [Orange County/ Karl Urland Memorial Alumni Scholarship](https://ucla.academicworks.com/opportunities/127093) |  | not listed |
@@ -747,6 +748,7 @@ Los Angeles, CA · 49 open · 807 with no date listed · 64 closed (not shown)
 | [Thelma L. Culverson Endowed Undergraduate Scholarship](https://ucla.academicworks.com/opportunities/131887) |  | not listed |
 | [Theodore S. Brown & Edith Newell Brown Alumni Scholarship](https://ucla.academicworks.com/opportunities/126020) |  | not listed |
 | [Theodore Saloutos Alumni Scholarship](https://ucla.academicworks.com/opportunities/127849) |  | not listed |
+| [This scholarship is awarded based on one or more of the following factors](https://law.ucla.edu/admissions/master-legal-studies/mls-tuition-and-scholarships) |  | not listed |
 | [Thomas H. Matsunaga Alumni Scholarship](https://ucla.academicworks.com/opportunities/126716) |  | not listed |
 | [Thomas P. Adams Memorial Scholarship](https://ucla.academicworks.com/opportunities/127270) |  | not listed |
 | [Thomas Padin Endowed Scholarship](https://ucla.academicworks.com/opportunities/127864) |  | not listed |

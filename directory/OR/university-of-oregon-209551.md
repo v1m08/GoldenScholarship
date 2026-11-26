@@ -1,11 +1,13 @@
 # University of Oregon scholarships
 
-Eugene, OR · 22 open · 36 with no date listed · 6 closed (not shown)
+Eugene, OR · 26 open · 40 with no date listed · 9 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-oregon-209551)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [DAAD Study and RISE Scholarships](https://urds.uoregon.edu/daad-study-and-rise-scholarships) |  | Nov 30, 2026 |
+| [Lafayette Fellowship](https://urds.uoregon.edu/Lafayette) |  | Nov 30, 2026 |
 | [Challenge Yourself Scholarship](https://financialaid.uoregon.edu/scholarship-bulletin-board) |  | Dec 14, 2026 |
 | [BenGlassLaw Referee and Umpire Leadership Scholarship](https://financialaid.uoregon.edu/scholarship-bulletin-board) | $2,500 | Dec 15, 2026 |
 | [Children of Injured Workers Scholarship](https://financialaid.uoregon.edu/scholarship-bulletin-board) | $1,000 | Dec 16, 2026 |
@@ -18,7 +20,9 @@ Eugene, OR · 22 open · 36 with no date listed · 6 closed (not shown)
 | [National Merit Scholarship](https://financialaid.uoregon.edu/national_merit_scholarship) | $2,000 | Jan 15, 2027 |
 | [Presidential Scholarship](https://financialaid.uoregon.edu/uo_presidential_scholarship) | $9,000 | Jan 15, 2027 |
 | [Staton Scholarship](https://financialaid.uoregon.edu/staton_scholarship) | $7,350 | Jan 15, 2027 |
+| [Boren Scholarship](https://urds.uoregon.edu/boren-scholarship) | $25,000 | Jan 20, 2027 |
 | [Ernest F. Hollings Scholarship Program](https://urds.uoregon.edu/ernest-f-hollings-scholarship-program) | $9,500 | Jan 31, 2027 |
+| [Robert J. Erickson Kaiser Permanente Scholarship](https://inclusion.uoregon.edu/erickson) | $6,000 | Jan 31, 2027 |
 | [Duck Excellence Scholarship for First-Year Students](https://financialaid.uoregon.edu/duck_excellence_scholarship) | $7,500 | Feb 1, 2027 |
 | [Community Impact Scholarship](https://financialaid.uoregon.edu/scholarship-bulletin-board) | $2,500 | Feb 3, 2027 |
 | [Hope for Humanity Scholarship](https://financialaid.uoregon.edu/scholarship-bulletin-board) | $1,000 | Feb 10, 2027 |
@@ -30,6 +34,7 @@ Eugene, OR · 22 open · 36 with no date listed · 6 closed (not shown)
 | [Critical Language Scholarship (CLS)](https://urds.uoregon.edu/critical-language-scholarships-cls) |  | Nov 17, 2027 |
 | [Accounting Scholarships](https://business.uoregon.edu/programs/undergraduate/apply/scholarships-funding) | $1,000–$10,000 | not listed |
 | [Alanson H. Kleinsorge Political Science Scholarship](https://socialsciences.uoregon.edu/political-science/undergraduate-programs/scholarships) | $4,000 | not listed |
+| [Anna Boyd Reed Scholarship](https://humanities.uoregon.edu/theatre-arts/undergraduate-programs/scholarships) |  | not listed |
 | [Automatic Consideration for Oregon Distinction Scholarship](https://financialaid.uoregon.edu/scholarships_first_year) | $20,000 | not listed |
 | [Benjamin A. Gilman International Scholarship](https://urds.uoregon.edu/benjamin-gilman-international-scholarship) | $8,000 | not listed |
 | [Burrell Family Scholarship](https://humanities.uoregon.edu/theatre-arts/undergraduate-programs/scholarships) |  | not listed |
@@ -39,6 +44,7 @@ Eugene, OR · 22 open · 36 with no date listed · 6 closed (not shown)
 | [Division of Global Engagement Endowed Scholarships](https://www.uoregon.edu/admissions/undergraduate/find-your-path/international/documents-and-scholarships/international-scholarships/) | $1,000–$12,000 | not listed |
 | [Duck Excellence Scholarship (DES)](https://inclusion.uoregon.edu/des) |  | not listed |
 | [Duck Excellence Scholarship for Continuing and Transfer Students](https://financialaid.uoregon.edu/duck_excellence_scholarship_continuing) | $7,500 | not listed |
+| [Eleanor Wood Karrer Scholarship](https://humanities.uoregon.edu/theatre-arts/undergraduate-programs/scholarships) |  | not listed |
 | [Experiential Learning Opportunity Scholarship](https://cas.uoregon.edu/cas-scholarships-fellowships) | $2,000 | not listed |
 | [Experiential Learning Scholarship](https://cas.uoregon.edu/scholarships) | $2,000 | not listed |
 | [General University Scholarship - University of Oregon](https://financialaid.uoregon.edu/stamps_scholarship) | $12,000 | not listed |
@@ -52,6 +58,7 @@ Eugene, OR · 22 open · 36 with no date listed · 6 closed (not shown)
 | [Lundquist College Scholarships](https://business.uoregon.edu/programs/undergraduate/apply/scholarships-funding) |  | not listed |
 | [Lundquist Scholarships](https://business.uoregon.edu/programs/undergraduate/apply/scholarships-funding) | $2,000–$6,000 | not listed |
 | [Marks Family Scholarship](https://humanities.uoregon.edu/theatre-arts/undergraduate-programs/scholarships) |  | not listed |
+| [McNair Scholarships](https://urds.uoregon.edu/mcnair-scholars-program) |  | not listed |
 | [Michael and Libby McCaslin Scholarship](https://socialsciences.uoregon.edu/political-science/undergraduate-programs/scholarships) | $1,000 | not listed |
 | [Morris K. Udall Scholarship](https://urds.uoregon.edu/morris-k-udall-scholarship) | $7,000 | not listed |
 | [Music Performance Scholarships](https://musicanddance.uoregon.edu/undergraduate-scholarships-and-funding) |  | not listed |
@@ -62,6 +69,7 @@ Eugene, OR · 22 open · 36 with no date listed · 6 closed (not shown)
 | [Path to Law Scholarship](https://financialaid.uoregon.edu/scholarship-bulletin-board) | $2,000 | not listed |
 | [Salt Lake Mailing Scholarship](https://financialaid.uoregon.edu/scholarship-bulletin-board) | $1,000 | not listed |
 | [UO Libraries' Award for Undergraduate Research Excellence (LAURE)](https://humanities.uoregon.edu/theatre-arts/undergraduate-programs/scholarships) | $1,500 | not listed |
+| [US-Ireland Alliance Scholarship](https://us-irelandalliance.org/mitchellscholarship) |  | not listed |
 | [Very Little Theatre Scholarship](https://humanities.uoregon.edu/theatre-arts/undergraduate-programs/scholarships) |  | not listed |
 | [Working Student Scholarship](https://financialaid.uoregon.edu/scholarship-bulletin-board) | $1,000 | not listed |
 

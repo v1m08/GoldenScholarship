@@ -1,6 +1,6 @@
 # Lindenwood University scholarships
 
-Saint Charles, MO · 0 open · 1 with no date listed · 0 closed (not shown)
+Saint Charles, MO · 0 open · 1 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/lindenwood-university-177968)**
 

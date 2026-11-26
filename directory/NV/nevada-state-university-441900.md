@@ -1,6 +1,6 @@
 # Nevada State University scholarships
 
-Henderson, NV · 2 open · 4 with no date listed · 0 closed (not shown)
+Henderson, NV · 2 open · 5 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/nevada-state-university-441900)**
 
@@ -12,5 +12,6 @@ Henderson, NV · 2 open · 4 with no date listed · 0 closed (not shown)
 | [Matching Scholarship Program](https://nevadastate.edu/financial-aid/scholarship/) | $500 | not listed |
 | [Millennium Scholarship](https://nevadastate.edu/financial-aid/scholarship/) |  | not listed |
 | [Nevada State Foundation Scholarships](https://nevadastate.edu/admissions/scholarships/) |  | not listed |
+| [NS Foundation Scholarships support students across all three schools](https://nevadastate.edu/financial-aid/foundation-scholarship-application/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

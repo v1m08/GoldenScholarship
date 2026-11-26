@@ -1,6 +1,6 @@
 # Bradley University scholarships
 
-Peoria, IL · 2 open · 529 with no date listed · 0 closed (not shown)
+Peoria, IL · 2 open · 532 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/bradley-university-143358)**
 
@@ -215,6 +215,7 @@ Peoria, IL · 2 open · 529 with no date listed · 0 closed (not shown)
 | [Gordon, Stockman & Waugh P.C. Endowed Scholarship](https://bradley.academicworks.com/opportunities/1137) |  | not listed |
 | [Grace & Roy Latta Scholarship](https://bradley.academicworks.com/opportunities/1356) |  | not listed |
 | [Gregory Miller '62 Endowed Scholarship](https://bradley.academicworks.com/opportunities/1449) |  | not listed |
+| [Hagar Bach Scholarship](https://www.bradley.edu/admissions/financial-aid/scholarships-grants/) |  | not listed |
 | [Hager and Dorothy Bach Endowed Scholarship](https://bradley.academicworks.com/opportunities/756) |  | not listed |
 | [Harbaugh Endowed Scholarship](https://bradley.academicworks.com/opportunities/1167) |  | not listed |
 | [Harold R. Bleigh Endowed Scholarship for Engineering](https://bradley.academicworks.com/opportunities/825) |  | not listed |
@@ -307,6 +308,7 @@ Peoria, IL · 2 open · 529 with no date listed · 0 closed (not shown)
 | [Kodak Scholarship](https://bradley.academicworks.com/opportunities/438) |  | not listed |
 | [Kolin Lionberger Memorial Endowed Scholarship](https://bradley.academicworks.com/opportunities/1365) |  | not listed |
 | [Kottemann Endowed Scholarship](https://bradley.academicworks.com/opportunities/441) |  | not listed |
+| [LaHood Scholarships](https://dirksencenter.org/grants-awards/scholarships/) |  | not listed |
 | [Lamont and Ethel J. Eltinge Memorial Endowed Scholarship](https://bradley.academicworks.com/opportunities/1044) |  | not listed |
 | [Larry and Eleanor Norton Endowed Scholarship](https://bradley.academicworks.com/opportunities/1506) |  | not listed |
 | [Laurie and Bud Howe Endowed Scholarship](https://bradley.academicworks.com/opportunities/1260) |  | not listed |
@@ -525,6 +527,7 @@ Peoria, IL · 2 open · 529 with no date listed · 0 closed (not shown)
 | [William F. Jordan Endowed Memorial Scholarship](https://bradley.academicworks.com/opportunities/1296) |  | not listed |
 | [William G. Hasselbacher Graduate Memorial Scholarship Award](https://bradley.academicworks.com/opportunities/1263) |  | not listed |
 | [William J. Voelker, Jr. Memorial Endowed Scholarship](https://bradley.academicworks.com/opportunities/603) |  | not listed |
+| [William K. (Bill) Hall Scholarship](https://www.bradley.edu/admissions/financial-aid/scholarships-grants/) |  | not listed |
 | [William K. Gibson Memorial Endowed Scholarship for Accounting](https://bradley.academicworks.com/opportunities/1104) |  | not listed |
 | [William L. and Helen Czachorski Kasley Endowed Scholarship](https://bradley.academicworks.com/opportunities/1314) |  | not listed |
 | [William M '42 & Anne E. Pattison '45 Chinuge Endowed Scholarship](https://bradley.academicworks.com/opportunities/957) |  | not listed |

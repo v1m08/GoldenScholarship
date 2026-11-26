@@ -1,13 +1,16 @@
 # Aims Community College scholarships
 
-Greeley, CO · 0 open · 77 with no date listed · 0 closed (not shown)
+Greeley, CO · 1 open · 85 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/aims-community-college-126207)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Nordson BUILDS Scholarship Program](https://www.ofic.org/smr/nordson) | $10,000 | May 15, 2027 |
 | [Aims Scholars Scholarship](https://www.aims.edu/financial-aid-faq/aims-scholars-scholarship-faq) |  | not listed |
 | [Aims Staff Association Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [American Indian College Fund/Native American Scholarships](https://collegefund.org/students/) |  | not listed |
+| [American Industries Scholarship](https://fosterlove.com/american-industries-scholarship/?utm_source=Foster+Love+Scholarships&utm_medium=email&utm_campaign=68ffc3dbc8-AIS+Announcement+2026&utm_id=tradescholarship&utm_term=0_0ff093d3d3-68ffc3dbc8-%5BLIST_EMAIL_ID%5D&ct=t%28AIS+Announcement+2026%29&goal=0_0ff093d3d3-68ffc3dbc8-%5BLIST_EMAIL_ID%5D&mc_cid=68ffc3dbc8&mc_eid=a7139bb66b) | $12,000 | not listed |
 | [Ashton Bullard Memorial Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bert and Leslie Memorial Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Bomberger Foundation Automotive Annual Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -20,6 +23,7 @@ Greeley, CO · 0 open · 77 with no date listed · 0 closed (not shown)
 | [Christiansen Aviation Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Connie Standard Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Country Kick Up Legacy Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Daniel Patrick Anderson Memorial, Fire Science Annual Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Darrel Schneider Memorial Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Dola Mae Francis Classroom Teacher Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Don T. Harris Chemistry Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
@@ -52,17 +56,22 @@ Greeley, CO · 0 open · 77 with no date listed · 0 closed (not shown)
 | [Margaret & Barnard Houtchens Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mark and Mary Kendall Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mary Ruff Remedial Students Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Maurine Summers Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mike Kelly Endowment Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Miriam E. Peterson Memorial Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Moline Family Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Monarch Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Mountain West Pest Annual Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [National Western Stockshow Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Nestle Purina Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [NoCo Manufacturing Partnership Annual Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Phyllis Gosch Award](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Platte Valley Fire District Foundation Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Randall Brauchler Memorial Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Rick Montera Automotive Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Road Knights Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Roberta Miller Nursing Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [Rosa Maria Memorial Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Rose Heberlein Memorial Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Roy L. Smith Memorial Automotive Technology Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Ryan Weeks Memorial Scholarship](https://aims.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |

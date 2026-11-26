@@ -1,11 +1,13 @@
 # North Greenville University scholarships
 
-Tigerville, SC · 7 open · 19 with no date listed · 0 closed (not shown)
+Tigerville, SC · 9 open · 19 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/north-greenville-university-218441)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [NGU Fellows Scholarship](https://www.ngu.edu/admissions/financial-aid/undergraduate/competitive-scholarships/ngu-fellows-scholarship/) |  | Jan 15, 2027 |
+| [Trustee Scholarship](https://www.ngu.edu/admissions/financial-aid/undergraduate/competitive-scholarships/trustee-scholarship/) | $10,000–$20,000 | Jan 15, 2027 |
 | [Christian Ministry Scholarship](https://www.ngu.edu/admissions/financial-aid/undergraduate/other-undergraduate-scholarships/) |  | Jan 31, 2027 |
 | [Art Department Scholarships](https://www.ngu.edu/admissions/financial-aid/undergraduate/other-undergraduate-scholarships/) |  | Feb 1, 2027 |
 | [Baptist Collegiate Ministry Team Scholarships](https://www.ngu.edu/admissions/financial-aid/undergraduate/other-undergraduate-scholarships/) |  | Mar 1, 2027 |

@@ -1,12 +1,13 @@
 # Thomas College scholarships
 
-Waterville, ME · 1 open · 34 with no date listed · 0 closed (not shown)
+Waterville, ME · 1 open · 41 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/thomas-college-161563)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Achieve a Promising Future with a Full Tuition Scholarship to Thomas College](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/thomas-college-excellence-in-education-scholarship/) |  | Dec 15, 2026 |
+| [Agnes Lindsay Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) | $500–$1,000 | not listed |
 | [Alpha Gamma Delta Endowed Scholarship Fund](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Alumni Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Bernadean Staples Accounting Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
@@ -20,17 +21,23 @@ Waterville, ME · 1 open · 34 with no date listed · 0 closed (not shown)
 | [Dr. Nelson Madore Scholarship Fund](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Drucy's Scholarship Fund](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Faculty & Staff Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
+| [Ford Grant Memorial Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Greenville Lakers Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
+| [H. Allen Ryan Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
+| [J. Alfred Boucher Scholarship Fund](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [John & Jeanne Rowe Scholarship Fund](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Johnson W. and Ann S. Parks Memorial Scholarships](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Kathleen A. Ryan Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Kathryn Colby-McInnis Award This scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
+| [Lisa Forsley Memorial Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Lunder Education Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/lunder-scholarship/) | $2,000 | not listed |
 | [Lunder Scholarship Awards from the Lunder Scholars Endowment Fund](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Magna Cum Laude Scholarship - Thomas College](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) | $1,000 | not listed |
 | [Maine State Grant Program](https://www.thomas.edu/admissions-aid/financial-aid/loans/) |  | not listed |
+| [Margaret Marnet Endowment Awards from the Margaret Marnet Endowment Fund](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Nina-Lee Warnick Memorial Award](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Osher Foundation Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
+| [Peoples Heritage Bank Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Rebecca Kane Memorial Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Salvatore Leone and Family Endowed Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |
 | [Special Education Opportunity Scholarship](https://www.thomas.edu/admissions-aid/financial-aid/scholarships/) |  | not listed |

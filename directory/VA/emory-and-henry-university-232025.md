@@ -1,6 +1,6 @@
 # Emory & Henry University scholarships
 
-Emory, VA · 3 open · 6 with no date listed · 0 closed (not shown)
+Emory, VA · 3 open · 6 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/emory-and-henry-university-232025)**
 

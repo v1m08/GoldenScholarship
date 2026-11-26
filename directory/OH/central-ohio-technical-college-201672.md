@@ -1,6 +1,6 @@
 # Central Ohio Technical College scholarships
 
-Newark, OH · 2 open · 41 with no date listed · 0 closed (not shown)
+Newark, OH · 2 open · 48 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/central-ohio-technical-college-201672)**
 
@@ -22,26 +22,33 @@ Newark, OH · 2 open · 41 with no date listed · 0 closed (not shown)
 | [COTC Board of Trustees Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Dale Berkhouse Memorial Nursing Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Douglas and Beverly Donaldson Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
+| [Drexel A. and Josie Montanaro Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Dupler Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Elizabeth O'Neill Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Englefield Family Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Erin S. Kennedy Newark Rotary Club Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Evans Memorial Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Frances L. Ulmer Nursing Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
+| [Granville Rotary Club Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Hankinson Family Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Holly and Park Shai Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Iris L. Hicks Alumni Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
+| [J. Gilbert & Louella Reese Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [J. Gilbert Reese Next Generation Community Leadership Award](https://www.cotc.edu/cotc-scholarship-opportunities) | $2,000 | not listed |
 | [John and Mary Alford Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
+| [John W. Alford Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Joseph and Nelda Bernat Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
+| [Judy Ratliff Stansbury Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Karen L. Schuman Memorial Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [KBW Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Kevin and Nicole Cox Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [LeFevre Foundation Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Licking County Senior Levy Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Licking Memorial Health Systems Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
+| [Magdaline Rieser Nursing Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Marilyn C. Tritt Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Mike Johnson McDonald's Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
+| [Next Generation Challenge Cost-Shared Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Richard T. and Dorothy J. Oberfield Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Robert E. Simpson Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |
 | [Robert O'Neill and Alexa Robinson-O'Neill Family Scholarship](https://www.cotc.edu/cotc-scholarship-opportunities) |  | not listed |

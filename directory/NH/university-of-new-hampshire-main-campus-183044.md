@@ -1,6 +1,6 @@
 # University of New Hampshire-Main Campus scholarships
 
-Durham, NH · 3 open · 154 with no date listed · 4 closed (not shown)
+Durham, NH · 3 open · 162 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-new-hampshire-main-campus-183044)**
 
@@ -33,9 +33,13 @@ Durham, NH · 3 open · 154 with no date listed · 4 closed (not shown)
 | [Clark L. Stevens Scholarship](https://colsa.unh.edu/scholarships) |  | not listed |
 | [Critical Language Scholarship](https://www.unh.edu/fellowships-office/resource/critical-language-scholarship) |  | not listed |
 | [David Ellsworth Davis New Hampshire Scholarship](https://www.unh.edu/financialaid/types-aid/scholarships) |  | not listed |
+| [Dearborn Scholarship](https://ceps.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Dec 22 - Equitable Excellence Scholarship](https://www.unh.edu/ets/scholarships) | $5,000 | not listed |
+| [Dedicated Army National Guard Scholarship (DedARNG)](https://www.unh.edu/army/scholarships) |  | not listed |
+| [Department of Labor Nursing Expansion Grant](https://www.elliothospital.org/nursingexpansion) |  | not listed |
 | [Donald Fox Memorial Scholarship](https://ceps.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Douglas J. Wood Chairman's Scholarship](https://law.unh.edu/admissions/financial-aid) | $10,000 | not listed |
+| [Dr. E. Elizabeth French Scholarship](https://colsa.unh.edu/scholarships) |  | not listed |
 | [Dr. Ruth Peters Memorial Award](https://ceps.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Edith Converse Neff and Allen Whitaker Neff Forestry Scholarship](https://colsa.unh.edu/scholarships) |  | not listed |
 | [Edward and Selma Bacon Simon Scholarship](https://paulcollege.unh.edu/admissions/scholarships/paul-college-scholarship-descriptions) |  | not listed |
@@ -109,6 +113,7 @@ Durham, NH · 3 open · 154 with no date listed · 4 closed (not shown)
 | [Nancy Coutu Wildlife Scholarship](https://colsa.unh.edu/scholarships) |  | not listed |
 | [Natalie Jacobson Journalism Scholarship](https://cola.unh.edu/english/writing-awards) |  | not listed |
 | [National Association of Women in Construction Scholarship - UNH](https://ceps.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
+| [National Science Foundation Graduate Research Fellowship (NSF GRFP)](https://www.unh.edu/fellowships-office/getting-started) |  | not listed |
 | [NH Branch of the National Civic Federation Scholarship](https://paulcollege.unh.edu/admissions/scholarships/paul-college-scholarship-descriptions) |  | not listed |
 | [NHSGC Graduate Fellowships](https://www.nhsgc.unh.edu/index.html) | $1,000 | not listed |
 | [Nobel K. Peterson Scholarship](https://colsa.unh.edu/scholarships) |  | not listed |
@@ -120,6 +125,7 @@ Durham, NH · 3 open · 154 with no date listed · 4 closed (not shown)
 | [Paul E. Bruns Memorial Award](https://colsa.unh.edu/scholarships) |  | not listed |
 | [Paul Gilman Memorial Scholarship](https://colsa.unh.edu/scholarships) |  | not listed |
 | [Paul Griffin Scholarship](https://paulcollege.unh.edu/admissions/scholarships/paul-college-scholarship-descriptions) |  | not listed |
+| [Peter T. Paul College of Business and Economics Graduate Scholarships](https://paulcollege.unh.edu/graduate-admissions/scholarships) |  | not listed |
 | [Putnam Memorial Scholarship](https://colsa.unh.edu/scholarships) |  | not listed |
 | [Rhoda A. Hogan Scholarship](https://paulcollege.unh.edu/admissions/scholarships/paul-college-scholarship-descriptions) |  | not listed |
 | [Richard B. Johnston Memorial Award](https://colsa.unh.edu/scholarships) |  | not listed |
@@ -127,6 +133,7 @@ Durham, NH · 3 open · 154 with no date listed · 4 closed (not shown)
 | [Richard N. St. Onge Physics Award](https://ceps.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Robert E. Houston Scholarship](https://ceps.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [Robert E. Richards '75 Scholarship](https://colsa.unh.edu/scholarships) |  | not listed |
+| [Roberta Bartlett Scholarship](https://paulcollege.unh.edu/admissions/scholarships/paul-college-scholarship-descriptions) |  | not listed |
 | [Rosenberg International Franchise Scholarship](https://paulcollege.unh.edu/admissions/scholarships/paul-college-scholarship-descriptions) |  | not listed |
 | [Rudman Scholars Program](https://law.unh.edu/centers-institutes/warren-b-rudman-center/fellowships-scholarships) | $10,000 | not listed |
 | [Ruth E. Farrington Forestry Scholarships](https://colsa.unh.edu/scholarships) |  | not listed |
@@ -154,6 +161,7 @@ Durham, NH · 3 open · 154 with no date listed · 4 closed (not shown)
 | [Traditional ROTC Scholarship (2, 3 and 4 year)](https://www.unh.edu/army/scholarships) | $420 | not listed |
 | [UNH Alumni Association Legacy Scholarship](https://www.unh.edu/financialaid/types-aid/scholarships) | $3,000 | not listed |
 | [UNH Merit Scholarships](https://www.unh.edu/honors/scholarships-awards) |  | not listed |
+| [USNH Alumni Scholarship](https://paulcollege.unh.edu/graduate-admissions/scholarships) |  | not listed |
 | [Veterans Scholarship](https://paulcollege.unh.edu/graduate-admissions/scholarships) |  | not listed |
 | [W. Edwards Deming Scholarship](https://ceps.unh.edu/admissions/scholarships-financial-aid) |  | not listed |
 | [William E. Knox Memorial Scholarship](https://ceps.unh.edu/admissions/scholarships-financial-aid) |  | not listed |

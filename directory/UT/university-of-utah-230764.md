@@ -1,6 +1,6 @@
 # University of Utah scholarships
 
-Salt Lake City, UT · 19 open · 39 with no date listed · 14 closed (not shown)
+Salt Lake City, UT · 20 open · 40 with no date listed · 15 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-utah-230764)**
 
@@ -20,6 +20,7 @@ Salt Lake City, UT · 19 open · 39 with no date listed · 14 closed (not shown)
 | [Native Student Scholarship](https://financialaid.utah.edu/native-student-scholarship.php) |  | Feb 1, 2027 |
 | [Linguistics Department Scholarships and Fellowships](https://linguistics.utah.edu/resources/scholarships-and-awards.php) | $600 | Feb 15, 2027 |
 | [Linguistics Scholarships & Awards](https://linguistics.utah.edu/resources/scholarships-and-awards.php) | $600 | Feb 15, 2027 |
+| [Mining Engineering Scholarships](https://mining.utah.edu/scholarships/index.php) | $7,500 | Feb 15, 2027 |
 | [WLC Faculty-Led Learning Abroad Scholarship](https://languages.utah.edu/undergraduate/scholarships/index.php) | $2,500–$5,000 | Mar 1, 2027 |
 | [Marvin J. Ashton Scholarship](https://humanities.utah.edu/students/scholarships.php) | $1,000 | Mar 12, 2027 |
 | [H2S Scholarship](https://humanities.utah.edu/students/scholarships.php) |  | Apr 15, 2027 |
@@ -40,6 +41,7 @@ Salt Lake City, UT · 19 open · 39 with no date listed · 14 closed (not shown)
 | [Magleby Scholarship](https://philosophy.utah.edu/student-resources/financial-aid.php) | $1,000 | not listed |
 | [Marie Cornwall Graduate Research Grant](https://humanities.utah.edu/students/grad-scholarships.php) | $3,000 | not listed |
 | [Marriner S. Eccles Graduate Research Fellowship](https://humanities.utah.edu/students/grad-scholarships.php) |  | not listed |
+| [Metallurgical Engineering Scholarships](https://mse.utah.edu/materials-science-engineering-scholarships/) | $10,000 | not listed |
 | [Nanieve G. Momberger Scholarship](https://humanities.utah.edu/students/scholarships.php) | $1,000 | not listed |
 | [NRTOC Scholarship - University of Utah](https://nrotc.utah.edu/prospective-students/scholarship.php) |  | not listed |
 | [Ophelia Flores Laurella Pathfinder Scholarship in Humanities](https://humanities.utah.edu/students/scholarships.php) | $1,000 | not listed |

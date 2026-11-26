@@ -1,11 +1,12 @@
 # Lincoln Memorial University scholarships
 
-Harrogate, TN · 0 open · 3 with no date listed · 0 closed (not shown)
+Harrogate, TN · 1 open · 3 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/lincoln-memorial-university-220631)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Tennessee Farm Bureau - John Willis Memorial Scholarship](https://tnfarmbureau.org/john-willis-memorial-scholarship) | $1,500 | Jun 1, 2027 |
 | [Cornerstone Scholarship](https://www.lmunet.edu/student-financial-services/financial-aid/scholarships-and-grants) | $9,000 | not listed |
 | [LMU Academic Excellence Awards](https://www.lmunet.edu/student-financial-services/financial-aid/scholarships-and-grants) | $11,000–$15,000 | not listed |
 | [O.O. Howard Minority Teacher Scholarship](https://www.lmunet.edu/school-of-education/diversity/diversity-scholarships) |  | not listed |

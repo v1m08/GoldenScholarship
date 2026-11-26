@@ -1,6 +1,6 @@
 # The University of Alabama scholarships
 
-Tuscaloosa, AL · 2,460 open · 51 with no date listed · 40 closed (not shown)
+Tuscaloosa, AL · 2,461 open · 56 with no date listed · 40 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-alabama-100751)**
 
@@ -57,6 +57,7 @@ Tuscaloosa, AL · 2,460 open · 51 with no date listed · 40 closed (not shown)
 | [Martha Enid Jeffcoat Dean & Willard L Dean Baptist Health Foundation Nursing Scholarship](https://ua.academicworks.com/opportunities/25935) |  | Mar 1, 2027 |
 | [Mary Browning Grammer Annual Nursing Scholarship](https://ua.academicworks.com/opportunities/25491) |  | Mar 1, 2027 |
 | [Minnie Vickery Lee Nursing Scholarship](https://ua.academicworks.com/opportunities/29181) |  | Mar 1, 2027 |
+| [MOAA Scholarship Fund](https://charities.moaa.org/scholarship-fund/loan-programs/) | $500 | Mar 1, 2027 |
 | [Mr. Robert F. "Frank" Brown Jr. and Family Endowed Nursing Scholarship](https://ua.academicworks.com/opportunities/28212) |  | Mar 1, 2027 |
 | [Nona F. and Thad J. Gomillion Endowed Scholarship in the Capstone College of Nursing](https://ua.academicworks.com/opportunities/26179) |  | Mar 1, 2027 |
 | [Robert and Virginia Kelly Family Endowed Scholarship](https://ua.academicworks.com/opportunities/28896) |  | Mar 1, 2027 |
@@ -1505,8 +1506,7 @@ Tuscaloosa, AL · 2,460 open · 51 with no date listed · 40 closed (not shown)
 | [Leah Oldacre Taylor Delta Delta Delta Scholarship Fund](https://ua.academicworks.com/opportunities/30618) |  | May 31, 2027 |
 | [Lecil and Sue Smith Endowed Scholarship](https://ua.academicworks.com/opportunities/30199) |  | May 31, 2027 |
 | [Lecil Norman Smith and Susan Elise Smith Kraft Endowed Scholarship](https://ua.academicworks.com/opportunities/29651) |  | May 31, 2027 |
-| [Lee David Black and Florence Weinberg Black Memorial Scholarship Fund](https://ua.academicworks.com/opportunities/27065) |  | May 31, 2027 |
 
-Showing the first 1,500 of 2,511. The rest are in [data/scholarships.csv](../../data/scholarships.csv).
+Showing the first 1,500 of 2,517. The rest are in [data/scholarships.csv](../../data/scholarships.csv).
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

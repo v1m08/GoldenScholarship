@@ -1,12 +1,13 @@
 # Lansing Community College scholarships
 
-Lansing, MI · 1 open · 106 with no date listed · 0 closed (not shown)
+Lansing, MI · 1 open · 115 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/lansing-community-college-170657)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [LCC Foundation Scholarships webpage](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | Jan 31, 2027 |
+| [Accounting Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Albert White Residential Building Program Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Alice and Roy Erickson Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Allegra Print and Imaging of Okemos Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
@@ -22,6 +23,7 @@ Lansing, MI · 1 open · 106 with no date listed · 0 closed (not shown)
 | [Brandon James Mitchner Memorial Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Budd-McCallum Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Budzynski Pre-Architectural Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
+| [Byrne, Machtel, Sargeant Endowed Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Byron G. (Class of 1927) & Arlene Dryer (Class of 1929) Robson Memorial Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Canady Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Capitol Bancorp Community Service Endowed Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
@@ -39,6 +41,7 @@ Lansing, MI · 1 open · 106 with no date listed · 0 closed (not shown)
 | [DentaQuest Dental Hygienist Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Dinesh Shah Memorial Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Dr. Eva L. Evans Education Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
+| [Dr. Ronald K. Edwards Memorial Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Dr. Tai Sung Kim Endowed Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Edwin C. Bergmann Memorial Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Elizabeth L. Anderson Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
@@ -46,6 +49,7 @@ Lansing, MI · 1 open · 106 with no date listed · 0 closed (not shown)
 | [Florence Clement Kremer Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Francis and Sandra Bernier Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Frandorson/Corr- Endowed Management Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
+| [George and Marilyn Nugent and Family Banking and Finance Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Glenn V. Cathey Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Godspeed Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Grace Van Wert Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
@@ -63,6 +67,7 @@ Lansing, MI · 1 open · 106 with no date listed · 0 closed (not shown)
 | [James Ward Swindlehurst Memorial Endowment](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Jan and Joe Foster Health Careers Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Jan and Joe Foster Legal Assistant Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
+| [Jan and Joe Foster Technology Careers Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Jane Repko Memorial Endowment](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Janice Fleischer Bruno Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Jeff L. Buchin Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
@@ -70,6 +75,7 @@ Lansing, MI · 1 open · 106 with no date listed · 0 closed (not shown)
 | [Joel Ferguson Government and Public Affairs Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [John "Tony" Watson Memorial Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [John & Marnie Demmer Endowed Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
+| [John and Martha Aldinger Endowed Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Joseph C. Sloane Education Endowment](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Joseph P. Sohn Hotel/Motel/Food Service Management Specialist Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Joyce L. Hegan Memorial Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
@@ -96,6 +102,8 @@ Lansing, MI · 1 open · 106 with no date listed · 0 closed (not shown)
 | [Robert & Alana Anderson Healthcare & Public Service Endowment](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Robert E. Schulze Creative Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Ron and Donna Granger Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
+| [Ron Burke Help-A-Wrench Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
+| [Savita, Jyotsna and Kapila Shah Endowed Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Second Chance Nursing Endowment](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Shirley Robson Hanna Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Siemens Building Technologies Endowment](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
@@ -113,5 +121,6 @@ Lansing, MI · 1 open · 106 with no date listed · 0 closed (not shown)
 | [Vernon and Helen Snyder Memorial Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [Werbelow Nursing Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 | [William A. and Verna L. Zuhl Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
+| [William Darr Scholarship](https://www.lcc.edu/financial-aid/scholarships/foundation-scholarships.html) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

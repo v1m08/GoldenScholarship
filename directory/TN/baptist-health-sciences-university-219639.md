@@ -1,6 +1,6 @@
 # Baptist Health Sciences University scholarships
 
-Memphis, TN · 0 open · 24 with no date listed · 0 closed (not shown)
+Memphis, TN · 0 open · 25 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/baptist-health-sciences-university-219639)**
 
@@ -17,6 +17,7 @@ Memphis, TN · 0 open · 24 with no date listed · 0 closed (not shown)
 | [Dr. Ling H. Lee Memorial Scholarship](https://www.baptistu.edu/tuition-financial-aid/scholarships-grants/current-students) |  | not listed |
 | [Elizabeth Farnell Scholarships](https://www.baptistu.edu/tuition-financial-aid/scholarships-grants/current-students) | $6,000 | not listed |
 | [Follett Scholarship](https://www.baptistu.edu/tuition-financial-aid/scholarships-grants/current-students) | $2,000 | not listed |
+| [Healthcare Award](https://www.baptistu.edu/tuition-financial-aid/scholarships-grants/transfer-students) | $1,500 | not listed |
 | [IV Murphree Memorial Nursing Scholarship](https://www.baptistu.edu/tuition-financial-aid/scholarships-grants/transfer-students) | $1,500 | not listed |
 | [Joseph Powell Scholarships](https://www.baptistu.edu/tuition-financial-aid/scholarships-grants/freshmen) | $40,000 | not listed |
 | [Lula Curtis Scott Scholarship](https://www.baptistu.edu/tuition-financial-aid/scholarships-grants/current-students) | $500 | not listed |

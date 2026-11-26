@@ -1,6 +1,6 @@
 # University of Missouri-Kansas City scholarships
 
-Kansas City, MO · 908 open · 14 with no date listed · 6 closed (not shown)
+Kansas City, MO · 910 open · 36 with no date listed · 6 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-missouri-kansas-city-178402)**
 
@@ -656,6 +656,7 @@ Kansas City, MO · 908 open · 14 with no date listed · 6 closed (not shown)
 | [Powers Family Scholarship](https://umkc.academicworks.com/opportunities/23664) |  | Mar 1, 2027 |
 | [Prism Real Estate Services Scholarship](https://umkc.academicworks.com/opportunities/23544) |  | Mar 1, 2027 |
 | [Proctor/Boyd Family Scholarship](https://umkc.academicworks.com/opportunities/24396) |  | Mar 1, 2027 |
+| [Professional Career Escalators Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/professional-career-escalators-scholarship.php) | $2,500 | Mar 1, 2027 |
 | [R and C Charitable Foundation](https://umkc.academicworks.com/opportunities/23561) |  | Mar 1, 2027 |
 | [Rae A. DeVargas and Carlos J Setien Scholarship](https://umkc.academicworks.com/opportunities/24216) |  | Mar 1, 2027 |
 | [Ralph and Phyllis Cornell Scholarship](https://umkc.academicworks.com/opportunities/24119) |  | Mar 1, 2027 |
@@ -911,22 +912,45 @@ Kansas City, MO · 908 open · 14 with no date listed · 6 closed (not shown)
 | [Automatic Nonresident Awards At a Glance](https://www.umkc.edu/financial-aid/financial-aid/scholarships/nonresident.php) |  | Apr 1, 2027 |
 | [Returning Nonresident Scholarship](https://www.umkc.edu/financial-aid/financial-aid/scholarships/returning-students.php) |  | Apr 1, 2027 |
 | [Roo Advantage Scholarship](https://finaid.umkc.edu/financial-aid/scholarships/automatic/roo-advantage.html?_ga=2.66736238.1755699771.1660837147-6168397.1660837147&_gl=1*tgzmr2*_ga*NjE2ODM5Ny4xNjYwODM3MTQ3*_ga_ED3TE3PHG0*MTY2MDgzNzE0Ny4xLjEuMTY2MDgzNzIxNi42MC4wLjA.) |  | Apr 1, 2027 |
+| [Roo Nation Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/roo-nation-scholarship.php) |  | Apr 1, 2027 |
 | [Stackable First Time College Returning Automatic Awards](https://www.umkc.edu/financial-aid/financial-aid/scholarships/returning-students.php) |  | Apr 1, 2027 |
 | [Baty Family Scholarship](https://law.umkc.edu/admissions/scholarship-applications.html) |  | Jun 1, 2027 |
 | [Randy W. James Commitment to Justice Scholarship](https://law.umkc.edu/admissions/scholarship-applications.html) |  | Jun 1, 2027 |
+| [Advanced Placement Incentive Grant](https://www.umkc.edu/financial-aid/scholarships-grants/advanced-placement-incentive-grant.php) | $500 | not listed |
 | [Automatic Scholarships](https://www.umkc.edu/financial-aid/financial-aid/scholarships/automatic/) |  | not listed |
 | [Automatic Scholarships At a Glance](https://www.umkc.edu/financial-aid/financial-aid/scholarships/first-time-college-student.php) | $2,500 | not listed |
+| [Bloch Launchpad Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/bloch-launchpad-scholarship.php) | $2,500 | not listed |
+| [Boys and Girls Clubs Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/boys-and-girls-club-scholarship.php) | $1,000 | not listed |
 | [C.R. Krimminger Scholarship](https://law.umkc.edu/admissions/scholarship-applications.html) |  | not listed |
+| [Chancellor's Award](https://www.umkc.edu/financial-aid/scholarships-grants/chancellors-award.php) | $3,500 | not listed |
+| [Chancellor's Transfer Award](https://www.umkc.edu/financial-aid/scholarships-grants/chancellors-transfer-award.php) | $3,500 | not listed |
 | [Competitive Scholarships for Transfer Students At a Glance](https://www.umkc.edu/financial-aid/financial-aid/scholarships/transfer-student.php) | $10,000 | not listed |
 | [Dean's International Scholar Award (DISA)](https://www.umkc.edu/financial-aid/scholarships-grants/deans-international-scholar-award.php) | $4,250 | not listed |
 | [Dean's International Student Award](https://www.umkc.edu/international-students/future-students/scholarships.php) |  | not listed |
+| [Fast-Track Workforce Incentive Grant](https://www.umkc.edu/financial-aid/scholarships-grants/fast-track-workforce-incentive-grant.php) |  | not listed |
+| [Finish Line Degree Completion Grant Program](https://www.umkc.edu/financial-aid/scholarships-grants/finish-line-degree-completion-grant-program.php) | $1,500 | not listed |
 | [Harry L. Browne Scholarship](https://law.umkc.edu/admissions/scholarship-applications.html) |  | not listed |
+| [Immediate Needs Grant](https://www.umkc.edu/financial-aid/scholarships-grants/immediate-needs-grant.php) |  | not listed |
+| [Iraq and Afghanistan Service Grant](https://www.umkc.edu/financial-aid/scholarships-grants/iraq-afghanistan-service-grant.php) |  | not listed |
+| [KAMO Adventures Veteran Scholarship Fund](https://www.umkc.edu/financial-aid/scholarships-grants/kamo-adventures-veteran-scholarship.php) |  | not listed |
 | [Kansas Dental Education Opportunities Program](https://kansasregents.gov/students/student_financial_aid/scholarships_and_grants) |  | not listed |
 | [Metro Kansas City High School Award](https://www.umkc.edu/financial-aid/scholarships-grants/metro-kansas-city-high-school-award.php) | $1,000 | not listed |
+| [Missouri Returning Heroes Award](https://www.umkc.edu/financial-aid/scholarships-grants/missouri-returning-heros-award.php) |  | not listed |
 | [Missouri Waste Control Coalition Scholarship](https://umkc.academicworks.com/opportunities/7176) |  | not listed |
+| [Pat Tillman Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/pat-tillman-scholarship.php) |  | not listed |
 | [Phi Theta Kappa Scholarship - UMKC](https://www.umkc.edu/financial-aid/financial-aid/scholarships/transfer-student.php) | $1,500 | not listed |
+| [Provost's Award](https://www.umkc.edu/financial-aid/scholarships-grants/provosts-award.php) | $2,000 | not listed |
+| [Purdy Emerging Leaders Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/purdy-scholarship.php) |  | not listed |
 | [Returning Academic Excellence Award](https://www.umkc.edu/financial-aid/scholarships-grants/academic-excellence-award.php) |  | not listed |
 | [Roo Resilience Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/roo-resilience-scholarship.php) | $1,000 | not listed |
+| [Show-Me to College Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/show-me-to-college-scholarship.php) |  | not listed |
+| [Spencer C. Duncan Make It Count Award](https://www.umkc.edu/financial-aid/scholarships-grants/spencer-c-duncan-scholarship.php) |  | not listed |
+| [Stackable Transfer Returning Automatic Awards](https://www.umkc.edu/financial-aid/financial-aid/scholarships/returning-students.php) |  | not listed |
+| [Teacher Education Assistance for College and Higher Education Grant](https://www.umkc.edu/financial-aid/scholarships-grants/teach-grant.php) | $4,000 | not listed |
+| [Torchbearer's Fellow Award](https://www.umkc.edu/financial-aid/scholarships-grants/torchbearers-fellow-award.php) | $2,500 | not listed |
+| [Trustees' Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/umkc-trustees-scholarship.php) |  | not listed |
+| [UM MOST Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/um-most-scholarship.php) | $500 | not listed |
+| [UM Tuition Settlement Scholarship](https://www.umkc.edu/financial-aid/scholarships-grants/um-tuition-settlement-scholarship.php) | $1,500 | not listed |
 | [Wartime Veteran's Survivors Grant Program](https://www.umkc.edu/financial-aid/scholarships-grants/wartime-veterans-survivor-grant.php) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

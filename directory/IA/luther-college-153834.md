@@ -1,6 +1,6 @@
 # Luther College scholarships
 
-Decorah, IA · 9 open · 16 with no date listed · 0 closed (not shown)
+Decorah, IA · 10 open · 16 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/luther-college-153834)**
 
@@ -15,6 +15,7 @@ Decorah, IA · 9 open · 16 with no date listed · 0 closed (not shown)
 | [Talent Scholarships](https://www.luther.edu/admission-aid/cost-financial-aid/scholarships/transfer-students) | $3,000 | Mar 29, 2027 |
 | [Weston Noble Music Scholarships](https://www.luther.edu/music/scholarships/noble) | $7,000 | Mar 31, 2027 |
 | [Weston Noble Scholarships](https://www.luther.edu/music/scholarships/noble) | $7,000 | Mar 31, 2027 |
+| [Iowa Tuition Grant](https://www.luther.edu/admission-aid/cost-financial-aid/scholarships/grants/iowa) | $7,500 | Jul 1, 2027 |
 | [Audition for a Music Scholarship](https://www.luther.edu/music/scholarships) |  | not listed |
 | [Children of Fallen Heroes Scholarship](https://www.luther.edu/admission-aid/cost-financial-aid/scholarships/grants) |  | not listed |
 | [Colin Y. Farbotko Memorial Scholarship](https://www.luther.edu/departments/visual-and-performing-arts/scholarships) |  | not listed |

@@ -1,6 +1,6 @@
 # University of Missouri-Columbia scholarships
 
-Columbia, MO · 5 open · 11 with no date listed · 0 closed (not shown)
+Columbia, MO · 7 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-missouri-columbia-178396)**
 
@@ -10,7 +10,9 @@ Columbia, MO · 5 open · 11 with no date listed · 0 closed (not shown)
 | [Competitive Scholarships](https://admissions.missouri.edu/costs-aid/scholarships/international-student-scholarships/) |  | Dec 1, 2026 |
 | Koller Educational Foundation |  | Feb 1, 2027 |
 | [Honors Housing Award](https://honors.missouri.edu/scholarships-aid/honors-housing-award/) |  | Feb 15, 2027 |
+| [UM MOST Scholarships](https://www.umsystem.edu/departments-staff/finance/scholarships-financial-aid/most-scholarship) | $500 | Apr 1, 2027 |
 | [Automatic scholarships](https://financialaid.missouri.edu/scholarships/undergraduate-scholarships/) | $5,000 | Apr 15, 2027 |
+| [Tuition Settlement Scholarships](https://financialaid.missouri.edu/scholarships/freshmen-ftc/) | $500–$1,500 | Apr 15, 2027 |
 | [Automatic scholarships for transfer students](https://admissions.missouri.edu/costs-aid/scholarships/transfer-scholarships/) | $500–$20,000 | not listed |
 | [C.R. Johnston Scholarship: University of Missouri-Columbia](https://mofb.org/scholarships-and-grants/) |  | not listed |
 | [Criteria for Award](https://admissions.missouri.edu/costs-aid/scholarships/freshman-scholarships/) |  | not listed |
@@ -19,6 +21,7 @@ Columbia, MO · 5 open · 11 with no date listed · 0 closed (not shown)
 | [Mark Shelby Memorial Scholarship](https://www.sedaliasdf.org/scholarships) |  | not listed |
 | [Missouri Farm Bureau Scholarship: University of Missouri-Columbia](https://mofb.org/scholarships-and-grants/) | $1,000 | not listed |
 | [National Merit Finalist & Semifinalist Scholarship](https://admissions.missouri.edu/costs-aid/scholarships/national-merit-perfect-score-scholarships/) |  | not listed |
+| [Ron and Susan Ross Family Scholarship](https://www.cfozarks.org/resources/scholarship-criteria) |  | not listed |
 | [School of Music Scholarships](https://music.missouri.edu/undergrad/scholarships) |  | not listed |
 | Schowengerdt Fmly Scholarship Xxx-Xx-Xxxx |  | not listed |
 | [Weinstein Fellowship for International Students](https://law.missouri.edu/admissions/tuition-financial-aid/llm-scholarships/) |  | not listed |

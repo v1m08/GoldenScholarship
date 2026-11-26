@@ -1,6 +1,6 @@
 # Eastern Shore Community College scholarships
 
-Melfa, VA · 0 open · 57 with no date listed · 0 closed (not shown)
+Melfa, VA · 0 open · 58 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/eastern-shore-community-college-232052)**
 
@@ -55,6 +55,7 @@ Melfa, VA · 0 open · 57 with no date listed · 0 closed (not shown)
 | [Robert S. Bloxom Scholarship](https://es.vccs.edu/admissions/financial-aid/local-escc-scholarships/) | $900 | not listed |
 | [Robin Rich-Coates Opportunity Scholarship](https://es.vccs.edu/admissions/financial-aid/local-escc-scholarships/) | $1,000 | not listed |
 | [Ronnie and Brenda Holden Scholarship](https://es.vccs.edu/admissions/financial-aid/local-escc-scholarships/) | $700 | not listed |
+| [S & C Gagliardi Scholarship](https://es.vccs.edu/admissions/financial-aid/local-escc-scholarships/) |  | not listed |
 | [Sierra Jenkins Scholarship](https://es.vccs.edu/admissions/financial-aid/local-escc-scholarships/) |  | not listed |
 | [Sophie Rola Memorial Scholarship](https://es.vccs.edu/admissions/financial-aid/local-escc-scholarships/) | $100 | not listed |
 | [T. Hallett Badger Vocational Education Scholarship](https://es.vccs.edu/admissions/financial-aid/local-escc-scholarships/) | $500 | not listed |

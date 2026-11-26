@@ -1,6 +1,6 @@
 # Iowa State University scholarships
 
-Ames, IA · 53 open · 730 with no date listed · 2,124 closed (not shown)
+Ames, IA · 53 open · 731 with no date listed · 2,124 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/iowa-state-university-153603)**
 
@@ -336,6 +336,7 @@ Ames, IA · 53 open · 730 with no date listed · 2,124 closed (not shown)
 | [Fuhr Family Agriculture Scholarship](https://iastate.academicworks.com/opportunities/64915) |  | not listed |
 | [Future of Agriculture and Life Sciences Scholarship](https://iastate.academicworks.com/opportunities/65404) |  | not listed |
 | [Gamble International Agriculture Scholarship](https://iastate.academicworks.com/opportunities/66357) |  | not listed |
+| [Gamma Pi Chapter Scholarship](https://www.delts.org/scholarship-list) |  | not listed |
 | [Gamma Pi High Flyer Award](https://iastate.academicworks.com/opportunities/71341) |  | not listed |
 | [Gary and Ann Holck Graduate Scholarship in Sustainable Agriculture](https://iastate.academicworks.com/opportunities/66240) |  | not listed |
 | [Gary and Ann Holck Science with Practice Undergraduate Scholarship](https://iastate.academicworks.com/opportunities/66018) |  | not listed |

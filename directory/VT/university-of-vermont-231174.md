@@ -1,6 +1,6 @@
 # University of Vermont scholarships
 
-Burlington, VT · 4 open · 21 with no date listed · 2 closed (not shown)
+Burlington, VT · 4 open · 23 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-vermont-231174)**
 
@@ -27,6 +27,8 @@ Burlington, VT · 4 open · 21 with no date listed · 2 closed (not shown)
 | [Robert Noyce Scholarship (Application Required)](https://www.uvm.edu/studentfinancialservices/scholarships-current/returning-students) | $20,000–$32,000 | not listed |
 | [ROTC National Room and Board Scholarship](https://www.uvm.edu/studentfinancialservices/veteran-guard-and-rotc-scholarships-and-tuition-benefit-resources) |  | not listed |
 | [Rowland DEW Scholarship for Aspiring Educators of Color](https://www.uvm.edu/cess/funding-and-scholarships-cess-masters-students) | $20,000 | not listed |
+| [Summer Research Fellowship](https://www.uvm.edu/larnermed/uvmcancercenter/summer-research-fellowship) | $5,500 | not listed |
+| [UVM Emergency Grant](https://www.uvm.edu/studentfinancialservices/uvm-emergency-grant-program) |  | not listed |
 | [UVM Visit Award (Fall 2027 and Fall 2028 Applicants)](https://www.uvm.edu/studentfinancialservices/scholarships-prospective-vermont-resident-students) | $4,000 | not listed |
 | [Vermont Space Grant Consortium](https://www.uvm.edu/spacegrant) | $30,000 | not listed |
 | [VTSGC Research Experience for Undergraduates Scholarship](https://www.uvm.edu/spacegrant/vtsgc-research-experience-undergraduates-reu) | $1,000 | not listed |

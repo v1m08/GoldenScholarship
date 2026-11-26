@@ -1,6 +1,6 @@
 # Georgia Southwestern State University scholarships
 
-Americus, GA · 3 open · 62 with no date listed · 0 closed (not shown)
+Americus, GA · 3 open · 64 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/georgia-southwestern-state-university-139764)**
 
@@ -12,6 +12,7 @@ Americus, GA · 3 open · 62 with no date listed · 0 closed (not shown)
 | [Achieving the Dream Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Alice Mathis Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Alumni Association Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
+| [Bettie & Clyde L. Rhyne, Jr. Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Carolyn Kinnebrew Daniel Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Cavendar / Rich Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Charles F. Crisp Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
@@ -22,6 +23,7 @@ Americus, GA · 3 open · 62 with no date listed · 0 closed (not shown)
 | [Dr. Harold Earl Holloway Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Dr. Sue and Willard Sisson Endowed Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [E. R. Hogg Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
+| [Eddie Ward Family Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Edward Jones Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Evan Bozof Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |
 | [Frances Bagley Arenz Jones Scholarship](https://www.gsw.edu/financial-aid/scholarships-aid/scholarships/general-scholarships) |  | not listed |

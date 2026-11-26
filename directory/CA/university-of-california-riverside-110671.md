@@ -1,6 +1,6 @@
 # University of California-Riverside scholarships
 
-Riverside, CA · 9 open · 33 with no date listed · 1 closed (not shown)
+Riverside, CA · 9 open · 35 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-california-riverside-110671)**
 
@@ -43,6 +43,8 @@ Riverside, CA · 9 open · 33 with no date listed · 1 closed (not shown)
 | [Professional Fee Offset Grant](https://somsa.ucr.edu/scholarship-opportunities) |  | not listed |
 | [Re-entry Scholarship & Katrina Heinrich-Steinberg Re-Entry Scholarship](https://alumni.ucr.edu/scholarships) |  | not listed |
 | [Rodney T. Mathews, Jr. Scholarship (Morongo Scholarship)](https://nasp.ucr.edu/programs/scholarships-and-internships) | $10,000 | not listed |
+| [School of Business Administration Scholarships](https://business.ucr.edu/undergraduate/scholarships) |  | not listed |
+| [School of Medicine Scholarships](https://somsa.ucr.edu/scholarship-opportunities?_gl=1%2Aqukm0z%2A_ga%2AMTM0NTczMjUzOC4xNzI4Nzk3MDg0%2A_ga_S8BZQKWST2%2AMTc0MDA5NTk3OS42Ny4xLjE3NDAwOTcwNjQuMC4wLjA.%2A_gcl_au%2AMjYzMTQxODYyLjE3MzMyNzA4OTY.%2A_ga_Z1RGSBHBF7%2AMTc0MDEwNzQ3Ni43MC4xLjE3NDAxMDc1MDMuMC4wLjA.) | $47,000 | not listed |
 | [Sher-Right Endowed Scholarship](https://alumni.ucr.edu/scholarships) |  | not listed |
 | [Steve and Joann Krynski Scholarship](https://alumni.ucr.edu/scholarships) | $1,500 | not listed |
 | [Tilga Scholarship](https://asp.ucr.edu/programs/scholarships) | $6,000 | not listed |

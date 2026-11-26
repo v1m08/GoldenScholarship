@@ -1,6 +1,6 @@
 # Barton County Community College scholarships
 
-Great Bend, KS · 2 open · 5 with no date listed · 0 closed (not shown)
+Great Bend, KS · 2 open · 5 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/barton-county-community-college-154697)**
 

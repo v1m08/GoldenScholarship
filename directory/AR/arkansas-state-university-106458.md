@@ -1,6 +1,6 @@
 # Arkansas State University scholarships
 
-Jonesboro, AR · 455 open · 5 with no date listed · 16 closed (not shown)
+Jonesboro, AR · 456 open · 5 with no date listed · 16 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/arkansas-state-university-106458)**
 
@@ -266,6 +266,7 @@ Jonesboro, AR · 455 open · 5 with no date listed · 16 closed (not shown)
 | [John Tipton Management Scholarship](https://astate.academicworks.com/opportunities/5331) |  | Feb 1, 2027 |
 | [Johnny Cash Scholarship Endowment](https://astate.academicworks.com/opportunities/6050) |  | Feb 1, 2027 |
 | [Jon Linder/Douglas Seitz Scholarship](https://astate.academicworks.com/opportunities/5721) |  | Feb 1, 2027 |
+| [Jonathan Barfield Memorial Scholarship](https://astate.academicworks.com/opportunities/5516) |  | Feb 1, 2027 |
 | [Jonesboro Regional Chamber of Commerce Agri Scholarship](https://astate.academicworks.com/opportunities/5778) |  | Feb 1, 2027 |
 | [Jonesboro Rotary Club Trustees Scholar Award](https://astate.academicworks.com/opportunities/5599) |  | Feb 1, 2027 |
 | [Joseph H. Daniel Memorial Endowed Scholarship](https://astate.academicworks.com/opportunities/5439) |  | Feb 1, 2027 |

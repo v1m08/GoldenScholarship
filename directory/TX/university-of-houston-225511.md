@@ -1,6 +1,6 @@
 # University of Houston scholarships
 
-Houston, TX · 3 open · 20 with no date listed · 0 closed (not shown)
+Houston, TX · 3 open · 23 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-houston-225511)**
 
@@ -16,6 +16,7 @@ Houston, TX · 3 open · 20 with no date listed · 0 closed (not shown)
 | [Cullen Leadership Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) | $1,000 | not listed |
 | [Distinguished Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
 | [Engines of Our Ingenuity Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
+| [Feng and Fuling Chao Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
 | [Fifth Year Accounting Student Scholarship Program](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) | $5,000 | not listed |
 | [Franklin and Virginia Law Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
 | [George Family Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
@@ -24,6 +25,8 @@ Houston, TX · 3 open · 20 with no date listed · 0 closed (not shown)
 | [M.A. Jinnah Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
 | [Mark & Judith Cook Foundation Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
 | [Meal Plan Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
+| [Outstanding Dissertation Award](https://www.uh.edu/graduate-school/cost-and-aid/awards-scholarships-and-fellowships/outstanding-dissertation-award/) | $1,000 | not listed |
+| [Outstanding Thesis Award](https://www.uh.edu/graduate-school/cost-and-aid/awards-scholarships-and-fellowships/outstanding-thesis-award/) | $750 | not listed |
 | [Peggy & Bill Shiffick Foundation Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
 | [Robert and Esther Stadtler Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |
 | [Terry Foundation Scholarship](https://www.uh.edu/one-stop/financial/undergraduate/types-aid/scholarships/) |  | not listed |

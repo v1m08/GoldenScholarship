@@ -1,6 +1,6 @@
 # George Mason University scholarships
 
-Fairfax, VA · 10 open · 203 with no date listed · 2 closed (not shown)
+Fairfax, VA · 10 open · 204 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/george-mason-university-232186)**
 
@@ -111,6 +111,7 @@ Fairfax, VA · 10 open · 203 with no date listed · 2 closed (not shown)
 | [Health Informatics Endowed Scholarship](https://publichealth.gmu.edu/students/scholarships) |  | not listed |
 | [Helen Kellar Scholarship](https://cehd.gmu.edu/prospective-students/tuition-and-financial-aid/scholarships/) |  | not listed |
 | [Helen Ludwig Sehrt Endowed Scholarship Fund](https://chss.gmu.edu/scholarships) |  | not listed |
+| [Helene Fuld Scholarship](https://publichealth.gmu.edu/students/scholarships) |  | not listed |
 | [Herman B Brotman Endowed Scholarship](https://publichealth.gmu.edu/students/scholarships) |  | not listed |
 | [HFCI Scholarship Fund (Historic Fairfax City, Inc.)](https://chss.gmu.edu/scholarships) |  | not listed |
 | [Howard Ruben Bloch Endowed Scholarship and Award](https://chss.gmu.edu/scholarships) |  | not listed |

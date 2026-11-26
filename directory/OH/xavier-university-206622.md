@@ -1,6 +1,6 @@
 # Xavier University scholarships
 
-Cincinnati, OH · 512 open · 23 with no date listed · 4 closed (not shown)
+Cincinnati, OH · 512 open · 27 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/xavier-university-206622)**
 
@@ -530,9 +530,12 @@ Cincinnati, OH · 512 open · 23 with no date listed · 4 closed (not shown)
 | [Impacting Lives Commuter Scholarship](https://www.xavier.edu/financial-aid/current/scholarships/index) | $10,000 | not listed |
 | [John L. Muething Scholarship](https://www.xavier.edu/financial-aid/current/scholarships/index) |  | not listed |
 | [Linda Kohlhepp Endowment for Student Athletes](https://xavier.academicworks.com/opportunities/739) |  | not listed |
+| [Loyal Musketeer Scholarship](https://www.xavier.edu/graduate-admission/loyal-musketeer-scholarship) | $218 | not listed |
 | [Lt. Robert Rice Scholarship](https://www.xavier.edu/financial-aid/current/scholarships/index) | $6,000 | not listed |
 | [Marie Dorthea Deddens](https://xavier.academicworks.com/opportunities/2218) |  | not listed |
+| [Master of Health Services Administration Scholarships](https://www.xavier.edu/master-of-health-services-administration-program/scholarships-financial-aid/internal-mhsa-scholarships) | $9,000 | not listed |
 | [Music Scholarships and Grants](https://www.xavier.edu/music-program/scholarships/scholarships) |  | not listed |
+| [Occupational Therapy Scholarships](https://www.xavier.edu/occupational-therapy-department/financial-aid/index) |  | not listed |
 | [Ohio College Opportunity Grant (OCOG)](https://www.xavier.edu/undergraduate-admission/tuition-and-aid/scholarships/state-of-ohio-scholarships-and-grants) |  | not listed |
 | [Patricia Franckhauser Unroe Endowed Scholarship](https://xavier.academicworks.com/opportunities/15990) |  | not listed |
 | [Performing and Visual Arts Scholarship](https://www.xavier.edu/undergraduate-admission/tuition-and-aid/scholarships/performing-and-visual-arts-scholarship) | $2,000 | not listed |
@@ -540,6 +543,7 @@ Cincinnati, OH · 512 open · 23 with no date listed · 4 closed (not shown)
 | [ROTC Scholarships](https://www.xavier.edu/undergraduate-admission/tuition-and-aid/scholarships/rotc-scholarships) | $300 | not listed |
 | [Service Awards](https://www.xavier.edu/undergraduate-admission/tuition-and-aid/scholarships/service-awards) |  | not listed |
 | [William J. Williams Family Scholarship](https://www.xavier.edu/financial-aid/current/scholarships/index) |  | not listed |
+| [Williams College of Business Graduate Scholarships](https://www.xavier.edu/williams/business-graduate-scholarships/index) | $30,000 | not listed |
 | [Williams Scholarships](https://www.xavier.edu/undergraduate-admission/tuition-and-aid/scholarships/departmental-scholarships) | $3,000 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

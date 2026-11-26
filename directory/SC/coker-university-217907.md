@@ -1,6 +1,6 @@
 # Coker University scholarships
 
-Hartsville, SC · 1 open · 7 with no date listed · 0 closed (not shown)
+Hartsville, SC · 1 open · 8 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/coker-university-217907)**
 
@@ -12,6 +12,7 @@ Hartsville, SC · 1 open · 7 with no date listed · 0 closed (not shown)
 | [Life Scholarship](https://www.coker.edu/tuition-aid/scholarships-grants/) |  | not listed |
 | [Palmetto Fellows Scholarship](https://www.coker.edu/tuition-aid/scholarships-grants/) | $29,200 | not listed |
 | [Sibling Scholarship](https://www.coker.edu/tuition-aid/scholarships-grants/) |  | not listed |
+| [Transfer Scholarship](https://www.coker.edu/tuition-aid/scholarships-grants/) | $7,500–$15,000 | not listed |
 | [Trustee's Scholarship](https://www.coker.edu/tuition-aid/scholarships-grants/) | $60,000 | not listed |
 | [Valedictorian Scholarship](https://www.coker.edu/tuition-aid/scholarships-grants/) |  | not listed |
 

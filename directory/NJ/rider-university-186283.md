@@ -1,6 +1,6 @@
 # Rider University scholarships
 
-Lawrenceville, NJ · 1 open · 16 with no date listed · 0 closed (not shown)
+Lawrenceville, NJ · 1 open · 17 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/rider-university-186283)**
 
@@ -17,6 +17,7 @@ Lawrenceville, NJ · 1 open · 16 with no date listed · 0 closed (not shown)
 | [Dean's Scholar Awards](https://www.rider.edu/tuition-aid/financial-aid/scholarships-grants/continuing-education) |  | not listed |
 | [Foreign Language Scholarships](https://www.rider.edu/tuition-aid/financial-aid/scholarships-grants/transfer) | $2,000 | not listed |
 | [Foreign Language Scholarships for Incoming First-Year Majors](https://www.rider.edu/tuition-aid/financial-aid/scholarships-grants/first-year) | $2,000 | not listed |
+| [John E. Kostic Actuarial Scholarship at Rider University](https://www.johnekostic.org/scholarships) |  | not listed |
 | [PTK Scholarships](https://www.rider.edu/tuition-aid/financial-aid/scholarships-grants/transfer) | $5,000 | not listed |
 | [Rider University Full Tuition Transfer Trustee Scholarship](https://www.rider.edu/tuition-aid/financial-aid/scholarships-grants/transfer) |  | not listed |
 | [Sibling Grants](https://www.rider.edu/tuition-aid/financial-aid/scholarships-grants/transfer) |  | not listed |

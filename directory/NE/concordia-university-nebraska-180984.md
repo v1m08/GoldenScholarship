@@ -1,6 +1,6 @@
 # Concordia University-Nebraska scholarships
 
-Seward, NE · 1 open · 11 with no date listed · 0 closed (not shown)
+Seward, NE · 1 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/concordia-university-nebraska-180984)**
 
@@ -8,6 +8,7 @@ Seward, NE · 1 open · 11 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [Auditioned scholarships](https://www.cune.edu/academics/department-of-music/music-scholarships) |  | Oct 15, 2027 |
 | [Art Scholarships](https://www.cune.edu/academics/department-of-art/art-scholarships) |  | not listed |
+| [Awarded by the Gil and Blondie Vogt Scholarship Fund](https://www.cune.edu/undergraduate-costs/scholarships) |  | not listed |
 | [Brommer Art Scholarship Award](https://www.cune.edu/undergraduate-costs/scholarships) |  | not listed |
 | [Church Work Grant - Concordia University](https://www.cune.edu/) | $29,000 | not listed |
 | [Church Work Scholarships](https://www.cune.edu/undergraduate-costs/scholarships/church-work-scholarships) | $2,000 | not listed |

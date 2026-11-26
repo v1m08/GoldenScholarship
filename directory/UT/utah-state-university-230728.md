@@ -1,6 +1,6 @@
 # Utah State University scholarships
 
-Logan, UT · 7 open · 121 with no date listed · 1 closed (not shown)
+Logan, UT · 8 open · 156 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/utah-state-university-230728)**
 
@@ -9,6 +9,7 @@ Logan, UT · 7 open · 121 with no date listed · 1 closed (not shown)
 | [Aggie Advantage Grant](https://www.usu.edu/financial-support/scholarships/aggie-advantage) | $1,000 | Feb 1, 2027 |
 | [Aggie Advantage Scholarship](https://www.usu.edu/financial-support/scholarships/aggie-advantage) | $1,000 | Feb 1, 2027 |
 | [Utah State Promise Scholarship](https://www.usu.edu/financial-support/scholarships/promise) | $1,500 | Feb 1, 2027 |
+| [Eastern Leadership Scholarships](https://eastern.usu.edu/student-life/leadership) | $25,000 | Mar 5, 2027 |
 | [Kim Nam Kyun International Student Scholarship](https://www.usu.edu/global-engagement/scholarships/kim-nam-kyun) | $2,000 | Mar 13, 2027 |
 | [Kim Nam Kyun Scholarship](https://www.usu.edu/global-engagement/scholarships/kim-nam-kyun) | $2,000 | Mar 13, 2027 |
 | [Uintah County Residency Scholarship (Vernal)](https://www.usu.edu/financial-support/scholarships/future-aggie) |  | Apr 1, 2027 |
@@ -26,12 +27,15 @@ Logan, UT · 7 open · 121 with no date listed · 1 closed (not shown)
 | [Alice Gorton Hart Memorial Award](https://artsci.usu.edu/english/scholarships/) |  | not listed |
 | [Alumni Legacy Nonresident Scholarship](https://www.usu.edu/admissions/scholarships/legacy) |  | not listed |
 | [Alumni Scholarship for Excellence in Design](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
+| [Amy Hansen Atkinson Master of Music in Choral Conducting Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Andrea Bachman Family Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
+| [Art & Design General Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [Arthur and Diana Norris Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [Asa and Vivian Bullen Pre-Law Scholarship](https://artsci.usu.edu/student-resources/scholarships/deans-office) |  | not listed |
 | [Biology Ecology Graduate Research Award](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
 | [Biology Ecology Undergraduate Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
 | [Biology Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
+| [C. Victor and Dorothy Dover Endowed Scholarship in Interior Design](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [C.T. Hirst Legacy Scholarship](https://artsci.usu.edu/chem-biochem/students/scholarships) |  | not listed |
 | [Caleb Anderson New York City Internship Opportunity Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [Calvin Fletcher Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
@@ -44,6 +48,7 @@ Logan, UT · 7 open · 121 with no date listed · 1 closed (not shown)
 | [Daniel M. Teng and Lina C. Teng Graduate Fellowship](https://artsci.usu.edu/chem-biochem/students/scholarships) |  | not listed |
 | [Datus M. Hammond Memorial Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
 | [David and Terry Peak Outstanding Achievement Award](https://artsci.usu.edu/physics/students/departmental-scholarships) |  | not listed |
+| [David B. Drown Scholarship for Public Health](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
 | [David M. Heiner Memorial Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
 | [Deseret News Scholarship](https://artsci.usu.edu/communication/scholarships) | $500 | not listed |
 | [Donna B. Gossner Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
@@ -57,11 +62,14 @@ Logan, UT · 7 open · 121 with no date listed · 1 closed (not shown)
 | [Dr. Nazih Al-Rashid Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
 | [Dr. Terry and Faye Marie Whitworth Graduate Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
 | [Dr. Tex A. Sordahl Ornithology Graduate Research Award](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
+| [Dr. William Moore Scholarship](https://artsci.usu.edu/chem-biochem/students/scholarships) |  | not listed |
 | [Drs. Gordon and Rella Christensen Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
 | [Edith Welch Morgan Scholarship](https://artsci.usu.edu/english/scholarships/) |  | not listed |
 | [Ellen Stoddard Eccles Ceramics Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [Ellen Stoddard Eccles Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [English Scholarships](https://artsci.usu.edu/english/scholarships/funding-opportunities) |  | not listed |
+| [Evelyn Hodges and Theodore R. E. Lewis Social Work Scholarship](https://artsci.usu.edu/student-resources/scholarships/deans-office) |  | not listed |
+| [Faculty Scholarship](https://artsci.usu.edu/communication/scholarships) |  | not listed |
 | [Four-year Southeast Resident Land Grant](https://www.usu.edu/financial-support/scholarshipterms/2728/seresidentlandgrant) | $1,500 | not listed |
 | [Frances I. and Parker B. Arnett Scholarship](https://artsci.usu.edu/english/scholarships/) |  | not listed |
 | [Furlong Excellence in Politics and Government Endowed Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
@@ -70,34 +78,59 @@ Logan, UT · 7 open · 121 with no date listed · 1 closed (not shown)
 | [George H. and Billie Bush Emert Scholarship](https://artsci.usu.edu/chem-biochem/students/scholarships) |  | not listed |
 | [Glen Edwards Art Scholarship for Graphic Design](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [Harold Kinzer Communication Studies Scholarship](https://artsci.usu.edu/communication/scholarships) |  | not listed |
+| [Harrison & Iva Lou Pilkington Groutage Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [High School GPA Scholarships](https://www.usu.edu/financial-support/scholarships/future-aggie) |  | not listed |
 | [Involvement Scholarship](https://www.usu.edu/financial-support/native-american-resources) |  | not listed |
+| [J.M. and R.J. Horrigan Foundation Annual Choral Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Jaime Cantarovici Memorial Scholarship](https://artsci.usu.edu/student-resources/scholarships/deans-office) |  | not listed |
 | [James A. and Patricia A. MacMahon Endowed Ecology Graduate Student Research Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
+| [James E Brown Scholarship](https://artsci.usu.edu/physics/students/departmental-scholarships) |  | not listed |
 | [Jan J. Sojka GAS Fellowship](https://artsci.usu.edu/physics/students/departmental-scholarships) |  | not listed |
 | [Janice Judge Dee Scholarship](https://artsci.usu.edu/english/scholarships/) |  | not listed |
 | [Jay W. Glasmann Family Scholarship](https://artsci.usu.edu/communication/scholarships) |  | not listed |
 | [Jean Inness Scholarship](https://artsci.usu.edu/world-languages-cultures/scholarships/overview) |  | not listed |
 | [John E. Francis Memorial Scholarship in Opera](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [John S. & Unita Welch Pre-Law Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
+| [John W. Morris Scholarship](https://artsci.usu.edu/student-resources/scholarships/deans-office) |  | not listed |
+| [Jon Anderson Scholarship for Graphic Design](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [Joseph A. "Andy" Hays Scholarship](https://artsci.usu.edu/communication/scholarships) |  | not listed |
 | [Joseph Sedley and Pearl Ivie Stanford Memorial Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
+| [Julie Webber Larson & Megan Larson McCleary Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
+| [Karen Pugliesi Scholarship](https://artsci.usu.edu/social-work/students/scholarships) |  | not listed |
 | [Kendall Peterson Andrews Memorial Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
 | [LaMar R. & Gwen T. Monroe Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
+| [Larry & Helen Cannon Scholarship Endowment for Vocal Performance](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Larry Smith Jazz Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
+| [LaVerna Faylor Hulme Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
+| [Linda Daines Excellence in Music Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
+| [Linda K. Bradak Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [LuAnn M. Hamilton Memorial Scholarship](https://artsci.usu.edu/social-work/students/scholarships) |  | not listed |
+| [Lucile C. Reading Scholarship](https://artsci.usu.edu/english/scholarships/) |  | not listed |
+| [Lynn Thomas Organ Studies Scholarship Endowment](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Mabel Walker Carlson English Scholarship](https://artsci.usu.edu/student-resources/scholarships/deans-office) |  | not listed |
 | [Maeser-Bauer Scholarship](https://artsci.usu.edu/chem-biochem/students/scholarships) |  | not listed |
 | [Maeser-Bauer Teaching Assistantship Award](https://artsci.usu.edu/chem-biochem/students/scholarships) |  | not listed |
+| [Marion R Hyde Family Art Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
+| [Marion R Hyde Family Endowed Graduate Art Scholarship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
 | [Marjorie H. Gardner Teaching Award](https://artsci.usu.edu/chem-biochem/students/scholarships) |  | not listed |
 | [Mary Heers Endowed Scholarship](https://artsci.usu.edu/english/scholarships/) |  | not listed |
 | [Mathematics & Statistics Scholarships](https://artsci.usu.edu/math-stats/scholarships/overview) |  | not listed |
 | [Matt Del Grosso Endowed Graduate Research Award](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
+| [Mehdi Heravi Endowed Fellowship for Doctoral Students in Sociology](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
+| [Mehdi Heravi Endowed Fellowship for Graduate Students in Communication Studies and Philosophy](https://artsci.usu.edu/communication/scholarships) |  | not listed |
+| [Mehdi Heravi Endowed Fellowship for Graduate Students in Political Science](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
+| [Mehdi Heravi Endowed Fellowship for Master's Students in English](https://artsci.usu.edu/english/scholarships/) |  | not listed |
 | [Mehdi Heravi International Scholarship in Political Science](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
+| [Music Therapy Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
+| [Nancy Peery Marriott & Dr. Craig Jessop Scholarship for Music Students](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Nathan D. Alder Pre-Law Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
 | [Native American Student Scholarship](https://www.usu.edu/financial-support/native-american-resources) |  | not listed |
+| [Noni Eccles Harrison Fellowship](https://artsci.usu.edu/art-design/students/scholarships) |  | not listed |
+| [O. Guy Cardon & M.N. Neuberger Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
 | [O. Harry Otteson Scholarship](https://artsci.usu.edu/physics/students/departmental-scholarships) |  | not listed |
 | [Orson and Linda Treloar Endowed Graduate Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
+| [Parley Belnap Organ Studies Scholarship Endowment](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
+| [Paulette J Campbell Organ Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Pettit Family Foundation Excellence in Teaching Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Political Science Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
 | [Premier Academic Scholarships](https://www.usu.edu/financial-support/scholarships/future-aggie) |  | not listed |
@@ -106,11 +139,14 @@ Logan, UT · 7 open · 121 with no date listed · 1 closed (not shown)
 | [R. Gaurth Hansen Scholarship](https://artsci.usu.edu/chem-biochem/students/scholarships) |  | not listed |
 | [R. Wellling Roskelley International Scholarship](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |
 | [Ralph Jennings Smith Creative Writing Scholarship](https://artsci.usu.edu/english/scholarships/) |  | not listed |
+| [Richard Elliott Organ Studies Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Richard J. and Marion A. Shaw Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
 | [RMSWNATAS Broadcast Journalism Scholarship](https://artsci.usu.edu/communication/scholarships) |  | not listed |
 | [Robert A. Hatch Scholarship in Journalism and Communications](https://artsci.usu.edu/communication/scholarships) |  | not listed |
+| [Robert L. Vadas Scholarship](https://artsci.usu.edu/biology/students/scholarships) |  | not listed |
 | [Robert S. Frost Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Russell Thomas Christensen Memorial Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
+| [Sarah Loosle Heggie Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [SE Land Grant](https://www.usu.edu/financial-support/scholarshipterms/2728/seresidentlandgrant) | $1,500 | not listed |
 | [Smiley Amano Piano Scholarship](https://artsci.usu.edu/music/students/departmental-scholarships) |  | not listed |
 | [Stanley C Hatch Rescue Grant](https://artsci.usu.edu/social-sciences/scholarships) |  | not listed |

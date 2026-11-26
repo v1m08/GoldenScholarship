@@ -1,6 +1,6 @@
 # Pillar College scholarships
 
-Newark, NJ · 0 open · 8 with no date listed · 0 closed (not shown)
+Newark, NJ · 0 open · 9 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/pillar-college-440794)**
 
@@ -11,6 +11,7 @@ Newark, NJ · 0 open · 8 with no date listed · 0 closed (not shown)
 | [Master's in Business Administration Grant (MBA)](https://www.pillar.edu/admission-aid/scholarship-and-grants) | $600 | not listed |
 | [Master's in Psychology and Counseling Grant (MAC)](https://www.pillar.edu/admission-aid/scholarship-and-grants) | $600 | not listed |
 | [NY Tap Remediation Grant](https://www.pillar.edu/admission-aid/scholarship-and-grants) | $5,665 | not listed |
+| [Pillar College Grants/Scholarships for Undergraduate Students](https://www.pillar.edu/admission-aid/scholarship-and-grants) |  | not listed |
 | [Scholastic Excellence Scholarship](https://www.pillar.edu/admission-aid/scholarship-and-grants) | $500 | not listed |
 | [School District Employee Grant](https://www.pillar.edu/admission-aid/scholarship-and-grants) | $500 | not listed |
 | [Veterans Grant](https://www.pillar.edu/admission-aid/scholarship-and-grants) | $500 | not listed |

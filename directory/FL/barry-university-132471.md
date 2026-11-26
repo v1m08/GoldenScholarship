@@ -1,6 +1,6 @@
 # Barry University scholarships
 
-Miami, FL · 2 open · 16 with no date listed · 0 closed (not shown)
+Miami, FL · 2 open · 17 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/barry-university-132471)**
 
@@ -17,6 +17,7 @@ Miami, FL · 2 open · 16 with no date listed · 0 closed (not shown)
 | [Dominican Leadership Award](https://www.barry.edu/en/financial-aid/undergraduate/leadership-and-service-scholarships/) | $4,000 | not listed |
 | [Dr. John Riley Memorial Scholarship](https://www.barry.edu/en/academics/social-work/dr-john-riley-memorial-scholarship/) |  | not listed |
 | [Dual Enrollment Proximity Zone Grant](https://www.barry.edu/en/financial-aid/undergraduate/barry-funded-scholarships-and-grants/) | $1,000 | not listed |
+| [Founders' Scholarship](https://www.barry.edu/en/financial-aid/undergraduate/merit-based-scholarships/) |  | not listed |
 | [Leadership and Service Scholarships Scholarships](https://www.barry.edu/en/financial-aid/undergraduate/leadership-and-service-scholarships/) | $15,625 | not listed |
 | [Lettie Pate Whitehead Foundation Scholarship](https://www.barry.edu/en/academics/health-sciences/school-of-nursing/lettie-pate-whitehead-foundation/) |  | not listed |
 | [Peacock Foundation Scholarship](https://www.barry.edu/en/academics/social-work/peacock-foundation-scholarship/) | $7,000 | not listed |

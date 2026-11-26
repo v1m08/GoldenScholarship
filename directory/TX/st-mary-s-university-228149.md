@@ -1,6 +1,6 @@
 # St. Mary's University scholarships
 
-San Antonio, TX · 3 open · 30 with no date listed · 0 closed (not shown)
+San Antonio, TX · 3 open · 32 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/st-mary-s-university-228149)**
 
@@ -17,6 +17,7 @@ San Antonio, TX · 3 open · 30 with no date listed · 0 closed (not shown)
 | [David Mills Latham Memorial Scholarship](https://www.stmarytx.edu/admission/cost-aid/financial-aid-resources/scholarships/endowed-scholarships/) |  | not listed |
 | [Dean's Scholarships](https://law.stmarytx.edu/admission/financial-aid/scholarships/) |  | not listed |
 | [DECA High School Scholarship](https://www.stmarytx.edu/academics/business/programs-and-centers/deca-high-school-scholarship/) | $1,000 | not listed |
+| [Distributive Education Clubs of America (DECA) High School Scholarship](https://www.stmarytx.edu/admission/cost-aid/financial-aid-resources/scholarships/) | $1,500 | not listed |
 | [Dora Grossenbacher Hauser Scholarship](https://www.stmarytx.edu/admission/cost-aid/financial-aid-resources/scholarships/endowed-scholarships/) |  | not listed |
 | [Emerging Entrepreneurs Program Scholarship](https://www.stmarytx.edu/admission/cost-aid/financial-aid-resources/scholarships/) | $2,000 | not listed |
 | [Four-Year National ROTC Scholarship](https://www.stmarytx.edu/academics/academic-special-programs/rotc/rotc-scholarship/) |  | not listed |
@@ -33,6 +34,7 @@ San Antonio, TX · 3 open · 30 with no date listed · 0 closed (not shown)
 | [Music Scholarships and Auditions](https://www.stmarytx.edu/admission/cost-aid/financial-aid-resources/scholarships/music-auditions/) |  | not listed |
 | [Phi Theta Kappa Transfer Scholarship](https://www.stmarytx.edu/admission/cost-aid/financial-aid-resources/scholarships/) | $5,000 | not listed |
 | [Richard Harris Memorial Endowed Law Scholarship](https://stmarytx.academicworks.com/opportunities/4383) |  | not listed |
+| [ROTC Scholarships](https://www.stmarytx.edu/academics/academic-special-programs/rotc/rotc-scholarship/) |  | not listed |
 | [Ruth W. Blume Endowed Scholarship](https://stmarytx.academicworks.com/opportunities/4105) |  | not listed |
 | [Sarah K. Thompson Law Memorial Scholarship](https://stmarytx.academicworks.com/opportunities/4639) |  | not listed |
 | [The Gilbert G. Pompa Memorial Endowed Law Scholarship](https://stmarytx.academicworks.com/opportunities/4656) |  | not listed |

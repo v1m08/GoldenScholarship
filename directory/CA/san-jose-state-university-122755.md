@@ -1,6 +1,6 @@
 # San Jose State University scholarships
 
-San Jose, CA · 1 open · 9 with no date listed · 0 closed (not shown)
+San Jose, CA · 1 open · 10 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/san-jose-state-university-122755)**
 
@@ -16,5 +16,6 @@ San Jose, CA · 1 open · 9 with no date listed · 0 closed (not shown)
 | [Margery H. and Raymond W. Vernon College of Social Sciences Dean's Scholarship](https://www.sjsu.edu/socialsciences/students/scholarships/) |  | not listed |
 | [SJSU Alumni Association Deans' Scholarships](https://www.sjsu.edu/socialsciences/students/scholarships/) |  | not listed |
 | [SJSU Alumni Association Scholarship](https://www.sjsu.edu/socialsciences/students/scholarships/) |  | not listed |
+| [Walter C. Benzing Memorial Scholarship](https://www.sjsu.edu/engineering/student-success/scholarships.php) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

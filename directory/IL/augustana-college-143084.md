@@ -1,6 +1,6 @@
 # Augustana College scholarships
 
-Rock Island, IL · 3 open · 23 with no date listed · 1 closed (not shown)
+Rock Island, IL · 3 open · 24 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/augustana-college-143084)**
 
@@ -11,7 +11,7 @@ Rock Island, IL · 3 open · 23 with no date listed · 1 closed (not shown)
 | [Campus Visit Grant](https://www.augustana.edu/admissions/scholarships) | $4,000 | May 1, 2027 |
 | [Alumni Scholarship](https://www.augustana.edu/admissions/scholarships) | $1,000 | not listed |
 | [Art Scholarships](https://www.augustana.edu/admissions/scholarships) | $4,000 | not listed |
-| [Augustana scholarships, 2026-27 school year](https://www.augustana.edu/admissions/scholarships/2026-27) | $32,000 | not listed |
+| [Augustana scholarships](https://www.augustana.edu/admissions/scholarships/2026-27) | $32,000 | not listed |
 | [Augustana scholarships, 2027-28 school year](https://www.augustana.edu/admissions/scholarships) | $33,000 | not listed |
 | [Austin E. Knowlton Memorial Scholarship](https://www.augustana.edu/admissions/scholarships/knowlton) | $2,500 | not listed |
 | [Bell Tower Scholarship](https://www.augustana.edu/admissions/scholarships) | $30,000 | not listed |
@@ -27,6 +27,7 @@ Rock Island, IL · 3 open · 23 with no date listed · 1 closed (not shown)
 | [Judith Katz Memorial Theatre Scholarship](https://www.augustana.edu/academics/areas-of-study/theatre-arts/scholarships) | $4,000 | not listed |
 | [Lucken Environmental Geoscience Scholarship](https://www.augustana.edu/admissions/scholarships) | $2,000 | not listed |
 | [Meal Plan Award](https://www.augustana.edu/admissions/scholarships) |  | not listed |
+| [Music scholarship any major](https://www.augustana.edu/academics/areas-of-study/music/scholarships) | $4,000 | not listed |
 | [Music Scholarships](https://www.augustana.edu/admissions/scholarships) |  | not listed |
 | [Out-of-State Award](https://www.augustana.edu/admissions/scholarships) | $4,000 | not listed |
 | [Presidential Scholarship](https://www.augustana.edu/admissions/scholarships) | $33,000 | not listed |

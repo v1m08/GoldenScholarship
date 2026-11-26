@@ -1,6 +1,6 @@
 # Lesley University scholarships
 
-Cambridge, MA · 3 open · 17 with no date listed · 0 closed (not shown)
+Cambridge, MA · 3 open · 18 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/lesley-university-166452)**
 
@@ -23,6 +23,7 @@ Cambridge, MA · 3 open · 17 with no date listed · 0 closed (not shown)
 | [P.E.O. International Peace Scholarship](https://lesley.edu/costs-financial-aid/options-for-financing-your-education/options-for-financing-your-education) |  | not listed |
 | [Prairie Band Potawatomi Nation Scholarship](https://lesley.edu/costs-financial-aid/options-for-financing-your-education/options-for-financing-your-education) |  | not listed |
 | [Samuel Huntington Public Service Award](https://lesley.edu/costs-financial-aid/options-for-financing-your-education/options-for-financing-your-education) |  | not listed |
+| [Stephen D. Paine Scholarship](https://www.bostonart.com/paine-scholarship-1) |  | not listed |
 | [Stephen Phillips Memorial Scholarship Fund](https://lesley.edu/costs-financial-aid/options-for-financing-your-education/options-for-financing-your-education) |  | not listed |
 | [Urban Scholars Initiative](https://lesley.edu/costs-financial-aid/options-for-financing-your-education/urban-scholars-initiative) |  | not listed |
 | [Wyzant College Scholarship](https://lesley.edu/costs-financial-aid/options-for-financing-your-education/options-for-financing-your-education) |  | not listed |

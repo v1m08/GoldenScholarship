@@ -1,6 +1,6 @@
 # University of Central Missouri scholarships
 
-Warrensburg, MO · 661 open · 18 with no date listed · 18 closed (not shown)
+Warrensburg, MO · 661 open · 19 with no date listed · 18 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-central-missouri-176965)**
 
@@ -669,6 +669,7 @@ Warrensburg, MO · 661 open · 18 with no date listed · 18 closed (not shown)
 | [(Formerly the President's Distinguished, President's and the Dean's Scholarship)](https://www.ucmo.edu/future-students/financing-your-education/scholarships/international-scholarships/index.php) | $1,000–$2,000 | Nov 3, 2027 |
 | [(Finish Line Grant, Purdy Emerging Leaders Scholarship, Access Extra Scholarship)](https://www.ucmo.edu/future-students/financing-your-education/scholarships/undergraduate-scholarships/current-undergraduate-scholarships/index.php) |  | not listed |
 | [Aaron M. Kreeger Memorial Scholarship](https://ucmo.academicworks.com/opportunities/36322) |  | not listed |
+| [Access Extra Scholarship](https://www.ucmo.edu/future-students/financing-your-education/scholarships/undergraduate-scholarships/future-freshman-scholarships/index.php) |  | not listed |
 | [ACT Excellence Scholarship](https://www.ucmo.edu/future-students/financing-your-education/scholarships/undergraduate-scholarships/future-freshman-scholarships/index.php) | $1,000 | not listed |
 | [Direct Connect Scholarship](https://www.ucmo.edu/future-students/financing-your-education/scholarships/transfer-scholarships/index.php) | $2,000 | not listed |
 | [Dual Credit Scholarship](https://www.ucmo.edu/future-students/financing-your-education/scholarships/undergraduate-scholarships/future-freshman-scholarships/index.php) | $1,000 | not listed |

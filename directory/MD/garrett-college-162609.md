@@ -1,6 +1,6 @@
 # Garrett College scholarships
 
-McHenry, MD · 3 open · 10 with no date listed · 0 closed (not shown)
+McHenry, MD · 3 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/garrett-college-162609)**
 
@@ -16,6 +16,7 @@ McHenry, MD · 3 open · 10 with no date listed · 0 closed (not shown)
 | [Garrett County Commission for Women Scholarship](https://www.garrettcollege.edu/financial-aid-grants-and-scholarships.php) | $1,500 | not listed |
 | [Garrett County Scholarship Program](https://www.garrettcollege.edu/financial-aid-grants-and-scholarships.php) |  | not listed |
 | [Garrett Soil Conservation District Scholarship](https://www.garrettcollege.edu/financial-aid-grants-and-scholarships.php) |  | not listed |
+| [Howard P. Rawlings Campus Based Educational Assistance Grant](https://www.garrettcollege.edu/financial-aid-grants-and-scholarships.php) |  | not listed |
 | [Legislative Scholarships](https://www.garrettcollege.edu/financial-aid-grants-and-scholarships.php) |  | not listed |
 | [Maryland Community College Promise Scholarship](https://www.garrettcollege.edu/financial-aid-grants-and-scholarships.php) |  | not listed |
 | [Pay it Forward Scholarship Program](https://www.garrettcollege.edu/financial-aid-grants-and-scholarships.php) |  | not listed |

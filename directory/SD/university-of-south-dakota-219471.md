@@ -1,12 +1,14 @@
 # University of South Dakota scholarships
 
-Vermillion, SD · 9 open · 30 with no date listed · 0 closed (not shown)
+Vermillion, SD · 11 open · 30 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-south-dakota-219471)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Art Scholarships](https://www.usd.edu/Academics/Colleges-and-Schools/college-of-fine-arts/Department-of-Art/Art-Scholarships) |  | Dec 1, 2026 |
 | [George S. Mickelson Scholarship](https://www.usd.edu/scholarships) |  | Dec 1, 2026 |
+| [George S. Mickelson Scholarship](https://www.sallie.com/scholarships/scholly/george-s-mickelson-scholarship) | $2,000 | Dec 1, 2026 |
 | [Presidential Alumni Scholarship](https://www.usd.edu/scholarships) |  | Dec 1, 2026 |
 | [Presidential Alumni Scholarship - USD](https://www.usd.edu/Admissions-and-Aid/Financial-Aid/Types-of-Aid/Scholarships) |  | Dec 1, 2026 |
 | [Army ROTC Scholarship](https://www.usd.edu/scholarships) |  | Jan 14, 2027 |

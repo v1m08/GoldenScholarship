@@ -1,6 +1,6 @@
 # Linfield University scholarships
 
-McMinnville, OR · 3 open · 10 with no date listed · 0 closed (not shown)
+McMinnville, OR · 3 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/linfield-university-209065)**
 
@@ -10,7 +10,9 @@ McMinnville, OR · 3 open · 10 with no date listed · 0 closed (not shown)
 | [Linfield First Scholarship at the time of admission](https://www.linfield.edu/first-scholarship/index.html) |  | Feb 1, 2027 |
 | [Linfield Scholarship and Visit Weekend](https://www.linfield.edu/admission/visit/visit-weekend/index.html) |  | Feb 5, 2027 |
 | [Join us for Linfield Scholarship and Visit Weekend](https://www.linfield.edu/admission/visit/visit-weekend/index.html) |  | not listed |
+| [Linfield Legacy $2,000 Awards](https://www.linfield.edu/financial-aid/transfer-scholarships.html) | $2,000 | not listed |
 | [Linfield Legacy $4,000 Awards](https://www.linfield.edu/financial-aid/transfer-scholarships.html) | $4,000 | not listed |
+| [Linfield Legacy Award](https://www.linfield.edu/financial-aid/incoming-students/mcminnville-students/first-year-scholarships.html) | $2,000–$4,000 | not listed |
 | [Linfield Scholarships](https://www.linfield.edu/financial-aid/financial-aid-policies/linfield-scholarships.html) |  | not listed |
 | [Linfield University Grants](https://www.linfield.edu/financial-aid/financial-aid-policies/linfield-scholarships.html) |  | not listed |
 | [Michelle Davis Memorial Scholarship](https://albanypsf.org/what-we-do/scholarship-list/) |  | not listed |

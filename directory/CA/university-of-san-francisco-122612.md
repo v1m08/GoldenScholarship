@@ -1,6 +1,6 @@
 # University of San Francisco scholarships
 
-San Francisco, CA · 5 open · 64 with no date listed · 64 closed (not shown)
+San Francisco, CA · 5 open · 70 with no date listed · 65 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-san-francisco-122612)**
 
@@ -13,8 +13,11 @@ San Francisco, CA · 5 open · 64 with no date listed · 64 closed (not shown)
 | [FBANC Foundation Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $500 | Oct 17, 2027 |
 | [AALL Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [Agnes Jones Jackson Scholarship (Waiting on Update)](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $1,000 | not listed |
+| [Albert and Mae Lee Memorial Fund](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [Alexis J. Perillat Memorial Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [American Bar Legal Opportunity Scholarship (Opens Winter 2026)](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $5,000 | not listed |
+| [Andrew C. Schwartz Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
+| [Arthur J. Barrett Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [Asian American Bar Association of Silicon Valley & BALIF Joint Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $3,000 | not listed |
 | [Baker Donelson Berman, Caldwell, & Berkowitz Diversity Scholarship (2026 dates to be announced)](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $10,000 | not listed |
 | [Baumgartner Law Firm Law Student Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
@@ -33,6 +36,7 @@ San Francisco, CA · 5 open · 64 with no date listed · 64 closed (not shown)
 | [Dean's Merit Scholarship](https://www.usfca.edu/management/graduate-admission-aid/financial-aid) |  | not listed |
 | [Donald R. Brophy Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [Dri Law Student Diversity Scholarship (Waiting for update)](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
+| [Edelbert W. Pieruccini Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [Entrepreneurship and Innovation Merit Scholarship](https://www.usfca.edu/management/graduate-admission-aid/financial-aid) |  | not listed |
 | [Fall 2027 domestic first-year merit scholarships](https://www.usfca.edu/financial-aid/scholarships) | $25,000 | not listed |
 | [Fall 2027 international first-year merit scholarships](https://www.usfca.edu/financial-aid/scholarships) | $25,000 | not listed |
@@ -54,6 +58,7 @@ San Francisco, CA · 5 open · 64 with no date listed · 64 closed (not shown)
 | [Law Enforcement Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [Law Offices of Stephen Neyman -The Criminal Defense Student Law School Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $2,500 | not listed |
 | [Legal Scholarship by Moses & Rooth, Attorney at Law Legal](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $1,000 | not listed |
+| [Leon A. and Esther F. Blum Foundation Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [Lexisnexis John R. Johnson Memorial Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [LGBTQ Merit Award](https://www.usfca.edu/management/graduate-admission-aid/financial-aid) |  | not listed |
 | [M. Katherine Baird Darmer Equity Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
@@ -64,6 +69,7 @@ San Francisco, CA · 5 open · 64 with no date listed · 64 closed (not shown)
 | [National Federation of the Blind Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $3,000 | not listed |
 | [National Scholarship](https://www.usfca.edu/life-at-usf/campus-experience/student-activities/rotc/scholarships) |  | not listed |
 | [Orange County Community Foundation Scholarships](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $2,500 | not listed |
+| [Paul Archbold Memorial Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) |  | not listed |
 | [Peerali Law Firm Law School Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $1,000 | not listed |
 | [Phi Theta Kappa Scholarship](https://www.usfca.edu/financial-aid/scholarships/transfer) | $2,000 | not listed |
 | [Philadelphia Injury Lawyers P.C. Essay Competition Scholarship](https://myusf.usfca.edu/law/admissions/tuition-aid/scholarships) | $500 | not listed |

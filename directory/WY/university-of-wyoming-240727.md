@@ -1,6 +1,6 @@
 # University of Wyoming scholarships
 
-Laramie, WY · 180 open · 18 with no date listed · 18 closed (not shown)
+Laramie, WY · 181 open · 18 with no date listed · 18 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-wyoming-240727)**
 
@@ -9,6 +9,7 @@ Laramie, WY · 180 open · 18 with no date listed · 18 closed (not shown)
 | [Haub School of Environment and Natural Resources Student Research and Creative Activities Grant](https://uwyo.academicworks.com/opportunities/51422) | $1,000 | Nov 30, 2026 |
 | [Western Undergraduate Exchange (WUE)/Nebraska Awards](https://www.uwyo.edu/sfa/scholarships/non-residents/wue.html) | $14,000 | Jan 5, 2027 |
 | [Western Undergraduate Exchange (WUE)/Nebraska Transfer Awards](https://www.uwyo.edu/sfa/scholarships/transfers/wue_transfer.html) | $14,000 | Jan 5, 2027 |
+| [Trustee's Scholars Award](https://www.uwyo.edu/sfa/scholarships/residents/trustees.html) |  | Jan 19, 2027 |
 | [UW Trustees' Scholars Award](https://www.uwyo.edu/sfa/scholarships/residents/trustees.html) |  | Jan 19, 2027 |
 | [Cowboy Need Grant](https://www.uwyo.edu/sfa/scholarships/residents/cowboy-need.html) |  | Feb 1, 2027 |
 | [Wyoming's Tomorrow Scholarship](https://uwyo.academicworks.com/opportunities/51742) | $3,600 | Feb 8, 2027 |

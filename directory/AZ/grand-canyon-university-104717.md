@@ -1,6 +1,6 @@
 # Grand Canyon University scholarships
 
-Phoenix, AZ · 0 open · 37 with no date listed · 0 closed (not shown)
+Phoenix, AZ · 0 open · 40 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/grand-canyon-university-104717)**
 
@@ -21,6 +21,7 @@ Phoenix, AZ · 0 open · 37 with no date listed · 0 closed (not shown)
 | [Colangelo Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/gap-and-transfer-students) | $16,500 | not listed |
 | [DOD DPHS NOAA Employee Tuition Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/military) |  | not listed |
 | [Fostering Futures Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/high-school-students) |  | not listed |
+| [GCU offers three main types of scholarships for incoming freshmen](https://www.gcu.edu/financial-aid/scholarships-grants/high-school-students) |  | not listed |
 | [GCU Scholarship Award Amounts for Incoming Freshmen](https://www.gcu.edu/financial-aid/scholarships-grants/high-school-students) | $7,250 | not listed |
 | [Grand Canyon University Antelope Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/high-school-students) | $1,000 | not listed |
 | [Grand Canyon University Award](https://www.gcu.edu/financial-aid/scholarships-grants/high-school-students) | $1,000 | not listed |
@@ -34,6 +35,7 @@ Phoenix, AZ · 0 open · 37 with no date listed · 0 closed (not shown)
 | [Grand Canyon University Indirect Provost Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/gap-and-transfer-students) | $1,000 | not listed |
 | [Grand Canyon University President Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/high-school-students) | $1,000 | not listed |
 | [Grand Canyon University Provost Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/high-school-students) | $1,000 | not listed |
+| [Housing Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/trades) | $1,500 | not listed |
 | [Howerton-Maben Scholarship](https://canyoninstitutearizona.org/howerton-maben-scholarship/) |  | not listed |
 | [Ingram Honors College Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/high-school-students) | $1,000–$5,000 | not listed |
 | [Lope Life Housing Award](https://www.gcu.edu/financial-aid/scholarships-grants/gap-and-transfer-students) |  | not listed |
@@ -43,5 +45,6 @@ Phoenix, AZ · 0 open · 37 with no date listed · 0 closed (not shown)
 | [Psi Beta Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/gap-and-transfer-students) | $1,000 | not listed |
 | [Spouses and Dependents of Law Enforcement and Correctional Officers Tuition Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/grants-for-college) |  | not listed |
 | [TheDream.US Scholarship](https://www.gcu.edu/financial-aid/scholarships-grants/gap-and-transfer-students) |  | not listed |
+| [William K. Foster Scholarship](https://canyoninstitutearizona.org/william-foster-scholarship/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

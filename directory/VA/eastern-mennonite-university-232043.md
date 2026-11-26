@@ -1,6 +1,6 @@
 # Eastern Mennonite University scholarships
 
-Harrisonburg, VA · 4 open · 5 with no date listed · 0 closed (not shown)
+Harrisonburg, VA · 4 open · 6 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/eastern-mennonite-university-232043)**
 
@@ -14,6 +14,7 @@ Harrisonburg, VA · 4 open · 5 with no date listed · 0 closed (not shown)
 | [Brenneman-Longacher Math Scholarship](https://emu.edu/math/scholarship) |  | not listed |
 | [EMU Honors Scholarship](https://emu.edu/financial-aid/grants) |  | not listed |
 | [EMU Neighbor Award](https://emu.edu/financial-aid/grants) | $5,000 | not listed |
+| [Honors Scholarship](https://emu.edu/admissions/honors/) |  | not listed |
 | [Laymon H. & Ruth S. Lantz Scholarship](https://www.tcfhr.org/scholarship/laymon-ruth-lantz-scholarship/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

@@ -1,6 +1,6 @@
 # East Central University scholarships
 
-Ada, OK · 417 open · 6 with no date listed · 0 closed (not shown)
+Ada, OK · 417 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/east-central-university-207041)**
 
@@ -428,6 +428,7 @@ Ada, OK · 417 open · 6 with no date listed · 0 closed (not shown)
 | [Oklahoma Rising Scholars Institutional Nominee Award](https://www.ecok.edu/academics/freshman-scholarships.php) | $12,800 | not listed |
 | [Overton M. "Buck" Cheadle Memorial Scholarship](https://chickasawfoundation.org/Scholarships) |  | not listed |
 | [President's Leadership Class Scholarship](https://www.ecok.edu/future-students/ECUPLC.php) | $1,500 | not listed |
+| [Sean R. Culbert Memorial Scholarship](https://cfok.org/scholarship-opportunities/) |  | not listed |
 | [Teacher's Promise Scholarship](https://www.ecok.edu/current-students/paying-college/teachers-promise.php) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

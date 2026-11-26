@@ -1,6 +1,6 @@
 # University of Alabama at Birmingham scholarships
 
-Birmingham, AL · 84 open · 401 with no date listed · 1 closed (not shown)
+Birmingham, AL · 85 open · 402 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-alabama-at-birmingham-100663)**
 
@@ -9,6 +9,7 @@ Birmingham, AL · 84 open · 401 with no date listed · 1 closed (not shown)
 | [Pat Tillman Scholarship](https://www.uab.edu/students/veterans/academic-support/scholarships) | $10,000 | Dec 1, 2026 |
 | [Phi Theta Kappa Scholarship for Joint Enrollment Spring Admits](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | Dec 1, 2026 |
 | [Blazer Scholarship](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | Jan 15, 2027 |
+| [In-State Freshman Scholarships](https://www.uab.edu/admissions/cost/scholarships/in-state-students) | $4,000 | Jan 15, 2027 |
 | [Ave P. Jack Endowed Scholarship in Business](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | Feb 1, 2027 |
 | [Charles and Sheryl Perry Jr. Endowed Scholarship](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | Feb 1, 2027 |
 | [Collat Scholars Award](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | Feb 1, 2027 |
@@ -419,6 +420,7 @@ Birmingham, AL · 84 open · 401 with no date listed · 1 closed (not shown)
 | [School of Medicine Dean's Scholarship (Support Fund)](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [School of Medicine Scholarship Fund A](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [School of Nursing Dean's Merit Endowed Scholarship](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
+| [School of Public Health Endowed Scholarship Fund](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [School of Public Health Endowed Scholarship in Public Health Practice](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [SECO International Endowed Optometry Scholarship](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |
 | [Security Engineers Scholarship](https://uab.scholarships.ngwebsolutions.com/Scholarships/Search) |  | not listed |

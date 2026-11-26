@@ -1,6 +1,6 @@
 # Black Hawk College scholarships
 
-Moline, IL · 0 open · 32 with no date listed · 0 closed (not shown)
+Moline, IL · 0 open · 38 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/black-hawk-college-143279)**
 
@@ -8,9 +8,13 @@ Moline, IL · 0 open · 32 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [Barbara E. Garst Memorial Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [BHC Department-based Scholarships](https://www.bhc.edu/paying-for-college/financial-aid/scholarships/) |  | not listed |
+| [Black Hawk College Foundations Scholarships](https://www.bhc.edu/paying-for-college/financial-aid/scholarships/) |  | not listed |
 | [Byron Carlson Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
+| [Carol and Esther Kalin Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Doris E. Braner Memorial Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
+| [Dr. Norbert Barwasser Memorial Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Earl H. Beling Memorial Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
+| [East Campus CNA Scholarships](https://www.bhc.edu/paying-for-college/financial-aid/scholarships/) | $500 | not listed |
 | [Erskine Carter Truth in Journalism Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Erwin Johnson Memorial Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Erwin Johnson Memorial Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
@@ -24,12 +28,14 @@ Moline, IL · 0 open · 32 with no date listed · 0 closed (not shown)
 | [Lisa Bahnks Memorial Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Martha Ann Grotzinger Memorial Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Martin E. Hayes Physics/Engineering Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
+| [Mary and Louis Hampes Memorial Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Milan Area Rotary Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Mueller/Westmer Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Natural Science & Engineering Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Patty Decker Memorial Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Paula Cravero Memorial Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Phi Theta Kappa Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
+| [Quad City's Vintage Rods Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Rick Gilliland Scholarship](https://www.rimef.org/scholarships.php) | $500 | not listed |
 | [Robert E. Nuquist History Scholarship - BHCQC](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |
 | [Roger A. Perley Memorial Scholarship](https://blackhawkcollegefoundation.org/scholarships/) |  | not listed |

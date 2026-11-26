@@ -1,6 +1,6 @@
 # Ulster County Community College scholarships
 
-Stone Ridge, NY · 132 open · 1 with no date listed · 1 closed (not shown)
+Stone Ridge, NY · 132 open · 0 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/ulster-county-community-college-196699)**
 
@@ -138,6 +138,5 @@ Stone Ridge, NY · 132 open · 1 with no date listed · 1 closed (not shown)
 | [Walter W. Bartlett Memorial Scholarship](https://sunyulster.academicworks.com/opportunities/4720) | $1,000 | Jun 30, 2027 |
 | [Williams Self-Reliance Scholarship](https://sunyulster.academicworks.com/opportunities/4918) | $1,000 | Jun 30, 2027 |
 | [Zonta Club of Kingston Scholarship](https://sunyulster.academicworks.com/opportunities/4898) | $1,000 | Jun 30, 2027 |
-| [President's Challenge Scholarship](https://www.sunyulster.edu/foundation/scholarships/presidents-challenge/index.php) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

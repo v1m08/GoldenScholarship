@@ -1,6 +1,6 @@
 # Washington State University scholarships
 
-Pullman, WA · 20 open · 48 with no date listed · 0 closed (not shown)
+Pullman, WA · 20 open · 51 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/washington-state-university-236939)**
 
@@ -44,8 +44,10 @@ Pullman, WA · 20 open · 48 with no date listed · 0 closed (not shown)
 | [Distinguished Dean's Scholarship](https://vcea.wsu.edu/student-success/scholarships/) |  | not listed |
 | [Emergency Tuition Support Award](https://ip.wsu.edu/future-students/tuition-fees/scholarships-funding/) | $1,500 | not listed |
 | [Emmett and Mary Avery Writing Awards](https://english.wsu.edu/undergraduate-studies/resources/scholarships/) | $100 | not listed |
+| [Eugene and Linda Voiland Engineering Honors Scholarship](https://voiland.wsu.edu/academics/undergraduate-program/scholarships/) |  | not listed |
 | [Eva Feryl Peterson Fellowship](https://native.wsu.edu/graduate-scholarships/) | $2,000 | not listed |
 | [Four Year Scholarship](https://financialaid.wsu.edu/scholarships/) |  | not listed |
+| [Frank M. Mercker Endowment for WSU and University of Bonn Scholarship](https://ip.wsu.edu/education-abroad/funding/wsu-scholarships/) |  | not listed |
 | [Glenys H. Hill Scholarship](https://ceshs.wsu.edu/glenys-h-hill-scholarship-application/) | $2,000 | not listed |
 | [Intensive American Language Center Scholarship](https://foundation.wsu.edu/areas-to-support/international-programs/) |  | not listed |
 | [Jennie Brown Rawlins Scholarship in Creative Writing](https://english.wsu.edu/undergraduate-studies/resources/scholarships/) | $2,000 | not listed |
@@ -69,6 +71,7 @@ Pullman, WA · 20 open · 48 with no date listed · 0 closed (not shown)
 | [Two or Four-Year Award](https://financialaid.wsu.edu/washington-state-scholarships/) |  | not listed |
 | [Uses & Purposes of the Logan Scholarship:](https://ceshs.wsu.edu/apply-ceshs/scholarships/logan-scholarship/) | $1,000–$9,000 | not listed |
 | [Voiland College Dean's Scholarship](https://voiland.wsu.edu/academics/undergraduate-program/scholarships/) |  | not listed |
+| [Washington State Opportunity Scholarships](https://cas.wsu.edu/scholarships-and-fellowships/) |  | not listed |
 | [Wazzu Bound Scholarship](https://www.fhssf.org/scholarships) | $2,000 | not listed |
 | [WSU Faculty/Staff Dependent Scholarship](https://financialaid.wsu.edu/washington-state-scholarships/) | $1,000 | not listed |
 | [WSU non-resident recruitment awards](https://financialaid.wsu.edu/non-resident-scholarships/) |  | not listed |

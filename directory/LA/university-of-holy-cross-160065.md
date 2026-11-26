@@ -1,6 +1,6 @@
 # University of Holy Cross scholarships
 
-New Orleans, LA · 1 open · 0 with no date listed · 0 closed (not shown)
+New Orleans, LA · 1 open · 0 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-holy-cross-160065)**
 

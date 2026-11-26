@@ -1,6 +1,6 @@
 # Citadel Military College of South Carolina scholarships
 
-Charleston, SC · 1 open · 603 with no date listed · 0 closed (not shown)
+Charleston, SC · 1 open · 604 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/citadel-military-college-of-south-carolina-217864)**
 
@@ -70,6 +70,7 @@ Charleston, SC · 1 open · 603 with no date listed · 0 closed (not shown)
 | [C. Tolbert Goolsby, Jr., Scholarship](https://citadel.academicworks.com/opportunities/1583) |  | not listed |
 | [C. Tucker Weston Citadel Scholar Scholarship](https://citadel.academicworks.com/opportunities/302) |  | not listed |
 | [Cadet Insurance Aid Fund Scholarship](https://citadel.academicworks.com/opportunities/1433) |  | not listed |
+| [Cadet Scholarships](https://www.citadel.edu/financial-aid/scholarships/cadet-scholarships/) |  | not listed |
 | [Cadre Scholarship](https://citadel.academicworks.com/opportunities/947) |  | not listed |
 | [Capers Evans Wilson Scholarship](https://citadel.academicworks.com/opportunities/1910) |  | not listed |
 | [CAPT Thomas J. Kirkland, USN (Ret.), '56, Scholarship](https://citadel.academicworks.com/opportunities/545) |  | not listed |

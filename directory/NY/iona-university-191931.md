@@ -1,6 +1,6 @@
 # Iona University scholarships
 
-New Rochelle, NY · 0 open · 11 with no date listed · 0 closed (not shown)
+New Rochelle, NY · 0 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/iona-university-191931)**
 
@@ -9,6 +9,7 @@ New Rochelle, NY · 0 open · 11 with no date listed · 0 closed (not shown)
 | [Flight 3407 Memorial Scholarships](https://www.iona.edu/offices/student-financial-services/types-aid/scholarships-and-grants/new-york-state-grants-and) |  | not listed |
 | [Flight 587 Memorial Scholarships](https://www.iona.edu/offices/student-financial-services/types-aid/scholarships-and-grants/new-york-state-grants-and) |  | not listed |
 | [Founders Grant](https://www.iona.edu/offices/student-financial-services/types-aid/scholarships-and-grants/iona-university-awards) |  | not listed |
+| [Health Professions Scholarship](https://www.iona.edu/offices/student-financial-services/types-aid/scholarships-and-grants/iona-university-awards) | $3,000 | not listed |
 | [Iona University Awards](https://www.iona.edu/offices/student-financial-services/types-aid) |  | not listed |
 | [Military Enhanced Recognition Incentive and Tribute Scholarship](https://www.iona.edu/offices/student-financial-services/types-aid/scholarships-and-grants/new-york-state-grants-and) |  | not listed |
 | [NYS Memorial Scholarship](https://www.iona.edu/offices/student-financial-services/types-aid/scholarships-and-grants/new-york-state-grants-and) |  | not listed |

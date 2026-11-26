@@ -1,6 +1,6 @@
 # Buena Vista University scholarships
 
-Storm Lake, IA · 4 open · 11 with no date listed · 0 closed (not shown)
+Storm Lake, IA · 5 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/buena-vista-university-153001)**
 
@@ -9,7 +9,9 @@ Storm Lake, IA · 4 open · 11 with no date listed · 0 closed (not shown)
 | [Fine & Media Arts Awards (Co-Curricular Scholarship)](https://www.bvu.edu/en/undergraduate-on-campus/how-to-apply/transfer-on-campus/transfer-scholarships/) |  | Feb 28, 2027 |
 | [Build-Up-Iowa Scholarship](https://www.bvu.edu/en/undergraduate-on-campus/how-to-apply/transfer-on-campus/transfer-scholarships/) | $2,000 | Apr 1, 2027 |
 | [Iowa Access Grant](https://www.bvu.edu/en/undergraduate-on-campus/how-to-apply/transfer-on-campus/transfer-scholarships/) |  | Apr 1, 2027 |
+| [Future Ready Iowa Grant](https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/future-ready-iowa-grant) |  | Jul 1, 2027 |
 | [Iowa Tuition Grant](https://www.bvu.edu/admissions/tuition-financial-aid) |  | Jul 1, 2027 |
+| [Arch Scholarship](https://www.bvu.edu/en/undergraduate-on-campus/how-to-apply/transfer-on-campus/transfer-scholarships/) | $23,000 | not listed |
 | [Beaver Visit Grant](https://www.bvu.edu/en/undergraduate-on-campus/how-to-apply/transfer-on-campus/transfer-scholarships/) | $1,000 | not listed |
 | [Carver Scholarship](https://www.bvu.edu/en/undergraduate-on-campus/admissions--aid/scholarships/scholarship-opportunities/) | $8,000 | not listed |
 | [Club Sports (Co-Curricular Scholarship)](https://www.bvu.edu/en/undergraduate-on-campus/how-to-apply/transfer-on-campus/transfer-scholarships/) |  | not listed |

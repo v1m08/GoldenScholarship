@@ -1,6 +1,6 @@
 # Coastal Alabama Community College scholarships
 
-Bay Minette, AL · 1 open · 16 with no date listed · 2 closed (not shown)
+Bay Minette, AL · 1 open · 17 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/coastal-alabama-community-college-101161)**
 
@@ -11,6 +11,7 @@ Bay Minette, AL · 1 open · 16 with no date listed · 2 closed (not shown)
 | [Ambassador Scholarship](https://www.coastalalabama.edu/admissions-aid/scholarships/) |  | not listed |
 | [Benjamin A. Gilman International Scholarship and Gilman-McCain Scholarship](https://www.coastalalabama.edu/admissions-aid/scholarships/) |  | not listed |
 | [Brewton Civic League Dement Hays Nursing Scholarship](https://www.coastalalabama.edu/admissions-aid/scholarships/) |  | not listed |
+| [Dean's Scholarship](https://www.coastalalabama.edu/admissions-aid/scholarships/) | $1,500 | not listed |
 | [Fairhope Sunset Rotary Scholarship](https://www.coastalalabama.edu/admissions-aid/scholarships/) |  | not listed |
 | [Gulf Shores Woman's Club Scholarship](https://www.coastalalabama.edu/admissions-aid/scholarships/) | $5,000 | not listed |
 | [Hermine Downing Scholarship](https://www.coastalalabama.edu/admissions-aid/scholarships/) |  | not listed |

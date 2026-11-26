@@ -1,11 +1,12 @@
 # University of Kentucky scholarships
 
-Lexington, KY · 9 open · 42 with no date listed · 3 closed (not shown)
+Lexington, KY · 11 open · 47 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-kentucky-157085)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [UK HealthCare Enterprise Scholarship Program](https://ukhealthcare.uky.edu/about/scholarships) | $667 | Nov 30, 2026 |
 | [Competitive Scholarships](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/incoming-freshmen-scholarships) |  | Dec 1, 2026 |
 | [Education Abroad Grants](https://honors.uky.edu/opportunities/scholarships-grants-and-awards) | $2,000 | Dec 1, 2026 |
 | [Selective Scholarships](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/incoming-freshmen-scholarships) |  | Dec 1, 2026 |
@@ -13,8 +14,10 @@ Lexington, KY · 9 open · 42 with no date listed · 3 closed (not shown)
 | [William C. Parker Scholarship](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/incoming-freshmen-scholarships) |  | Dec 1, 2026 |
 | [Ashland Inc. Legal Scholarship](https://law.uky.edu/admissions/financing-your-legal-education/scholarships) | $20,000 | Feb 1, 2027 |
 | [Bert Combs Scholarship](https://law.uky.edu/admissions/financing-your-legal-education/scholarships) | $20,000 | Feb 1, 2027 |
+| [UK Army ROTC Scholarships](https://armyrotc.as.uky.edu/scholarships) | $300 | Feb 4, 2027 |
 | [Founders Scholarship - New for 2027-2028 Academic Year](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/incoming-freshmen-scholarships) |  | Feb 15, 2027 |
 | [Competitive Transfer Scholarships](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/transfer-student-academic-scholarships) |  | Jun 15, 2027 |
+| [Alma & Jack Hagler Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Child Care Grant](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/part-time-and-non-traditional-student) |  | not listed |
 | [College of Dentistry Alumni Association Scholarship - UK](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Crabtree-Cornell Award for Research in Sustainability and the Environment](https://honors.uky.edu/opportunities/scholarships-grants-and-awards) | $500 | not listed |
@@ -35,16 +38,20 @@ Lexington, KY · 9 open · 42 with no date listed · 3 closed (not shown)
 | [Dr. Oakie G. Newsome Memorial Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Dr. Robert H. Spedding Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Dr. Sharon K. Butler, DMD, Memorial Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
+| [Dr. Susan McEvoy Memorial Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Dr. Tyler Albrecht Scholarship](https://dentistry.uky.edu/scholarship-options) | $2,000 | not listed |
 | [Dr. Vincent A. Barr DMD Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Dr. Vincent A. Barr Student Development Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Early Childhood Development Scholarship](https://education.uky.edu/academics/scholarships) |  | not listed |
 | [Engineering Technology Degree Scholarships](https://engr.uky.edu/admissions/scholarships) |  | not listed |
 | [Enhancement Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
+| [Floyd Wright Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Huang Family Dentistry Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Kentucky Educational Excellence Scholarship (KEES)](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/additional-scholarships) |  | not listed |
 | [Kentucky Governor's Scholar Presidential Scholarship](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/incoming-freshmen-scholarships) |  | not listed |
+| [Leadership Award](https://honors.uky.edu/opportunities/scholarships-grants-and-awards) |  | not listed |
 | [Lovaine C. Lewis Scholarship](https://education.uky.edu/academics/scholarships) |  | not listed |
+| [Margaret Neal Jewell Memorial Scholarship](https://dentistry.uky.edu/scholarship-options) |  | not listed |
 | [Phi Theta Kappa (PTK) Scholarship](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/transfer-student-academic-scholarships) |  | not listed |
 | [Rogers Scholars Scholarship](https://studentsuccess.uky.edu/financial-aid-and-scholarships/academic-scholarships/additional-scholarships) |  | not listed |
 | [Ryan Pederson Memorial Scholarship](https://www.delts.org/scholarship-list) |  | not listed |

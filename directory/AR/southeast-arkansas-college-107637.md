@@ -1,6 +1,6 @@
 # Southeast Arkansas College scholarships
 
-Pine Bluff, AR · 4 open · 17 with no date listed · 0 closed (not shown)
+Pine Bluff, AR · 4 open · 17 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/southeast-arkansas-college-107637)**
 

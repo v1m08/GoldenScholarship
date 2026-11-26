@@ -1,6 +1,6 @@
 # SUNY College of Environmental Science and Forestry scholarships
 
-Syracuse, NY · 4 open · 11 with no date listed · 0 closed (not shown)
+Syracuse, NY · 4 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/suny-college-of-environmental-science-and-forestry-196103)**
 
@@ -13,6 +13,7 @@ Syracuse, NY · 4 open · 11 with no date listed · 0 closed (not shown)
 | [(Formerly ESF Asimov Scholarships)](https://www.esf.edu/tuition-aid/financialaid/esfgrant.php) |  | not listed |
 | [Assistantships and Tuition Scholarships for Graduate Students](https://www.esf.edu/tuition-aid/financialaid/esfgrant.php) |  | not listed |
 | [Bureau of Indian Education Higher Education Grant Program](https://www.esf.edu/tuition-aid/financialaid/fedgrant.php) |  | not listed |
+| [Empire State Diversity Honors Program Matching Scholarship](https://www.esf.edu/tuition-aid/financialaid/esfgrant.php) |  | not listed |
 | [Empire State Diversity Honors Scholarship](https://www.esf.edu/tuition-aid/financialaid/esdhs.php) |  | not listed |
 | [ESF College Foundation Scholarships](https://www.esf.edu/tuition-aid/financialaid/esfgrant.php) |  | not listed |
 | [ESF Eustace B. Nifkin Scholarships](https://www.esf.edu/tuition-aid/financialaid/esfgrant.php) | $250 | not listed |

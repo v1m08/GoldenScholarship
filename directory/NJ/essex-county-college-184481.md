@@ -1,11 +1,12 @@
 # Essex County College scholarships
 
-Newark, NJ · 0 open · 12 with no date listed · 0 closed (not shown)
+Newark, NJ · 0 open · 15 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/essex-county-college-184481)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Accounting Service Award](https://www.essex.edu/graduating-students/) |  | not listed |
 | [Administrative Association Scholarship](https://www.essex.edu/graduating-students/) |  | not listed |
 | [Business Administration Award](https://www.essex.edu/graduating-students/) |  | not listed |
 | [Connie Woodruff Memorial Scholarship](https://www.essex.edu/new-returning-students/) |  | not listed |
@@ -14,8 +15,10 @@ Newark, NJ · 0 open · 12 with no date listed · 0 closed (not shown)
 | [Graduating Students Scholarship](https://www.essex.edu/graduating-students/) |  | not listed |
 | [Kassa, Cofer & Slade Academic Achievement and Student Success Scholarship](https://www.essex.edu/graduating-students/) |  | not listed |
 | [METCS Scholarship](https://www.essex.edu/graduating-students/) |  | not listed |
+| [Presidential Scholarship](https://www.essex.edu/new-returning-students/) |  | not listed |
 | [Professor John Hills International Student Scholarship](https://www.essex.edu/graduating-students/) |  | not listed |
 | [Social Work Student Association Scholarship](https://www.essex.edu/graduating-students/) |  | not listed |
+| [This scholarship is in honor of retired long-serving employees of Essex County College](https://www.essex.edu/graduating-students/) |  | not listed |
 | [Xiomara Torres Legacy Scholarship](https://www.essex.edu/graduating-students/) |  | not listed |
 | [Yadav Scholarship](https://www.essex.edu/new-returning-students/) |  | not listed |
 

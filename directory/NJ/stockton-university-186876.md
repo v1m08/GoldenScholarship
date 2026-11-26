@@ -1,6 +1,6 @@
 # Stockton University scholarships
 
-Galloway, NJ · 236 open · 13 with no date listed · 54 closed (not shown)
+Galloway, NJ · 237 open · 13 with no date listed · 54 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/stockton-university-186876)**
 
@@ -213,6 +213,7 @@ Galloway, NJ · 236 open · 13 with no date listed · 54 closed (not shown)
 | [Stephen Volpe '00 Environmental Science Scholarship](https://stockton.academicworks.com/opportunities/7787) |  | Mar 20, 2027 |
 | [Stockton Federation of Teachers Endowed Scholarship](https://stockton.academicworks.com/opportunities/7755) |  | Mar 20, 2027 |
 | [Stockton Federation of Teachers Scholarship (SFT) - Board Designated](https://stockton.academicworks.com/opportunities/7916) |  | Mar 20, 2027 |
+| [Stockton First-year & Transfer Scholarships](https://www.stockton.edu/admissions/scholarships.html) | $8,760 | Mar 20, 2027 |
 | [Stockton Foundation Scholarships](https://stockton.edu/admissions/scholarships.html) |  | Mar 20, 2027 |
 | [Stockton Neighborhood Watch Book Award](https://stockton.academicworks.com/opportunities/8094) |  | Mar 20, 2027 |
 | [Stockton University Alumni Association Legacy Scholarship](https://stockton.academicworks.com/opportunities/7898) |  | Mar 20, 2027 |

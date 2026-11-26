@@ -1,6 +1,6 @@
 # Oregon State University scholarships
 
-Corvallis, OR · 26 open · 152 with no date listed · 1 closed (not shown)
+Corvallis, OR · 26 open · 203 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/oregon-state-university-209542)**
 
@@ -35,37 +35,51 @@ Corvallis, OR · 26 open · 152 with no date listed · 1 closed (not shown)
 | [Ada A. Chipman and Alford M. Downs Memorial Fellowship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Alex Riazance Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Allen & Jean Peters Scholarship Fund](https://bcfgives.org/allen-r-jean-h-peters-family-fund/) |  | not listed |
+| [Alumni Physician Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Amanda "Mandy" Prewitt Endowed Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Amanda Prewitt Memorial Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [American Association of University Women Dissertation Fellowship](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [American Legion, Post #11 ROTC Scholarship Fund](https://bcfgives.org/american-legion-post-11-rotc-scholarship-fund/) |  | not listed |
+| [Amy Chadburn Pre-Medical Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Anne Elizabeth Sellers Environmental Sciences Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Anne Runes-Wilson Science Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Arninne Rautio Endowed Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Arthur Parenzin Memorial Graduate Research Fellowship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Arthur Parenzin Memorial Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Augustin and Rita Gombart Medical Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Australia to US Fellowship](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) | $25,000 | not listed |
 | [Back to Financial Aid & Scholarships](https://education.oregonstate.edu/teacher-licensure-support-fund-scholarship) |  | not listed |
+| [Benjamin Gerling Memorial Scholarship](https://bcfgives.org/benjamin-gerling-memorial-scholarship/) |  | not listed |
 | [Berge Chandler Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Bev and Dick Chadburn Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Blue Waters Fellowship](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Bob Moch Memorial Endowment Award](https://hmsc.oregonstate.edu/students/scholarships) | $1,000 | not listed |
 | [Boren Fellowships](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) | $25,000 | not listed |
+| [Botond Gabor Eross Math Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Butler Family CEOAS Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Carroll W. and Gerry A. DeKock Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [CEOAS Graduate Teaching Assistant Excellence Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [CEOAS Scholarship Details](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [CEOAS Student Emergency Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [CEOAS Student Research Fellowship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Charles and Elaine Mellen Sutherland College of Forestry Education Scholarship](https://bcfgives.org/scholarships-for-college-students/) |  | not listed |
 | [Charles and Elaine Mellen Sutherland College of Public Health and Human Sciences Scholarship](https://bcfgives.org/scholarships-for-college-students/) |  | not listed |
+| [Charles John Pendleton Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Charlotte W. Newcombe Doctoral Dissertation Fellowships](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Chuck Rosenfeld Muddy Boots Fellowship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Churchill Scholarship](https://topscholars.oregonstate.edu/scholarships-and-fellowships) |  | not listed |
 | [Cindy Rose All Igneous Graduate Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Civilian Radioactive Waste Management Graduate Fellowship Program](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Clara Ann & Fred Horne Women in Science Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Climate Science Undergraduate Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Coastal Field Housing Awards for Students](https://maco.oregonstate.edu/current-students/financial-assistance/coastal-field-housing-awards) |  | not listed |
 | [COH Experiential Learning Scholarship](https://health.oregonstate.edu/success/scholarships) |  | not listed |
 | [Cohen-Wolf BioHealth Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Col. Julian & Rebecca McFadden Memorial Scholarship Fund](https://bcfgives.org/col-julian-rebecca-mcfadden-memorial-scholarship-fund/) |  | not listed |
+| [Colleen Spurgeon Chemistry Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Continued Success Scholarship](https://admissions.oregonstate.edu/international/prices-scholarships/scholarships-international-students/graduate-scholarships) | $5,000 | not listed |
 | [Corvallis Clinic J. Riley M.D. Health Occupations Science Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Critical Language Enhancement Award](https://topscholars.oregonstate.edu/gilman-scholarshipgilman-mccain-scholarship) | $3,000 | not listed |
 | [Critical Language Scholarship](https://topscholars.oregonstate.edu/scholarships-and-fellowships) |  | not listed |
 | [Dave M. Gazeley Endowed Scholarship](https://bcfgives.org/scholarship-funds-for-high-school-graduates/) |  | not listed |
 | [David B. Nicodemus Memorial Scholarship in Physics](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
@@ -74,17 +88,23 @@ Corvallis, OR · 26 open · 152 with no date listed · 1 closed (not shown)
 | [Donald L & Barbara Gamberg Overholser Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Donald L. MacDonald Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Dora Krueger Memorial Scholarship in Pre-veterinary Medicine](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Dorothy & Ramon Barnes Chemistry Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Dr. Jack H. and Susanne Gakstatter Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Drs. James A. and Stella Melugin Coakley Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | E E Wilson Schlship Fund |  | not listed |
+| [E. Wendell Hewson Scholarship in Applied Meteorology](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Earl L. Packard Achievement Award](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Edward H. Stockwell Mathematics Scholarship Fund](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Eleanor G. Ford Memorial Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Elizabeth Reeves Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Engagement in Environmental Sciences Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Environmental Science Student Travel Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Environmental Sciences Endowed Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [EPA STAR Fellowship](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
+| [Excellence in Environmental Sciences Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Excellence In Microbiology Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Expenses NOT covered by the emergency grant](https://health.oregonstate.edu/success/scholarships/emergency-or-hardship) | $300–$1,000 | not listed |
+| [First Quantum Minerals Research Graduate Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Fred & Mary Brauti Pre-Medical Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [G.V. Copson Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Gates-Cambridge Scholarship](https://topscholars.oregonstate.edu/scholarships-and-fellowships) | $175 | not listed |
@@ -93,8 +113,10 @@ Corvallis, OR · 26 open · 152 with no date listed · 1 closed (not shown)
 | [Geology Fellowship for Pacific Northwest Field Work](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Geology Graduate Student Teaching Assistant Fellowship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [George and Danielle Sharp Geology Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [George and Marthel Porter Pre-Medical Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Gerding Civil & Construction Engineering Scholarship](https://albanypsf.org/what-we-do/scholarship-list/) |  | not listed |
 | [Gilman Scholarship](https://topscholars.oregonstate.edu/gilman-scholarshipgilman-mccain-scholarship) |  | not listed |
+| [Godfrey Music Scholarship](https://bcfgives.org/godfrey-music-fund/) |  | not listed |
 | [Goldwater Scholarship](https://topscholars.oregonstate.edu/scholarships-and-fellowships) | $7,500 | not listed |
 | [Gordon and Mary Ann Matzke Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Gretchen S. Schuette Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
@@ -109,43 +131,61 @@ Corvallis, OR · 26 open · 152 with no date listed · 1 closed (not shown)
 | [Hetherington Physics Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [High Performance Computer Science Graduate Fellowship (DOE-HPCS)](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Honor Veterans & Patriots ROTC Scholarship Fund](https://bcfgives.org/honor-veterans-patriots/) |  | not listed |
+| [Howard Hughes Medical Institute Predoctoral Fellowships in Biological Sciences](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
+| [Hubert H. Humphrey Doctoral Fellowship](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Humboldt Research Fellowship Program](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [IBM Scholars Ph.D. Fellowship Program](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [James D. Ingle Chemistry Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [James Madison Fellowships](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
+| [Jay Ross Endowed Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Jeff Fahey & Margaret Peterson Scholarship in Chemistry](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Jerry Raymond Alexander Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Jesse A Hanson General Science Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [JJ Stephenson Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [John & Diane Howieson Scholarship in Zoology](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
-| [John & Nancy Dennis Scholarship Fund](https://bcfgives.org/john-nancy-dennis-scholarship-fund/) |  | not listed |
+| [John & Nancy Dennis Scholarship](https://bcfgives.org/john-nancy-dennis-scholarship-fund/) |  | not listed |
 | [John and Diane Howieson Endowed Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [John and Gretchen Morris Scholarship in Cell Biology](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [John W. Erickson Geology Summer Field Camp Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Joseph E. Simmons Memorial Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Judith Ann Smith Hill Memorial STEM Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [K. Patricia Cross Future Leaders Award](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [K. V. Narayana Iyengar STEM Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Karen Nickel Biochemistry/Biophysics Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Kathryn Tinnesand Memorial Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Keith H. Wrolstad Memorial Scholarship in Geophysics and Marine Geology](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Keith McKennon Chemistry Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Keith W. Muckleston Scholarship for Excellence in Water Resource Geography](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Kenneth R. Johnson Pre-Dental Society Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Kenneth S. Krane Endowed Scholarship in Physics](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Kenneth S. Krane Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Knauss Marine Policy Fellowships](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Lance Forsythe Memorial Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Linda May Oleson Scholarship for Excellence](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Lovell-Rivers Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [LtCol Nelson M. Olf Endowed Scholarship Fund](https://bcfgives.org/ltcol-nelson-m-olf-endowed-scholarship-fund/) |  | not listed |
+| [Mark and Vicki Hehnen Veterans Science Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Marshall Scholarship](https://topscholars.oregonstate.edu/scholarships-and-fellowships) |  | not listed |
 | [Mary Hutchins Hohner Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Maurice Mundorff Memorial Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Merrill Family Foundation Scholarship in CEOAS](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Merrill Family Foundation Scholarships](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Michael and Tracey Waterman Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Michael Freilich Memorial Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Michael J. O'Brien Memorial Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Milton Harris Chemistry Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Milton Harris Scholarship Science Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Mineral Resources Geology Graduate Scholarship in Honor of Cyrus Field and John Dilles](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Mitchell Scholarship](https://topscholars.oregonstate.edu/scholarships-and-fellowships/all-scholarships-and-fellowships) |  | not listed |
 | [National Endowment for the Humanities Fellowships](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [National Institute of Justice Graduate Research Fellowship](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [National Science Foundation Award](https://graduate.oregonstate.edu/finance/graduate-fellowships-and-scholarships) |  | not listed |
 | [National Science Foundation Graduate Research Fellowship Program (NSF-GRFP)](https://graduate.oregonstate.edu/finance/graduate-fellowships-and-scholarships/national-science-foundation-award) |  | not listed |
 | [Oregon State University Scholarship](https://albanypsf.org/what-we-do/scholarship-list/) |  | not listed |
 | [OSU GO Scholarship Fund](https://osuglobal.oregonstate.edu/resources-0/finances-and-scholarships) | $500–$2,000 | not listed |
+| [Outstanding Geography Senior Award](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Outstanding Geology Senior Award](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Outstanding GIScience Senior Award](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Outstanding Service to the College Graduate Award](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Outstanding Service to the College Undergraduate Award](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Paul A. & Mary Ann Roberts Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
@@ -153,26 +193,36 @@ Corvallis, OR · 26 open · 152 with no date listed · 1 closed (not shown)
 | [Peter B. Culter Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Peter B. Culter Scholarship in Chemistry](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Physics Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Powis Lee and Winifred Carloss Heitmeyer Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Provost's Distinguished Graduate Fellowships and Scholarships](https://graduate.oregonstate.edu/awards/provosts-distinguished-graduate-fellowships-and-scholarships) |  | not listed |
 | Public Health Microbiology Charitable Trust |  | not listed |
 | [Ralph L. Bosworth Memorial Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Ray and Frances Cripps Biochemistry/Biophysics Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Ray, Frances and Dale Cripps Student Support Fund Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Regional Awards & Scholarships](https://admissions.oregonstate.edu/international/prices-scholarships/scholarships-international-students/undergraduate-scholarships) | $16,000 | not listed |
 | [Regional Scholarship](https://admissions.oregonstate.edu/international/prices-scholarships/scholarships-international-students/graduate-scholarships) | $1,000 | not listed |
 | [Rhodes Scholarship](https://topscholars.oregonstate.edu/scholarships-and-fellowships) |  | not listed |
 | [Richard D. Mathews Memorial Scholarship in Oceanography](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [RISE Internship Scholarships](https://osuglobal.oregonstate.edu/scholarship-search/rise-internship-scholarships) | $650 | not listed |
+| [Rise Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Robert and Susan Poole Excellence in Health Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Roy and Jan Presley Scholarship Endowment Fund in Environmental Sciences Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Ruth M. Tyson Graduating Senior Award in Ocean Science](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Ruth M. Tyson Nor'wester Award in Ocean Science](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Ruth M. Tyson Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Ryan D. Sparks Predental Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [Sally Runes-Hicks Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
+| [Scott and Carol Schaeffer Endowed Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Seabridge Gold Graduate Fellowship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Semiconductor Research Corporation Graduate Fellowship](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Shiloh Sundstrom Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [SMART Scholarship/Fellowship Program](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
+| [Society of Women Engineers Graduate Scholarships](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Stewart Rounds & Bernadine Bonn Scholarship](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Sutherland College of Forestry Scholarship](https://bcfgives.org/scholarships-for-college-students/) |  | not listed |
+| [Swann Foundation Fellowship in Caricature and Cartoon](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Teaching Licensure Support Fund Scholarship](https://education.oregonstate.edu/teacher-licensure-support-fund-scholarship) |  | not listed |
+| [Thomas R & Martha S Aspitarte Microbiology Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [TIAA-CREF Ruth Simms Hamilton Research Fellowship](https://graduate.oregonstate.edu/finance/fellowships-and-scholarships/strategies-finding-funding) |  | not listed |
 | [Tom and Pat Gallagher Scholarship](https://bcfgives.org/scholarships-for-college-students/) |  | not listed |
 | [Truman Scholarship](https://topscholars.oregonstate.edu/scholarships-and-fellowships) | $30,000 | not listed |
@@ -184,5 +234,6 @@ Corvallis, OR · 26 open · 152 with no date listed · 1 closed (not shown)
 | [Wayne V. Burt Award](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
 | [Wei Family Private Foundation Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 | [William Hanson Geology Scholarship in Honor of Alan Niem](https://ceoas.oregonstate.edu/ceoas-scholarship-details) |  | not listed |
+| [Woodstock Scholarship](https://science.oregonstate.edu/admissions/cost-and-financial-aid/scholarships-for-current-students) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

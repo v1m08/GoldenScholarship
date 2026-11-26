@@ -1,6 +1,6 @@
 # California State University-Northridge scholarships
 
-Northridge, CA · 15 open · 5 with no date listed · 0 closed (not shown)
+Northridge, CA · 15 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/california-state-university-northridge-110608)**
 
@@ -21,10 +21,12 @@ Northridge, CA · 15 open · 5 with no date listed · 0 closed (not shown)
 | [Noski Family Scholarship](https://csun.academicworks.com/opportunities/7491) |  | Mar 15, 2027 |
 | [NSP GE Honors Rising Scholar Award](https://csun.academicworks.com/opportunities/7380) | $5,000 | May 31, 2027 |
 | [Associated Students Dianne F. Harrison Award](https://www.csun.edu/international/international-students/scholarship-opportunities-international-students) |  | Jun 3, 2027 |
+| [AIFS Study Abroad Scholarships](https://www.aifsabroad.com/scholarships-grants) | $10,000 | not listed |
 | [Dianne F. Harrison Associated Students Scholarship](https://w2.csun.edu/as/scholarships) |  | not listed |
 | [GE Honors Rising Scholar Award](https://www.csun.edu/financialaid/scholarships/explore-csun-scholarships) | $10,000 | not listed |
 | [Mark and Arman Gabay Undergraduate Real Estate Award](https://www.icsc.com/who-we-are/foundation/scholarships/scholarships-at-select-universities/california-state-university-northridge) | $2,500 | not listed |
 | [Matador Scholarship Program ( MSP ):](https://www.csun.edu/financialaid/scholarships/explore-csun-scholarships) | $1,000 | not listed |
+| [NSF Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) |  | not listed |
 | [Parent Scholar Scholarship](https://w2.csun.edu/as/scholarships) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

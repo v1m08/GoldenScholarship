@@ -1,6 +1,6 @@
 # Loyola University Maryland scholarships
 
-Baltimore, MD · 3 open · 18 with no date listed · 0 closed (not shown)
+Baltimore, MD · 3 open · 19 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/loyola-university-maryland-163046)**
 
@@ -21,6 +21,7 @@ Baltimore, MD · 3 open · 18 with no date listed · 0 closed (not shown)
 | [Marion Burk Knott Scholarship](https://www.loyola.edu/department/financial-aid/undergraduate/programs/scholarships.html) |  | not listed |
 | [Maryland House of Delegates Scholarship](https://www.loyola.edu/department/financial-aid/undergraduate/programs/scholarships.html) |  | not listed |
 | [Maryland State Senatorial and Delegate Scholarship](https://www.loyola.edu/department/financial-aid/graduate/programs/fellowships-scholarships-grants/senatorial.html) |  | not listed |
+| [Maryland State Workforce Shortage Student Assistance Grant](https://www.loyola.edu/department/financial-aid/graduate/programs/fellowships-scholarships-grants/workforce-shortage.html) |  | not listed |
 | [Presidential Scholarship](https://www.loyola.edu/department/financial-aid/undergraduate/programs/scholarships.html) | $41,000–$45,000 | not listed |
 | [Robert Noyce Teacher Scholarship Program - Track 1 at Loyola University Maryland](https://www.loyola.edu/join-us/noyce-scholars/) | $30,000 | not listed |
 | [School of National Service - AmeriCorps Matching Grant](https://www.loyola.edu/school-education/financial-aid-and-tuition/merit-scholarships-fellowships/) | $1,000 | not listed |

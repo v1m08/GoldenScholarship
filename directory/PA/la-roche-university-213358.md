@@ -1,6 +1,6 @@
 # La Roche University scholarships
 
-Pittsburgh, PA · 0 open · 38 with no date listed · 0 closed (not shown)
+Pittsburgh, PA · 0 open · 41 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/la-roche-university-213358)**
 
@@ -32,9 +32,12 @@ Pittsburgh, PA · 0 open · 38 with no date listed · 0 closed (not shown)
 | [Judy Reiner Robison Memorial Scholarship](https://laroche.edu/Financial_Aid/Types_of_Aid/La_Roche_Scholarships/) |  | not listed |
 | [Kathryn A. Jolley '81 and Gregory P. Madej Endowed Scholarship](https://laroche.edu/scholarships/) |  | not listed |
 | [Kris Rosenberg Memorial Scholarship](https://laroche.edu/scholarships/) |  | not listed |
+| [La Roche Scholarships](https://laroche.edu/Financial_Aid/Types_of_Aid/La_Roche_Scholarships/) | $1,000 | not listed |
+| [Legacy Award](https://laroche.edu/scholarships/) | $1,000 | not listed |
 | [Margaret Schaefer Memorial Future Leaders Scholarship](https://laroche.edu/Financial_Aid/Types_of_Aid/La_Roche_Scholarships/) |  | not listed |
 | [Pacem In Terris Scholarship](https://laroche.edu/scholarships/) |  | not listed |
 | [Rebecca A. Bartoldi Memorial Scholarship](https://laroche.edu/scholarships/) |  | not listed |
+| [Resident Assistant (RA) Scholarships](https://laroche.edu/scholarships/) |  | not listed |
 | [Robert B. Anticole Endowed Memorial Scholarship](https://laroche.edu/scholarships/) |  | not listed |
 | [Rose Marie '90 and Jack Manley First-Generation Scholarship](https://laroche.edu/Financial_Aid/Types_of_Aid/La_Roche_Scholarships/) |  | not listed |
 | [Sister Mary Joan Coultas and Sister Mary Thomas Kadyszewski Endowed Scholarship](https://laroche.edu/scholarships/) |  | not listed |

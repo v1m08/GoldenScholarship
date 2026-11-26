@@ -1,6 +1,6 @@
 # Wright State University-Lake Campus scholarships
 
-Celina, OH · 6 open · 8 with no date listed · 0 closed (not shown)
+Celina, OH · 6 open · 9 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/wright-state-university-lake-campus-206613)**
 
@@ -19,6 +19,7 @@ Celina, OH · 6 open · 8 with no date listed · 0 closed (not shown)
 | [Choose Ohio First Scholarship](https://www.wright.edu/enrollment-services/financial-aid/first-year-scholarships) | $3,000 | not listed |
 | [Dayton Ballet II & Dayton Contemporary Dance Company II Scholarships](https://www.wright.edu/enrollment-services/financial-aid/first-year-scholarships) |  | not listed |
 | [Garrett and Kathleen Gall Endowed Scholarship](https://www.wright.edu/enrollment-services/financial-aid/first-year-scholarships) | $1,500 | not listed |
+| [Theatre Arts Talent Scholarships; Tom Hanks Scholarship; Augsburger/Estevez Scholarship (Martin Sheen)](https://www.wright.edu/enrollment-services/financial-aid/first-year-scholarships) |  | not listed |
 | [Wright State University Lake Campus Scholarship](https://www.thesmcf.org/scholarships-2026) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

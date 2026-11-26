@@ -1,12 +1,13 @@
 # Milwaukee School of Engineering scholarships
 
-Milwaukee, WI · 2 open · 24 with no date listed · 0 closed (not shown)
+Milwaukee, WI · 3 open · 24 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/milwaukee-school-of-engineering-239318)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
 | [Destination MSOE Scholarship (PLTW, FIRST, Skills USA, VEX or TSA)](https://www.msoe.edu/admissions-aid/financial-aid-scholarships/scholarships-and-grants/msoe-scholarships-grants/traditional-student-scholarships/) |  | Jan 1, 2027 |
+| [Wisconsin Grant](https://www.msoe.edu/admissions-aid/financial-aid-scholarships/scholarships-and-grants/wi-state-grants/) |  | Feb 1, 2027 |
 | [Wisconsin Grant - Private, Non-Profit](https://www.msoe.edu/admissions-aid/financial-aid-scholarships/scholarships-and-grants/wi-state-grants/) |  | Feb 1, 2027 |
 | [Certified Nursing Assistant (CNA) Scholarship](https://www.msoe.edu/admissions-aid/financial-aid-scholarships/scholarships-and-grants/msoe-scholarships-grants/) |  | not listed |
 | [Distributive Education Clubs of America (DECA) Scholarship](https://www.msoe.edu/admissions-aid/financial-aid-scholarships/scholarships-and-grants/msoe-scholarships-grants/traditional-student-scholarships/) |  | not listed |

@@ -1,6 +1,6 @@
 # Albion College scholarships
 
-Albion, MI · 0 open · 6 with no date listed · 0 closed (not shown)
+Albion, MI · 0 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/albion-college-168546)**
 
@@ -12,5 +12,6 @@ Albion, MI · 0 open · 6 with no date listed · 0 closed (not shown)
 | [John Wesley Matching Scholarship](https://www.albion.edu/offices/financial-aid/aid-scholarships/scholarships/) | $1,000 | not listed |
 | [John Wesley Matching Scholarship - Albion College](https://www.albion.edu/offices/financial-aid/aid-scholarships/scholarships/) | $1,000 | not listed |
 | [Michigan Achievement Scholarship](https://www.albion.edu/offices/financial-aid/aid-scholarships/grants/) | $4,000 | not listed |
+| [Senior Visit Scholarship - $2,000](https://www.albion.edu/offices/financial-aid/aid-scholarships/scholarships/) | $2,000 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

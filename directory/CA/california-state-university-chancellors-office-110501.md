@@ -1,6 +1,6 @@
 # California State University-Chancellors Office scholarships
 
-Long Beach, CA · 0 open · 12 with no date listed · 0 closed (not shown)
+Long Beach, CA · 0 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/california-state-university-chancellors-office-110501)**
 
@@ -17,6 +17,5 @@ Long Beach, CA · 0 open · 12 with no date listed · 0 closed (not shown)
 | [The William and Janet Lahey Art Education and Visual Arts Scholarship](https://www.calstate.edu/impact-of-the-csu/support-the-csu/foundation/Pages/csu-scholarships.aspx) | $11,000 | not listed |
 | [Trustee Emerita Claudia Hampton California Academy of Math and Science (CAMS) Scholarship](https://www.calstate.edu/impact-of-the-csu/support-the-csu/foundation/Pages/csu-scholarships.aspx) | $5,000 | not listed |
 | [Trustee Emerita Claudia Hampton California Academy of Math and Science Endowment](https://www.calstate.edu/impact-of-the-csu/support-the-csu/foundation/Pages/csu-scholarships.aspx) | $5,000 | not listed |
-| [Wilson C. Riles Education Scholarship](https://www.calstate.edu/impact-of-the-csu/support-the-csu/foundation/Pages/csu-scholarships.aspx) | $2,750 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

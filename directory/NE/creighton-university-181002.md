@@ -1,6 +1,6 @@
 # Creighton University scholarships
 
-Omaha, NE · 4 open · 12 with no date listed · 2 closed (not shown)
+Omaha, NE · 4 open · 13 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/creighton-university-181002)**
 
@@ -14,6 +14,7 @@ Omaha, NE · 4 open · 12 with no date listed · 2 closed (not shown)
 | [Christina M. Hixson Scholarship](https://www.creighton.edu/cost-aid/types-aid/scholarships) | $5,000 | not listed |
 | [Christina M. Hixson Scholarship in Business](https://www.creighton.edu/cost-aid/types-aid/scholarships) | $5,000 | not listed |
 | [Dean's Merit Award](https://www.creighton.edu/cost-aid/types-aid/scholarships) |  | not listed |
+| [Fine and Performing Arts Scholarships](https://www.creighton.edu/arts-sciences/fineandperformingarts/scholarships) |  | not listed |
 | [Grace Keenan Scholarship for Excellence in the Arts](https://www.creighton.edu/cost-aid/types-aid/scholarships) | $40,000 | not listed |
 | [Heider College of Business Ethics and Social Responsibility Scholarship](https://www.creighton.edu/cost-aid/types-aid/scholarships) | $2,500 | not listed |
 | [Leo Vincent Jacks Scholarship in Classical Languages](https://www.creighton.edu/cost-aid/types-aid/scholarships) | $32,000 | not listed |

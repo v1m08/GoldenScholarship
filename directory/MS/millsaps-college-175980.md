@@ -1,6 +1,6 @@
 # Millsaps College scholarships
 
-Jackson, MS · 2 open · 10 with no date listed · 1 closed (not shown)
+Jackson, MS · 2 open · 13 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/millsaps-college-175980)**
 
@@ -14,6 +14,9 @@ Jackson, MS · 2 open · 10 with no date listed · 1 closed (not shown)
 | [Millsaps Scholarships for Incoming Transfer Students](https://millsaps.edu/apply-to-millsaps/financial-aid-scholarships/scholarships/) | $26,000 | not listed |
 | [Music Scholarships](https://millsaps.edu/apply-to-millsaps/financial-aid-scholarships/scholarships/) |  | not listed |
 | [PACCAR Scholarship](https://millsaps.edu/apply-to-millsaps/financial-aid-scholarships/scholarships/) |  | not listed |
+| [Phi Theta Kappa Members Scholarship](https://millsaps.edu/apply-to-millsaps/transfer-students/) | $5,000 | not listed |
+| [Phi Theta Kappa Officers Scholarship](https://millsaps.edu/apply-to-millsaps/transfer-students/) | $6,000 | not listed |
+| [Phi Theta Kappa Presidents Scholarship](https://millsaps.edu/apply-to-millsaps/transfer-students/) | $7,000 | not listed |
 | [Phi Theta Kappa Scholarship - Millsaps College](https://millsaps.edu/apply-to-millsaps/financial-aid-scholarships/scholarships/) | $7,000 | not listed |
 | [Phi Theta Kappa Scholarships](https://millsaps.edu/apply-to-millsaps/financial-aid-scholarships/scholarships/) | $7,000 | not listed |
 | [Scouting Scholarships](https://millsaps.edu/apply-to-millsaps/financial-aid-scholarships/scholarships/) | $15,000 | not listed |

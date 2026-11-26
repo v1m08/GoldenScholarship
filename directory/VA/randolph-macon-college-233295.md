@@ -1,6 +1,6 @@
 # Randolph-Macon College scholarships
 
-Ashland, VA · 1 open · 16 with no date listed · 0 closed (not shown)
+Ashland, VA · 1 open · 17 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/randolph-macon-college-233295)**
 
@@ -15,6 +15,7 @@ Ashland, VA · 1 open · 16 with no date listed · 0 closed (not shown)
 | [Ministers' Family Grant](https://www.rmc.edu/admissions-and-aid/tuition-and-aid/scholarships-and-grants/) |  | not listed |
 | [Ministers' Family Grants](https://www.rmc.edu/admissions-and-aid/tuition-and-aid/scholarships-and-grants/) |  | not listed |
 | [PERFORMING ARTS Scholarships](https://www.rmc.edu/admissions-and-aid/tuition-and-aid/scholarships-and-grants/) | $1,000 | not listed |
+| [Pre-med Scholarship](https://www.rmc.edu/academics/degrees-and-programs/pre-med/) |  | not listed |
 | [Pre-Ministerial Grant - RMC](https://www.rmc.edu/admissions-and-aid/tuition-and-aid/scholarships-and-grants/) |  | not listed |
 | [Pre-Ministerial Grants](https://www.rmc.edu/admissions-and-aid/tuition-and-aid/scholarships-and-grants/) |  | not listed |
 | [Randolph Macon College Alumni Legacy Grant](https://www.rmc.edu/admissions-and-aid/tuition-and-aid/scholarships-and-grants/) | $1,500 | not listed |

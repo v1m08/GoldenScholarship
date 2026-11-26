@@ -1,6 +1,6 @@
 # Ohio State University-Main Campus scholarships
 
-Columbus, OH · 11 open · 24 with no date listed · 7 closed (not shown)
+Columbus, OH · 11 open · 26 with no date listed · 8 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/ohio-state-university-main-campus-204796)**
 
@@ -31,12 +31,14 @@ Columbus, OH · 11 open · 24 with no date listed · 7 closed (not shown)
 | [French Scholarships & Italian Scholarships](https://frit.osu.edu/ug/department-scholarship-competition) | $3,000 | not listed |
 | [Intensive Chinese Language Scholarship](https://easc.osu.edu/funding/undergraduate-funding-opportunities/undergraduate-easc-scholarships) | $1,500 | not listed |
 | [John and Margaret Humphris Veterinary Scholarship](https://commfoun.com/individual-scholarships/) |  | not listed |
+| [John W. Galbreath Memorial Scholarship and Peter R. Peirce Memorial Scholarship](https://www.delts.org/scholarship-list) |  | not listed |
 | [large animal vet scholarships - OSU Students](https://www.ohiocattle.org/foundation/scholarships) |  | not listed |
 | [Mary Sue MacNealy English Scholarship](https://english.osu.edu/undergraduate/scholarships-awards) | $4,500 | not listed |
 | [Maximus, Provost and Trustees Scholarships](https://undergrad.osu.edu/cost-and-aid/merit-based-scholarships) | $1,000 | not listed |
 | [McMahon Research Scholarship](https://aschonors.osu.edu/mcmahon-research-scholarship) | $500–$2,000 | not listed |
 | [Morris Beja Odyssey Award: Thriving Through Global Discovery Fund](https://english.osu.edu/undergraduate/scholarships-awards) | $5,000 | not listed |
 | [OF SCHOLARSHIPS PER YEAR: 10 (Approximately)](https://www.ohiorealtors.org/available-scholarships/) |  | not listed |
+| [Ornelio & Diamond DiPietro Scholarship](https://frit.osu.edu/ug/department-scholarship-competition) |  | not listed |
 | [Phi Alpha Theta Scholarships](https://history.osu.edu/undergrad/major/phi-alpha-theta/scholarships) | $1,250 | not listed |
 | [Price Traveling Scholarships](https://frit.osu.edu/ug/department-scholarship-competition) | $2,500 | not listed |
 | [Robert N. and Sharon S. Gandee Scholarship](https://english.osu.edu/undergraduate/scholarships-awards) | $1,000 | not listed |

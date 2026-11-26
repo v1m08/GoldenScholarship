@@ -1,11 +1,12 @@
 # Lawrence University scholarships
 
-Appleton, WI · 3 open · 9 with no date listed · 0 closed (not shown)
+Appleton, WI · 4 open · 9 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/lawrence-university-239017)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Hagan Scholarship](https://inside.lawrence.edu/offices/financial-aid/scholarship-opportunities) | $60,000 | Dec 1, 2026 |
 | [National Merit Scholarships ($2,000 per year)](https://www.lawrence.edu/admissions-aid/aid-affordability/scholarships/) |  | May 1, 2027 |
 | [Wisconsin-based scholarships:](https://inside.lawrence.edu/offices/financial-aid/scholarship-opportunities) | $2,000 | Oct 14, 2027 |
 | [Music Education Scholarship](https://www.lawrence.edu/admissions-aid/aid-affordability/scholarships/) |  | Nov 5, 2027 |

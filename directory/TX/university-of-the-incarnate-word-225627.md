@@ -1,6 +1,6 @@
 # University of the Incarnate Word scholarships
 
-San Antonio, TX · 1 open · 18 with no date listed · 0 closed (not shown)
+San Antonio, TX · 1 open · 19 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-the-incarnate-word-225627)**
 
@@ -8,6 +8,7 @@ San Antonio, TX · 1 open · 18 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [Annually Renewable Music Scholarships](https://www.uiw.edu/chass/students/scholarships.html) | $4,000 | Jan 1, 2027 |
 | [Alamo Colleges Scholarship](https://www.uiw.edu/admissions/resources/scholarships.html) | $2,000 | not listed |
+| [Annemarie Walsh Endowed Scholarship (Up to $1,000 each)](https://www.uiw.edu/smd/students/scholarships.html) | $1,000 | not listed |
 | [Catholic High School Award](https://www.uiw.edu/admissions/internationaladmissions/scholarships.html) | $2,000 | not listed |
 | [Ensemble Scholarships](https://www.uiw.edu/chass/students/scholarships.html) |  | not listed |
 | [Fashion Department Scholarships webpage](https://www.uiw.edu/smd/academics/departments/fashion-management/scholarships.html) |  | not listed |

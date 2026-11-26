@@ -1,6 +1,6 @@
 # University of Science and Arts of Oklahoma scholarships
 
-Chickasha, OK · 2 open · 9 with no date listed · 0 closed (not shown)
+Chickasha, OK · 2 open · 10 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-science-and-arts-of-oklahoma-207722)**
 
@@ -15,6 +15,7 @@ Chickasha, OK · 2 open · 9 with no date listed · 0 closed (not shown)
 | [Non-Resident Scholarships](https://usao.edu/financial-aid/financial-aid-options/non-resident-scholarships.html) | $40,000–$44,760 | not listed |
 | [Non-Resident Student Scholarships](https://usao.edu/financial-aid/financial-aid-options/non-resident-scholarships.html) |  | not listed |
 | [Oklahoma Rising Scholars Award](https://usao.edu/financial-aid/financial-aid-options/freshmen-scholarships.html) | $52,520 | not listed |
+| [President's Award](https://usao.edu/financial-aid/financial-aid-options/continuing-student-scholarships.html) | $1,000 | not listed |
 | [Summer Fast Track Scholarship](https://usao.edu/financial-aid/financial-aid-options/freshmen-scholarships.html) | $9,576 | not listed |
 | [Te Ata Scholarship](https://usao.edu/financial-aid/financial-aid-options/freshmen-scholarships.html) | $22,000 | not listed |
 

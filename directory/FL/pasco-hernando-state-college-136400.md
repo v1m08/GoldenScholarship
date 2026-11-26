@@ -1,6 +1,6 @@
 # Pasco-Hernando State College scholarships
 
-New Port Richey, FL · 0 open · 3 with no date listed · 0 closed (not shown)
+New Port Richey, FL · 0 open · 3 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/pasco-hernando-state-college-136400)**
 

@@ -1,6 +1,6 @@
 # Michigan Technological University scholarships
 
-Houghton, MI · 13 open · 24 with no date listed · 1 closed (not shown)
+Houghton, MI · 14 open · 26 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/michigan-technological-university-171128)**
 
@@ -12,6 +12,7 @@ Houghton, MI · 13 open · 24 with no date listed · 1 closed (not shown)
 | [Summer Youth Scholars Award](https://www.mtu.edu/finaid/types/scholarships/) | $15,000 | Feb 1, 2027 |
 | [Thompson Scholar - Working Families Scholarship](https://www.mtu.edu/finaid/types/scholarships/) | $6,000 | Feb 1, 2027 |
 | [Visual and Performing Arts Talent Award](https://www.mtu.edu/finaid/types/scholarships/) | $3,000 | Feb 15, 2027 |
+| [Act of Kindness Scholarship](https://blogs.mtu.edu/finaid/2026/09/24/act-of-kindness-scholarship/) | $1,000 | Feb 28, 2027 |
 | [Leinweber Software Scholars Annual Scholarship](https://www.mtu.edu/finaid/types/scholarships/) | $10,000 | Mar 1, 2027 |
 | [Michigan Competitive Scholarship](https://www.mtu.edu/finaid/types/scholarships/) | $1,500 | Mar 1, 2027 |
 | [J. Edgar McAllister Scholarship](https://www.mtu.edu/finaid/types/scholarships/) | $15,000 | Apr 1, 2027 |
@@ -20,9 +21,11 @@ Houghton, MI · 13 open · 24 with no date listed · 1 closed (not shown)
 | [Sports Gear Swag Scholarship](https://blogs.mtu.edu/finaid/category/scholarships/) | $1,000 | Oct 1, 2027 |
 | [Mtu Delta Sigma Phi Engineered Leadership Scholarship](https://www.dickinsonareacommunityfoundation.org/dacf-scholarships) |  | Oct 15, 2027 |
 | [A scholarship opportunity for non-Michigan students](https://www.mtu.edu/admissions/national-scholars/index.html) | $21,000 | not listed |
+| [Achiever Award](https://www.mtu.edu/thompson-scholar/about-the-scholarship/working-families-scholarship-details/) |  | not listed |
 | [Alumni Legacy Award](https://www.mtu.edu/finaid/types/scholarships/) | $25,000 | not listed |
 | [Benjamin A. Gilman International Scholarship](https://www.mtu.edu/study-away-abroad/aid/) | $5,000 | not listed |
 | [Boren Scholarship](https://www.mtu.edu/study-away-abroad/aid/) | $24,000 | not listed |
+| [Bridging Scholarship](https://www.mtu.edu/study-away-abroad/aid/) | $2,500–$4,000 | not listed |
 | [Class of '74 Study Abroad Scholarship](https://www.mtu.edu/study-away-abroad/aid/) |  | not listed |
 | [Copper Shores Making a Difference Scholarship](https://www.mtu.edu/finaid/types/scholarships/) | $8,000 | not listed |
 | [Critical Language Scholarship](https://www.mtu.edu/study-away-abroad/aid/) |  | not listed |

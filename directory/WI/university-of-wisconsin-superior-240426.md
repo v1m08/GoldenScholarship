@@ -1,6 +1,6 @@
 # University of Wisconsin-Superior scholarships
 
-Superior, WI · 61 open · 18 with no date listed · 0 closed (not shown)
+Superior, WI · 62 open · 19 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-wisconsin-superior-240426)**
 
@@ -30,6 +30,7 @@ Superior, WI · 61 open · 18 with no date listed · 0 closed (not shown)
 | [Carole J. "Filby" Kolbe Visual Arts Scholarship](https://uwsuper.edu/scholarships/carole-j-filby-kolbe-visual-arts-scholarship/) |  | Mar 1, 2027 |
 | [Cass-Burdge Family Special Education Graduate Student Scholarship](https://uwsuper.edu/scholarships/cass-burdge-family-special-education-graduate-student-scholarship/) |  | Mar 1, 2027 |
 | [Chemistry Department Scholarship](https://uwsuper.edu/scholarships/chemistry-department-scholarship/) |  | Mar 1, 2027 |
+| [Clough Gates Scholarship](https://uwsuper.edu/scholarships/clough-gates-scholarship/) |  | Mar 1, 2027 |
 | [Denise Smith - Gay Knutson Scholarship](https://uwsuper.edu/scholarships/denise-smith-gay-knutson-scholarship/) |  | Mar 1, 2027 |
 | [Donald and Laura Carroll Scholarship](https://uwsuper.edu/scholarships/donald-and-laura-carroll-scholarship/) |  | Mar 1, 2027 |
 | [Dorothy McKay Anderson Scholarship](https://uwsuper.edu/scholarships/dorothy-mckay-anderson-scholarship/) |  | Mar 1, 2027 |
@@ -79,6 +80,7 @@ Superior, WI · 61 open · 18 with no date listed · 0 closed (not shown)
 | [Clifford J. Lue Memorial Scholarship](https://uwsuper.edu/scholarships-listing/page/4/) |  | not listed |
 | [David A. Provost III Scholarship](https://uwsuper.edu/scholarships-listing/page/4/) |  | not listed |
 | [Dennis White Scholarship](https://uwsuper.edu/scholarships-listing/page/4/) |  | not listed |
+| [Diane and Jim Klungness Scholarship](https://uwsuper.edu/scholarships/diane-and-jim-klungness-scholarship/) |  | not listed |
 | [Dorcas McPhail Johnson Scholarship](https://uwsuper.edu/scholarships/dorcas-mcphail-johnson-scholarship/) |  | not listed |
 | [Dr. and Mrs. Ross Stagner Scholarship](https://uwsuper.edu/scholarships/dr-and-mrs-ross-stagner-scholarship/) |  | not listed |
 | [Ellen Clark History Scholarship](https://uwsuper.edu/scholarships/ellen-clark-history-scholarship/) |  | not listed |

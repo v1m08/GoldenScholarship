@@ -1,6 +1,6 @@
 # Columbia International University scholarships
 
-Columbia, SC · 7 open · 23 with no date listed · 0 closed (not shown)
+Columbia, SC · 7 open · 26 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/columbia-international-university-217925)**
 
@@ -15,6 +15,7 @@ Columbia, SC · 7 open · 23 with no date listed · 0 closed (not shown)
 | [Church Matching Grant - CIU](https://ciu.edu/cost-aid/undergraduate/) | $3,000 | Jul 1, 2027 |
 | [Alumni Legacy Scholarship](https://ciu.edu/cost-aid/undergraduate/) | $10,000 | not listed |
 | [Alumni Referral Grant - CIU](https://ciu.edu/cost-aid/undergraduate/) | $10,000 | not listed |
+| [Alumni Referral Scholarship](https://ciu.edu/cost-aid/undergraduate/) | $4,000 | not listed |
 | [Ben Lippen Scholarship - CIU](https://ciu.edu/cost-aid/undergraduate/) | $5,000 | not listed |
 | [Carolina Children's Home Scholarship](https://ciu.edu/cost-aid/undergraduate/) | $5,000 | not listed |
 | [CIU Athletic Scholarships](https://ciu.edu/cost-aid/undergraduate/) |  | not listed |
@@ -24,6 +25,8 @@ Columbia, SC · 7 open · 23 with no date listed · 0 closed (not shown)
 | [Daniel R. Hoover Scholarship](https://ciu.edu/cost-aid/undergraduate/) |  | not listed |
 | [First Responder Scholarship](https://ciu.edu/cost-aid/online-graduate/) | $1,500 | not listed |
 | [Home School Scholarship](https://ciu.edu/cost-aid/undergraduate/) |  | not listed |
+| [Honors Scholarship](https://ciu.edu/cost-aid/undergraduate/) | $5,000 | not listed |
+| [Master of Education & Master of Arts in Teaching Scholarships](https://ciu.edu/cost-aid/online-graduate/) | $250–$1,000 | not listed |
 | [Master's Scholarships](https://ciu.edu/cost-aid/online-graduate/) | $3,000 | not listed |
 | [Meeting Street Scholarship Fund](https://ciu.edu/cost-aid/undergraduate/) | $10,000 | not listed |
 | [Ministry Gap Year Program Scholarship](https://ciu.edu/cost-aid/undergraduate/) |  | not listed |

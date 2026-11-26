@@ -1,6 +1,6 @@
 # Elmhurst University scholarships
 
-Elmhurst, IL · 2 open · 12 with no date listed · 0 closed (not shown)
+Elmhurst, IL · 2 open · 13 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/elmhurst-university-144962)**
 
@@ -19,6 +19,7 @@ Elmhurst, IL · 2 open · 12 with no date listed · 0 closed (not shown)
 | [Phi Kappa Phi Study Abroad Scholarship](https://www.elmhurst.edu/academics/national-fellowships-scholarships/) | $1,000 | not listed |
 | [Public Policy & International Affairs (PPIA) Fellowship](https://www.elmhurst.edu/academics/national-fellowships-scholarships/) | $5,000 | not listed |
 | [Talent Scholarships](https://www.elmhurst.edu/admission/financial-aid/types-aid/scholarships-other-awards/) |  | not listed |
+| [Tiana Rust Escarcida Passport Scholarship](https://www.elmhurst.edu/academics/undergraduate/study-abroad/scholarships-financing/) |  | not listed |
 | [Udall Scholarship - Environment](https://www.elmhurst.edu/academics/national-fellowships-scholarships/) | $7,000 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

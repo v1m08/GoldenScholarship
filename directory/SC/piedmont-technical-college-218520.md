@@ -1,6 +1,6 @@
 # Piedmont Technical College scholarships
 
-Greenwood, SC · 0 open · 61 with no date listed · 0 closed (not shown)
+Greenwood, SC · 0 open · 68 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/piedmont-technical-college-218520)**
 
@@ -17,6 +17,7 @@ Greenwood, SC · 0 open · 61 with no date listed · 0 closed (not shown)
 | [Carl Brock VR Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Casandra Cae Laster Memorial Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Charles Baumeister Memorial Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
+| [Computer Consultants & Merchants, Inc. PTC Golf Classic Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Countybank Foundation Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Derrick Scholars Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Doris Suber Family Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
@@ -32,17 +33,21 @@ Greenwood, SC · 0 open · 61 with no date listed · 0 closed (not shown)
 | [Grey Hamlett Welding Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Gwen and Gene Hancock Memorial Respiratory Care Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [H. Kelley Jones Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
+| [Human Services Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Jack Kent Cooke Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) | $30,000 | not listed |
 | [Jeanne C. Florence Memorial Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [John Heydel Cardiovascular Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
+| [Judy Daulton Accounting Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [La Puerta De Esperanza Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Laurens County Development Corporation Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
+| [Laurens County Water and Sewer Commission PTC Golf Classic Scholarships](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Lena Wood Warren Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Louise Rambo Nursing Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Loutrelle Self Memorial Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Lucille Brooks Memorial Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Lula M. Smith Healthcare Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Martha B. Williams Memorial Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
+| [Mary Jo Groomes Brighter Futures Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Medford Family Foundation Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Newberry County Memorial Hospital Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Newberry Electric Cooperative Scholarships](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
@@ -61,9 +66,11 @@ Greenwood, SC · 0 open · 61 with no date listed · 0 closed (not shown)
 | [South Carolina Green Industry Association Scholarship Fund](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Stephen Franklin Sherard III Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Sterilite Corporation Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
+| [Strom Thurmond Endowed Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Sylvia MacFarlane Veterinary Technology Club Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Taylor Foundation of Newberry Endowed Scholarships](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [This scholarship is available to a student that meets one of the following](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
+| [This scholarship is available to students who live in one of the following counties](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [Veterinary Technician of Excellence Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [W. A. Klauber Memorial Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |
 | [West Fraser PTC Golf Classic Scholarship](https://www.ptc.edu/cost-financial-aid/types-aid-scholarships/foundation-scholarships) |  | not listed |

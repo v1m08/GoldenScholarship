@@ -1,6 +1,6 @@
 # Hampden-Sydney College scholarships
 
-Hampden-Sydney, VA · 0 open · 6 with no date listed · 0 closed (not shown)
+Hampden-Sydney, VA · 0 open · 7 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/hampden-sydney-college-232256)**
 
@@ -12,5 +12,6 @@ Hampden-Sydney, VA · 0 open · 6 with no date listed · 0 closed (not shown)
 | [Harrison Scholarship](https://www.hsc.edu/admission-and-financial-aid/financial-aid/types-of-aid/scholarship-awards) | $5,000 | not listed |
 | [Madison Scholarship](https://www.hsc.edu/admission-and-financial-aid/financial-aid/types-of-aid/scholarship-awards) | $2,500 | not listed |
 | [Presidential Scholarship](https://www.hsc.edu/admission-and-financial-aid/financial-aid/types-of-aid/scholarship-awards) |  | not listed |
+| [Sprinkle Scholarship](https://www.hsc.edu/admission-and-financial-aid/financial-aid/types-of-aid/scholarship-awards/sprinkle-scholarship) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

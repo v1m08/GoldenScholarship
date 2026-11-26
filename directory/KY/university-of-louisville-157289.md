@@ -1,6 +1,6 @@
 # University of Louisville scholarships
 
-Louisville, KY · 5 open · 30 with no date listed · 0 closed (not shown)
+Louisville, KY · 5 open · 32 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-louisville-157289)**
 
@@ -13,6 +13,7 @@ Louisville, KY · 5 open · 30 with no date listed · 0 closed (not shown)
 | [FTF Cardinal Commitment Grant](https://louisville.edu/cost-aid/undergraduate-scholarships-aid/kentucky-southern-indiana-scholarships-aid/ftf-cardinal) | $5,000 | Feb 15, 2027 |
 | [BOOST Award for Online Undergraduate Students](https://louisville.edu/financialaid/online-degree-student-scholarships) |  | not listed |
 | [Border Benefit Award](https://louisville.edu/cost-aid/undergraduate-scholarships-aid/out-state-scholarships-aid/border-benefit-award) |  | not listed |
+| [Cardinal Commitment Grant](https://louisville.edu/cost-aid/undergraduate-scholarships-aid/kentucky-southern-indiana-scholarships-aid/ftf-cardinal) |  | not listed |
 | [CFT Program Summer Scholarship](https://socialwork.louisville.edu/apply/kent-scholarship-information) |  | not listed |
 | [Dreamers and Seekers Scholarship](https://socialwork.louisville.edu/apply/kent-scholarship-information) |  | not listed |
 | [E. Camp Edwards Scholarship](https://socialwork.louisville.edu/apply/kent-scholarship-information) |  | not listed |
@@ -28,6 +29,7 @@ Louisville, KY · 5 open · 30 with no date listed · 0 closed (not shown)
 | [Kayser Endowed Doctoral Training Grant](https://socialwork.louisville.edu/apply/kent-scholarship-information) |  | not listed |
 | [KEES Scholarship On-Track to Graduate, Renewal Policy Change](https://louisville.edu/financialaid/types-aid/scholarships/state-aid) | $1,800 | not listed |
 | [Kent Scholarships](https://socialwork.louisville.edu/apply/kent-scholarship-information) |  | not listed |
+| [Kent School of Social Work & Family Science PhD Scholarship](https://socialwork.louisville.edu/apply/kent-scholarship-information) |  | not listed |
 | [Martin Luther King Scholarship](https://louisville.edu/cost-aid/undergraduate-scholarships-aid/kentucky-southern-indiana-scholarships-aid) | $10,000 | not listed |
 | [Mary Churchill Humphrey Scholarship](https://student.louisville.edu/honors/student-experience/scholarships-funding/mary-churchill-humphrey-scholarship) |  | not listed |
 | [Maude Ainslie Scholarship](https://socialwork.louisville.edu/apply/kent-scholarship-information) |  | not listed |

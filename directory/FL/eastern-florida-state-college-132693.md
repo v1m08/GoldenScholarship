@@ -1,6 +1,6 @@
 # Eastern Florida State College scholarships
 
-Melbourne, FL · 230 open · 20 with no date listed · 3 closed (not shown)
+Melbourne, FL · 230 open · 23 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/eastern-florida-state-college-132693)**
 
@@ -243,8 +243,10 @@ Melbourne, FL · 230 open · 20 with no date listed · 3 closed (not shown)
 | [Choir Scholarships](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) | $500 | not listed |
 | [Cooke Undergraduate Transfer Scholarship](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) | $55,000 | not listed |
 | [Debbie K. Phillis Space Coast UCF Alumni Chapter Endowed Scholarship](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
+| [Door Grant Program](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
 | [EFSC Titan Scholarships](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) | $300 | not listed |
 | [Florida Bright Futures Scholarships](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
+| [Florida Farmworker Student Scholarship Program](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
 | [Florida First Responder Scholarship Program](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
 | [Florida Supervisors of Elections Scholarship](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) | $1,200 | not listed |
 | [Florida Tech Transfer Scholarship](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) | $16,500 | not listed |
@@ -254,6 +256,7 @@ Melbourne, FL · 230 open · 20 with no date listed · 3 closed (not shown)
 | [Jeffery Allan Burgin - Memorial Firefighter Scholarship](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
 | [Legends Global Scholarship Program](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) | $3,000 | not listed |
 | [Reginald E Johnson Leadership Scholarship](https://easternflorida.academicworks.com/opportunities/4857) | $2,000 | not listed |
+| [Rosewood Family Scholarship](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
 | [Service-Learning Scholarships](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) | $500 | not listed |
 | [Theatre Scholarships](https://www.easternflorida.edu/financial-aid/types-of-aid/scholarships.php) |  | not listed |
 

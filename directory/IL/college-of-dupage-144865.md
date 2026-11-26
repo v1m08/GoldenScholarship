@@ -1,6 +1,6 @@
 # College of DuPage scholarships
 
-Glen Ellyn, IL · 18 open · 3 with no date listed · 193 closed (not shown)
+Glen Ellyn, IL · 18 open · 4 with no date listed · 193 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/college-of-dupage-144865)**
 
@@ -26,6 +26,7 @@ Glen Ellyn, IL · 18 open · 3 with no date listed · 193 closed (not shown)
 | [Tuition GAP Fund](https://cod.academicworks.com/opportunities/7147) | $150 | May 1, 2027 |
 | [Honors Program Transfer Scholarships](https://cod.edu/academics/academic-opportunities/honors/scholarships.html) | $40,000 | not listed |
 | [Honors Scholarships](https://cod.edu/academics/academic-opportunities/honors/scholarships.html) |  | not listed |
+| [Jack Kent Cooke Foundation Undergraduate Transfer Scholarship](https://cod.edu/academics/academic-opportunities/honors/scholarships.html) | $40,000 | not listed |
 | [Trustees Scholarship Program](https://cod.edu/costs/scholarships/trustees-scholarship.html) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

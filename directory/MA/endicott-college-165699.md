@@ -1,6 +1,6 @@
 # Endicott College scholarships
 
-Beverly, MA · 0 open · 42 with no date listed · 0 closed (not shown)
+Beverly, MA · 0 open · 48 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/endicott-college-165699)**
 
@@ -8,6 +8,7 @@ Beverly, MA · 0 open · 42 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [A. Joseph Callahan, Jr. Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Alumni Council Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
+| [Ann Hart Miller '56 Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Appleseed's Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Army ROTC Scholarships](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid) | $5,000 | not listed |
 | [Barbara Decker Memorial Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
@@ -24,14 +25,18 @@ Beverly, MA · 0 open · 42 with no date listed · 0 closed (not shown)
 | [Endicott Presidential Academic Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Frances Alexander Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Frances Genecco Callahan Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
+| [Gallagher Koster Insurance Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [General Magnaplate and Candida '72 Edmund Aversenti Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Hannah Lane MH '20 and Priscilla Deacy MH '42 Donahue Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Helen Young Post '52 Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
+| [Holland and Knight Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [J. David and Barbara Broudo Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Jack and Judy Shields Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Jane Lang Memorial Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
+| [Jean Shanning '61 Smock and Martin V. Smock Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Jennifer Atkinson Memorial Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Jill Sullivan Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
+| [John M. Ryan Memorial Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Joyce Whitehaun Krischke Memorial Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Judith and Charles Clayman Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Karen Beck Felton '61 Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
@@ -46,6 +51,7 @@ Beverly, MA · 0 open · 42 with no date listed · 0 closed (not shown)
 | [Presidential Academic Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Thomas A. Yawkey Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Tupper Family Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
+| [Tupper Single Parent Program Endowed Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [William Archibald '04 Memorial Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 | [Wylie Family Scholarship](https://www.endicott.edu/admission/undergraduate-admission/tuition-financial-aid/endicott-grants-scholarships) |  | not listed |
 

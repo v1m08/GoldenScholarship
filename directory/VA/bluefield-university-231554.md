@@ -1,6 +1,6 @@
 # Bluefield University scholarships
 
-Bluefield, VA · 7 open · 30 with no date listed · 0 closed (not shown)
+Bluefield, VA · 7 open · 31 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/bluefield-university-231554)**
 
@@ -34,6 +34,7 @@ Bluefield, VA · 7 open · 30 with no date listed · 0 closed (not shown)
 | [Martha Louse Martin Memorial Scholarship Fund](https://www.bluefield.edu/admissions/financial-aid/grants-scholarships/) | $1,000 | not listed |
 | [McDougle Scholarship](https://www.bluefield.edu/admissions/financial-aid/grants-scholarships/) |  | not listed |
 | [Nelson T. & Ethel Barker Scholarship](https://www.bluefield.edu/admissions/financial-aid/grants-scholarships/) |  | not listed |
+| [Niche No Essay Scholarship](https://www.niche.com/colleges/scholarships/no-essay-scholarship/) | $2,000 | not listed |
 | [Peggy Emert Bickford Endowed Memorial Scholarship](https://www.bluefield.edu/admissions/financial-aid/grants-scholarships/) |  | not listed |
 | [Presidential Scholarship - Bluefield University](https://www.bluefield.edu/bluefield-university-announces-this-years-presidential-scholarship-recipients/) |  | not listed |
 | [Rev. David L. Bailey Scholarship](https://www.bluefield.edu/admissions/financial-aid/grants-scholarships/) |  | not listed |

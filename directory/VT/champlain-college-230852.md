@@ -1,6 +1,6 @@
 # Champlain College scholarships
 
-Burlington, VT · 2 open · 34 with no date listed · 0 closed (not shown)
+Burlington, VT · 2 open · 35 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/champlain-college-230852)**
 
@@ -12,6 +12,7 @@ Burlington, VT · 2 open · 34 with no date listed · 0 closed (not shown)
 | [Anthony M. Romano '69 Scholarship Fund](https://www.champlain.edu/office/institutional-advancement/endowed-scholarships/) |  | not listed |
 | [Betty Fishman Scholarship Fund](https://www.champlain.edu/office/institutional-advancement/endowed-scholarships/) |  | not listed |
 | [Burton '38 and Celia Paquin Scholarship Fund](https://www.champlain.edu/office/institutional-advancement/endowed-scholarships/) |  | not listed |
+| [Carole and Bill Hauke Endowed Scholarship Fund](https://www.champlain.edu/office/institutional-advancement/endowed-scholarships/) |  | not listed |
 | [CCM Excel Award](https://www.champlain.edu/office/ccm/scholarships/) |  | not listed |
 | [Champlain Endowed Award](https://www.champlain.edu/office/institutional-advancement/endowed-scholarships/) |  | not listed |
 | [Dr. David S. Faigel Memorial Scholarship Fund](https://www.champlain.edu/office/institutional-advancement/endowed-scholarships/) |  | not listed |

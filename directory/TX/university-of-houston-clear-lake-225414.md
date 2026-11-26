@@ -1,6 +1,6 @@
 # University of Houston-Clear Lake scholarships
 
-Houston, TX · 1 open · 7 with no date listed · 1 closed (not shown)
+Houston, TX · 1 open · 7 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-houston-clear-lake-225414)**
 

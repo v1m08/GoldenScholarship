@@ -1,6 +1,6 @@
 # Husson University scholarships
 
-Bangor, ME · 1 open · 9 with no date listed · 0 closed (not shown)
+Bangor, ME · 1 open · 10 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/husson-university-487524)**
 
@@ -13,6 +13,7 @@ Bangor, ME · 1 open · 9 with no date listed · 0 closed (not shown)
 | [Greenfield Opportunity Scholarship](https://www.husson.edu/financial-aid/scholarships/greenfield-opportunity-scholarship) |  | not listed |
 | [Harold Alfond Technology Grant](https://www.husson.edu/financial-aid/scholarships/) | $12,000 | not listed |
 | [Maine Community College Award](https://www.husson.edu/financial-aid/scholarships/) | $8,000 | not listed |
+| [On-campus Residential Scholarship](https://www.husson.edu/financial-aid/scholarships/) |  | not listed |
 | [Phi Theta Kappa Scholarship](https://www.husson.edu/financial-aid/scholarships/) | $1,500 | not listed |
 | [Pine Tree Scholarship](https://www.husson.edu/financial-aid/scholarships/) | $5,600 | not listed |
 | [President's Global Scholarship](https://www.husson.edu/financial-aid/scholarships/) | $10,000 | not listed |

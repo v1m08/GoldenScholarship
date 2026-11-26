@@ -1,6 +1,6 @@
 # Nebraska Methodist College of Nursing & Allied Health scholarships
 
-Omaha, NE · 6 open · 18 with no date listed · 0 closed (not shown)
+Omaha, NE · 6 open · 20 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/nebraska-methodist-college-of-nursing-and-allied-health-181297)**
 
@@ -19,6 +19,7 @@ Omaha, NE · 6 open · 18 with no date listed · 0 closed (not shown)
 | [HOSA State Conference Scholarship](https://www.methodistcollege.edu/scholarships) | $5,000 | not listed |
 | [Jobs for America's Graduates LPN Scholarship](https://www.methodistcollege.edu/scholarships) |  | not listed |
 | [Kathleen Montgomery Memorial ABSN Scholarship](https://www.methodistcollege.edu/scholarships) | $9,000 | not listed |
+| [Membership Scholarships](https://www.methodistcollege.edu/scholarships) |  | not listed |
 | [Nebraska Hospital Association Health Care Career Scholarship Program](https://www.methodistcollege.edu/scholarships) |  | not listed |
 | [NMC Legacy Grant](https://www.methodistcollege.edu/scholarships) | $2,000 | not listed |
 | [NMC Membership Scholarships](https://www.methodistcollege.edu/scholarships/membership-scholarships) | $1,000 | not listed |
@@ -26,6 +27,7 @@ Omaha, NE · 6 open · 18 with no date listed · 0 closed (not shown)
 | [PEO Scholar Awards](https://www.methodistcollege.edu/scholarships) |  | not listed |
 | [Ruth Freed Leadership Scholarship](https://www.methodistcollege.edu/scholarships) | $9,000 | not listed |
 | [United Methodist Church Member Award](https://www.methodistcollege.edu/scholarships) | $1,000 | not listed |
+| [Upfront Merit Scholarships](https://www.methodistcollege.edu/scholarships) |  | not listed |
 | [Upfront Merit Scholarships - Accelerated Nursing (ABSN) Students](https://www.methodistcollege.edu/scholarships) | $3,000–$5,000 | not listed |
 | [Upfront Merit Scholarships - First-Year Students](https://www.methodistcollege.edu/scholarships) | $4,500 | not listed |
 | [Upfront Merit Scholarships - Transfer Students](https://www.methodistcollege.edu/scholarships) | $4,000 | not listed |

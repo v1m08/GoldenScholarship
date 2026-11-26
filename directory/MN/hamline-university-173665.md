@@ -1,6 +1,6 @@
 # Hamline University scholarships
 
-Saint Paul, MN · 10 open · 31 with no date listed · 1 closed (not shown)
+Saint Paul, MN · 10 open · 35 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/hamline-university-173665)**
 
@@ -16,17 +16,21 @@ Saint Paul, MN · 10 open · 31 with no date listed · 1 closed (not shown)
 | [Robbins Leadership Award](https://www.hamline.edu/admission-aid/financial-aid/grants-scholarships/first-year/talent) | $3,000 | Feb 1, 2027 |
 | [Piper Promise First-Year Free Tuition Grant](https://www.hamline.edu/admission-aid/financial-aid/grants-scholarships/first-year/piper-promise) |  | Mar 1, 2027 |
 | [Leadership scholarships](https://www.hamline.edu/academics/college-schools/education-leadership/scholarships/merit-leadership) |  | Jul 30, 2027 |
+| [Anne Tews Schwab Scholarship in excellence in critical writing](https://www.hamline.edu/academics/graduate/mfa-writing-children-YA/scholarships) | $1,000 | not listed |
 | [Announcing the Community Impact Award for MA in Teaching students](https://www.hamline.edu/academics/college-schools/education-leadership/scholarships) | $3,000 | not listed |
 | [Brandon Terrell Memorial Scholarship](https://www.hamline.edu/academics/graduate/mfa-writing-children-YA/scholarships) | $2,500 | not listed |
 | [Clergy Grant](https://www.hamline.edu/admission-aid/financial-aid/grants-scholarships/first-year/united-methodist-awards) |  | not listed |
+| [Deborah Keenan Poetry Scholarship](https://www.hamline.edu/academics/graduate/creative-writing-mfa/scholarships) | $1,000 | not listed |
 | [Department scholarships](https://www.hamline.edu/academics/graduate/master-study-law/scholarships) | $2,000 | not listed |
 | [Frances and Kermit Rudolf Nonfiction Scholarship](https://www.hamline.edu/academics/graduate/mfa-writing-children-YA/scholarships) | $1,000 | not listed |
 | [Gladys Sinclair Brooks Scholarship](https://www.hamline.edu/academics/college-schools/business/graduate-scholarships/mpa) | $2,000 | not listed |
+| [Hamline Firsts Award](https://www.hamline.edu/admission-aid/financial-aid/grants-scholarships/transfer) | $3,000 | not listed |
 | [Hamline Heritage Award](https://www.hamline.edu/admission-aid/financial-aid/grants-scholarships/first-year) | $3,000 | not listed |
 | [Herman W. Block Memorial Scholarship](https://www.hamline.edu/academics/graduate/mfa-writing-children-YA/scholarships) |  | not listed |
 | [James F. Miller Annual Scholarship](https://www.hamline.edu/academics/college-schools/business/graduate-scholarships/mpa) | $1,000 | not listed |
 | [Jane Calabria McPeak Annual Scholarship](https://www.hamline.edu/academics/college-schools/business/graduate-scholarships/mpa) | $1,000 | not listed |
 | [Judi Shaw Memorial Scholarship](https://www.hamline.edu/academics/graduate/creative-writing-mfa/scholarships) |  | not listed |
+| [Learning partnership scholarships](https://www.hamline.edu/admission-aid/financial-aid/graduate) |  | not listed |
 | [Master in the Study of Law Scholarships](https://www.hamline.edu/academics/graduate/master-study-law/scholarships) | $2,000 | not listed |
 | [Master of Public Administration program annual and endowed scholarships](https://www.hamline.edu/academics/college-schools/business/graduate-scholarships/mpa) | $2,500 | not listed |
 | [MFA in Creative Writing Scholarships](https://www.hamline.edu/academics/graduate/creative-writing-mfa/scholarships) | $1,000 | not listed |

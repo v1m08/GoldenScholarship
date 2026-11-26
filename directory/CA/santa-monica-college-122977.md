@@ -1,6 +1,6 @@
 # Santa Monica College scholarships
 
-Santa Monica, CA · 0 open · 267 with no date listed · 1 closed (not shown)
+Santa Monica, CA · 0 open · 268 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/santa-monica-college-122977)**
 
@@ -49,6 +49,7 @@ Santa Monica, CA · 0 open · 267 with no date listed · 1 closed (not shown)
 | [C.R. Watts Memorial Scholarship](https://smc.academicworks.com/opportunities/1934) | $1,000 | not listed |
 | [California School Employees Association SMC #36 Scholarship](https://smc.academicworks.com/opportunities/1295) | $1,000 | not listed |
 | [Captain Matthew B. Scherrer (Ret.) Scholarship for Military Veterans](https://smc.academicworks.com/opportunities/1796) | $1,000 | not listed |
+| [CCPG Grant](https://www.smc.edu/admission-aid/financial-aid-scholarships/types-of-aid/grants/ca-college-promise-grant.php) |  | not listed |
 | [Century Housing/Rocky Young Scholarship](https://smc.academicworks.com/opportunities/1757) | $2,000 | not listed |
 | [Charles and Dorothy Grabowski Scholarship](https://smc.academicworks.com/opportunities/1436) | $2,500 | not listed |
 | [Charles and Dorothy Green Memorial Scholarship](https://smc.academicworks.com/opportunities/1439) | $1,000 | not listed |

@@ -1,6 +1,6 @@
 # West Virginia State University scholarships
 
-Institute, WV · 0 open · 4 with no date listed · 0 closed (not shown)
+Institute, WV · 0 open · 3 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/west-virginia-state-university-237899)**
 
@@ -8,7 +8,6 @@ Institute, WV · 0 open · 4 with no date listed · 0 closed (not shown)
 | --- | --- | --- |
 | [Black & Gold Transfer Scholarship](https://wvstateu.edu/admissions/financial-aid/scholarships/black-gold-transfer-scholarship/) | $3,000 | not listed |
 | [Dual Credit Scholarship](https://wvstateu.edu/admissions/financial-aid/scholarships/dual-credit-scholarship/) |  | not listed |
-| [WVSU 1890 Scholarship](https://wvstateu.edu/admissions/financial-aid/scholarships/wvsu-1890-scholarship/) |  | not listed |
 | [Yellow Jacket Scholarship](https://wvstateu.edu/admissions/financial-aid/scholarships/yellow-jacket-scholarship/) | $1,100–$6,000 | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

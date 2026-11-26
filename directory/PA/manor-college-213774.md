@@ -1,6 +1,6 @@
 # Manor College scholarships
 
-Jenkintown, PA · 1 open · 35 with no date listed · 0 closed (not shown)
+Jenkintown, PA · 1 open · 36 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/manor-college-213774)**
 
@@ -36,6 +36,7 @@ Jenkintown, PA · 1 open · 35 with no date listed · 0 closed (not shown)
 | [Mary Wolchanski Scholarship (Competitive)](https://manor.edu/admissions/financial-aid-scholarships/partial-tuition-scholarships/) |  | not listed |
 | [Partial Tuition Scholarships](https://manor.edu/admissions/financial-aid-scholarships/partial-tuition-scholarships/) | $500 | not listed |
 | [Presidential Scholarship](https://manor.edu/admissions/financial-aid-scholarships/) | $5,000 | not listed |
+| [Rebecca Kate Orsher Stemplewicz Memorial Scholarship Fund for Veterinary Technology (Non-Competitive)](https://manor.edu/admissions/financial-aid-scholarships/partial-tuition-scholarships/) |  | not listed |
 | [Resident Assistant Award](https://manor.edu/admissions/financial-aid-scholarships/partial-tuition-scholarships/) |  | not listed |
 | [Saint Basil Scholarship (Non-Competitive)](https://manor.edu/admissions/financial-aid-scholarships/partial-tuition-scholarships/) |  | not listed |
 | [Sesok Family Memorial Scholarship](https://manor.edu/admissions/financial-aid-scholarships/partial-tuition-scholarships/) |  | not listed |

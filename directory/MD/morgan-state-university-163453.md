@@ -1,6 +1,6 @@
 # Morgan State University scholarships
 
-Baltimore, MD · 5 open · 277 with no date listed · 0 closed (not shown)
+Baltimore, MD · 5 open · 278 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/morgan-state-university-163453)**
 
@@ -216,6 +216,7 @@ Baltimore, MD · 5 open · 277 with no date listed · 0 closed (not shown)
 | [MSUNAA Los Angeles Chapter Endowed](https://morgan.academicworks.com/opportunities/12128) |  | not listed |
 | [MSUNAA South Atlantic Alumni Chapter Endowed Scholarship Fund](https://morgan.academicworks.com/opportunities/12308) |  | not listed |
 | [NAACP - Enolia P. McMillan Endowed Scholarship Fund](https://morgan.academicworks.com/opportunities/12615) |  | not listed |
+| [Newcombe Scholarship](https://www.morgan.edu/center-for-continuing-and-professional-studies/scholarshipsgrants/newcombe-scholarship) |  | not listed |
 | [Nick & Ola Ford Endowed Scholarship Fund](https://morgan.academicworks.com/opportunities/12713) |  | not listed |
 | [Norman & Irene Johnson Endowed Scholarship Fund](https://morgan.academicworks.com/opportunities/12671) |  | not listed |
 | [Omega Healthcare Investors Business Scholarship Fund](https://morgan.academicworks.com/opportunities/12396) |  | not listed |

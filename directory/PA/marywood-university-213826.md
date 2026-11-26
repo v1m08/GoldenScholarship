@@ -1,6 +1,6 @@
 # Marywood University scholarships
 
-Scranton, PA · 3 open · 317 with no date listed · 0 closed (not shown)
+Scranton, PA · 3 open · 319 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/marywood-university-213826)**
 
@@ -102,9 +102,11 @@ Scranton, PA · 3 open · 317 with no date listed · 0 closed (not shown)
 | [Fulbright Scholarship](https://www.marywood.edu/affordability/types-of-aid/) |  | not listed |
 | [Gene and Florian ZaBach Scholarship](https://marywood.academicworks.com/opportunities/744) |  | not listed |
 | [General Scholarship Endowment](https://marywood.academicworks.com/opportunities/357) |  | not listed |
+| [George and Pringle Snyder Memorial Scholarship](https://www.marywood.edu/affordability/types-of-aid/) | $2,500 | not listed |
 | [George Michael and Jacquelyn Susco Fueshko Annual Scholarship](https://marywood.academicworks.com/opportunities/933) |  | not listed |
 | [Gerard P. and Linda Joyce Scholarship](https://marywood.academicworks.com/opportunities/414) |  | not listed |
 | [Germaine O'Neil '33 Endowed Scholarship](https://marywood.academicworks.com/opportunities/558) |  | not listed |
+| [Gerrity's Supermarkets - Fasula Scholarship](https://www.marywood.edu/affordability/types-of-aid/) |  | not listed |
 | [Gerrity's Supermarkets Scholarship](https://marywood.academicworks.com/opportunities/363) |  | not listed |
 | [Good Citizen Scholarship](https://www.marywood.edu/affordability/types-of-aid/) | $2,300 | not listed |
 | [Graduate IHM Scholarship Fund](https://marywood.academicworks.com/opportunities/858) |  | not listed |

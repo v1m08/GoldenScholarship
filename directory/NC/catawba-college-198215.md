@@ -1,11 +1,12 @@
 # Catawba College scholarships
 
-Salisbury, NC · 0 open · 14 with no date listed · 0 closed (not shown)
+Salisbury, NC · 1 open · 14 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/catawba-college-198215)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [A Full Tuition Scholarship](https://www.catawba.edu/scholarships/merit-scholarships/) |  | Nov 15, 2027 |
 | [Catawba Need-Based Scholarship](https://www.catawba.edu/scholarships/scholarships/) |  | not listed |
 | [Commit to Teacher Education Scholarship](https://www.catawba.edu/scholarships/academic-scholarships/) | $4,000 | not listed |
 | [David Jordan Scholarship](https://www.catawba.edu/businessscholarships/) | $10,000 | not listed |

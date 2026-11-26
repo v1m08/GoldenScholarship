@@ -1,11 +1,12 @@
 # University of Arkansas for Medical Sciences scholarships
 
-Little Rock, AR · 0 open · 4 with no date listed · 0 closed (not shown)
+Little Rock, AR · 1 open · 4 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-arkansas-for-medical-sciences-106263)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Medical Professionals of Tomorrow Scholarship](https://www.iefa.org/scholarships/1698/Medical_Professionals_Of_Tomorrow_Scholarship) | $1,000 | Jun 29, 2027 |
 | [C. James Graham, 33°, SGIG Scholarship](https://scottishrite.org/philanthropy/scholarships/national/) |  | not listed |
 | [Chancellor's Scholarship Program](https://nursing.uams.edu/future-students/financial/assistance/scholarships/chancellors-scholarship-program/) |  | not listed |
 | [Governor's Distinguished Scholarship](https://students.uams.edu/financial-services/financial-aid/adhe-scholarship-grant-information/) | $10,000 | not listed |

@@ -1,6 +1,6 @@
 # University of California-Santa Cruz scholarships
 
-Santa Cruz, CA · 7 open · 98 with no date listed · 6 closed (not shown)
+Santa Cruz, CA · 7 open · 105 with no date listed · 7 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-california-santa-cruz-110714)**
 
@@ -26,6 +26,7 @@ Santa Cruz, CA · 7 open · 98 with no date listed · 6 closed (not shown)
 | [Blanche G. Williams and Gertrude D. Graham Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Brian Sweeney Memorial Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) | $1,000–$4,000 | not listed |
 | [Brythan P. Davis Scholarships](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) | $2,000–$3,000 | not listed |
+| [Business & Professional Women's Club Leadership Opportunity Award](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Caldwell Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/caldwell-scholarship/) | $50,000 | not listed |
 | [Carol and William Symons Endowed Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Carol H. Bennett Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
@@ -38,6 +39,7 @@ Santa Cruz, CA · 7 open · 98 with no date listed · 6 closed (not shown)
 | [David S. Lee Scholarship](https://undergrad.engineering.ucsc.edu/student-resources/scholarships/) |  | not listed |
 | [Deans' and Chancellor's Undergraduate Awards](https://undergrad.engineering.ucsc.edu/student-resources/scholarships/) |  | not listed |
 | [Deans' undergraduate awards](https://undergradresearch.ucsc.edu/scholarships-awards/) | $100 | not listed |
+| [Didden-Ilksen Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Dybdahl Leadership Opportunity Award Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) | $5,000 | not listed |
 | [E.W. Parnassus Collins Scholarships](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Education Abroad and Global Learning Scholarships](https://globallearning.ucsc.edu/finances/gl-scholarships/) | $5,000 | not listed |
@@ -50,6 +52,7 @@ Santa Cruz, CA · 7 open · 98 with no date listed · 6 closed (not shown)
 | [Frederick A. and Theresa Hihn Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Free Passport Grant](https://globallearning.ucsc.edu/finances/gl-scholarships/) | $165 | not listed |
 | [Gliessman Research Fellowship](https://envs.ucsc.edu/advising/scholarships-awards-funding/) | $8,200 | not listed |
+| [Gunderson Family Student Research in Coastal Sustainability Summer Award](https://science.ucsc.edu/student-support/awards-research/) |  | not listed |
 | [Hammett Fellowship](https://envs.ucsc.edu/advising/scholarships-awards-funding/) | $10,000 | not listed |
 | [Harlem Bling Annual Scholarship Program](https://undergrad.engineering.ucsc.edu/student-resources/scholarships/) | $600 | not listed |
 | [Harold & Persis Hyde Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
@@ -62,6 +65,7 @@ Santa Cruz, CA · 7 open · 98 with no date listed · 6 closed (not shown)
 | [Josephine Williams Meltzer Gaskill Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Judy Yung Memorial Scholarship](https://legalstudies.ucsc.edu/advising/scholarships-awards/) |  | not listed |
 | [Karl Pister Leadership Opportunity Award](https://honors.ucsc.edu/scholarships/pister-scholars/index.html) | $50,000 | not listed |
+| [Katherine M. and Raymond R. Sage Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Kathryn D. Sullivan Award in Earth & Marine Sciences](https://science.ucsc.edu/student-support/awards-research/) |  | not listed |
 | [Koret Scholarship](https://undergradresearch.ucsc.edu/discover-opportunities/koret-scholarship/) |  | not listed |
 | [Koret Undergraduate Research Scholarship](https://undergradresearch.ucsc.edu/discover-opportunities/koret-scholarship/) | $3,000 | not listed |
@@ -70,11 +74,13 @@ Santa Cruz, CA · 7 open · 98 with no date listed · 6 closed (not shown)
 | [Life Lessons Scholarship Program](https://financialaid.ucsc.edu/types-of-aid/scholarships/) |  | not listed |
 | [Lionel Cantú Memorial Award](https://socialsciences.ucsc.edu/academics/scholarships-awards/) |  | not listed |
 | [Marilyn C. and Raymond E. Davis Memorial Scholarship](https://undergrad.engineering.ucsc.edu/student-resources/scholarships/) | $500–$1,500 | not listed |
+| [Mark T. MacMillan Memorial Scholarship](https://science.ucsc.edu/student-support/awards-research/) |  | not listed |
 | [McHenry Endowed Scholarships](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Michael Tudor Memorial Award](https://science.ucsc.edu/student-support/awards-research/) |  | not listed |
 | [Midori Arima Scholarship in Anthropology](https://anthro.ucsc.edu/advising/scholarships-awards-funding/) | $500–$2,000 | not listed |
 | [Milam-McGinty-Kaun Award for Teaching Excellence](https://socialsciences.ucsc.edu/academics/scholarships-awards/) | $1,500 | not listed |
 | [Nancy Pascal Field Study Scholarship](https://communitystudies.ucsc.edu/advising/scholarships-awards/) |  | not listed |
+| [Niebanck Founder's Prize ($2,500)](https://colleges.ucsc.edu/advising-academics/student-awards-scholarships-grants/) | $2,500 | not listed |
 | [Norris Center Student Award](https://envs.ucsc.edu/advising/scholarships-awards-funding/) | $1,000 | not listed |
 | [Oakland Promise Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Patricia and Rowland Rebele Grant](https://havc.ucsc.edu/academics/undergraduate/scholarships/) |  | not listed |
@@ -111,5 +117,6 @@ Santa Cruz, CA · 7 open · 98 with no date listed · 6 closed (not shown)
 | [Weiss Family Scholarship Endowment](https://socialsciences.ucsc.edu/academics/scholarships-awards/) | $2,800 | not listed |
 | [Wencai Jansen Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 | [Whitford Prize](https://science.ucsc.edu/student-support/awards-research/) |  | not listed |
+| [William R. Hewlett Scholarship](https://financialaid.ucsc.edu/types-of-aid/scholarships/ucsc-named-scholarships/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

@@ -1,6 +1,6 @@
 # University of Florida scholarships
 
-Gainesville, FL · 16 open · 72 with no date listed · 2 closed (not shown)
+Gainesville, FL · 16 open · 85 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-florida-134130)**
 
@@ -28,13 +28,16 @@ Gainesville, FL · 16 open · 72 with no date listed · 2 closed (not shown)
 | [Albert G. Raybun Scholarship](https://www.sfa.ufl.edu/academic-scholarships/) | $500 | not listed |
 | [Alison Schwartz Memorial Scholarship](https://soafi.org/scholarships-apply) | $1,000 | not listed |
 | [Allison Elizabeth Boor Memorial Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
+| [Alumni Scholarship](https://admissions.ufl.edu/cost-and-aid/scholarships) | $10,000 | not listed |
 | [Arlene P. McKitrick Graduate Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
 | [Bayard and Arthur Fawcett Scholarship Fund for Nursing Excellence](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
 | [Benacquisto Scholarship](https://www.sfa.ufl.edu/types-of-aid/scholarships/) | $2,500 | not listed |
 | [Bridging Scholarship](https://languages.ufl.edu/study-abroad/scholarships/) |  | not listed |
 | [Bright Futures Scholarships](https://admissions.ufl.edu/cost-and-aid/scholarships) |  | not listed |
+| [Carol Vogel Nursing Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
 | [Chen Xiangmei Scholarship](https://languages.ufl.edu/study-abroad/scholarships/) |  | not listed |
 | [College of Nursing Endowed Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/) |  | not listed |
+| [DDSRank Dental Scholarship](https://admissions.dental.ufl.edu/financial-aid/d-m-d/scholarships-d-m-d/other-scholarship-programs/) |  | not listed |
 | [Dental Trade Alliance Foundation Scholarship](https://admissions.dental.ufl.edu/financial-aid/d-m-d/scholarships-d-m-d/other-scholarship-programs/) |  | not listed |
 | [Dereck Chiu Counseling Psychology STAR Scholarship](https://psych.ufl.edu/graduate/current-grads/awards-and-scholarships/) | $200 | not listed |
 | [Dorothy M. Smith Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
@@ -42,7 +45,9 @@ Gainesville, FL · 16 open · 72 with no date listed · 2 closed (not shown)
 | [Dr. Roberta Seldman Mindful Therapist Award](https://psych.ufl.edu/graduate/current-grads/awards-and-scholarships/) |  | not listed |
 | [E. Porter Horne Memorial Scholarship](https://psych.ufl.edu/awards/e-porter-horne-memorial-scholarship/) |  | not listed |
 | [Ellen Granberg Eells Excellence Fund in Nursing](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/undergraduate-scholarships-and-fellowships/) |  | not listed |
+| [F. Eugene Tubbs Critical Burn Care Nursing Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
 | [Florida Commitment Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/florida-commitment-scholarship/) |  | not listed |
+| [Foreign Language & Area Studies (FLAS) Fellowships for Graduate Students](https://languages.ufl.edu/study-abroad/scholarships/) |  | not listed |
 | [Gary R. Gerson Jewish Studies Scholarship/Fellowship](https://shorstein.ufl.edu/scholarships/) |  | not listed |
 | [Gator Nation Scholarship](https://admissions.ufl.edu/cost-and-aid/scholarships) | $20,000 | not listed |
 | [Gerber Behavioral and Cognitive Neuroscience Psychology Research Award](https://psych.ufl.edu/graduate/current-grads/awards-and-scholarships/) |  | not listed |
@@ -51,6 +56,7 @@ Gainesville, FL · 16 open · 72 with no date listed · 2 closed (not shown)
 | [Gilman Scholarship](https://internationalcenter.ufl.edu/sas/finances/scholarships/gilman-scholarship/) | $5,000 | not listed |
 | [Helene Fuld Health Trust, HSBC Bank USA, N.A., Trustee Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/undergraduate-scholarships-and-fellowships/) |  | not listed |
 | [Henry C. and Audrey S. Schumacher Fellowship Fund](https://psych.ufl.edu/graduate/current-grads/awards-and-scholarships/) |  | not listed |
+| [Hispanic Dental Association Foundation Scholarships](https://admissions.dental.ufl.edu/financial-aid/d-m-d/scholarships-d-m-d/other-scholarship-programs/) |  | not listed |
 | [Hispanic Scholarship Fund](https://admissions.dental.ufl.edu/financial-aid/d-m-d/scholarships-d-m-d/other-scholarship-programs/) |  | not listed |
 | [Indian Health Service Health Professions Scholarship Program](https://admissions.dental.ufl.edu/financial-aid/d-m-d/scholarships-d-m-d/other-scholarship-programs/) |  | not listed |
 | [Iona M. Pettengill Graduate Fellowship in Public and Community Outreach Nursing](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
@@ -68,6 +74,7 @@ Gainesville, FL · 16 open · 72 with no date listed · 2 closed (not shown)
 | [Kathleen Ann Long Student Support Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/undergraduate-scholarships-and-fellowships/) |  | not listed |
 | [Lieutenant Randy Norris, Jr., Endowed Scholarship Fund](https://www.sfa.ufl.edu/academic-scholarships/) |  | not listed |
 | [Lloyd A Buddy Turman Scholarship](https://www.ficpascholarshipfoundation.org/endowments-1/lloyd-a-buddy-turman-endowment) |  | not listed |
+| [Mary Grace Sorensen Memorial Nursing Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
 | [Mary Watt and Giuseppe D'Amata Scholarship for Diversity in Study Abroad](https://languages.ufl.edu/study-abroad/scholarships/) |  | not listed |
 | [Meredith Lewis Glover Memorial Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
 | [Metta Heathcote Scholarship](https://www.sfa.ufl.edu/metta-heathcote-fund/) | $1,000 | not listed |
@@ -75,15 +82,21 @@ Gainesville, FL · 16 open · 72 with no date listed · 2 closed (not shown)
 | [MSC Patriot Award](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/undergraduate-scholarships-and-fellowships/) |  | not listed |
 | [National Dental Association (NDA) Foundation Scholarships](https://admissions.dental.ufl.edu/financial-aid/d-m-d/scholarships-d-m-d/other-scholarship-programs/) |  | not listed |
 | [National Health Service Corps Scholarship Program](https://admissions.dental.ufl.edu/financial-aid/d-m-d/scholarships-d-m-d/other-scholarship-programs/) |  | not listed |
+| [National Hispanic Health Foundation (NHHF) Scholarship Program](https://www.nhmafoundation.org/hispanic-health-professional-student-scholarship) | $2,000–$5,000 | not listed |
+| [Nursing Veteran's Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
 | [Out-of-State Tuition Scholarships](https://www.sfa.ufl.edu/types-of-aid/scholarships/) |  | not listed |
 | [Pearson Outstanding Graduate Student Teaching Award](https://psych.ufl.edu/graduate/current-grads/awards-and-scholarships/) |  | not listed |
 | [Phyllis Butler Woodell Nursing Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/undergraduate-scholarships-and-fellowships/) |  | not listed |
 | [Pioneer Psychology Faculty Fund Award](https://psych.ufl.edu/graduate/current-grads/awards-and-scholarships/) |  | not listed |
+| [Presidential Gold Scholarship](https://admissions.ufl.edu/cost-and-aid/scholarships) | $8,000 | not listed |
+| [Presidential Platinum Scholarship](https://admissions.ufl.edu/cost-and-aid/scholarships) | $10,000 | not listed |
 | [Robert A. and Phyllis Levitt Award](https://psych.ufl.edu/graduate/current-grads/awards-and-scholarships/) |  | not listed |
+| [Robert D. and Flora E. Fuhrman Scholarship](https://www.sfa.ufl.edu/types-of-aid/scholarships/) |  | not listed |
 | [Sarasota County Gator Club Scholarship](https://www.sarasotagators.com/scholarships) |  | not listed |
 | [SFA Awarded Scholarships](https://www.sfa.ufl.edu/types-of-aid/scholarships/) |  | not listed |
 | [Shayna A. Teijido Memorial Gator Nursing Scholarship](https://nursing.ufl.edu/students/incoming-students/costs-financial-aid/graduate-scholarships-and-fellowships/) |  | not listed |
 | [Stamps Scholarship](https://admissions.ufl.edu/cost-and-aid/scholarships) |  | not listed |
+| [Sunshine Scholarship](https://admissions.ufl.edu/cost-and-aid/scholarships) | $16,000 | not listed |
 | [Tampa Gator Club Scholarship](https://tampagators.com/scholarships-1) |  | not listed |
 | [Thomas G. Pye Scholarship](https://psych.ufl.edu/awards/pye/) |  | not listed |
 | [UF Association of LGBTQ+ Alumni Association Scholarship](https://uflgbtqalumni.com/scholarships/) |  | not listed |

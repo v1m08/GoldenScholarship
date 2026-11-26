@@ -1,6 +1,6 @@
 # Mississippi College scholarships
 
-Clinton, MS · 18 open · 22 with no date listed · 0 closed (not shown)
+Clinton, MS · 19 open · 24 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/mississippi-college-176053)**
 
@@ -14,6 +14,7 @@ Clinton, MS · 18 open · 22 with no date listed · 0 closed (not shown)
 | [RMD Law 2026 Scholarship Opportunity](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | Dec 30, 2026 |
 | [Public Service Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | Jan 6, 2027 |
 | [Family First Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | Jan 11, 2027 |
+| [Excellence in Education Scholarship](https://www.mc.edu/offices/financial-aid/scholarships/excellence-education-scholarship-competition) | $25,000 | Feb 2, 2027 |
 | [Hope for Humanity Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | Feb 10, 2027 |
 | [Young Legal Professionals Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | Feb 15, 2027 |
 | [Feeder School Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | Mar 1, 2027 |
@@ -37,8 +38,10 @@ Clinton, MS · 18 open · 22 with no date listed · 0 closed (not shown)
 | [Instrumental Ensemble Scholarships](https://www.mc.edu/offices/financial-aid/scholarships/department-scholarships) |  | not listed |
 | [Lifeguard Heroes Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) | $1,000 | not listed |
 | [Meyer & Bowden Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | not listed |
+| [Mississippi Baptist Foundation Scholarship](https://www.mc.edu/offices/financial-aid/forms/resources?rID[2068]=16) |  | not listed |
 | [Mississippi College School of Law Academic Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) | $5,000 | not listed |
 | [Moran Allen & Associates Future Advocates Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | not listed |
+| [Music and Band Scholarships](https://www.mc.edu/offices/financial-aid/scholarships/department-scholarships) |  | not listed |
 | [Perseverance Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | not listed |
 | [Philadelphia Injury Lawyers PC $500 Scholarship Essay Contest 2027](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) | $500 | not listed |
 | [Power of Change Scholarship](https://law.mc.edu/admissions/tuition-financial-aid/scholarships) |  | not listed |

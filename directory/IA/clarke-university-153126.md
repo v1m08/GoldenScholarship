@@ -1,6 +1,6 @@
 # Clarke University scholarships
 
-Dubuque, IA · 5 open · 30 with no date listed · 0 closed (not shown)
+Dubuque, IA · 5 open · 35 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/clarke-university-153126)**
 
@@ -23,6 +23,7 @@ Dubuque, IA · 5 open · 30 with no date listed · 0 closed (not shown)
 | [Clarke Promise Grant](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Clarke Transfer Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-transfers/) | $23,400 | not listed |
 | [Community Partnership Award](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-transfers/) | $2,000 | not listed |
+| [Gentle Krause Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Heim Family Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Jacques Family Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Joel Ostola Scholarship](https://www.clarke.edu/admission-aid/graduate-scholarships/) |  | not listed |
@@ -34,11 +35,15 @@ Dubuque, IA · 5 open · 30 with no date listed · 0 closed (not shown)
 | [Mabel Rooney & Alois Hoffman Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Marilynn Ott-Ratay Scholarship](https://www.clarke.edu/admission-aid/graduate-scholarships/) |  | not listed |
 | [Marion Bink Harn Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
+| [Mary Kenneth Keller Computer Science Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Mcneill-Hurley Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Mock Trial and Cast & Crew Awards](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) | $1,000 | not listed |
 | [Opportunity Grant](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-international-first-year-students/) |  | not listed |
+| [Paul & Frances Barnes Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Pride Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
+| [Robert E. Molo Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Scholars Program Award](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) | $1,000 | not listed |
+| [Thomas and Margaret Welch Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Tracy Weitzel Fabiano Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 | [Verna Slattery Mailander Scholarship](https://www.clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-freshmen/) |  | not listed |
 

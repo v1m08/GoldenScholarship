@@ -1,6 +1,6 @@
 # University of Alaska Fairbanks scholarships
 
-Fairbanks, AK · 3 open · 48 with no date listed · 0 closed (not shown)
+Fairbanks, AK · 3 open · 62 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-alaska-fairbanks-102614)**
 
@@ -14,16 +14,19 @@ Fairbanks, AK · 3 open · 48 with no date listed · 0 closed (not shown)
 | [Alaska Education Grant](https://www.uaf.edu/finaid/akresident.php) | $16,000 | not listed |
 | [Albert E. and Shirley M. Belon Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Altman Rogers Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
+| [Alyeska Pipeline Alaska Native Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
 | [Alyeska Pipeline Native Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
 | [Arctic Chapter of National Defense Transportation Association (NDTA) Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) | $500 | not listed |
 | [Associated General Contractors (AGC) UAF CTC Construction Management Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Battalion Chief Phil Rounds Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) | $1,000 | not listed |
 | [Betty Ross Mattson Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Bill Stroecker Accounting Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) | $1,500 | not listed |
+| [Bob Johnson Aviation Memorial Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [C. Russell Huber ROTC Memorial Award](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
 | [Chef Frank Davis Jr. Memorial CTC Culinary Arts Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Christine Pennington Memorial Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Cole Family and Aurora Animal Clinic Scholarship](https://www.uaf.edu/cnsm/veterinary_medicine.php) | $500 | not listed |
+| [Connie B. Kalita Memorial Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [CTC Culinary Arts Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Doris Southall Nursing Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Dr. Val D. Stuve Scholarship for Veterinary Medicine](https://www.uaf.edu/cnsm/veterinary_medicine.php) | $2,000 | not listed |
@@ -36,18 +39,26 @@ Fairbanks, AK · 3 open · 48 with no date listed · 0 closed (not shown)
 | [Hulda Huttula Elieff Memorial Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
 | [John B. and Mae M. Hakala Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [John Kevin Lamm Memorial Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
+| [John R. Hulbert Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Loren "Bud" and Vicki Rotroff Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) | $1,000 | not listed |
+| [Marie Phibbs Culinary Arts Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
+| [Mechanical Contractors of Fairbanks/UA Local 375 Plumbers and Pipefitters Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Milner Marketing Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
+| [Minimum Award](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) | $500 | not listed |
 | [Nanook Fine and Performing Arts Scholarship](https://www.uaf.edu/finaid/akresident.php) |  | not listed |
 | [Nanook Pledge Scholarship](https://www.uaf.edu/finaid/akresident.php) | $2,000–$4,000 | not listed |
+| [NAPA Auto Care Centers Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Pat and Ken Weaver Family Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
+| [Paul Boutet Memorial Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Rachael Patterson Memorial Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Rev. Dr. Bob and Dr. Sharon Swope Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Ron Nerland Memorial Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
 | [Ruth Lister Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) | $1,000 | not listed |
 | [Schaible Health Care Services Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [Scott Johnson Memorial Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
+| [Ted W. Tisdale Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [The Kathryn E. and John P. Doyle Scholarship](https://alaskacf.org/scholarships/) |  | not listed |
+| [Thomas A. Dufendach Memorial Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [UA Scholars Award](https://www.uaf.edu/finaid/akresident.php) | $15,000 | not listed |
 | [UAF College of Business and Security Management Scholarships](https://www.uaf.edu/cbsm/prospective-students/scholarship-opportunities.php) | $500–$7,000 | not listed |
 | [UAF CTC Dean Michele Stalder Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
@@ -55,7 +66,10 @@ Fairbanks, AK · 3 open · 48 with no date listed · 0 closed (not shown)
 | [UAF CTC Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [UAF Process Tech Alumni Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 | [UAF Scholarships](https://www.uaf.edu/cnsm/future_students/scholarships.php) | $15,000 | not listed |
+| [Usibelli Coal Mine Bachelor of Applied Management Scholarship](https://www.uaf.edu/cbsm/current-students/scholarship-opportunities.php) |  | not listed |
 | [Usibelli Coal Mine Diesel/Heavy Equipment Certificate Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) | $6,000 | not listed |
 | [Willard (Buck) Whitaker Memorial Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
+| [William C. Leary Memorial Emergency Services Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
+| [Zarling Airframe and Powerplant Program Scholarship](https://www.uaf.edu/ctc/get-started/paying-for-college/scholarships.php) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

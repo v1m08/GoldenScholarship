@@ -1,6 +1,6 @@
 # Clemson University scholarships
 
-Clemson, SC · 5 open · 46 with no date listed · 0 closed (not shown)
+Clemson, SC · 5 open · 51 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/clemson-university-217882)**
 
@@ -33,6 +33,8 @@ Clemson, SC · 5 open · 46 with no date listed · 0 closed (not shown)
 | [Killam Fellowship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [LIFE Scholarship](https://www.clemson.edu/financial-aid/types-of-aid/south-carolina-programs/life-scholarships.html) | $5,000 | not listed |
 | [Madison Memorial Fellowship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
+| [Major Julian Delano Dusenbury Presidential Scholarship](https://www.clemson.edu/studentaffairs/find-support/mve/resources/military-scholarships.html) |  | not listed |
+| [Major Julian Delano Dusenbury Presidential Scholarship, Class of '42 Initiative](https://www.clemson.edu/studentaffairs/find-support/mve/resources/military-scholarships.html) |  | not listed |
 | [Marshall Scholarship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [McCall McBain Scholarship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [Mike M. Smalley Veterans Memorial Scholarship](https://www.clemson.edu/studentaffairs/find-support/mve/resources/military-scholarships.html) | $1,000 | not listed |
@@ -42,6 +44,7 @@ Clemson, SC · 5 open · 46 with no date listed · 0 closed (not shown)
 | [National Scholars Program](https://www.clemson.edu/financial-aid/types-of-aid/clemson-scholarships/named-scholarships.html) |  | not listed |
 | [National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [Newport News Shipbuilding Veteran Scholarship](https://www.clemson.edu/studentaffairs/find-support/mve/resources/military-scholarships.html) | $2,500 | not listed |
+| [Olivia Jackson McGee Endowed Scholarship](https://www.clemson.edu/financial-aid/types-of-aid/clemson-scholarships/clemson-university-foundation-scholarships.html) |  | not listed |
 | [Palmetto Fellows and LIFE Scholarship Enhancements](https://www.clemson.edu/financial-aid/types-of-aid/south-carolina-programs/summer-disbursements-of-state-scholarships.html) |  | not listed |
 | [Paul and Daisy Soros Fellowships for New Americans](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [Phi Kappa Phi Fellowship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) | $8,500–$35,000 | not listed |
@@ -52,6 +55,8 @@ Clemson, SC · 5 open · 46 with no date listed · 0 closed (not shown)
 | [Point Flagship Scholarship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [Quad Fellowship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [Rhodes Scholarship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
+| [S.C. LIFE Scholarship](https://www.clemson.edu/financial-aid/types-of-aid/south-carolina-programs/life-scholarships.html) | $5,000 | not listed |
+| [Schwarzman Scholarship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [SMART Scholarship for Service Program](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |
 | [Staff Senate Endowed Scholarships](https://www.clemson.edu/financial-aid/types-of-aid/clemson-scholarships/clemson-university-foundation-scholarships.html) |  | not listed |
 | [Truman Scholarship](https://www.clemson.edu/major-fellowships/search-fellowships/index.html) |  | not listed |

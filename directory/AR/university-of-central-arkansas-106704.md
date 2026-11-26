@@ -1,6 +1,6 @@
 # University of Central Arkansas scholarships
 
-Conway, AR · 337 open · 25 with no date listed · 0 closed (not shown)
+Conway, AR · 338 open · 25 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-central-arkansas-106704)**
 
@@ -316,6 +316,7 @@ Conway, AR · 337 open · 25 with no date listed · 0 closed (not shown)
 | [Tom Courtway Endowed Scholarship](https://uca.academicworks.com/opportunities/5882) |  | Jan 25, 2027 |
 | [Tom J. Smith Memorial Scholarship](https://uca.academicworks.com/opportunities/6371) |  | Jan 25, 2027 |
 | [Twila M. Cherry Education Award](https://uca.academicworks.com/opportunities/5666) |  | Jan 25, 2027 |
+| [UCA Foundation Scholarships](https://uca.edu/foundation/scholarships/) |  | Jan 25, 2027 |
 | [UCA License Plate Program Scholarship](https://uca.academicworks.com/opportunities/6093) |  | Jan 25, 2027 |
 | [UCA Moonlight Graham Sports Medicine Award](https://uca.academicworks.com/opportunities/5942) |  | Jan 25, 2027 |
 | [University Non-Traditional Book Scholarship](https://uca.academicworks.com/opportunities/6214) |  | Jan 25, 2027 |
@@ -354,7 +355,6 @@ Conway, AR · 337 open · 25 with no date listed · 0 closed (not shown)
 | [Emergency Scholarship Request](https://uca.edu/foundation/emergency-scholarship-request/) | $500 | not listed |
 | [Eugene and Hazel Weir Educational Trust Scholarship](https://uca.edu/foundation/private-scholarships/) |  | not listed |
 | [George Harrod Memorial Scholarship](https://uca.edu/foundation/private-scholarships/) |  | not listed |
-| [Glenda Middleton Scholarship](https://uca.edu/foundation/private-scholarships/) |  | not listed |
 | [H.B. Hardy Scholarship](https://uca.edu/foundation/private-scholarships/) |  | not listed |
 | [H.L. Minton Scholarship](https://uca.edu/foundation/private-scholarships/) |  | not listed |
 | [Hank Adams Scholarship](https://uca.edu/foundation/private-scholarships/) |  | not listed |
@@ -368,5 +368,6 @@ Conway, AR · 337 open · 25 with no date listed · 0 closed (not shown)
 | [Performing Arts Statement of Pursuit (James Bridges Performing Arts Scholarship)](https://uca.edu/theatre/scholarships/) |  | not listed |
 | [Schedler Honors College Scholarship](https://uca.edu/foundation/private-scholarships/) |  | not listed |
 | [Suzanne Harvey Nursing Graduate Scholarship](https://uca.edu/foundation/private-scholarships/) |  | not listed |
+| [Uca Debate and Forensics Scholarship Program](https://uca.edu/communication/scholarships/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

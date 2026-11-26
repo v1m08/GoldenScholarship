@@ -1,6 +1,6 @@
 # Syracuse University scholarships
 
-Syracuse, NY · 19 open · 6 with no date listed · 1 closed (not shown)
+Syracuse, NY · 19 open · 7 with no date listed · 1 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/syracuse-university-196413)**
 
@@ -27,6 +27,7 @@ Syracuse, NY · 19 open · 6 with no date listed · 1 closed (not shown)
 | [Tracy Barash Endowed Scholarship](https://syracuse.academicworks.com/opportunities/40264) |  | Jun 30, 2027 |
 | [Bernard "Ben" Turi Memorial Scholarship](https://foundationhoc.org/community-investments/scholarship-opportunities/) |  | not listed |
 | [Eric Evans Scholarship](https://cfect.org/home/scholarships/scholarship-opportunities/) |  | not listed |
+| [Myrtle Clark Memorial Scholarship](https://foundationhoc.org/community-investments/scholarship-opportunities/) |  | not listed |
 | [Robert Noyce Teacher Scholarship Program](https://www.syracuse.edu/admissions-aid/financial-aid-scholarships/types-of-aid/) |  | not listed |
 | [ROTC Scholarship - Syracuse University](https://veterans.syracuse.edu/army-rotc/scholarship/) | $18,000 | not listed |
 | [Syracuse University FIRST Scholarship](https://www.syracuse.edu/admissions-aid/financial-aid-scholarships/types-of-aid/) |  | not listed |

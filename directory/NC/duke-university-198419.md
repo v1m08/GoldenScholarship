@@ -1,6 +1,6 @@
 # Duke University scholarships
 
-Durham, NC · 2 open · 11 with no date listed · 0 closed (not shown)
+Durham, NC · 2 open · 12 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/duke-university-198419)**
 
@@ -16,6 +16,7 @@ Durham, NC · 2 open · 11 with no date listed · 0 closed (not shown)
 | [Karsh International Scholars Program](https://ousf.duke.edu/merit-scholarships/karsh-international-scholars-program/) |  | not listed |
 | [Karsh International Scholarship](https://ousf.duke.edu/merit-scholarships/karsh-international-scholars-program/) |  | not listed |
 | [Karsh International Scholarship Program](https://ousf.duke.edu/merit-scholarships/karsh-international-scholars-program/) |  | not listed |
+| [Leah Louise B. Tannenbaum Memorial Scholarship at Duke University](https://tsfoundation.com/scholarships) |  | not listed |
 | [Thomas F. Keller Scholars Scholarship](https://www.fuqua.duke.edu/merit-scholarship-offerings) |  | not listed |
 | [Thomas F. Keller Scholarships](https://www.fuqua.duke.edu/thomas-f-keller-scholarships) |  | not listed |
 | [Trinity Scholarships](https://ousf.duke.edu/merit-scholarships/trinity-scholars-program/) |  | not listed |

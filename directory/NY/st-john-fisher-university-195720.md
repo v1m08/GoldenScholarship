@@ -1,6 +1,6 @@
 # St. John Fisher University scholarships
 
-Rochester, NY · 4 open · 10 with no date listed · 0 closed (not shown)
+Rochester, NY · 4 open · 11 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/st-john-fisher-university-195720)**
 
@@ -20,5 +20,6 @@ Rochester, NY · 4 open · 10 with no date listed · 0 closed (not shown)
 | [Phi Theta Kappa Scholarships](https://www.sjf.edu/admissions-aid/transfer-admissions/scholarships/) | $3,000 | not listed |
 | [St. John Fisher College First Generation Scholarship](https://www.sjf.edu/admissions-aid/first-year-admissions/scholarships/) |  | not listed |
 | [Supplemental Educational Opportunity Grant](https://www.sjf.edu/admissions-aid/financial-aid/types-of-financial-aid/scholarships-and-grants/) | $1,500 | not listed |
+| [Tuition Scholarships for Employees of Fisher and Immediate Dependents](https://www.sjf.edu/admissions-aid/financial-aid/types-of-financial-aid/scholarships-and-grants/) |  | not listed |
 
 Every link goes to the school's own page. Confirm details there before you apply. [Back to all schools](../README.md)

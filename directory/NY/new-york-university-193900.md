@@ -1,6 +1,6 @@
 # New York University scholarships
 
-New York, NY · 2 open · 35 with no date listed · 2 closed (not shown)
+New York, NY · 2 open · 37 with no date listed · 2 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/new-york-university-193900)**
 
@@ -9,10 +9,12 @@ New York, NY · 2 open · 35 with no date listed · 2 closed (not shown)
 | [AnBryce Scholarship](https://www.law.nyu.edu/financialaid/jdscholarships/anbryce) | $600 | Dec 1, 2026 |
 | [Hurst Review-AACN Nursing Scholarship](https://nursing.nyu.edu/current-students/scholarships/hurst-review-aacn-nursing-scholarship) | $2,500 | Aug 1, 2027 |
 | [Advancing Women in Business Scholarship](https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/scholarships) |  | not listed |
+| [Alumni Scholarship](https://www.stern.nyu.edu/portal-partners/financial-aid/scholarships-fellowships/merit-based) | $60,000 | not listed |
 | [Andre Koo Tech MBA Scholarship](https://www.stern.nyu.edu/portal-partners/financial-aid/scholarships-fellowships/merit-based) | $20,000 | not listed |
 | [Anna Lynch Turner Scholarship in Graduate Nursing](https://nursing.nyu.edu/current-students/scholarships/anna-lynch-turner-scholarship-graduate-nursing) |  | not listed |
 | [Consortium Fellowship (a full tuition fellowship awarded in conjunction with a partner organization)](https://www.stern.nyu.edu/portal-partners/financial-aid/scholarships-fellowships/merit-based) |  | not listed |
 | [Dean's Scholarship](https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/scholarships) |  | not listed |
+| [Directors Scholarship](https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/scholarships) | $50,000 | not listed |
 | [Elizabeth Elting Advancing Women's Leadership Fellowship](https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/scholarships) | $50,000 | not listed |
 | [Estelle Osborne Scholarship](https://nursing.nyu.edu/current-students/scholarships/estelle-osborne-scholarship) |  | not listed |
 | [Fertitta Veterans MBA Scholarship](https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/scholarships) | $30,000 | not listed |

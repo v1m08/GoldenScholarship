@@ -1,11 +1,12 @@
 # Rock Valley College scholarships
 
-Rockford, IL · 0 open · 206 with no date listed · 0 closed (not shown)
+Rockford, IL · 1 open · 206 with no date listed · 0 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/rock-valley-college-148380)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
+| [Richard L. Bernardi Memorial Scholarship](https://cfnil.org/students/scholarships/richard-l-bernardi-memorial-scholarship) |  | Feb 1, 2027 |
 | [A J Johnson Scholarship](https://rockvalleycollege.academicworks.com/opportunities/3317) |  | not listed |
 | [Albert S. Wrate Memorial Scholarship](https://rockvalleycollege.academicworks.com/opportunities/3376) |  | not listed |
 | [Alpha Controls Engineering Scholarship](https://rockvalleycollege.academicworks.com/opportunities/3359) |  | not listed |

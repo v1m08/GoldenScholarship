@@ -1,6 +1,6 @@
 # St Petersburg College scholarships
 
-St. Petersburg, FL · 1 open · 17 with no date listed · 3 closed (not shown)
+St. Petersburg, FL · 1 open · 18 with no date listed · 3 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/st-petersburg-college-137078)**
 
@@ -17,6 +17,7 @@ St. Petersburg, FL · 1 open · 17 with no date listed · 3 closed (not shown)
 | [Florida Bright Futures Scholarships](https://www.spcollege.edu/financial-aid/types-of-financial-aid/scholarships) |  | not listed |
 | [Florida First Responder Scholarships](https://www.spcollege.edu/financial-aid/types-of-financial-aid/scholarships) |  | not listed |
 | [Honors Program Scholarships](https://www.spcollege.edu/financial-aid/types-of-financial-aid/scholarships/institutional-scholarships) |  | not listed |
+| [Joy Anne Harris Scholarship Fund](https://pinellascf.org/nonprofits/scholarships/) |  | not listed |
 | [Last Mile Scholarship](https://www.spcollege.edu/financial-aid/types-of-financial-aid/scholarships/institutional-scholarships/last-mile-scholarship) |  | not listed |
 | [Phi Theta Kappa Alumni Transfer Scholarship](https://www.spcollege.edu/financial-aid/types-of-financial-aid/scholarships/institutional-scholarships) |  | not listed |
 | [St. Petersburg College Scholarships:](https://blog.spcollege.edu/international/study-abroad-costs-scholarships/) | $2,500 | not listed |
