@@ -254,12 +254,18 @@ export type ListState = {
 // Set by the question flow so the results page plays its loading screen once.
 export const FRESH_FLAG_KEY = "sd_fresh";
 
-// What a student can say is wrong with a listing. `v` must match the check on
-// scholarship_reports.kind in supabase/setup.sql.
+// What a student can say is wrong with a listing, most common first. `v` must
+// match the check on scholarship_reports.kind in supabase/setup.sql, and
+// `ask` is what the note box asks for once that reason is picked.
 export const REPORT_KINDS = [
-  { v: "broken_link", label: "Link is broken" },
-  { v: "closed", label: "Already closed" },
-  { v: "wrong_info", label: "Wrong details" },
-  { v: "not_scholarship", label: "Not a scholarship" },
-  { v: "other", label: "Something else" },
+  { v: "broken_link", label: "The link is broken or goes to the wrong page", ask: "Know the right link? Paste it here (optional)" },
+  { v: "wrong_deadline", label: "The deadline is wrong", ask: "What is the real deadline? (optional)" },
+  { v: "closed", label: "It has closed or is no longer offered", ask: "Anything to add? (optional)" },
+  { v: "wrong_amount", label: "The amount is wrong", ask: "What is the real amount? (optional)" },
+  { v: "wrong_eligibility", label: "Who can apply is wrong", ask: "What does it actually require? (optional)" },
+  { v: "wrong_school", label: "It is listed under the wrong school", ask: "Which school is it really for? (optional)" },
+  { v: "duplicate", label: "It is a duplicate of another listing", ask: "Which listing is it the same as? (optional)" },
+  { v: "not_scholarship", label: "It is not a scholarship", ask: "What is it instead? (optional)" },
+  { v: "other", label: "Something else", ask: "Tell us what is wrong" },
 ] as const;
+export type ReportKind = (typeof REPORT_KINDS)[number]["v"];

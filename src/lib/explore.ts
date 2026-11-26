@@ -206,9 +206,27 @@ export type Report = {
   analytics_id: string | null;
 };
 
+// What each newer reason was called before the table knew it.
+const OLD_KIND: Partial<Record<Report["kind"], string>> = {
+  wrong_deadline: "wrong_info",
+  wrong_amount: "wrong_info",
+  wrong_eligibility: "wrong_info",
+  wrong_school: "other",
+  duplicate: "other",
+};
+
 // Returns false when the table does not exist yet.
 export async function saveReport(report: Report): Promise<boolean> {
-  const { error } = await db().from("scholarship_reports").insert(report);
+  let { error } = await db().from("scholarship_reports").insert(report);
+  // A table set up before the longer list of reasons refuses the new ones
+  // (check violation). Keep the report anyway: file it under the old reason
+  // and put the exact one at the front of the note.
+  const old = OLD_KIND[report.kind];
+  if (error?.code === "23514" && old) {
+    ({ error } = await db()
+      .from("scholarship_reports")
+      .insert({ ...report, kind: old, note: `[${report.kind}]${report.note ? ` ${report.note}` : ""}` }));
+  }
   if (error) {
     console.error(`scholarship_reports: ${error.message}`);
     return false;

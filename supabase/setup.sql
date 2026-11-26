@@ -83,7 +83,8 @@ create table if not exists public.scholarship_reports (
   scholarship_name text,
   -- The list it was reported from; null for the any-school list.
   school_unitid integer references public.schools (unitid),
-  kind text not null check (kind in ('broken_link', 'closed', 'wrong_info', 'not_scholarship', 'other')),
+  -- One of REPORT_KINDS in src/lib/profile.ts; the allowed list is set just below.
+  kind text not null,
   -- Optional, in the student's words.
   note text,
   -- The page it was sent from, and the PostHog id to line up with a session.
@@ -92,6 +93,16 @@ create table if not exists public.scholarship_reports (
   -- For working through them: 'new', 'fixed', 'ignored'.
   status text not null default 'new',
   created_at timestamptz not null default now()
+);
+
+-- The reasons a student can pick. Replaced on every run so the list can grow;
+-- 'wrong_info' is kept for reports made before it was split up.
+alter table public.scholarship_reports drop constraint if exists scholarship_reports_kind_check;
+alter table public.scholarship_reports add constraint scholarship_reports_kind_check check (
+  kind in (
+    'broken_link', 'wrong_deadline', 'closed', 'wrong_amount', 'wrong_eligibility',
+    'wrong_school', 'duplicate', 'not_scholarship', 'other', 'wrong_info'
+  )
 );
 
 create index if not exists scholarship_reports_scholarship_idx on public.scholarship_reports (scholarship_id);

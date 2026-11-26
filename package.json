@@ -12,6 +12,7 @@
     "lint": "eslint",
     "readme": "node --env-file=.env.local scripts/build-readme.mjs",
     "prebuild": "node --env-file-if-exists=.env.local scripts/build-data.mjs",
+    "reports": "node --env-file=.env.local scripts/reports.mjs",
     "data": "node --env-file-if-exists=.env.local scripts/build-data.mjs"
   },
   "dependencies": {

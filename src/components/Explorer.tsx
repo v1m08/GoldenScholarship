@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useDeferredValue, useEffect, useMemo, useRef, useState, Fragment } from "react";
 import { BuddyStage, type Cue } from "@/components/Buddy";
+import { ReportBox } from "@/components/Report";
 import { SchoolJump } from "@/components/SchoolJump";
 import { analyticsId, track } from "@/lib/analytics";
 import { PAGE_SIZE } from "@/lib/config";
@@ -17,7 +18,6 @@ import {
   GPAS,
   GRADES,
   NO_FILTERS,
-  REPORT_KINDS,
   LIST_STATE_KEY,
   SAVED_STORAGE_KEY,
   type ListState,
@@ -1059,143 +1059,6 @@ export function Explorer({
         )}
       </div>
     </section>
-  );
-}
-
-// Opens under a listing when its flag is pressed: pick what is wrong, add a
-// line if you like, send. Nothing is asked about the person reporting.
-function ReportBox({
-  id,
-  name,
-  unitid,
-  onClose,
-  onSent,
-}: {
-  id: string;
-  name: string;
-  unitid: number;
-  onClose: () => void;
-  onSent: () => void;
-}) {
-  const [kind, setKind] = useState("");
-  const [note, setNote] = useState("");
-  const [website, setWebsite] = useState("");
-  const [state, setState] = useState<
-    "idle" | "busy" | "done" | "error" | "off"
-  >("idle");
-
-  async function submit(e: React.FormEvent) {
-    e.preventDefault();
-    if (!kind) return;
-    setState("busy");
-    try {
-      const res = await fetch("/api/report", {
-        method: "POST",
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify({
-          id,
-          name,
-          unitid,
-          kind,
-          note,
-          website,
-          page: window.location.pathname + window.location.search,
-          analytics_id: analyticsId(),
-        }),
-      });
-      if (res.ok) {
-        setState("done");
-        track("scholarship_reported", { scholarship_id: id, unitid, kind });
-        onSent();
-      } else {
-        // 503 means reports are not switched on yet; never pretend it saved.
-        setState(res.status === 503 ? "off" : "error");
-      }
-    } catch {
-      setState("error");
-    }
-  }
-
-  if (state === "done") {
-    return (
-      <p className="mt-3 basis-full rounded-2xl bg-blue-soft px-4 py-3 text-sm font-medium">
-        Thanks. We&rsquo;ll take a look.
-      </p>
-    );
-  }
-
-  return (
-    <form
-      onSubmit={submit}
-      className="mt-3 basis-full rounded-2xl bg-paper p-3 sm:p-4"
-    >
-      <p className="text-sm font-semibold">What&rsquo;s wrong with this one?</p>
-      <div className="mt-2 flex flex-wrap gap-1.5">
-        {REPORT_KINDS.map((k) => (
-          <button
-            key={k.v}
-            type="button"
-            aria-pressed={kind === k.v}
-            onClick={() => setKind(k.v)}
-            className={`press rounded-full border px-3 py-1.5 text-sm font-medium ${
-              kind === k.v
-                ? "border-blue bg-blue text-white"
-                : "border-hair bg-sheet hover:border-ink"
-            }`}
-          >
-            {k.label}
-          </button>
-        ))}
-      </div>
-      <label htmlFor={`note-${id}`} className="sr-only">
-        Anything to add
-      </label>
-      <textarea
-        id={`note-${id}`}
-        value={note}
-        onChange={(e) => setNote(e.target.value)}
-        maxLength={1000}
-        rows={2}
-        placeholder="Anything to add? (optional)"
-        className="mt-3 w-full rounded-xl border border-hair bg-sheet px-3 py-2 text-sm outline-none placeholder:text-soft/60 focus:border-blue"
-      />
-      <input
-        type="text"
-        name="website"
-        tabIndex={-1}
-        autoComplete="off"
-        aria-hidden="true"
-        value={website}
-        onChange={(e) => setWebsite(e.target.value)}
-        className="hidden"
-      />
-      <div className="mt-2 flex items-center gap-3">
-        <button
-          type="submit"
-          disabled={!kind || state === "busy"}
-          className="press rounded-full bg-blue px-5 py-2 font-display text-sm font-bold text-white hover:bg-ink disabled:opacity-50"
-        >
-          {state === "busy" ? "…" : "Send report"}
-        </button>
-        <button
-          type="button"
-          onClick={onClose}
-          className="text-sm text-soft underline underline-offset-4"
-        >
-          Cancel
-        </button>
-        {state === "error" && (
-          <span className="text-sm font-medium text-due">
-            That didn&rsquo;t send. Try again.
-          </span>
-        )}
-        {state === "off" && (
-          <span className="text-sm font-medium text-due">
-            Not switched on yet. Nothing was saved.
-          </span>
-        )}
-      </div>
-    </form>
   );
 }
 

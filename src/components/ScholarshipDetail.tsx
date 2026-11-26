@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ReportButton } from "@/components/Report";
 import { ApplyLink, BackLink } from "@/components/Tracked";
 import { site } from "@/lib/config";
 import { eligibility, facts, faq, lead, longDate, materialWords, money, sourceWords, stateNames, type Offered } from "@/lib/describe";
@@ -123,6 +124,8 @@ export function ScholarshipDetail({
           </span>
         )}
         {status === "closed" && <span className="font-mono text-sm text-soft">closed {longDate(row.deadline)}</span>}
+        <span className="grow" />
+        <ReportButton id={row.id} name={row.name} unitid={unitid} />
       </div>
 
       <dl className="mt-8 overflow-hidden rounded-3xl border border-hair bg-sheet">
@@ -182,6 +185,11 @@ export function ScholarshipDetail({
         Details come from {source ?? `${offered.by}\u2019s own listing`}{row.checked ? `, last checked ${longDate(row.checked)}` : ""}. Always
         confirm the amount, deadline and rules on the official page before you apply.
       </p>
+      {/* Offered again where a reader ends up after checking the details. */}
+      <div className="mt-4 flex flex-wrap items-center gap-3">
+        <span className="text-sm text-soft">Seen something wrong on this page?</span>
+        <ReportButton id={row.id} name={row.name} unitid={unitid} />
+      </div>
       {/* The official address spelled out, so it survives being copied or read as plain text. */}
       <p className="mt-3 break-words text-sm text-soft">
         {row.url ? (
