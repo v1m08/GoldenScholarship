@@ -205,7 +205,7 @@ export function ScholarshipDetail({
       </p>
       <p className="mt-3 break-words text-sm text-soft">
         The same details as data:{" "}
-        <a href={dataUrl} className="underline underline-offset-4">
+        <a href={dataUrl} rel="nofollow" className="underline underline-offset-4">
           {site.url}
           {dataUrl}
         </a>
