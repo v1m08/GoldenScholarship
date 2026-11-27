@@ -1,6 +1,7 @@
 import "server-only";
 import { cacheLife } from "next/cache";
 import generated from "@/generated/index.json";
+import { daysBetween, pacificToday } from "./day";
 import { db } from "./supabase";
 
 export type School = {
@@ -16,7 +17,13 @@ export type School = {
   open: number;
 };
 
-type IndexedSchool = School & { norm: string; words: string[]; acronym: string };
+// `official` is the name exactly as the government's list has it.
+type IndexedSchool = School & { official: string; norm: string; words: string[]; acronym: string };
+
+// The government's list tacks a campus label onto flagship campuses ("Georgia
+// Institute of Technology-Main Campus"). Nobody calls them that, so it is
+// dropped from what is shown. Addresses and search still use the official name.
+const displayName = (name: string) => name.replace(/-Main Campus$| Campus Immersion$/, "");
 
 const STOP = new Set(["of", "the", "at", "and", "in", "for", "a"]);
 
@@ -80,16 +87,12 @@ function normalize(s: string): string {
     .replace(/^the /, "");
 }
 
-function today(): string {
-  return new Date().toISOString().slice(0, 10);
-}
-
 // Whole days from today until a date, never negative. Cached so pages built
 // ahead of time do not depend on the clock at render.
 export async function daysUntil(iso: string): Promise<number> {
   "use cache";
   cacheLife("max");
-  return Math.max(0, Math.round((Date.parse(`${iso}T00:00:00Z`) - Date.parse(`${today()}T00:00:00Z`)) / 86_400_000));
+  return Math.max(0, daysBetween(pacificToday(), iso));
 }
 
 function slugFor(name: string, unitid: number): string {
@@ -112,7 +115,7 @@ async function getSchoolIndex(): Promise<IndexedSchool[]> {
       .filter((w) => !STOP.has(w))
       .map((w) => w[0])
       .join("");
-    return { unitid, name, city, state, level, slug: slugFor(name, unitid), total, open, norm, words, acronym };
+    return { unitid, name: displayName(name), official: name, city, state, level, slug: slugFor(name, unitid), total, open, norm, words, acronym };
   });
   return memo;
 }
@@ -146,7 +149,7 @@ export async function searchSchools(query: string, limit = 8): Promise<School[]>
   const scored: { s: IndexedSchool; score: number }[] = [];
   for (const s of index) {
     let score = 0;
-    if (alias && s.name === alias) score = 130;
+    if (alias && s.official === alias) score = 130;
     else if (tokens.length === 1 && s.acronym === q) score = 100;
     else if (s.norm.startsWith(q)) score = 90;
     else if (tokens.length === 1 && q.length >= 3 && s.acronym.startsWith(q)) score = 75;

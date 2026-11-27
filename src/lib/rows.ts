@@ -20,7 +20,7 @@ export type Row = {
   fields: string; // listed fields of study, space-separated
   minGpa: number; // 0 when not stated
   provider: string; // who offers it; set for scholarships not tied to a school
-  who: string; // codes for who it is aimed at, space-separated; see ABOUT
+  who: string; // codes for who it is aimed at, space-separated; see ABOUT. "~a" = a preference, not a rule
   flags: number; // see FLAG
   tags: number; // bit i set = TAGS[i]
   checked: string; // the day it was last checked against its source, "" when unknown
@@ -283,12 +283,20 @@ export function filterRows(
       const codes = row.who ? row.who.split(" ") : [];
       if (me.has("intl") && codes.includes("cit")) continue;
       let aimed = false;
+      // Open to several backgrounds: "for Asian students" would read as only for them.
+      const shared = codes.filter((c) => HERITAGE.has(c)).length > 1;
       for (const code of codes) {
         const hit = me.get(code);
+        // "~" marks a stated preference: open to all, leaning toward this group.
+        const leans = code.startsWith("~") ? me.get(code.slice(1)) : undefined;
         if (hit) {
           aimed = true;
           score += 3;
-          reasons.push(hit.tag);
+          reasons.push(shared && hit.group === "heritage" ? `${hit.tag.replace(/^for /, "open to ")}, among others` : hit.tag);
+        } else if (leans) {
+          aimed = true;
+          score += 1;
+          reasons.push(`preference for ${MUST_WORDS[code.slice(1)] ?? leans.label}`);
         } else if (code === "min" && anyHeritage) {
           aimed = true;
           score += 2;

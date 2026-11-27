@@ -2,22 +2,25 @@ import type { Metadata } from "next";
 import { Suspense } from "react";
 import Link from "next/link";
 import { SchoolLink } from "@/components/Tracked";
-import { getTopSchools, getTotals } from "@/lib/schools";
+import { getAnySchoolTotals, getTopSchools, getTotals } from "@/lib/schools";
 
 export const metadata: Metadata = {
   title: "What we have",
   alternates: { canonical: "/stats" },
-  description: "How many scholarships and schools are on file, and which schools have the most open right now.",
+  description: "How many scholarships are on file from colleges and from foundations, how many are still open, and which schools have the most.",
 };
 
 async function Totals() {
+  // The same two sources the home page adds up, so the numbers always agree.
   const { schools, scholarships, open } = await getTotals();
+  const any = getAnySchoolTotals();
   const items = [
-    { n: open, label: "open right now" },
-    { n: scholarships, label: "on file" },
+    { n: scholarships + any.total, label: "scholarships on file" },
+    { n: open + any.open, label: "with a deadline still ahead" },
     { n: schools, label: "schools" },
   ];
   return (
+    <>
     <dl className="grid max-w-3xl grid-cols-3 gap-4">
       {items.map((it) => (
         <div key={it.label}>
@@ -28,6 +31,13 @@ async function Totals() {
         </div>
       ))}
     </dl>
+    <p className="mt-6 max-w-3xl text-soft">
+      {scholarships.toLocaleString()} are offered by {schools.toLocaleString()} colleges to their own students, and{" "}
+      {any.total.toLocaleString()} come from {any.providers.toLocaleString()} foundations and are open to students at any
+      school. Of those, {open.toLocaleString()} and {any.open.toLocaleString()} have a deadline that has not passed yet;
+      many of the rest list no date at all.
+    </p>
+    </>
   );
 }
 

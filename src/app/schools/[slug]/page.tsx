@@ -60,6 +60,9 @@ async function Others() {
   );
 }
 
+// Below this many listings a school's own list is too short to stand alone.
+const THIN = 25;
+
 async function School({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const school = await getSchoolBySlug(slug);
@@ -127,6 +130,8 @@ async function School({ params }: { params: Promise<{ slug: string }> }) {
           ? ` The next to close is ${next.name}${money(next) ? ` (${money(next)})` : ""}, due ${longDate(next.deadline)}.`
           : ""}{" "}
         Each links to its official page.
+        {school.total < THIN &&
+          " We have only found a few of this school\u2019s scholarships so far, so the list also includes ones open to students at any school."}
       </p>
       {/* Until the interactive list loads, this plain version stands in for it. */}
       <Suspense fallback={<PlainList data={initial} base={`/schools/${school.slug}`} />}>

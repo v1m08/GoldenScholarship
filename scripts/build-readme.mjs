@@ -76,7 +76,7 @@ const fmtMoney = (r) => {
 };
 const link = (r) => (r.url ? `[${cell(r.name)}](${r.url})` : cell(r.name));
 
-const today = new Date().toISOString().slice(0, 10);
+const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
 
 console.log("Reading schools and scholarships…");
 const schools = await readAll("schools", "unitid,name,city,state", "unitid");
@@ -89,7 +89,7 @@ const rows = await readAll(
 console.log(`\n${schools.length.toLocaleString()} schools, ${rows.length.toLocaleString()} scholarships`);
 
 const byId = new Map(schools.map((s) => [s.unitid, { ...s, open: [], undated: [], closed: 0 }]));
-// Scholarships from foundations and organisations, not tied to one school.
+// Scholarships from foundations and organizations, not tied to one school.
 const anySchool = rows.filter((r) => r.school_unitid === null);
 const anyOpen = anySchool.filter((r) => r.deadline && r.deadline >= today).sort((a, b) => a.deadline.localeCompare(b.deadline));
 const anyUndated = anySchool.filter((r) => !r.deadline).sort((a, b) => (a.provider_name ?? "").localeCompare(b.provider_name ?? "") || a.name.localeCompare(b.name));
@@ -142,7 +142,7 @@ for (const s of covered) {
   const lines = [
     "# Open to students at any school",
     "",
-    `${anySchool.length.toLocaleString()} scholarships from ${providers.toLocaleString()} foundations and organisations · ${anyOpen.length.toLocaleString()} open with a date · ${anyUndated.length.toLocaleString()} with no date listed`,
+    `${anySchool.length.toLocaleString()} scholarships from ${providers.toLocaleString()} foundations and organizations · ${anyOpen.length.toLocaleString()} open with a date · ${anyUndated.length.toLocaleString()} with no date listed`,
     "",
     "Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F) to search for yours.",
     "",
@@ -289,7 +289,7 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 ## What you get
 
 - **Your school's own scholarships.** Type a school and see what it gives out, with its own awards listed first.
-- **Scholarships open to any school.** ${anySchool.length.toLocaleString()} from community foundations and organisations.
+- **Scholarships open to any school.** ${anySchool.length.toLocaleString()} from community foundations and organizations.
 - **Filters that hide what you can't apply for.** Five quick questions (year, field, GPA, need, and anything else about you) remove the ones that don't fit. Requirements we can't check are shown as labels on the listing.
 - **No account.** Answers stay in your browser. Leaving an email for updates is optional.
 - **No sponsored listings.** Nothing is ranked by who paid.

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: { default: `${site.name}: the scholarships worth applying to, no account needed`, template: `%s | ${site.name}` },
   description:
-    "Scholarships offered by your own college, pulled out of department pages and portals into one list with deadlines and direct links. Pick your school to see what is there.",
+    "Scholarships offered by your own college, plus thousands from foundations that are open to any school, in one list with deadlines and direct links. No account needed. Pick your school to see what is there.",
   applicationName: site.name,
   openGraph: { type: "website", siteName: site.name, locale: "en_US" },
   twitter: { card: "summary_large_image" },

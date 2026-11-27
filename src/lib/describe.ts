@@ -91,6 +91,8 @@ export function eligibility(r: Row): string[] {
   if (r.minGpa) out.push(`Requires a GPA of at least ${r.minGpa.toFixed(2).replace(/0$/, "")}.`);
   const g = groups(r);
   if (g.length) out.push(`Aimed at ${list(g)}.`);
+  const leans = r.who.split(" ").filter((c) => c.startsWith("~")).map((c) => GROUP_WORDS[c.slice(1)]).filter(Boolean);
+  if (leans.length) out.push(`Open to everyone, with a preference for ${list(leans)}.`);
   if (r.need === "r") out.push("Financial need is required.");
   if (r.need === "c") out.push("Financial need is considered.");
   if (r.flags & FLAG.meritRequired) out.push("Awarded on merit.");

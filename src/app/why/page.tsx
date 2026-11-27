@@ -17,8 +17,8 @@ const POINTS: { head: ReactNode; body: ReactNode }[] = [
     head: "No account needed",
     body: (
       <>
-        Actually, we don&rsquo;t want your information at all! The full list of scholarships is open for anyone to
-        see, whenever you&rsquo;d like.
+        Actually, we don&rsquo;t need your information at all! The full list of scholarships is open for anyone to
+        see, whenever you&rsquo;d like. Leaving an email for updates is optional.
       </>
     ),
   },
@@ -42,7 +42,7 @@ const POINTS: { head: ReactNode; body: ReactNode }[] = [
         <a href="#belief" className={link}>
           niche communities we are a part of
         </a>
-        . Unfortunately, large scholarship directories like Fastweb simply can&rsquo;t match you to that{" "}
+        . Unfortunately, the large scholarship directories simply can&rsquo;t match you to that{" "}
         <span className="scratch">golden</span> scholarship. Our directory is built on official IRS filings and we use
         AI web agents to collect information that can be hard to find. This lets us match you to the perfect
         scholarship. <em>Full feature rollout coming soon.</em>
@@ -51,7 +51,7 @@ const POINTS: { head: ReactNode; body: ReactNode }[] = [
   },
   {
     head: "Advice from actual scholarship winners",
-    body: "We drop blogs every so often detailing how you can win scholarships. Think of it as taking all the golden advice from all the scholarship subreddits and putting it in one place. We actually posted on Reddit, and reached 70k+ people doing so!",
+    body: "We drop blogs every so often detailing how you can win scholarships. Think of it as taking all the golden advice from all the scholarship subreddits and putting it in one place.",
   },
 ];
 

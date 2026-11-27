@@ -152,6 +152,7 @@ export function BuddyStage({
         <button
           type="button"
           tabIndex={-1}
+          aria-label="Penny, the site's mascot. Press to make her hop."
           onClick={() => setPoke((p) => ({ cue: cue.id, n: p.n + 1 }))}
           className="block cursor-pointer"
         >

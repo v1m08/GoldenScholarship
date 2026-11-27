@@ -3,6 +3,7 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { site } from "./config";
 import { eligibility, longDate, money, years } from "./describe";
+import { pacificToday } from "./day";
 import { ABOUT, FIELDS, GPAS, GRADES, NO_FILTERS, STATES, type Filters, type Sort, type Status } from "./profile";
 import { decodeRows, filterRows, scholarshipPath, type Row, type Shown } from "./rows";
 import type { School } from "./schools";
@@ -345,7 +346,7 @@ function describeFilters(f: Filters): Record<string, string> {
 export async function runList(school: School | null, q: Query, route: string): Promise<ListResult> {
   const anyBase = "/scholarships";
   const base = school ? `/schools/${school.slug}` : anyBase;
-  const today = new Date().toISOString().slice(0, 10);
+  const today = pacificToday();
 
   const [own, any] = await Promise.all([
     school ? load(school.unitid) : null,
@@ -444,7 +445,7 @@ export async function listResponse(request: Request, school: School | null, rout
 
 /** One scholarship in full, by id. Looks in the school's list when one is given, then the any-school list. */
 export async function findOne(id: string, school: School | null) {
-  const today = new Date().toISOString().slice(0, 10);
+  const today = pacificToday();
   for (const from of school ? [school, null] : [null]) {
     const { rows, details } = await load(from ? from.unitid : "open");
     const row = rows.find((r) => r.id === id);

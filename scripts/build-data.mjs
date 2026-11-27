@@ -51,7 +51,9 @@ const HEX = "0123456789abcdef";
 const GRADE_BITS = ["grade-12", "college-freshman", "college-sophomore", "college-junior", "college-senior", "graduate"];
 const NEED = { required: "r", considered: "c" };
 
-const today = new Date().toISOString().slice(0, 10);
+// A deadline names a day, not an hour, so it stays open until that day has
+// ended everywhere in the continental US. Must match today() in src/lib/day.ts.
+const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
 const started = Date.now();
 
 const schools = await walk("schools", "unitid,name,city,state,level", "unitid", "", "", "");
@@ -75,6 +77,81 @@ for (let i = 0; i < (cached ? 0 : 16); i += 4) {
 }
 
 if (process.env.ROWS_CACHE && !cached) await writeFile(process.env.ROWS_CACHE, JSON.stringify(rows));
+
+// ---- Tidying what the collector left behind ------------------------------
+// Nothing here touches the database: a listing that is left out is only left
+// out of the site's files, and the counts are printed at the end of the run.
+
+// Page-title leftovers and bank account codes on the end of a name:
+// "MBA Scholarship Details", "... Fellowship Applications Open", "... Fund R79588001".
+const tidyName = (name) =>
+  String(name ?? "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/\s+[A-Z]?\d{6,}$/, "")
+    .replace(/\s+(details|applications? (are )?(now )?open)$/i, "")
+    .replace(/[\s:,-]+$/, "") || String(name ?? "");
+
+// A page that lists other organizations' scholarships. The collector credits
+// everything on it to the page's owner and links to the list, not the award,
+// so both the sponsor and the link are wrong ("Gates Scholarship, from Young
+// Scholars of Bartlesville"). Left out until they are collected from their own pages.
+const SECOND_HAND = /external|outside|lookup|databank|resource-(guide|center)|search-databases|other-scholarships|additional-scholarship/i;
+
+// A sentence or heading lifted off a page in place of a name: "To be eligible
+// for this award, a student must:", "This is a renewable scholarship of up to $2,000".
+const NOT_A_NAME =
+  /^(this (scholarship|award|fund|is|\$)|these awards?|to (be eligible|retain|provide|maintain|formally|request)|applicants? (must|for the|to the)|we (offer|award|also offer)|criteria for|please note|if awarded|visit (our|the)|prior to|offers scholarships|students must)\b|\b(must|includes?|granted to|the following|awards are)\s*:?$/i;
+
+const tidy = { renamed: 0, notNames: 0, noLink: 0, secondHand: 0, duplicates: 0 };
+{
+  const key = (v) => String(v ?? "").toLowerCase().replace(/&/g, " and ").replace(/[^a-z0-9 ]+/g, " ").replace(/\s+/g, " ").trim();
+  const shared = new Map(); // provider + page -> how many listings point at it
+  for (const r of rows) {
+    r.notName = NOT_A_NAME.test(String(r.name ?? "").trim());
+    const name = tidyName(r.name);
+    if (name !== r.name) {
+      tidy.renamed += 1;
+      // A trust whose listing is just its own name carries the same code on both.
+      if (r.provider_name === r.name) r.provider_name = name;
+      r.name = name;
+    }
+    if (r.school_unitid === null && r.url) shared.set(`${r.provider_name}\n${r.url}`, (shared.get(`${r.provider_name}\n${r.url}`) ?? 0) + 1);
+  }
+  // How much a listing says, to keep the fuller of two copies.
+  const weight = (r) => (r.summary ? 4 : 0) + (r.apply_url ? 2 : 0) + (r.award_max || r.award_min ? 1 : 0) + (r.criteria ?? []).length / 100;
+  const seen = new Map();
+  const kept = [];
+  for (const r of rows) {
+    const anySchool = r.school_unitid === null;
+    if (r.notName) {
+      tidy.notNames += 1;
+      continue;
+    }
+    // Open to any school but with nowhere to apply: a foundation's tax filing and nothing found on the web.
+    if (anySchool && !r.url && !r.apply_url && !process.env.SHOW_UNLINKED) {
+      tidy.noLink += 1;
+      continue;
+    }
+    if (anySchool && r.url && SECOND_HAND.test(r.url.replace(/^https?:\/\/[^/]+/, "")) && shared.get(`${r.provider_name}\n${r.url}`) >= 3) {
+      tidy.secondHand += 1;
+      continue;
+    }
+    // The same award listed twice: same list, name (less a trailing year), provider, and deadline or page.
+    const name = key(r.name).replace(/\b20\d\d( (20)?\d\d)?$/, "").trim();
+    const id = `${r.school_unitid ?? "any"}|${name}|${key(r.provider_name)}|${r.deadline ?? r.apply_url ?? r.url ?? r.id}`;
+    const at = seen.get(id);
+    if (at === undefined) {
+      seen.set(id, kept.length);
+      kept.push(r);
+    } else {
+      tidy.duplicates += 1;
+      if (weight(r) > weight(kept[at])) kept[at] = r;
+    }
+  }
+  rows.length = 0;
+  for (const r of kept) rows.push(r);
+}
 
 // Who a scholarship is aimed at, as short codes. The codes must match ABOUT in
 // src/lib/profile.ts. The database tags three groups itself; the rest are read
@@ -117,12 +194,19 @@ function who(r) {
   let codes = WHO.filter(([, re, tag]) => (tag && tags.includes(tag)) || re.test(text)).map(([code]) => code);
   // Naming both men and women restricts nobody.
   if (codes.includes("w") && codes.includes("m")) codes = codes.filter((c) => c !== "m" && (c !== "w" || tags.includes("women")));
+  // A rule that only states a preference is marked "~": the award is open to
+  // everyone and merely leans that way, so it must not read as "for" that group.
+  const leans = [];
   for (const c of r.criteria ?? []) {
     const value = (c.values ?? []).join(" ") || "x";
     const hits = (CRITERIA_WHO[c.kind] ?? []).filter(([, re]) => re.test(value)).map(([code]) => code);
     if (hits.includes("w") && hits.includes("m")) continue;
-    for (const code of hits) if (!codes.includes(code)) codes.push(code);
+    for (const code of hits) {
+      if (c.strength === "preferred") leans.push(code);
+      else if (!codes.includes(code)) codes.push(code);
+    }
   }
+  for (const code of leans) if (!codes.includes(code) && !codes.includes(`~${code}`)) codes.push(`~${code}`);
   const cit = r.citizenship ?? [];
   if (cit.includes("daca-undocumented") && !codes.includes("intl")) codes.push("intl");
   // States a citizenship rule that leaves out students without status.
@@ -286,6 +370,8 @@ function gates(r, anySchool) {
 
 const YOUNG = /\b(\d(st|nd|rd|th)|sixth|seventh|eighth|ninth) grade(rs?)?\b|middle school|elementary school|kindergarten/i;
 
+const POSTGRAD = /post-?doc(toral)?\b|\bdoctoral\b|\bdissertation\b|\bph\.?d\b|\bpost-?graduate\b/i;
+
 // The older columns are sparse. Where one is blank, the required rules fill it.
 function backfill(r) {
   const rules = (r.criteria_match ?? []).filter((c) => c.r === 1);
@@ -297,6 +383,8 @@ function backfill(r) {
   // Only for students below senior year of high school: nobody the site asks about.
   else if (levels.length && levels.every((v) => /^grade-(9|10|11)$/.test(v))) r.grade_levels = ["younger"];
   else if (!(r.grade_levels ?? []).length && YOUNG.test(r.name)) r.grade_levels = ["younger"];
+  // Named for people past a first degree, with no year stated: not for undergraduates.
+  else if (!(r.grade_levels ?? []).length && POSTGRAD.test(r.name)) r.grade_levels = ["graduate"];
   // Only for community college or trade school students, with no year named.
   r.twoYearOnly = levels.length > 0 && years.length === 0 && levels.every((v) => v === "community-college" || v === "trade-school");
   if (!r.minimum_gpa) {
@@ -518,6 +606,10 @@ await writeFile(
 // Just the ids, for the check that turns unknown school addresses into a 404.
 await writeFile("src/generated/school-ids.json", JSON.stringify(schools.map((s) => s.unitid)));
 
+console.log(
+  `build-data: tidied: ${tidy.renamed} names cleaned; left out ${tidy.notNames} that are not names, ${tidy.noLink.toLocaleString()} with no link, ` +
+    `${tidy.secondHand.toLocaleString()} from other organizations' lists, ${tidy.duplicates.toLocaleString()} duplicates`,
+);
 console.log(
   `build-data: ${bySchool.size.toLocaleString()} school files, ${(anyOpen.length + anyRest.length).toLocaleString()} open to any school, ` +
     `${paths.length.toLocaleString()} scholarship pages for search, ${rows.length.toLocaleString()} scholarships in ${Math.round((Date.now() - started) / 1000)}s`,

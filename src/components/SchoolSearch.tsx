@@ -121,7 +121,7 @@ export function SchoolSearch({
         onFocus={() => shown.length > 0 && setOpen(true)}
         onBlur={() => setTimeout(() => setOpen(false), 120)}
         onKeyDown={onKeyDown}
-        className="w-full border-0 border-b-[3px] border-ink bg-transparent px-0 py-3 text-center font-display text-4xl font-bold tracking-tight outline-none placeholder:font-semibold placeholder:text-soft/45 focus:border-blue sm:text-6xl"
+        className="w-full border-0 border-b-[3px] border-ink bg-transparent px-0 py-3 text-center font-display text-4xl font-bold tracking-tight outline-none placeholder:font-semibold placeholder:text-soft focus:border-blue sm:text-6xl"
       />
       {open && shown.length > 0 && (
         <ul

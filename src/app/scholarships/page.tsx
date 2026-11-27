@@ -8,7 +8,7 @@ import { getAnySchoolTotals } from "@/lib/schools";
 export const metadata: Metadata = {
   title: "Scholarships open to students at any school",
   description:
-    "Scholarships from community foundations and organisations that are not tied to one college. Filter by year, GPA, need and deadline. No signup.",
+    "Scholarships from community foundations and organizations that are not tied to one college. Filter by year, GPA, need and deadline. No signup.",
   alternates: { canonical: "/scholarships", types: { "text/markdown": "/scholarships/llms.txt" } },
 };
 
@@ -20,7 +20,7 @@ async function List() {
         <h1 className="font-display text-2xl font-bold tracking-tight sm:text-3xl">Open to any school</h1>
         <p className="mt-1 max-w-2xl text-soft">
           {totals.total.toLocaleString()} scholarships from {totals.providers.toLocaleString()} foundations and
-          organisations. Many are for one town, county or state, so search yours.
+          organizations. Many are for one town, county or state, so search yours.
         </p>
       </header>
       <Suspense fallback={<div className="h-96 rounded-3xl border border-hair bg-sheet" />}>

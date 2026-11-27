@@ -3,12 +3,13 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { cacheLife } from "next/cache";
 import { PAGE_SIZE } from "./config";
+import { daysBetween, pacificToday } from "./day";
 import { NO_FILTERS, REPORT_KINDS, type Profile, type Status } from "./profile";
 import { decodeRows, filterRows, idFromSlug, type Result, type Row } from "./rows";
 import { db } from "./supabase";
 
 // Which list: one school's own scholarships (its id), or "open": those from
-// foundations and organisations, open to students at any school.
+// foundations and organizations, open to students at any school.
 export type Collection = number | "open";
 
 // The static files a list is loaded from, first screen first.
@@ -38,7 +39,7 @@ export async function getInitialList(collection: Collection): Promise<Result & {
   // rebuilt and stored again each day as the date moved.
   cacheLife("max");
   const rows = (await Promise.all(sourcesFor(collection).map(readRows))).flat();
-  const today = new Date().toISOString().slice(0, 10);
+  const today = pacificToday();
   // A school's own undated scholarships are shown with its open ones.
   const ctx = { merge: collection !== "open" };
   const first = filterRows(rows, NO_FILTERS, [], today, PAGE_SIZE, ctx);
@@ -132,9 +133,9 @@ export async function getScholarship(collection: Collection, slug: string): Prom
   const row = rows.find((r) => r.id === id);
   if (!row) return null;
   const more = unpack(details[id]);
-  const today = new Date().toISOString().slice(0, 10);
+  const today = pacificToday();
   const status: Status = !row.deadline ? "undated" : row.deadline >= today ? "open" : "closed";
-  const daysLeft = status === "open" ? Math.round((Date.parse(row.deadline) - Date.parse(today)) / 86_400_000) : null;
+  const daysLeft = status === "open" ? daysBetween(today, row.deadline) : null;
   const open = rows.filter((r) => r.id !== id && r.deadline >= today).sort((a, b) => a.deadline.localeCompare(b.deadline));
   // Prefer neighbours from the same provider or field, then whatever closes next.
   const near = open.filter((r) => (row.provider && r.provider === row.provider) || (row.fields && r.fields === row.fields));
@@ -151,7 +152,7 @@ export async function getOpenRows(
   cacheLife("max");
   const [lists, details] = await Promise.all([Promise.all(sourcesFor(collection).map(readRows)), readDetails(collection)]);
   const rows = lists.flat();
-  const today = new Date().toISOString().slice(0, 10);
+  const today = pacificToday();
   const open = rows.filter((r) => r.deadline >= today).sort((a, b) => a.deadline.localeCompare(b.deadline));
   const shown = open.slice(0, limit);
   const summaries: Record<string, string> = {};

@@ -2,12 +2,13 @@
 
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import { useDeferredValue, useEffect, useMemo, useRef, useState, Fragment } from "react";
+import { useDeferredValue, useEffect, useMemo, useRef, useState, useSyncExternalStore, Fragment } from "react";
 import { BuddyStage, type Cue } from "@/components/Buddy";
 import { ReportBox } from "@/components/Report";
 import { SchoolJump } from "@/components/SchoolJump";
 import { analyticsId, track } from "@/lib/analytics";
 import { PAGE_SIZE } from "@/lib/config";
+import { daysBetween, localToday, pacificToday } from "@/lib/day";
 import { useMediaQuery, useSaved } from "@/lib/hooks";
 import {
   ABOUT,
@@ -53,10 +54,8 @@ const LOADING_LINES = [
 ];
 const MIN_LOADING_MS = 2200;
 
-function daysLeft(iso: string): number {
-  // Rounded up, so a deadline that falls today reads "today" all day, not "closed".
-  return Math.ceil((Date.parse(`${iso}T00:00:00Z`) - Date.now()) / 86_400_000);
-}
+// Nothing changes the date while a page is open, so there is nothing to listen for.
+const never = () => () => {};
 function shortDate(iso: string, withYear = false): string {
   return new Date(`${iso}T00:00:00Z`).toLocaleDateString("en-US", {
     month: "short",
@@ -303,7 +302,9 @@ export function Explorer({
     const f = parseFilters((k) => params.get(k));
     return params.get("status") ? f : { ...f, status: initialStatus };
   });
-  const [today] = useState(() => new Date().toISOString().slice(0, 10));
+  // The visitor's own date, so "today" and "3d" match their calendar. The server
+  // cannot know it, so the first paint uses US Pacific time and corrects itself.
+  const today = useSyncExternalStore(never, localToday, pacificToday);
   // Everything loaded so far, and whether every file has arrived.
   const [rows, setRows] = useState<Row[] | null>(null);
   const [complete, setComplete] = useState(false);
@@ -855,7 +856,7 @@ export function Explorer({
         className={`mt-4 overflow-hidden rounded-3xl border border-hair bg-sheet ${waiting ? "opacity-60" : ""}`}
       >
         {data.rows.map((s, i) => {
-          const days = s.deadline ? daysLeft(s.deadline) : null;
+          const days = s.deadline ? daysBetween(today, s.deadline) : null;
           const isOpen = days !== null && days >= 0;
           const amount = money(s);
           const isSaved = savedIds.includes(s.id);
