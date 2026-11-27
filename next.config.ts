@@ -4,6 +4,9 @@ import type { NextConfig } from "next";
 const posthogRegion = process.env.POSTHOG_REGION === "eu" ? "eu" : "us";
 
 const nextConfig: NextConfig = {
+  // The build writes a self-contained server to .next/standalone, which is
+  // what runs on our own machine (see .github/workflows/deploy.yml).
+  output: "standalone",
   cacheComponents: true,
   partialPrefetching: true,
   // PostHog's API uses trailing slashes; do not redirect them away.

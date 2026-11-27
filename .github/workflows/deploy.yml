@@ -1,0 +1,64 @@
+# Builds the site and puts it on our server.
+#
+# Runs when main changes, once a day after "Update listings" has refreshed the
+# data, and by hand. The build reads the database, writes a self-contained
+# server to .next/standalone, and uploads it over SSH. The key it uses can do
+# one thing on the server: hand over a build (see /usr/local/bin/site-deploy
+# there), which switches to it and goes back to the old one if it fails.
+#
+# Repository secrets:   SUPABASE_URL, SUPABASE_SECRET_KEY, DEPLOY_SSH_KEY
+# Repository variables: DEPLOY_HOST, DEPLOY_KNOWN_HOSTS, POSTHOG_KEY, POSTHOG_REGION
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+    # The daily listings commit only touches these; the scheduled run below covers it.
+    paths-ignore: ["README.md", "directory/**", "data/**"]
+  schedule:
+    - cron: "45 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Build
+        run: npm run build
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          NEXT_PUBLIC_SITE_URL: https://goldenscholarship.com
+          NEXT_PUBLIC_POSTHOG_KEY: ${{ vars.POSTHOG_KEY }}
+          POSTHOG_REGION: ${{ vars.POSTHOG_REGION }}
+      - name: Pack
+        run: |
+          cp -R public .next/standalone/
+          cp -R .next/static .next/standalone/.next/
+          tar -czf site.tar.gz -C .next/standalone .
+          ls -lh site.tar.gz
+      - name: Upload and switch
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$DEPLOY_SSH_KEY" > ~/.ssh/deploy
+          chmod 600 ~/.ssh/deploy
+          printf '%s\n' "$DEPLOY_KNOWN_HOSTS" > ~/.ssh/known_hosts
+          ssh -i ~/.ssh/deploy -o IdentitiesOnly=yes "site@$DEPLOY_HOST" < site.tar.gz
+        env:
+          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          DEPLOY_KNOWN_HOSTS: ${{ vars.DEPLOY_KNOWN_HOSTS }}
+          DEPLOY_HOST: ${{ vars.DEPLOY_HOST }}
