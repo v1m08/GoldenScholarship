@@ -28,11 +28,11 @@
       <td align="center"><b>151,331</b><br /><sub>scholarships</sub></td>
       <td align="center"><b>2,258</b><br /><sub>schools</sub></td>
       <td align="center"><b>11,964</b><br /><sub>foundations</sub></td>
-      <td align="center"><b>55,797</b><br /><sub>open right now</sub></td>
+      <td align="center"><b>55,795</b><br /><sub>open right now</sub></td>
     </tr>
   </table>
 
-  <sub>Listings updated Nov 26, 2026. This page, the directory and the spreadsheet are rebuilt from the database every day.</sub>
+  <sub>Listings updated Nov 27, 2026. This page, the directory and the spreadsheet are rebuilt from the database every day.</sub>
 </div>
 
 ## Contents
@@ -55,7 +55,7 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 ## What you get
 
 - **Your school's own scholarships.** Type a school and see what it gives out, with its own awards listed first.
-- **Scholarships open to any school.** 32,984 from community foundations and organisations.
+- **Scholarships open to any school.** 32,984 from community foundations and organizations.
 - **Filters that hide what you can't apply for.** Five quick questions (year, field, GPA, need, and anything else about you) remove the ones that don't fit. Requirements we can't check are shown as labels on the listing.
 - **No account.** Answers stay in your browser. Leaving an email for updates is optional.
 - **No sponsored listings.** Nothing is ranked by who paid.
@@ -69,9 +69,6 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 
 | Scholarship | School | Amount | Deadline |
 | --- | --- | --- | --- |
-| [Ellucian PATH Scholarship](https://eiu.academicworks.com/opportunities/22819) | [Eastern Illinois University](directory/IL/eastern-illinois-university-144892.md) |  | Nov 27, 2026 |
-| [Francis and Jacqueline Miller Service Award](https://slu.academicworks.com/opportunities/23272) | [Saint Louis University](directory/MO/saint-louis-university-179159.md) | $1,000 | Nov 27, 2026 |
-| [Student Enrichment Services (SES) Winter Gear Program](https://northwestern.academicworks.com/opportunities/2773) | [Northwestern University](directory/IL/northwestern-university-147767.md) | $300 | Nov 27, 2026 |
 | [Connie Grossman - Dental Hygiene Scholarship](https://cscc.academicworks.com/opportunities/8386) | [Columbus State Community College](directory/OH/columbus-state-community-college-202222.md) | $500 | Nov 28, 2026 |
 | [The Jerry and Mary Keating Endowed Scholarship in Statistics](https://utsa.academicworks.com/opportunities/13656) | [The University of Texas at San Antonio](directory/TX/university-of-texas-at-san-antonio-229027.md) |  | Nov 28, 2026 |
 | [Master of Science in International Real Estate Scholarships](https://business.fiu.edu/academics/graduate/international-real-estate/scholarships/index.html) | [Florida International University](directory/FL/florida-international-university-133951.md) | $7,500 | Nov 29, 2026 |
@@ -129,6 +126,7 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 | [Chancellor's Scholarships for Entering First-Year](https://fas.ucsd.edu/types/scholarships/chancellors-scholarships-for-entering-freshmen.html) | [University of California-San Diego](directory/CA/university-of-california-san-diego-110680.md) | $5,000 | Nov 30, 2026 |
 | [Ralph, Marian and Pamela Erk Memorial Endowed Scholarship](https://msstate.academicworks.com/opportunities/86585) | [Mississippi State University](directory/MS/mississippi-state-university-176080.md) |  | Nov 30, 2026 |
 | [Charles County "Commissioners Care" Scholarship](https://csmd.academicworks.com/opportunities/7464) | [College of Southern Maryland](directory/MD/college-of-southern-maryland-162122.md) | $1,000 | Nov 30, 2026 |
+| [Larry and Brenda Thompson Graduate Scholarship](https://slu.academicworks.com/opportunities/23053) | [Saint Louis University](directory/MO/saint-louis-university-179159.md) | $12,500 | Nov 30, 2026 |
 | [Wampner-Hoffmyer Scholarship](https://www.csl.edu/admissions/financial-aid/scholarships/all-scholarships/) | [Concordia Seminary](directory/MO/concordia-seminary-177092.md) |  | Nov 30, 2026 |
 | [UC Irvine Distinguished Scholarships Category](https://www.ofas.uci.edu/scholarships/applying-for-scholarships.php) | [University of California-Irvine](directory/CA/university-of-california-irvine-110653.md) |  | Nov 30, 2026 |
 | [The Darlene Miller Foundation Merit Scholarship](https://coppin.academicworks.com/opportunities/4398) | [Coppin State University](directory/MD/coppin-state-university-162283.md) | $1,500 | Nov 30, 2026 |
@@ -169,6 +167,8 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 | [John C. Pace, Jr. Scholars](https://uwf.academicworks.com/opportunities/9055) | [University of West Florida](directory/FL/university-of-west-florida-138354.md) | $3,000 | Nov 30, 2026 |
 | [Regents Scholarships for Entering Freshmen](https://fas.ucsd.edu/types/scholarships/regents-scholarships-for-entering-freshmen.html) | [University of California-San Diego](directory/CA/university-of-california-san-diego-110680.md) | $5,000 | Nov 30, 2026 |
 | [Sociology Department Scholarship Awards](https://csun.academicworks.com/opportunities/7596) | [California State University-Northridge](directory/CA/california-state-university-northridge-110608.md) | $250–$500 | Nov 30, 2026 |
+| [Fall and Spring awards](https://www.cmich.edu/offices-departments/office-scholarships-financial-aid/scholarships/scholarship-universe/scholarship-universe-assistance) | [Central Michigan University](directory/MI/central-michigan-university-169248.md) |  | Nov 30, 2026 |
+| [Lafayette Fellowship](https://urds.uoregon.edu/Lafayette) | [University of Oregon](directory/OR/university-of-oregon-209551.md) |  | Nov 30, 2026 |
 
 </details>
 
@@ -177,13 +177,6 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 
 | Scholarship | From | Amount | Deadline |
 | --- | --- | --- | --- |
-| [SEMCA Scholarship](https://www.semcaschool.org/scholarships) | Construction Education Trust |  | Nov 27, 2026 |
-| [Future of Connectivity Essay Scholarship](https://www.zipitwireless.com/scholarship) | Zipit Wireless | $2,500 | Nov 27, 2026 |
-| [Compeer Financial High School Senior Scholarship](https://www.compeer.com/investing-in-rural-communities/giving-back/scholarships/high-school-senior-scholarships) | Compeer Financial | $2,000 | Nov 27, 2026 |
-| [NEWH Cincinnati Region Scholarship](https://newh.org/scholarships/available/page/2/) | NEWH, Inc. - The Hospitality Industry Network | $10,000 | Nov 27, 2026 |
-| [NEWH \| Cincinnati Chapter Scholarship](https://newh.org/directory/newh-cincinnati-region-scholarship/) | NEWH: The Hospitality Industry Network - Cincinnati Chapter | $7,500 | Nov 27, 2026 |
-| [Future of Connectivity Scholarship](https://www.accesslex.org/databank) | Accesslex Institute | $2,500 | Nov 27, 2026 |
-| [Farm House Excellence in Horsemanship Scholarship](https://www.farmhousetack.com/pages/equestrian-scholarship?srsltid=AfmBOooUCc-vpI9NEq1i6aucTNK6r6OiWCit_4OR8lW081dqCf588tKM) | Farm House Tack | $2,000 | Nov 27, 2026 |
 | [Allen Tittle's Medical Malpractice Scholarship](https://www.accesslex.org/databank) | Tittle & Perlmuter |  | Nov 28, 2026 |
 | [Winter Program Fee Scholarship](https://www.sswsc.org/parent-athlete-resources/program-fee-scholarships/) | Steamboat Springs Winter Sports Club Inc |  | Nov 28, 2026 |
 | [MASOT Conney W. Berger Jr., PhD, DABT, Memorial Graduate Student Award](https://www.sallie.com/scholarships/scholly/masot-conney-w-berger-jr-phd-dabt-memorial-graduate-student-award) | Nitro | $2,000 | Nov 29, 2026 |
@@ -217,6 +210,13 @@ GoldenScholarship collects those into one list, with deadlines, amounts and a di
 | Lincoln Foundation | Lincoln Foundation |  | Nov 30, 2026 |
 | [All-American Pest Control STEAM Trailblazer Scholarship](https://www.npmapestworld.org/content-pages/scholarships/all-american-pest-control-steam-trailblazer-scholarship/) | National Pest Management Association (NPMA) | $1,000 | Nov 30, 2026 |
 | Diamond Jubilee Fund of Ksb 232 Fam | Diamond Jubilee Fund of Ksb 232 Fam |  | Nov 30, 2026 |
+| [United States Based Academic Scholarships](https://isaca.secure-platform.com/2027awardrecipients/page/ISACAfoundation/aboutscholarships) | Information Systems Audit and Control Association Inc Group |  | Nov 30, 2026 |
+| [Space to Succeed Scholarship](https://thestoragecenter.com/self-storage/scholarship/) | The Storage Center | $8,500 | Nov 30, 2026 |
+| Miner Charitable Foundation Inc | Miner Charitable Foundation Inc |  | Nov 30, 2026 |
+| Charles G Berwind Foundation Inc | Charles G Berwind Foundation Inc |  | Nov 30, 2026 |
+| Miriam E Alsobrooks Educational Scholarship | Miriam E Alsobrooks Educational |  | Nov 30, 2026 |
+| [Shelly Leeke Law Firm Scholarship](https://www.accesslex.org/databank) | Shelly Leeke Law Firm, LLC |  | Nov 30, 2026 |
+| [American Welding Society Scholarship](https://www.kish.edu/admission-aid/paying/financial-aid/scholarships/) | Kishwaukee College Foundation |  | Nov 30, 2026 |
 
 [All 32,984 open to any school →](directory/any-school.md)
 

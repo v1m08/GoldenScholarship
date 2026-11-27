@@ -1,6 +1,6 @@
 # Every school we have
 
-2,258 schools · 48,996 scholarships open now · updated Nov 26, 2026
+2,258 schools · 48,994 scholarships open now · updated Nov 27, 2026
 
 Not tied to a school: **[32,984 open to students anywhere](any-school.md)**
 
@@ -334,12 +334,12 @@ Not tied to a school: **[32,984 open to students anywhere](any-school.md)**
 | [Red Rocks Community College](CO/red-rocks-community-college-127909.md) | 3 | 1 |
 | [Iliff School of Theology](CO/iliff-school-of-theology-127273.md) | 2 | 1 |
 | [Morgan Community College](CO/morgan-community-college-127617.md) | 2 | 31 |
-| [Northeastern Junior College](CO/northeastern-junior-college-127732.md) | 2 | 2 |
 | [Rocky Mountain College of Art and Design](CO/rocky-mountain-college-of-art-and-design-127945.md) | 2 | 13 |
 | [Adams State University](CO/adams-state-university-126182.md) | 1 | 5 |
 | [Aims Community College](CO/aims-community-college-126207.md) | 1 | 85 |
 | [Colorado Christian University](CO/colorado-christian-university-126669.md) | 1 | 87 |
 | [Colorado Mountain College](CO/colorado-mountain-college-126711.md) | 1 | 5 |
+| [Northeastern Junior College](CO/northeastern-junior-college-127732.md) | 1 | 2 |
 | [Trinidad State College](CO/trinidad-state-college-128258.md) | 1 | 1 |
 | [Western Colorado University](CO/western-colorado-university-128391.md) | 1 | 3 |
 | [Colorado College](CO/colorado-college-126678.md) | 0 | 2 |
@@ -2198,10 +2198,10 @@ Not tied to a school: **[32,984 open to students anywhere](any-school.md)**
 | [Alvin Community College](TX/alvin-community-college-222567.md) | 31 | 4 |
 | [Wayland Baptist University](TX/wayland-baptist-university-229780.md) | 31 | 8 |
 | [Baylor University](TX/baylor-university-223232.md) | 13 | 31 |
-| [University of North Texas](TX/university-of-north-texas-227216.md) | 11 | 28 |
 | [University of St Thomas](TX/university-of-st-thomas-227863.md) | 11 | 0 |
 | [Southwestern University](TX/southwestern-university-228343.md) | 10 | 33 |
 | [University of Dallas](TX/university-of-dallas-224323.md) | 10 | 7 |
+| [University of North Texas](TX/university-of-north-texas-227216.md) | 10 | 28 |
 | [University of Houston-Downtown](TX/university-of-houston-downtown-225432.md) | 9 | 39 |
 | [Midland College](TX/midland-college-226806.md) | 8 | 32 |
 | [Lamar University](TX/lamar-university-226091.md) | 7 | 1 |

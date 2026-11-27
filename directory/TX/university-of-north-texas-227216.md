@@ -1,12 +1,11 @@
 # University of North Texas scholarships
 
-Denton, TX · 11 open · 28 with no date listed · 3 closed (not shown)
+Denton, TX · 10 open · 28 with no date listed · 4 closed (not shown)
 
 **[Filter and save these on the site](https://goldenscholarship.com/schools/university-of-north-texas-227216)**
 
 | Scholarship | Amount | Deadline |
 | --- | --- | --- |
-| [Harry S. Truman Scholarships for College Juniors (and Some Seniors) Interested in](https://honors.unt.edu/scholarships/national-scholarships/index.html) | $30,000 | Nov 26, 2026 |
 | [UNT Presidential Graduate Scholarship](https://financialaid.unt.edu/unt-presidential-graduate-scholarship.html) |  | Dec 1, 2026 |
 | [Morris and Stewart Udall Scholarships in (a) Environmentalism, or (b) Native American](https://honors.unt.edu/scholarships/national-scholarships/index.html) |  | Feb 15, 2027 |
 | [CSE scholarships will be awarded to selected applicant(s) on a yearly basis](https://engineering.unt.edu/cse/students/scholarships.html) |  | Mar 1, 2027 |

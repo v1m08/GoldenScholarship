@@ -1,6 +1,6 @@
 # Open to students at any school
 
-32,984 scholarships from 11,964 foundations and organisations · 6,801 open with a date · 24,211 with no date listed
+32,984 scholarships from 11,964 foundations and organizations · 6,801 open with a date · 24,211 with no date listed
 
 Many are for one town, county or state. Use your browser's find (Ctrl or Cmd + F) to search for yours.
 
